@@ -1,0 +1,45 @@
+[<code>
+// DUMP pour le terme 'miauler' (eid=47540)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Se dit du chat qui fait entendre le cri propre à son espèce.<br> 
+ J'entends un chat qui miaule.  
+</br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;47540;'miauler';1;430
+e;14531745;'::&gt;13:150&gt;29:47540';8;0;'miauler [sujet] chat'
+e;14531747;'::&gt;119:14531744&gt;29:47540';8;0;'miauler [afin de] obtenir à manger'
+e;14612033;'::&gt;13:57444&gt;29:47540';8;0;'miauler [sujet] chaton'
+e;14627003;'::&gt;13:4455&gt;29:47540';8;0;'miauler [sujet] chien'
+e;15080038;'en:wawl';1;0
+e;14940586;'en:squall';1;0
+e;16065946;'::&gt;13:39377&gt;29:47540';8;0;'miauler [sujet] minette'
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 7 relations sortantes 
+
+r;373518397;47540;14531745;8;25
+r;373518395;47540;14531747;8;25
+r;373382947;47540;14612033;8;25
+r;373359823;47540;14627003;8;25
+r;405325284;47540;15080038;8;10
+r;405325283;47540;14940586;8;10
+r;419169116;47540;16065946;8;9
+
+// END
+</code>]

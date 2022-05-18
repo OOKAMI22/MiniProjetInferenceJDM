@@ -1,0 +1,1424 @@
+[<code>
+// DUMP pour le terme 'steak' (eid=55572)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. (Anglicisme) Bifteck, tranche de viande ou de chair de poisson.<br> 
+ Steak de saumon sur lit d'asperges et salade de pommes de terre.   <br> 
+ Vous le voulez comment votre steak, à point ?  <br>
+2. (Anglicisme) (Familier) Ampoule ou arrachement de la peau de la paume, à la base des doigts, provoqués par la pratique de certaines activités sportives, notamment les agrès de barres en gymnastique artistique.<br> 
+ À force de m'entraîner aux barres asymétriques, j'ai des steaks plein les mains.  <br>
+3. (Anglicisme) Bifteck, tranche de viande ou de chair de poisson.<br> 
+ Steak de saumon sur lit d'asperges et salade de pommes de terre.   <br> 
+ ? Et vous comptez tenir le barbeuc dehors tout à l'heure, aussi ? Retourner les steaks hachés à ma place ?    
+ (Amanda Boyden, En attendant Babylone, Albin Michel, 2010, chap.10)  <br>
+4. Les termes steak (de l'anglais steak, « tranche de viande à griller ») et bifteck (de l'anglais beef steak, « tranche de boeuf à griller ») désignent toute tranche de viande rouge, le plus souvent de viande bovine, destinée à la consommation humaine. Les termes « steak » et « bifteck » désignent surtout, et d'une manière générale, une tranche de viande rouge à griller ou frire et pas une partie précise de la viande d'un animal. L'entrecôte, le faux-filet et le rumsteck, par exemple, sont des découpes concrètes et distinctes du boeuf, mais chacun de ces morceaux peut indistinctement être appelé un steak ou bifteck.
+</br></br></br></br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;8;'n_chunk'
+nt;9;'n_question'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;55572;'steak';1;576
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;8862827;':r34532097';10;0
+e;14489034;':r34532876';10;0
+e;8684866;':r145773848';10;0
+e;223173;'_POL-POS';36;50
+e;13510724;':r341961967';10;0
+e;47417;'boeuf';1;1470
+e;215037;'boeuf&gt;140100';1;454;'boeuf&gt;viande'
+e;140100;'viande';1;5110
+e;47887;'haché';1;126
+e;18094;'bifteck';1;94
+e;191722;'steak haché';1;208
+e;177304;'steak à cheval';1;50
+e;266517;'assiette à steak';1;50
+e;314136;'buf&gt;140100';1;50;'buf&gt;viande'
+e;208456;'steak tartare';1;138
+e;213723;'steak frites';1;64
+e;221222;'gagner son steak';1;2
+e;232859;'steak de thon';1;54
+e;243451;'steak de cheval';1;26
+e;160927;'morceau de viande';1;150
+e;251158;'tranche de viande';1;16
+e;8904859;':r138792646';10;0
+e;151972;'frites';1;586
+e;65364;'morceau';1;2342
+e;13890;'à point';1;186
+e;97682;'saignant';1;158
+e;1196173;':r9059801';10;0
+e;9252410;':r196630839';10;0
+e;381229;'steak frites salade';1;50
+e;381231;'steak sur steak';1;50
+e;381227;'steak après steak';1;50
+e;381228;'steak dans le faux-filet';1;50
+e;381232;'steak bleu';1;50
+e;381230;'steak minute';1;50
+e;381233;'steak salade';1;50
+e;253235;'::&gt;14:55572&gt;29:130164&gt;13';9;50;'Qui pourrait manger un steak ?'
+e;329262;'::&gt;14:55572&gt;29:130164';8;50;'manger [objet] steak'
+e;14540352;'::&gt;66:55572&gt;26:128828';8;0;'steak [se faire] couper'
+e;14880733;'::&gt;66:55572&gt;26:30536';8;0;'steak [se faire] faire cuire'
+e;64437;'boucherie';1;1158
+e;36327;'plat';1;3800
+e;103041;'émincé';1;110
+e;241794;'_POL-NEUTRE';36;50
+e;214276;'cuisine&gt;96851';1;386;'cuisine&gt;pièce'
+e;1641212;'bon&gt;171869';1;0;'bon&gt;Adj:'
+e;218746;'boucherie&gt;140100';1;176;'boucherie&gt;viande'
+e;606876;'cru&gt;171869';1;0;'cru&gt;Adj:'
+e;138501;'vache';1;2726
+e;15076;'servi';1;2681
+e;1879276;'tranché&gt;171869';1;0;'tranché&gt;Adj:'
+e;20797;'tartare';1;106
+e;684403;'bio&gt;171869';1;0;'bio&gt;Adj:'
+e;1904081;'émincé&gt;161702';1;0;'émincé&gt;Ver:PPas'
+e;575297;'émincé&gt;171869';1;50;'émincé&gt;Adj:'
+e;599802;'saignant&gt;171869';1;0;'saignant&gt;Adj:'
+e;599810;'cuit&gt;171869';1;0;'cuit&gt;Adj:'
+e;597037;'épais&gt;171869';1;0;'épais&gt;Adj:'
+e;254876;'_POL-POS_PC';36;50
+e;112259;'carbonade';1;54
+e;6906961;'en:protein';1;0
+e;215036;'boeuf&gt;17559';1;48;'boeuf&gt;animal'
+e;45133;'boucher';1;776
+e;91311;'veau';1;640
+e;86754;'thon';1;586
+e;144229;'bon';1;3574
+e;153936;'viande rouge';1;358
+e;160691;'boucher&gt;146885';1;50;'boucher&gt;Nom:Mas+SG'
+e;127547;'grillade';1;478
+e;455726;'à point&gt;171869';1;50;'à point&gt;Adj:'
+e;455727;'à point&gt;146889';1;50;'à point&gt;Adv:'
+e;45624;'frigo';1;1024
+e;153902;'viande de boeuf';1;380
+e;30536;'faire cuire';1;180
+e;62735;'assiette';1;1688
+e;14880732;'::&gt;14:55572&gt;29:30536';8;0;'faire cuire [objet] steak'
+e;22365;'chateaubriand';1;50
+e;130164;'manger';1;10304
+e;218749;'boucher&gt;64437';1;64;'boucher&gt;boucherie'
+e;131196;'carte';1;3407
+e;17559;'animal';1;14019
+e;74736;'repas';1;3791
+e;224168;'bon&gt;145464';1;94;'bon&gt;délicieux'
+e;128828;'couper';1;3429
+e;14540351;'::&gt;14:55572&gt;29:128828';8;0;'couper [objet] steak'
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;145295;'mouton';1;1656
+e;314137;'buf&gt;17559';1;50;'buf&gt;animal'
+e;3318502;'steak de marlin en papillote';1;0
+e;3369951;'steak haché aux oignons caramélisés';1;0
+e;3363693;'hachi au steak et à la saucisse de strasbourg';1;0
+e;3763568;'steak de boeuf';1;0
+e;215810;'bleu&gt;140100';1;32;'bleu&gt;viande'
+e;233562;'gras&gt;113902&gt;140100';1;8;'gras&gt;alimentation&gt;viande'
+e;68727;'maigre';1;516
+e;162763;'_INFO-SEM-THING-CONCRETE';36;1238
+e;2581423;'couteau à steak';1;0
+e;3369952;'steak milanais';1;0
+e;3369948;'steak haché à la genovese, italie';1;0
+e;3369943;'steak de requin à la sauce au curry';1;0
+e;3759406;'steak and kidney pie - tourte au boeuf et au rognon';1;0
+e;3752398;'steak haché à peu de MG';1;0
+e;320520;'tranché&gt;28449';1;54;'tranché&gt;coupé'
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;155412;'viande hachée';1;258
+e;146885;'Nom:Mas+SG';4;50
+e;38188;'menu';1;748
+e;3369947;'steak flambés au poivre';1;0
+e;3759124;'steak coupé en lanières';1;0
+e;242842;'saignant&gt;60056';1;14;'saignant&gt;cuisson'
+e;2371610;'en promo';1;52
+e;86356;'rouge';1;5574
+e;71135;'porc';1;1236
+e;2348415;'steak saignant';1;2
+e;3179891;'T-bone steak';1;0
+e;3369944;'steak de thon aux olives noires';1;0
+e;3369938;'steak au roquefort';1;0
+e;23433;'cher';1;2453
+e;261312;'steack de cheval';1;16
+e;3372095;'vite fait au steak haché';1;0
+e;3369949;'steak haché aux câpres';1;0
+e;3369941;'steak de cheval au paprika';1;0
+e;3361284;'croque monsieur au steak hâché';1;0
+e;3758167;'bons morceaux de steak coupés en dés';1;0
+e;16033;'cuisine';1;11756
+e;141899;'grillé';1;142
+e;19636;'rôti';1;364
+e;2371611;'imbouffable';1;52
+e;68925;'chambre froide';1;222
+e;3369958;'steak tartare au vinaigre balsamique';1;0
+e;3369950;'steak haché aux épices';1;0
+e;3758272;'steak dans le faux-filet ou l'aloyau';1;0
+e;5329193;':r101700610';10;0
+e;2346169;'steak végétarien';1;0
+e;3369959;'steak tartare maison';1;0
+e;3369940;'steak de biche au porto et boursin';1;0
+e;320803;'épais&gt;132652';1;56;'épais&gt;dimension'
+e;84381;'immangeable';1;152
+e;162733;'boucherie chevaline';1;138
+e;3753443;'steak haché maigre';1;0
+e;46141;'congélateur';1;778
+e;214304;'vache&gt;17559';1;230;'vache&gt;animal'
+e;128646;'agneau';1;804
+e;1237396;'steak grillé';1;24
+e;2352221;'steak salisbury';1;0
+e;3369946;'steak de volaille minceur';1;0
+e;3369945;'steak de thon rouge sur lit de foie gras';1;0
+e;3369937;'steak au grill à la sauce tomate';1;0
+e;3365816;'bwenwn, sandwich steak haché fromage';1;0
+e;3746506;'steak au poivre';1;2
+e;3755990;'steak d'aloyau coupé en dés';1;0
+e;3755157;'steak haché bien émietté';1;0
+e;63752;'filandreux';1;94
+e;261738;'viande&gt;20965';1;408;'viande&gt;nourriture'
+e;24758;'autruche';1;208
+e;58876;'cuisse';1;800
+e;177321;'préparation culinaire';1;464
+e;214126;'thon&gt;68467';1;260;'thon&gt;poisson'
+e;145246;'cheval';1;3715
+e;190002;'viande de boucherie';1;4
+e;311738;'boulettes de viande';777;12
+e;257264;'rayon frais';1;48
+e;216645;'cheval&gt;140100';1;50;'cheval&gt;viande'
+e;166297;'vache à viande';1;112
+e;159734;'viande de cheval';1;132
+e;245385;'boulette de viande';1;24
+e;21742;'hamburger';1;482
+e;228897;'viande bovine';1;160
+e;97173;'magasin';1;3341
+e;177245;'hachis parmentier';1;84
+e;79954;'restaurant';1;5348
+e;2346168;'steak de soja';1;0
+e;3369942;'steak de cheval aux épices';1;0
+e;3369939;'steak au sirop d'érable';1;0
+e;3745329;'steak frites du dimanche';1;0
+e;3759405;'steak frites dominical';1;0
+e;231389;'restaurant&gt;77864';1;280;'restaurant&gt;établissement'
+e;33217;'cantine';1;1532
+e;118770;'abattoir';1;238
+e;269454;'bio&gt;191760';1;42;'bio&gt;agriculture biologique'
+e;22461;'biologique';1;2465
+e;30900;'bio';1;332
+e;51221;'surgelé';1;210
+e;144567;'découpé';1;118
+e;144718;'fin';1;3889
+e;55342;'épais';1;286
+e;95783;'périmé';1;248
+e;13548;'vendu';1;2516
+e;79230;'acheté';1;110
+e;13755;'accompagné';1;2575
+e;52508;'tranché';1;80
+e;1974209;'émincé&gt;144567';1;50;'émincé&gt;découpé'
+e;18862;'relevé';1;160
+e;81389;'épicé';1;294
+e;239281;'maigre&gt;113902&gt;114637';1;58;'maigre&gt;alimentation&gt;aliment'
+e;56362;'gras';1;2597
+e;108941;'sanguinolent';1;70
+e;156313;'pas cher';1;116
+e;116465;'onéreux';1;108
+e;68513;'nerveux';1;2245
+e;28923;'fondant';1;282
+e;72731;'dur';1;2985
+e;125017;'bouilli';1;64
+e;119625;'mauvais';1;2971
+e;47933;'bouffable';1;56
+e;113963;'mangeable';1;130
+e;237917;'cuit&gt;60056';1;94;'cuit&gt;cuisson'
+e;14923896;'en:steak';1;0
+e;171870;'Nom:';4;50
+e;237790;'grillé&gt;19636';1;20;'grillé&gt;rôti'
+e;1770857;'saisi&gt;71637';1;0;'saisi&gt;justice'
+e;1770849;'saisi&gt;127741';1;0;'saisi&gt;perçu'
+e;1770850;'saisi&gt;106829';1;4;'saisi&gt;pétrifié'
+e;1770851;'saisi&gt;104993';1;0;'saisi&gt;informatique'
+e;1770852;'saisi&gt;46453';1;0;'saisi&gt;douane'
+e;1770853;'saisi&gt;46612';1;0;'saisi&gt;compris'
+e;1770855;'saisi&gt;12643';1;0;'saisi&gt;attrapé'
+e;218942;'alimentation&gt;20621';1;220;'alimentation&gt;aliments'
+e;223172;'_POL-NEG';36;50
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;107233;'supermarché';1;1010
+e;9250882;':r107697439';10;0
+e;91657;'nutrition';1;466
+e;9505163;':r210515042';10;0
+e;9505164;':r210471098';10;0
+e;9505165;':r210515041';10;0
+e;9505166;':r10567133';10;0
+e;95126;'barbecue';1;708
+e;2680;'sang';1;3868
+e;177215;'chateaubriant';1;50
+e;233931;'digestif&gt;47597';1;6;'digestif&gt;alcool'
+e;15220904;'en:hand rip';1;0
+e;15220905;'en:gymnastics rip';1;0
+e;15225270;'steak T-bone';1;0
+e;15225265;'steak t-bone';1;0
+e;1024441;'boucherie&gt;140100&gt;97173';1;2;'boucherie&gt;viande&gt;magasin'
+e;39901;'cru';1;1869
+e;28453;'bonheur';1;2804
+e;245523;'dessert&gt;114839';1;418;'dessert&gt;mets'
+e;113902;'alimentation';1;1961
+e;239946;'à point&gt;60056';1;10;'à point&gt;cuisson'
+e;212523;'steack haché';666;16
+e;20621;'aliments';1;2130
+e;2488390;'châteaubriand';1;0
+e;60;'bleu';1;3449
+e;321960;'Langue:angliscisme';18;50
+e;172435;'Langage:familier';18;50
+e;49508;'châteaubriant';1;50
+e;2707989;'barbecue&gt;154055';1;42;'barbecue&gt;appareil de cuisson'
+e;28105;'cuit';1;358
+e;3692690;'issu de l'agriculture bio';1;0
+e;78291;'soja';1;164
+e;87286;'fruit';1;6285
+e;225524;'entrée&gt;74736';1;116;'entrée&gt;repas'
+e;5620222;'chicken fried steak';777;0
+e;128721;'réfrigérateur';1;666
+e;214149;'cru&gt;214148';1;142;'cru&gt;pas cuit'
+e;71211;'tendre';1;1032
+e;13925;'dîner';1;1102
+e;143378;'thé';1;2432
+e;5620223;'country fried steak';777;0
+e;101089;'végétarien';1;104
+e;78845;'déjeuner';1;1380
+e;245632;'entrée&gt;74736&gt;114839';1;36;'entrée&gt;repas&gt;mets'
+e;150219;'restau';1;176
+e;5115;'cuire';1;1713
+e;227884;'saisir&gt;5115';1;50;'saisir&gt;cuire'
+e;257879;'faire frire';1;66
+e;589320;'salade&gt;16033&gt;114839&gt;163725';1;0;'salade&gt;cuisine&gt;mets&gt;salade verte'
+e;214275;'cuisine&gt;143757';1;2032;'cuisine&gt;art culinaire'
+e;9462539;'aliment découpé';1;28
+e;114815;'protéine';1;1473
+e;5912948;'steak végétal';1;0
+e;121059;'MacDo';1;216
+e;598170;'halal&gt;171869';1;0;'halal&gt;Adj:'
+e;128806;'pourrir';1;148
+e;1197979;'repas&gt;136447';1;102;'repas&gt;moment'
+e;252177;'dîner&gt;74736';1;106;'dîner&gt;repas'
+e;70493;'volaille';1;1206
+e;146261;'poulet';1;1900
+e;240894;'volaille&gt;16033';1;110;'volaille&gt;cuisine'
+e;213700;'fromage&gt;114637';1;582;'fromage&gt;aliment'
+e;132105;'digestif';1;248
+e;41742;'infusion';1;428
+e;214541;'thé&gt;113547';1;224;'thé&gt;boisson'
+e;152432;'steack';1;156
+e;217334;'salade&gt;16033';1;166;'salade&gt;cuisine'
+e;589308;'salade&gt;16033&gt;114839';1;6;'salade&gt;cuisine&gt;mets'
+e;59893;'entrée';1;2916
+e;2105360;'starters';2;0
+e;221404;'apéritif&gt;221402';1;92;'apéritif&gt;temps de convivialité'
+e;13250945;':r337276732';10;0
+e;19653;'frigidaire';1;390
+e;166262;'resto';1;198
+e;165200;'surgelée';1;64
+e;3575927;'Morpho:min';18;50
+e;3576104;'Morpho:nospace';18;50
+e;328868;'::&gt;13:124094&gt;29:21149';8;50;'dévorer [sujet] enfant'
+e;326618;'::&gt;16:16110&gt;29:130164';8;50;'manger [avec] bouche'
+e;159037;'::&gt;16:32610&gt;29:108053&gt;14';9;50;'Que pourrait-on entailler avec un couteau ?'
+e;104751;'starter';1;52
+e;3228593;'wiki:@';444;0
+e;11754125;'steak de mouches';777;0
+e;20965;'nourriture';1;3820
+e;222081;'pavé&gt;1972666';1;72;'pavé&gt;viande ou poisson'
+e;397166;'proteine';1;50
+e;5631613;'steak Salisbury';777;0
+e;231587;'griller&gt;132551';1;30;'griller&gt;rôtir'
+e;327466;'::&gt;13:74860&gt;29:130164';8;50;'manger [sujet] homme'
+e;259980;'faire revenir&gt;16033';1;26;'faire revenir&gt;cuisine'
+e;152552;'Cuisine';1;156
+e;21940;'beefsteak';1;58
+e;327181;'::&gt;13:68439&gt;29:14338';8;50;'attaquer [sujet] individu'
+e;80010;'saisir';1;435
+e;224422;'manger&gt;113902&gt;119570';1;206;'manger&gt;alimentation&gt;absorber'
+e;66324;'café';1;3927
+e;15920890;':r414366732';10;0
+e;2425056;'biftèque';1;0
+e;160692;'boucher&gt;146888';1;50;'boucher&gt;Adj:Mas+SG'
+e;14540359;'dur comme une semelle';1;0
+e;46367;'griller';1;396
+e;260032;'cuire&gt;16033';1;138;'cuire&gt;cuisine'
+e;329984;'pourrir&gt;16127';1;64;'pourrir&gt;se décomposer'
+e;213315;'::&gt;13:124094&gt;29:21149&gt;14';9;50;'Qu'est-ce qu'une enfant pourrait dévorer ?'
+e;327458;'::&gt;16:32610&gt;29:108053';8;50;'entailler [avec] couteau'
+e;159061;'::&gt;13:74860&gt;29:130164&gt;14';9;50;'Qu'est-ce qu'un homme pourrait manger ?'
+e;228395;'::&gt;13:68439&gt;29:14338&gt;14';9;50;'Qu'est-ce qu'un individu pourrait attaquer ?'
+e;103323;'retourner';1;2287
+e;79307;'faire revenir';1;152
+e;6681658;'manger&gt;113902';1;138;'manger&gt;alimentation'
+e;14485281;'::&gt;13:225916&gt;29:128828';8;0;'couper [sujet] personne&gt;être humain'
+e;14324555;'::&gt;13:45133&gt;29:128828';8;0;'couper [sujet] boucher'
+e;35714;'déposer';1;294
+e;14472584;'::&gt;13:225916&gt;29:30536';8;0;'faire cuire [sujet] personne&gt;être humain'
+e;14880736;'::&gt;31:119686&gt;29:14880732';8;0;'faire cuire [objet] steak [endroit] poêle'
+e;16789294;'::&gt;13:218749&gt;29:128828';8;0;'couper [sujet] boucher&gt;boucherie'
+e;16601796;'::&gt;13:116477&gt;29:30536';8;0;'faire cuire [sujet] personne'
+e;14572841;'::&gt;13:116477&gt;29:128828';8;0;'couper [sujet] personne'
+e;17335022;'::&gt;13:11467&gt;29:30536';8;0;'faire cuire [sujet] américain'
+e;14467650;'::&gt;13:118790&gt;29:30536';8;0;'faire cuire [sujet] cuisinier'
+e;17582813;'::&gt;13:2951610&gt;29:30536';8;0;'faire cuire [sujet] cuisinier&gt;nourriture'
+e;17582818;'::&gt;13:3263355&gt;29:30536';8;0;'faire cuire [sujet] cuisinier&gt;nourriture&gt;personne'
+e;14330;'satisfaction';1;626
+e;91691;'surprise';1;2394
+e;14923894;'en:beefsteak';1;0
+e;9988457;'Présentation ou Charlotte et son steak';777;0
+e;80591;'grill';1;202
+e;225830;'gril&gt;152067';1;78;'gril&gt;ustensile de cuisine'
+e;134670;'fourchette';1;1504
+e;5798090;'sandwich au steak de Philadelphie';777;0
+e;165584;'grillée';1;98
+e;8748059;':r160741531';10;0
+e;60056;'cuisson';1;1728
+e;14629324;'steak haché frites';1;20
+e;28449;'coupé';1;1304
+e;68977;'saisi';1;74
+e;142894;'pie';1;338
+e;7030648;'en:beef';1;0
+e;14485283;'::&gt;66:225916&gt;24:128828';8;0;'personne&gt;être humain [peut] couper'
+e;14540353;'::&gt;66:225916&gt;24:14540351';8;0;'personne&gt;être humain [peut] couper [objet] steak'
+e;14324556;'::&gt;66:45133&gt;24:128828';8;0;'boucher [peut] couper'
+e;14540363;'::&gt;66:45133&gt;24:14540351';8;0;'boucher [peut] couper [objet] steak'
+e;14472585;'::&gt;66:225916&gt;24:30536';8;0;'personne&gt;être humain [peut] faire cuire'
+e;14880734;'::&gt;66:225916&gt;24:14880732';8;0;'personne&gt;être humain [peut] faire cuire [objet] steak'
+e;113818;'section';1;3360
+e;16789295;'::&gt;66:218749&gt;24:128828';8;0;'boucher&gt;boucherie [peut] couper'
+e;17503246;'::&gt;66:218749&gt;24:14540351';8;0;'boucher&gt;boucherie [peut] couper [objet] steak'
+e;17335023;'::&gt;66:11467&gt;24:30536';8;0;'américain [peut] faire cuire'
+e;17335024;'::&gt;66:11467&gt;24:14880732';8;0;'américain [peut] faire cuire [objet] steak'
+e;14467651;'::&gt;66:118790&gt;24:30536';8;0;'cuisinier [peut] faire cuire'
+e;17582810;'::&gt;66:118790&gt;24:14880732';8;0;'cuisinier [peut] faire cuire [objet] steak'
+e;17582814;'::&gt;66:2951610&gt;24:30536';8;0;'cuisinier&gt;nourriture [peut] faire cuire'
+e;17582816;'::&gt;66:2951610&gt;24:14880732';8;0;'cuisinier&gt;nourriture [peut] faire cuire [objet] steak'
+e;17582819;'::&gt;66:3263355&gt;24:30536';8;0;'cuisinier&gt;nourriture&gt;personne [peut] faire cuire'
+e;17582821;'::&gt;66:3263355&gt;24:14880732';8;0;'cuisinier&gt;nourriture&gt;personne [peut] faire cuire [objet] steak'
+e;14927529;'en:châteaubriand';1;0
+e;1852783;'protein';1;0
+e;216120;'recette de cuisine';1;140
+e;227011;'quiche&gt;177321';1;62;'quiche&gt;préparation culinaire'
+e;7096384;'en:refrigerator';1;0
+e;7096349;'en:freezer';1;4
+e;168216;'buf';1;1065
+e;14287029;'cuit&gt;2946892';1;0;'cuit&gt;Ver:Conjug'
+e;143449;'déposé';1;1527
+e;162232;'mangé';1;66
+e;61791;'retourné';1;82
+e;11342124;'gras&gt;113902';1;22;'gras&gt;alimentation'
+e;14160834;'bleu&gt;171869';1;0;'bleu&gt;Adj:'
+e;157042;'bleu&gt;146888';1;50;'bleu&gt;Adj:Mas+SG'
+e;7332979;'Langue:anglais';18;50
+e;14916413;'Langue:français';18;50
+e;326626;'::&gt;14:116477&gt;29:47466';8;50;'nourrir [objet] personne'
+e;157394;'::&gt;14:116477&gt;29:47466&gt;16';9;50;'Avec quoi pourrait-on nourrir une personne ?'
+e;260251;'mettre du poivre';1;2
+e;276096;'_INFO-WIKI-YES';36;50
+e;217817;'_INFO-POLYSEMIC';36;50
+e;15991432;'_ANIME-NO';36;50
+e;1447;'sandwich';1;1034
+e;14935873;'en:starters';1;0
+e;111040;'carbonnade';1;56
+e;17582812;'::&gt;31:16033&gt;29:14880732';8;0;'faire cuire [objet] steak [endroit] cuisine'
+e;105441;'pavé';1;470
+e;403524;'Steak';1;50
+e;11254371;'maigre&gt;113902';1;0;'maigre&gt;alimentation'
+e;52954;'pourri';1;244
+e;284894;'whopper';777;50
+e;314138;'buf&gt;70527';1;50;'buf&gt;musique'
+e;37298;'amour';1;7157
+e;4905125;':r12459744';10;0
+e;248198;'_SEX_NO';36;50
+e;317322;'_POLIT_1ECO';36;50
+e;317323;'_POLIT_2PG';36;50
+e;2707988;'barbecue&gt;133832';1;0;'barbecue&gt;radar'
+e;384581;'tranche de boeuf';1;50
+e;254877;'_POL-NEUTRE_PC';36;50
+e;222079;'pavé&gt;256609';1;6;'pavé&gt;bloc de pierre'
+e;222082;'pavé&gt;142787';1;92;'pavé&gt;livre'
+e;222078;'pavé&gt;256609&gt;20564';1;54;'pavé&gt;bloc de pierre&gt;rue'
+e;16710049;':r438482867';10;0
+e;16710051;':r438482869';10;0
+e;4522314;':r95740795';10;0
+e;57221;'joie';1;3928
+e;17309601;':r443086510';10;0
+e;14496910;':r338354904';10;0
+e;172944;'Anglais';1;3163
+e;79993;'anglais';1;3833
+e;113464;'Français';1;3583
+e;144991;'français';1;3914
+e;70245;'venaison';1;56
+e;3361;'saumon';1;432
+e;21640;'insulte';1;840
+e;77744;'argot';1;310
+e;67362;'surpoids';1;256
+e;114701;'rumsteck';1;52
+e;115853;'faux-filet';1;110
+e;152385;'Boucherie';1;78
+e;404524;'Vache';1;50
+e;425684;'Veau';1;50
+e;94644;'mouflon';1;64
+e;72813;'cerf';1;172
+e;4453;'Bison';1;50
+e;143540;'bison';1;84
+e;117985;'renne';1;56
+e;18128;'élan';1;138
+e;30838;'chevreuil';1;80
+e;409975;'Porc';1;50
+e;76804;'Mouton';1;56
+e;89538;'gril';1;112
+e;229242;'plancha';666;50
+e;317155;'pierrade';1;82
+e;416098;'Thon';1;52
+e;416318;'Saumon';1;50
+e;39785;'tournedos';1;112
+e;141518;'Chateaubriand';1;58
+e;20874;'onglet';1;58
+e;104311;'diaphragme';1;148
+e;41642;'échalote';1;88
+e;410105;'Poire';1;50
+e;146033;'poire';1;990
+e;408281;'Argot';1;50
+e;2602542;'Cerf';1;0
+e;2577769;'Renne';1;0
+e;2528944;'Élan';1;0
+e;2581632;'Chevreuil';1;0
+e;2578913;'Tournedos';1;0
+e;2414625;'Tendron';1;0
+e;3747406;'Pierrade';1;0
+e;5628973;'Barbecue';1;0
+e;423450;'Extension';1;50
+e;7637;'extension';1;2930
+e;5912273;'simili-viande';1;0
+e;5840755;'Soja';1;0
+e;170312;'pois chiche';1;66
+e;10462832;'Insulte';1;0
+e;48501;'dinde';1;592
+e;584414;'Espadon';1;0
+e;7347;'espadon';1;62
+e;15469362;'Échalote';1;0
+e;1858335;'Listeria';1;2
+e;103824;'listeria';1;52
+e;1196197;':r1829467';10;0
+e;1196201;':r1829465';10;0
+e;9252409;':r107697438';10;0
+e;14540360;':r369574780';10;0
+e;14496830;':r157060215';10;0
+e;15224372;'en:steak and chips';1;0
+e;15224373;'en:steak and fries';1;0
+e;254878;'_POL-NEG_PC';36;50
+e;4896415;':r8550949';10;0
+e;4896414;':r12799317';10;0
+e;439521;'bidoche&gt;153026';1;50;'bidoche&gt;cheval de bois'
+e;445405;':r2461520';10;50
+e;445680;':r1819304';10;50
+e;445681;':r1819305';10;50
+e;109533;'pizza';1;602
+e;1803620;'restaurant&gt;146885';1;0;'restaurant&gt;Nom:Mas+SG'
+e;146357;'envie';1;1666
+e;16521928;':r414352736';10;0
+e;123418;'ingrédient';1;142
+e;1196180;':r1819306';10;0
+e;1196181;':r2461519';10;0
+e;1196196;':r1829468';10;0
+e;1196198;':r1829464';10;0
+e;232408;'culotte&gt;44397';1;54;'culotte&gt;pantalon'
+e;232406;'culotte&gt;51741';1;100;'culotte&gt;sous-vêtement'
+e;5372134;'pavé&gt;25966';1;0;'pavé&gt;pâtisserie'
+e;5372135;'pavé&gt;19902';1;0;'pavé&gt;parallélépipède'
+e;5372122;'pavé&gt;335495';1;0;'pavé&gt;annonce publicitaire'
+e;1972669;'pavé&gt;16601';1;2;'pavé&gt;paver'
+e;1972667;'pavé&gt;141687';1;0;'pavé&gt;fromage'
+e;217556;'spécialité culinaire';1;276
+e;251390;'oeuf à cheval';1;50
+e;613178;'boucher&gt;171870';1;0;'boucher&gt;Nom:'
+e;215041;'boeuf&gt;70527';1;4;'boeuf&gt;musique'
+e;15224383;'bifteck aux pommes frites';1;0
+e;443776;':r11357807';10;50
+e;445601;':r1976909';10;50
+e;1196172;':r2461517';10;0
+e;1196174;':r9059802';10;0
+e;1196175;':r1848881';10;0
+e;1196176;':r12057246';10;0
+e;1196177;':r1848882';10;0
+e;1196178;':r2461562';10;0
+e;1196179;':r2461518';10;0
+e;1196182;':r2461521';10;0
+e;1196183;':r13009929';10;0
+e;1196184;':r13009923';10;0
+e;1196185;':r13009932';10;0
+e;1196186;':r15855610';10;0
+e;1196187;':r11354189';10;0
+e;1196188;':r1829460';10;0
+e;1196189;':r1829462';10;0
+e;1196190;':r13676111';10;0
+e;1196191;':r1829466';10;0
+e;1196192;':r2461543';10;0
+e;1196193;':r2461541';10;0
+e;1196194;':r2461564';10;0
+e;1196195;':r2461542';10;0
+e;1196199;':r1829463';10;0
+e;1196200;':r2471871';10;0
+e;17110993;':r50819531';10;0
+e;212524;'steack tartare';666;50
+e;132479;'marron';1;706
+e;2351086;':r34723021';10;0
+e;3375855;':r86149047';10;0
+e;4315491;':r33870397';10;0
+e;395094;'viande&gt;118203';1;52;'viande&gt;corps humain'
+e;215814;'bleu&gt;215808';1;20;'bleu&gt;nouvelle recrue'
+e;2952972;'bleu&gt;28682';1;0;'bleu&gt;télégramme'
+e;2952974;'bleu&gt;133354';1;0;'bleu&gt;ivre'
+e;2952975;'bleu&gt;180300';1;0;'bleu&gt;histoire militaire'
+e;2952985;'bleu&gt;45854';1;0;'bleu&gt;surpris'
+e;2952986;'bleu&gt;101083';1;0;'bleu&gt;policier'
+e;215813;'bleu&gt;141687';1;4;'bleu&gt;fromage'
+e;215811;'bleu&gt;80266';1;118;'bleu&gt;ecchymose'
+e;215812;'bleu&gt;120949';1;16;'bleu&gt;vêtement'
+e;187535;'halal';1;16
+e;145583;'rose';1;2789
+e;110252;'rougeâtre';1;98
+e;2350232;':r34711651';10;0
+e;11302066;':r34711647';10;0
+e;13627956;':r345400531';10;0
+e;13812479;':r349292904';10;0
+e;14653015;':r50819527';10;0
+e;14780640;':r380298420';10;0
+e;1525846;':r1869037';10;0
+e;3375852;':r86149208';10;0
+e;3375853;':r86149145';10;0
+e;3375858;':r86149135';10;0
+e;3379046;':r86596411';10;0
+e;10969341;':r86149171';10;0
+e;11123862;':r93688312';10;0
+e;3949762;'dbnary:fra:__ws_1_steak__nom__1';444;0
+e;4237960;'dbnary:fra:__ws_2_steak__nom__1';444;0
+e;143123;'tranche';1;618
+e;11222300;'bleu&gt;28524';1;0;'bleu&gt;quark'
+e;11222301;'bleu&gt;63518';1;0;'bleu&gt;amoureux'
+e;11222302;'bleu&gt;36811';1;0;'bleu&gt;billard'
+e;11222303;'bleu&gt;25380';1;0;'bleu&gt;budget'
+e;317329;'_POLIT_7NOPOL';36;50
+e;95256;'queue';1;3266
+e;394791;'tête&gt;390963&gt;17559';1;50;'tête&gt;extrémité supérieure du corps&gt;animal'
+e;226396;'agriculture bio';1;64
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;15;'r_lieu';'chose&gt;lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat =&gt; miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;25;'r_instr-1';'instrument&gt;action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;30;'r_lieu_action';'lieu&gt;action';A partir d'un lieu, énumérer les actions typiques possibles dans ce lieu.
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;46;'r_chunk_objet';'r_chunk_objet';(interne)
+rt;49;'r_time';'action&gt;temps';Donner une valeur temporelle -quel moment- peut-on associer au terme indiqué (par exemple 'dormir' -&gt; nuit, 'bronzer' -&gt; été, 'fatigue' -&gt; 'soir')
+rt;50;'r_object&gt;mater';'objet&gt;matiere';Quel est la ou les MATIERE/SUBSTANCE pouvant composer l'objet qui suit. Par exemple, 'bois' pour 'poutre'.
+rt;51;'r_mater&gt;object';'matière&gt;objet';Quel est la ou les CHOSES qui sont composés de la MATIERE/SUBSTANCE qui suit (exemple 'bois' -&gt; poutre, table, ...).
+rt;52;'r_successeur-time';'successeur temporel';Qu'est ce qui peut SUIVRE temporellement (par exemple Noêl -&gt; jour de l'an, guerre -&gt; paix, jour -&gt; nuit,  pluie -&gt; beau temps, repas -&gt; sieste, etc) le terme suivant :
+rt;66;'r_chunk_head';'r_chunk_head';
+rt;71;'r_variante';'variante';Variantes du termes cible. Par exemple, yaourt, yahourt, ou encore évènement, événement.
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --&gt; adénomyose)
+rt;75;'r_accomp';'accompagne';Est souvent accompagné de, se trouve avec... Par exemple : Astérix et Obelix, le pain et le fromage, les fraises et la chantilly.
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;109;'r_predecesseur-time';'prédécesseur temporel';Qu'est ce qui peut PRECEDER temporellement (par exemple -  inverse de successeur) le terme suivant :
+rt;128;'r_node2relnode-in';'r_node2relnode-in';Relation entre un noeud (quelconque) et un noeud de relation (type = 10)  - connecte le noeud d'entrée - permet de rendre le graphe connexe même avec les annotations de relations
+rt;140;'r_node2relnode-out';'r_node2relnode-out';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - connecte le noeud de sortie - permet de rendre le graphe connexe même avec les annotations de relations
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 755 relations sortantes 
+
+r;23925318;55572;239128;0;1000000
+r;34519737;55572;239128;109;1000000
+r;73955819;55572;2983124;555;1915
+r;190679413;55572;8862827;128;600
+r;368206283;55572;14489034;140;459
+r;162433808;55572;8684866;128;439
+r;2014888;55572;223173;36;420
+r;342047056;55572;13510724;128;376
+r;361535;55572;47417;0;262
+r;1848878;55572;215037;6;217
+r;392163;55572;140100;0;206
+r;388387;55572;47887;0;180
+r;604171;55572;18094;5;170
+r;8654238;55572;191722;11;164
+r;8635801;55572;177304;11;163
+r;8734181;55572;266517;11;163
+r;13515888;55572;314136;6;162
+r;8681969;55572;208456;11;162
+r;8688962;55572;213723;11;162
+r;8692679;55572;221222;11;161
+r;8701298;55572;232859;11;161
+r;8708022;55572;243451;11;161
+r;2461517;55572;160927;6;160
+r;9918180;55572;251158;6;156
+r;192845333;55572;8904859;140;156
+r;2036967;55572;18094;0;139
+r;388386;55572;151972;0;138
+r;1848883;55572;47417;6;137
+r;1848881;55572;65364;6;132
+r;9059801;55572;47417;10;131
+r;417240;55572;13890;0;130
+r;417241;55572;97682;0;130
+r;22291342;55572;1196173;128;123
+r;211562102;55572;9252410;128;113
+r;12576329;55572;381229;11;110
+r;12576323;55572;381231;11;109
+r;12576345;55572;381227;11;109
+r;12576337;55572;381228;11;108
+r;12576319;55572;381232;11;107
+r;12576325;55572;381230;11;106
+r;12576315;55572;381233;11;105
+r;11597217;55572;253235;46;100
+r;11597218;55572;329262;46;100
+r;369660205;55572;14540352;66;100
+r;385957573;55572;14880733;66;100
+r;2461562;55572;64437;10;98
+r;9059802;55572;36327;10;91
+r;98855268;55572;103041;17;87
+r;2020288;55572;241794;36;85
+r;34711648;55572;214276;15;84
+r;104909829;55572;1641212;17;84
+r;12057246;55572;218746;10;83
+r;104911444;55572;606876;17;82
+r;13009401;55572;138501;10;81
+r;52036178;55572;15076;17;81
+r;98855437;55572;1879276;17;81
+r;392161;55572;20797;0;80
+r;104909987;55572;684403;17;80
+r;104910521;55572;1904081;17;80
+r;104910522;55572;575297;17;79
+r;98855408;55572;599802;17;78
+r;98855276;55572;599810;17;77
+r;98855556;55572;597037;17;77
+r;2339188;55572;254876;36;76
+r;54748224;55572;112259;5;75
+r;1848882;55572;140100;6;72
+r;145773848;55572;6906961;9;71
+r;12057249;55572;215036;10;71
+r;12057251;55572;45133;10;71
+r;13009922;55572;91311;10;71
+r;107697439;55572;86754;10;71
+r;50819528;55572;144229;17;71
+r;1880885;55572;191722;0;70
+r;1880886;55572;153936;0;70
+r;107697434;55572;86754;0;69
+r;107697435;55572;160691;0;69
+r;107697438;55572;160691;10;69
+r;1558013;55572;215037;0;68
+r;54748226;55572;127547;5;67
+r;98388331;55572;455726;17;67
+r;98388334;55572;455727;17;67
+r;2461518;55572;45624;15;65
+r;34528884;55572;153902;50;65
+r;385607705;55572;30536;26;64
+r;1819305;55572;218746;15;63
+r;1819306;55572;62735;15;63
+r;385961042;55572;14880732;26;63
+r;54748225;55572;22365;5;62
+r;15064052;55572;130164;26;62
+r;12057243;55572;218749;10;61
+r;12057252;55572;153902;10;61
+r;13009398;55572;131196;10;61
+r;278654552;55572;17559;10;61
+r;278654553;55572;74736;10;61
+r;50566613;55572;13890;17;61
+r;50819527;55572;47887;17;61
+r;50819529;55572;224168;17;61
+r;15052595;55572;329262;26;61
+r;95740638;55572;128828;26;61
+r;369675512;55572;14540351;26;61
+r;93962576;55572;3762435;6;60
+r;13009399;55572;145295;10;60
+r;196630839;55572;314137;10;60
+r;83636203;55572;3318502;11;60
+r;86149111;55572;3369951;11;60
+r;86201884;55572;3363693;11;60
+r;93962613;55572;3763568;11;60
+r;1829467;55572;215810;17;60
+r;52036186;55572;233562;17;60
+r;52036188;55572;68727;17;60
+r;435190;55572;162763;36;60
+r;53145528;55572;2581423;11;59
+r;86149106;55572;3369952;11;59
+r;86149143;55572;3369948;11;59
+r;86149197;55572;3369943;11;59
+r;93648115;55572;3759406;11;59
+r;93714071;55572;3752398;11;59
+r;52036180;55572;320520;17;59
+r;54748223;55572;2585996;36;59
+r;2009482;55572;155412;0;58
+r;10880223;55572;243451;0;58
+r;54182;55572;146885;4;58
+r;13009931;55572;38188;10;58
+r;86149155;55572;3369947;11;58
+r;93650134;55572;3759124;11;58
+r;50819531;55572;242842;17;58
+r;52036173;55572;2371610;17;58
+r;1734203;55572;86356;0;57
+r;14637187;55572;71135;0;57
+r;34661705;55572;2348415;11;57
+r;76742913;55572;3179891;11;57
+r;86149185;55572;3369944;11;57
+r;86149242;55572;3369938;11;57
+r;52036195;55572;23433;17;57
+r;95740643;55572;261312;0;56
+r;12459744;55572;213723;10;56
+r;86131685;55572;3372095;11;56
+r;86149133;55572;3369949;11;56
+r;86149216;55572;3369941;11;56
+r;86244636;55572;3361284;11;56
+r;93659420;55572;3758167;11;56
+r;1819304;55572;64437;15;56
+r;2461519;55572;16033;15;56
+r;52036201;55572;141899;17;56
+r;52036202;55572;19636;17;56
+r;52036204;55572;2371611;17;56
+r;13009929;55572;68925;10;55
+r;86149055;55572;3369958;11;55
+r;86149123;55572;3369950;11;55
+r;93658423;55572;3758272;11;55
+r;106871343;55572;5329193;128;55
+r;9769602;55572;160927;0;54
+r;34526850;55572;2346169;11;54
+r;86149045;55572;3369959;11;54
+r;86149226;55572;3369940;11;54
+r;52036171;55572;320803;17;54
+r;52036209;55572;84381;17;54
+r;13009917;55572;162733;10;53
+r;93704371;55572;3753443;11;53
+r;1976909;55572;215036;15;53
+r;2461520;55572;36327;15;53
+r;2461521;55572;46141;15;53
+r;334662;55572;55572;19;53
+r;12123806;55572;215037;10;52
+r;13009923;55572;71135;10;52
+r;13009925;55572;214304;10;52
+r;13009932;55572;128646;10;52
+r;22560956;55572;1237396;11;52
+r;34740811;55572;2352221;11;52
+r;86149162;55572;3369946;11;52
+r;86149169;55572;3369945;11;52
+r;86149247;55572;3369937;11;52
+r;86184068;55572;3365816;11;52
+r;93495711;55572;3746506;11;52
+r;93679484;55572;3755990;11;52
+r;93688310;55572;3755157;11;52
+r;52036197;55572;63752;17;52
+r;11471595;55572;251158;0;51
+r;15855610;55572;261738;6;51
+r;13009397;55572;24758;10;51
+r;13009400;55572;58876;10;51
+r;13009914;55572;177321;10;51
+r;13009915;55572;214126;10;51
+r;13009916;55572;145246;10;51
+r;13009918;55572;190002;10;51
+r;13009919;55572;311738;10;51
+r;13009920;55572;257264;10;51
+r;13009921;55572;155412;10;51
+r;13009924;55572;216645;10;51
+r;13009926;55572;160927;10;51
+r;13009927;55572;166297;10;51
+r;13009928;55572;159734;10;51
+r;13009930;55572;245385;10;51
+r;13009933;55572;21742;10;51
+r;13009934;55572;228897;10;51
+r;13009935;55572;97173;10;51
+r;13009936;55572;177245;10;51
+r;283079795;55572;62735;10;51
+r;283471490;55572;16033;10;51
+r;283471491;55572;79954;10;51
+r;34526839;55572;2346168;11;51
+r;86149206;55572;3369942;11;51
+r;86149235;55572;3369939;11;51
+r;93490712;55572;3745329;11;51
+r;93648129;55572;3759405;11;51
+r;34711645;55572;231389;15;51
+r;34711647;55572;79954;15;51
+r;34711649;55572;33217;15;51
+r;34711651;55572;97173;15;51
+r;34711652;55572;118770;15;51
+r;52036161;55572;269454;17;51
+r;52036162;55572;22461;17;51
+r;52036163;55572;30900;17;51
+r;52036166;55572;51221;17;51
+r;52036168;55572;144567;17;51
+r;52036169;55572;144718;17;51
+r;52036170;55572;55342;17;51
+r;52036172;55572;95783;17;51
+r;52036175;55572;13548;17;51
+r;52036176;55572;79230;17;51
+r;52036177;55572;13755;17;51
+r;52036179;55572;52508;17;51
+r;52036182;55572;1974209;17;51
+r;52036184;55572;18862;17;51
+r;52036185;55572;81389;17;51
+r;52036189;55572;239281;17;51
+r;52036190;55572;56362;17;51
+r;52036191;55572;108941;17;51
+r;52036193;55572;156313;17;51
+r;52036194;55572;116465;17;51
+r;52036196;55572;68513;17;51
+r;52036198;55572;28923;17;51
+r;52036199;55572;72731;17;51
+r;52036200;55572;125017;17;51
+r;52036203;55572;119625;17;51
+r;52036206;55572;47933;17;51
+r;52036208;55572;113963;17;51
+r;52036210;55572;237917;17;51
+r;390483800;55572;14923896;333;51
+r;1538214;55572;171870;4;49
+r;349292904;55572;237790;17;47
+r;284220946;55572;1770857;999;47
+r;284221040;55572;1770849;999;47
+r;284221132;55572;1770850;999;47
+r;284221232;55572;1770851;999;47
+r;284221329;55572;1770852;999;47
+r;284221428;55572;1770853;999;47
+r;284221617;55572;1770855;999;47
+r;34521265;55572;218942;0;46
+r;26466121;55572;223172;36;46
+r;54142102;55572;2586627;4;45
+r;54181216;55572;2586629;4;45
+r;95740641;55572;107233;15;45
+r;34528883;55572;47417;50;45
+r;34528916;55572;215037;50;45
+r;211543927;55572;9250882;128;45
+r;31276942;55572;91657;0;44
+r;214162421;55572;9505163;140;44
+r;214162427;55572;9505164;140;44
+r;214162433;55572;9505165;140;44
+r;214162439;55572;9505166;140;44
+r;1837826;55572;95126;0;43
+r;2123778;55572;2680;0;43
+r;9685514;55572;65364;0;43
+r;12801303;55572;153902;0;43
+r;14637201;55572;214126;0;43
+r;68543214;55572;177215;5;43
+r;34528886;55572;153936;50;43
+r;34528902;55572;233931;52;43
+r;394183132;55572;15220904;333;43
+r;394183134;55572;15220905;333;43
+r;31258919;55572;91657;3;42
+r;34519751;55572;218942;3;42
+r;472989073;55572;15225270;11;42
+r;472989077;55572;15225265;11;42
+r;345400531;55572;1024441;15;42
+r;1829464;55572;39901;17;42
+r;33517134;55572;28453;32;42
+r;34528900;55572;245523;52;42
+r;30985995;55572;113902;0;41
+r;34519750;55572;140100;3;41
+r;14804924;55572;239946;17;41
+r;2123785;55572;212523;0;40
+r;31318303;55572;20621;0;40
+r;71048248;55572;2488390;5;40
+r;1829466;55572;60;17;40
+r;57404745;55572;321960;18;40
+r;60378590;55572;172435;18;40
+r;15309493;55572;16033;0;39
+r;31302578;55572;20621;3;39
+r;71048242;55572;49508;5;39
+r;62206767;55572;2707989;15;39
+r;1829463;55572;28105;17;39
+r;91723589;55572;3692690;17;39
+r;34528888;55572;78291;50;39
+r;34528914;55572;87286;52;39
+r;34528906;55572;225524;109;39
+r;110814751;55572;5620222;11;38
+r;11354189;55572;128721;15;38
+r;11357807;55572;138501;15;38
+r;1829465;55572;214149;17;38
+r;2461542;55572;71211;17;38
+r;34528897;55572;13925;49;38
+r;34528912;55572;143378;52;38
+r;110814744;55572;5620223;11;37
+r;34528893;55572;101089;17;37
+r;34528896;55572;78845;49;37
+r;34528907;55572;245632;109;37
+r;10534819;55572;64437;0;36
+r;47036226;55572;150219;15;36
+r;2461563;55572;5115;26;36
+r;15065597;55572;227884;26;36
+r;95740637;55572;257879;26;36
+r;34528904;55572;589320;109;36
+r;14637183;55572;214304;0;35
+r;15306891;55572;214275;0;35
+r;213854653;55572;9462539;6;35
+r;2461541;55572;56362;9;35
+r;34532097;55572;114815;9;35
+r;115858719;55572;5912948;11;35
+r;34528889;55572;121059;15;35
+r;1829468;55572;97682;17;35
+r;34528894;55572;598170;17;35
+r;98294849;55572;128806;24;35
+r;34528895;55572;1197979;49;35
+r;34528898;55572;252177;49;35
+r;34528887;55572;140100;50;35
+r;34528890;55572;70493;50;35
+r;34528891;55572;146261;50;35
+r;34528892;55572;240894;50;35
+r;34528899;55572;213700;52;35
+r;34528901;55572;132105;52;35
+r;34528911;55572;41742;52;35
+r;34528913;55572;214541;52;35
+r;95740913;55572;152432;71;35
+r;34528882;55572;217334;109;35
+r;34528903;55572;589308;109;35
+r;34528905;55572;59893;109;35
+r;34528909;55572;2105360;109;35
+r;34528910;55572;221404;109;35
+r;337353384;55572;13250945;128;35
+r;1012678;55572;22365;0;34
+r;2123782;55572;79954;0;34
+r;14637168;55572;21742;0;34
+r;1819302;55572;64437;3;34
+r;13676111;55572;19653;15;34
+r;47036228;55572;166262;15;34
+r;2461564;55572;165200;17;34
+r;90026551;55572;3575927;18;34
+r;90895188;55572;3576104;18;34
+r;1829460;55572;5115;24;34
+r;15050592;55572;328868;26;34
+r;15058806;55572;326618;26;34
+r;15061476;55572;159037;26;34
+r;34528885;55572;228897;50;34
+r;34528908;55572;104751;109;34
+r;78094195;55572;3228593;444;34
+r;301217096;55572;11754125;11;33
+r;1936824;55572;239946;0;32
+r;2123779;55572;5115;0;32
+r;2123786;55572;20965;0;32
+r;2207930;55572;222081;0;32
+r;13560912;55572;314136;0;32
+r;14637164;55572;97173;0;32
+r;14637208;55572;138501;0;32
+r;14637214;55572;131196;0;32
+r;72534391;55572;49508;0;32
+r;30984311;55572;113902;3;32
+r;160741531;55572;397166;9;32
+r;111356707;55572;5631613;11;32
+r;1829462;55572;231587;24;32
+r;15056798;55572;327466;26;32
+r;25675860;55572;259980;26;32
+r;34532096;55572;151972;75;32
+r;2123781;55572;130164;0;31
+r;12800854;55572;261738;0;31
+r;14637192;55572;257264;0;31
+r;15704161;55572;152552;0;31
+r;1819301;55572;20965;3;31
+r;14687822;55572;16033;3;31
+r;14693631;55572;214275;3;31
+r;12191659;55572;21940;5;31
+r;15052907;55572;327181;26;31
+r;15063137;55572;80010;26;31
+r;72540760;55572;224422;26;31
+r;34528915;55572;66324;52;31
+r;414409915;55572;15920890;128;31
+r;10003955;55572;233562;0;30
+r;14637170;55572;128646;0;30
+r;14637172;55572;38188;0;30
+r;14637180;55572;166297;0;30
+r;14637196;55572;190002;0;30
+r;98819603;55572;2425056;0;30
+r;1789643;55572;152432;5;30
+r;101700610;55572;160692;10;30
+r;369574780;55572;14540359;17;30
+r;1829461;55572;46367;24;30
+r;34519080;55572;260032;24;30
+r;72664937;55572;329984;24;30
+r;15051640;55572;213315;26;30
+r;15056853;55572;327458;26;30
+r;15059532;55572;159061;26;30
+r;15061477;55572;228395;26;30
+r;15074899;55572;103323;26;30
+r;98316944;55572;79307;26;30
+r;233209072;55572;6681658;26;30
+r;369574492;55572;14485281;26;30
+r;369574875;55572;14324555;26;30
+r;373070015;55572;35714;26;30
+r;385607729;55572;14472584;26;30
+r;385961045;55572;14880736;26;30
+r;477719847;55572;16789294;26;30
+r;438145417;55572;16601796;26;30
+r;438145535;55572;14572841;26;30
+r;470502715;55572;17335022;26;30
+r;479176270;55572;14467650;26;30
+r;479176375;55572;17582813;26;30
+r;479176521;55572;17582818;26;30
+r;33921950;55572;14330;32;30
+r;34045001;55572;91691;32;30
+r;435562365;55572;14923894;333;30
+r;463129;55572;152432;0;29
+r;2123780;55572;128828;0;29
+r;14637198;55572;162733;0;29
+r;30239764;55572;381228;0;29
+r;98738094;55572;2425056;5;29
+r;226047227;55572;9988457;11;29
+r;95740635;55572;80591;15;29
+r;95740636;55572;225830;15;29
+r;2461543;55572;86356;17;29
+r;1819303;55572;215810;0;28
+r;2123783;55572;114815;0;28
+r;2123784;55572;134670;0;28
+r;14637189;55572;91311;0;28
+r;14637216;55572;24758;0;28
+r;103382046;55572;160692;0;28
+r;113794752;55572;5798090;11;28
+r;14802876;55572;165584;17;28
+r;1012676;55572;127547;0;27
+r;12799316;55572;213723;0;27
+r;72534385;55572;2488390;0;27
+r;177388644;55572;8748059;128;27
+r;1827614;55572;60;0;26
+r;2123787;55572;60056;0;26
+r;14637185;55572;216645;0;26
+r;14637199;55572;145246;0;26
+r;390936589;55572;14923896;0;26
+r;2471871;55572;233562;9;26
+r;371598777;55572;14629324;11;26
+r;477552772;55572;28449;17;26
+r;477575623;55572;68977;17;26
+r;442280578;55572;142894;17;26
+r;435562367;55572;7030648;333;26
+r;369574497;55572;14485283;0;25
+r;369574509;55572;14540353;0;25
+r;369574879;55572;14324556;0;25
+r;369574891;55572;14540363;0;25
+r;385607736;55572;14472585;0;25
+r;385607755;55572;14880734;0;25
+r;415911894;55572;15220905;0;25
+r;415911896;55572;15220904;0;25
+r;429047166;55572;113818;0;25
+r;435587050;55572;7030648;0;25
+r;477719851;55572;16789295;0;25
+r;477719863;55572;17503246;0;25
+r;470502720;55572;17335023;0;25
+r;470502732;55572;17335024;0;25
+r;479176274;55572;14467651;0;25
+r;479176286;55572;17582810;0;25
+r;479176380;55572;17582814;0;25
+r;479176392;55572;17582816;0;25
+r;479176526;55572;17582819;0;25
+r;479176538;55572;17582821;0;25
+r;390936590;55572;14923896;5;25
+r;391278392;55572;14923894;5;25
+r;391278607;55572;14927529;5;25
+r;341961967;55572;1852783;9;25
+r;392251747;55572;216120;10;25
+r;414366732;55572;227011;10;25
+r;380298420;55572;47417;15;25
+r;380298738;55572;7096384;15;25
+r;380300069;55572;7096349;15;25
+r;473769392;55572;168216;15;25
+r;477566502;55572;14287029;17;25
+r;477530475;55572;143449;17;25
+r;477576515;55572;162232;17;25
+r;477580862;55572;61791;17;25
+r;291996258;55572;11342124;17;25
+r;384124907;55572;14160834;17;25
+r;384124998;55572;157042;17;25
+r;390111568;55572;7332979;18;25
+r;390483802;55572;14916413;18;25
+r;376176345;55572;326626;25;25
+r;376179011;55572;157394;25;25
+r;380397077;55572;260251;30;25
+r;451398384;55572;276096;36;25
+r;390483803;55572;217817;36;25
+r;417888611;55572;15991432;36;25
+r;376048891;55572;1447;51;25
+r;376055242;55572;21742;51;25
+r;390111569;55572;14923896;72;25
+r;391289973;55572;14935873;109;25
+r;1012677;55572;112259;0;24
+r;10567134;55572;36327;0;24
+r;12354841;55572;21940;0;24
+r;12801305;55572;45133;0;24
+r;12801311;55572;218749;0;24
+r;14637212;55572;145295;0;24
+r;71492158;55572;177215;0;24
+r;98345153;55572;111040;0;24
+r;479178874;55572;17582812;26;24
+r;1012679;55572;105441;0;23
+r;10003877;55572;56362;0;23
+r;14458031;55572;403524;0;23
+r;14637162;55572;177245;0;23
+r;289017664;55572;11254371;17;23
+r;14637176;55572;68925;0;22
+r;14637210;55572;58876;0;22
+r;12801307;55572;215036;0;21
+r;12801309;55572;218746;0;21
+r;14637166;55572;228897;0;21
+r;14637174;55572;245385;0;21
+r;14637178;55572;159734;0;21
+r;14637194;55572;311738;0;21
+r;14637203;55572;177321;0;21
+r;81907755;55572;52954;17;21
+r;337276732;55572;284894;10;19
+r;18669805;55572;314138;999;18
+r;33904225;55572;381231;0;17
+r;33517132;55572;37298;32;17
+r;102311505;55572;4905125;128;17
+r;33904097;55572;381232;0;16
+r;33904123;55572;381233;0;16
+r;246230010;55572;3762435;0;16
+r;2211326;55572;248198;36;16
+r;8933457;55572;317322;36;16
+r;70089637;55572;317323;36;16
+r;285068797;55572;2707988;999;16
+r;30488344;55572;208456;0;15
+r;449049382;55572;14927529;0;15
+r;448915324;55572;3763568;5;15
+r;448989287;55572;384581;5;15
+r;2339189;55572;254877;36;15
+r;3164643;55572;86356;106;15
+r;285381031;55572;222079;999;15
+r;285381097;55572;222082;999;15
+r;285381126;55572;222078;999;15
+r;33904173;55572;381229;0;14
+r;33904218;55572;381227;0;14
+r;33904451;55572;381230;0;13
+r;3163744;55572;60;106;13
+r;439183572;55572;16710049;128;13
+r;439183580;55572;16710051;128;13
+r;104431001;55572;4522314;140;13
+r;18669802;55572;314137;999;13
+r;33517133;55572;57221;32;12
+r;469263130;55572;17309601;128;11
+r;368291198;55572;14496910;140;11
+r;30966899;55572;177304;0;10
+r;458703519;55572;384581;0;10
+r;3967467;55572;172944;777;10
+r;3967468;55572;79993;777;10
+r;3967475;55572;113464;777;10
+r;3967476;55572;144991;777;10
+r;3967484;55572;228897;777;10
+r;3967489;55572;159734;777;10
+r;3967495;55572;70245;777;10
+r;3967499;55572;86754;777;10
+r;3967503;55572;3361;777;10
+r;3967506;55572;21640;777;10
+r;3967509;55572;77744;777;10
+r;3967513;55572;67362;777;10
+r;17310782;55572;114701;777;10
+r;17310799;55572;115853;777;10
+r;17310801;55572;152385;777;10
+r;17310807;55572;404524;777;10
+r;17310812;55572;425684;777;10
+r;17310816;55572;94644;777;10
+r;17310820;55572;72813;777;10
+r;17310824;55572;4453;777;10
+r;17310825;55572;143540;777;10
+r;17310834;55572;117985;777;10
+r;17310836;55572;18128;777;10
+r;17310839;55572;30838;777;10
+r;17310841;55572;409975;777;10
+r;17310844;55572;76804;777;10
+r;17310847;55572;89538;777;10
+r;17310851;55572;229242;777;10
+r;17310856;55572;317155;777;10
+r;17310864;55572;416098;777;10
+r;17310866;55572;416318;777;10
+r;17310870;55572;39785;777;10
+r;17310875;55572;141518;777;10
+r;17310877;55572;20874;777;10
+r;17310880;55572;104311;777;10
+r;17310882;55572;41642;777;10
+r;17310885;55572;410105;777;10
+r;17310886;55572;146033;777;10
+r;17310892;55572;408281;777;10
+r;72069823;55572;2602542;777;10
+r;72069827;55572;2577769;777;10
+r;72069830;55572;2528944;777;10
+r;72069832;55572;2581632;777;10
+r;72069840;55572;2578913;777;10
+r;72069846;55572;2414625;777;10
+r;98669241;55572;3747406;777;10
+r;113155485;55572;5628973;777;10
+r;266777067;55572;423450;777;10
+r;266777068;55572;7637;777;10
+r;266777072;55572;5912273;777;10
+r;266777074;55572;5840755;777;10
+r;266777075;55572;78291;777;10
+r;266777079;55572;170312;777;10
+r;266777091;55572;10462832;777;10
+r;325900860;55572;48501;777;10
+r;325900862;55572;584414;777;10
+r;325900863;55572;7347;777;10
+r;420242268;55572;15469362;777;10
+r;431185486;55572;1858335;777;10
+r;431185487;55572;103824;777;10
+r;22291441;55572;1196197;128;9
+r;22291457;55572;1196201;128;9
+r;211562098;55572;9252409;128;9
+r;369574783;55572;14540360;128;9
+r;368290848;55572;14496830;140;9
+r;31677762;55572;232859;0;8
+r;34647874;55572;2346168;0;8
+r;280458065;55572;17559;0;8
+r;438482867;55572;15224372;10;8
+r;438482869;55572;15224373;10;8
+r;26862756;55572;254878;36;8
+r;102123600;55572;4896415;140;8
+r;102123596;55572;4896414;140;8
+r;285090716;55572;439521;999;8
+r;34647873;55572;2346169;0;7
+r;104955744;55572;95126;15;7
+r;15969364;55572;445405;128;7
+r;15970464;55572;445680;128;7
+r;15970468;55572;445681;128;7
+r;34697593;55572;2348415;0;6
+r;315186615;55572;74736;0;6
+r;24929411;55572;109533;10;6
+r;104951442;55572;1803620;15;6
+r;104424813;55572;146357;32;6
+r;434478607;55572;16521928;140;6
+r;283117140;55572;62735;0;5
+r;429269024;55572;14923894;0;5
+r;472505697;55572;3763568;0;5
+r;24929410;55572;123418;6;5
+r;24929412;55572;109533;15;5
+r;22291372;55572;1196180;128;5
+r;22291376;55572;1196181;128;5
+r;22291437;55572;1196196;128;5
+r;22291445;55572;1196198;128;5
+r;284058215;55572;232408;999;5
+r;284058314;55572;232406;999;5
+r;285380859;55572;5372134;999;5
+r;285380913;55572;5372135;999;5
+r;285380968;55572;5372122;999;5
+r;285381009;55572;1972669;999;5
+r;285381072;55572;1972667;999;5
+r;34766959;55572;2352221;0;4
+r;24930623;55572;217556;6;4
+r;10049256;55572;251390;10;4
+r;310734259;55572;613178;10;4
+r;23781184;55572;215041;999;4
+r;443086510;55572;15224383;10;3
+r;253549929;55572;314137;15;3
+r;15962843;55572;443776;128;3
+r;15970148;55572;445601;128;3
+r;22291338;55572;1196172;128;3
+r;22291346;55572;1196174;128;3
+r;22291350;55572;1196175;128;3
+r;22291354;55572;1196176;128;3
+r;22291358;55572;1196177;128;3
+r;22291362;55572;1196178;128;3
+r;22291366;55572;1196179;128;3
+r;22291380;55572;1196182;128;3
+r;22291385;55572;1196183;128;3
+r;22291389;55572;1196184;128;3
+r;22291393;55572;1196185;128;3
+r;22291397;55572;1196186;128;3
+r;22291401;55572;1196187;128;3
+r;22291405;55572;1196188;128;3
+r;22291409;55572;1196189;128;3
+r;22291413;55572;1196190;128;3
+r;22291417;55572;1196191;128;3
+r;22291421;55572;1196192;128;3
+r;22291425;55572;1196193;128;3
+r;22291429;55572;1196194;128;3
+r;22291433;55572;1196195;128;3
+r;22291449;55572;1196199;128;3
+r;22291453;55572;1196200;128;3
+r;456362539;55572;17110993;128;3
+r;1819307;55572;140100;666;3
+r;98807721;55572;212524;0;2
+r;97888569;55572;168216;6;2
+r;3182045;55572;132479;106;2
+r;34723309;55572;2351086;140;2
+r;86400044;55572;3375855;140;2
+r;98293988;55572;4315491;140;2
+r;1789183;55572;153902;666;2
+r;1819308;55572;151972;666;2
+r;53790009;55572;395094;999;2
+r;285492475;55572;215814;999;2
+r;285492583;55572;2952972;999;2
+r;285492692;55572;2952974;999;2
+r;285492799;55572;2952975;999;2
+r;285492908;55572;2952985;999;2
+r;285493017;55572;2952986;999;2
+r;285493100;55572;215813;999;2
+r;285493301;55572;215811;999;2
+r;285493401;55572;215812;999;2
+r;312397858;55572;187535;17;1
+r;2456365;55572;215037;24;1
+r;2456366;55572;212523;24;1
+r;3182046;55572;145583;106;1
+r;3182047;55572;110252;106;1
+r;34714326;55572;2350232;128;1
+r;289211673;55572;11302066;128;1
+r;345400536;55572;13627956;128;1
+r;349292908;55572;13812479;128;1
+r;372424552;55572;14653015;128;1
+r;381945322;55572;14780640;128;1
+r;24942667;55572;1525846;140;1
+r;86399825;55572;3375852;140;1
+r;86399870;55572;3375853;140;1
+r;86400301;55572;3375858;140;1
+r;86596415;55572;3379046;140;1
+r;276964429;55572;10969341;140;1
+r;282452548;55572;11123862;140;1
+r;94331360;55572;3949762;444;1
+r;94590660;55572;4237960;444;1
+r;1789184;55572;65364;666;1
+r;1789185;55572;47887;666;1
+r;1789186;55572;152432;666;1
+r;1789187;55572;212523;666;1
+r;1795113;55572;143123;666;1
+r;1795114;55572;47417;666;1
+r;1819309;55572;60;666;1
+r;1819310;55572;215810;666;1
+r;1866331;55572;86356;666;1
+r;1866332;55572;153936;666;1
+r;359742040;55572;11222300;999;1
+r;359742146;55572;11222301;999;1
+r;359742269;55572;11222302;999;1
+r;359742392;55572;11222303;999;1
+r;8933458;55572;317329;36;0
+r;15659217;55572;152552;3;-20
+r;34532106;55572;95256;9;-25
+r;34532107;55572;394791;9;-25
+r;54237753;55572;226396;17;-32
+r;96383237;55572;111040;5;-42
+r;12123812;55572;261738;10;-51
+r;12123805;55572;140100;10;-71
+
+// END
+</code>]

@@ -1,0 +1,36 @@
+[<code>
+// DUMP pour le terme 'Titanic' (eid=49539)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Titanic est une romance dramatique américaine écrite, produite et réalisée par James Cameron, sortie en 1997.<br>
+2. Titanic est un film allemand d'Herbert Selpin et Werner Klingler sorti en 1943.<br>
+3. Titanic est une mini-série télévisée en quatre épisodes créée par Nigel Stafford-Clark, écrite par Julian Fellowes, diffusée en 2012. Cent ans après, cette série met en scène le naufrage du Titanic qui a eu lieu le 15 avril 1912.<br>
+4. Le naufrage du Titanic a été une importante source d'inspiration pour le cinéma et la télévision. L'histoire de ce paquebot transatlantique ayant heurté un iceberg lors de sa traversée inaugurale et ayant fait naufrage dans l'Atlantique Nord a en effet entraîné la réalisation de plus de dix films, non seulement aux États-Unis et au Royaume-Uni, mais également en Allemagne et en Italie.<br>
+5. Le RMS Titanic est un paquebot transatlantique britannique de la White Star Line construit à l'initiative de Joseph Bruce Ismay en 1907. Il a été conçu par les architectes Alexander Montgomery Carlisle et Thomas Andrews des chantiers navals Harland &amp; Wolff. Sa construction débute en 1909 à Belfast et se termine en 1912. C'est à l'époque le plus luxueux et le plus grand paquebot jamais construit. Il appartient à la classe Olympic avec ses deux sister-ships, l'Olympic et le Britannic. La coque du Titanic est pourvue de seize compartiments étanches servant à protéger le navire en cas de voies d'eau ou d'avaries importantes, ce qui lui donna la réputation de paquebot « insubmersible » et conduit les médias contemporains à le présenter comme l'un des navires les plus sûrs.<br>
+6. Titanic est un film catastrophe épique américain écrit, produit et réalisé par James Cameron, sorti en 1997. Intégrant à la fois des aspects historiques et fictionnels, le film est basé sur le récit du naufrage du RMS Titanic et met en vedette Leonardo DiCaprio et Kate Winslet.<br>
+7. Titanic est un film dramatique américain écrit, produit et réalisé par James Cameron, sorti en 1997.<br>
+8. Le RMS Titanic est un paquebot transatlantique britannique qui fait naufrage dans l'océan Atlantique Nord en 1912 à la suite d'une collision avec un iceberg, lors de son voyage inaugural de Southampton à New York. Entre 1 490 et 1 520 personnes trouvent la mort, ce qui fait de cet événement l'une des plus grandes catastrophes maritimes survenues en temps de paix et la plus grande pour l'époque.<br>
+9. Titanic est un film catastrophe américain réalisé par Jean Negulesco, sorti en 1953. Il relate les histoires de différents personnages fictifs au cours du naufrage du paquebot Titanic survenu le 15 avril 1912. Cette superproduction hollywoodienne bénéficie d'effets spéciaux audacieux pour l'époque, et remporte l'Oscar du meilleur scénario original. Il est cependant peu fidèle à la réalité, surtout en comparaison à Atlantique, latitude 41°, autre film consacré au sujet, qui sort cinq ans plus tard.
+</br></br></br></br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;49539;'Titanic';1;124
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 0 relations sortantes 
+
+
+// END
+</code>]

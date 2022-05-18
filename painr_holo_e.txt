@@ -1,0 +1,153 @@
+[<code>
+// DUMP pour le terme 'pain' (eid=61283)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Le pain est l'aliment de base traditionnel de nombreuses cultures. Il est fabriqué à partir de farine et d'eau et contient généralement du sel. D'autres ingrédients s'ajoutent selon le type de pain et la manière dont il est préparé culturellement. Lorsqu'on ajoute le levain ou la levure, la pâte du pain est soumise à un gonflement dû à la fermentation.
+</br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;61283;'pain';1;3616
+e;119014;'boulangerie';1;1438
+e;1447;'sandwich';1;1034
+e;74736;'repas';1;3791
+e;25337;'tartine';1;676
+e;302927;'croquemadame';777;50
+e;217162;'sandwich grillé';1;60
+e;378539;'sandwich au jambon';1;50
+e;223411;'pan-bagnat';666;50
+e;217163;'sandwich chaud';1;112
+e;1371375;'mélange sucré salé';1;10
+e;1136712;'sandwich&gt;20965';1;26;'sandwich&gt;nourriture'
+e;138357;'burger';1;148
+e;218388;'jambon fromage';1;56
+e;437433;'sandwich pour pique-nique';1;50
+e;291052;'sandwich grec';777;50
+e;571456;'sandwich ouvert';777;50
+e;378540;'sandwich aux rillettes';1;50
+e;1569828;'jambon fromage&gt;1447';1;0;'jambon fromage&gt;sandwich'
+e;1525814;'Double Cheese';1;0
+e;271719;'sandwich sous-marin';1;50
+e;577677;'jambon fromage&gt;146885';1;0;'jambon fromage&gt;Nom:Mas+SG'
+e;21742;'hamburger';1;482
+e;437930;'hot-dog Michigan';1;50
+e;15384541;'en:French toast, eggy bread';1;0
+e;15663240;'en:grilled ham and cheese sandwich with an egg';1;0
+e;15663239;'en:toasted ham and cheese sandwich with an egg';1;0
+e;15663238;'en:croque-madame';1;0
+e;9101783;'véritable fondue savoyarde';1;0
+e;177275;'pain perdu';1;64
+e;119713;'croque-madame';1;82
+e;330857;'burger&gt;21742';1;64;'burger&gt;hamburger'
+e;3744053;'véritable fondue Savoyarde';1;0
+e;14915933;'falafel&gt;1447';1;0;'falafel&gt;sandwich'
+e;308165;'pan bagnat';777;52
+e;61802;'mitraillette';1;170
+e;216936;'panini';1;76
+e;153554;'sandwich américain';1;52
+e;1136803;'sandwich jambon-beurre';1;0
+e;15062312;'en:beefburger';1;0
+e;8052392;'en:burger';1;0
+e;15146254;'en:ham sandwich';1;0
+e;217141;'boeuf haché';1;62
+e;14941467;'en:hamburger';1;0
+e;2475310;'pain bagnat';1;0
+e;15252759;'aliments bio';1;0
+e;7123648;'en:organic food';1;0
+e;229462;'Long Fish';1;10
+e;100307;'hot-dog';1;140
+e;226266;'kébab';1;22
+e;284895;'Whopper';666;50
+e;317757;'salade au chèvre chaud';1;2
+e;26201;'goûter';1;918
+e;15054599;'en:ground beef';1;0
+e;8061837;'en:minced beef';1;0
+e;191722;'steak haché';1;208
+e;322821;'alimentation biologique';1;52
+e;322820;'alimentation bio';1;50
+e;6398107;'aliments biologiques';1;0
+e;9190;'four';1;2415
+e;112386;'sachet';1;280
+e;40635;'sac';1;2235
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 61 relations sortantes 
+
+r;175393;61283;119014;10;103
+r;197227;61283;1447;10;63
+r;215912;61283;74736;10;60
+r;215909;61283;25337;10;60
+r;68538704;61283;302927;10;43
+r;96715949;61283;217162;10;39
+r;96715951;61283;378539;10;35
+r;96715943;61283;223411;10;35
+r;21877737;61283;217163;10;35
+r;24521144;61283;1371375;10;32
+r;96715940;61283;1136712;10;31
+r;28517502;61283;138357;10;31
+r;96715950;61283;218388;10;30
+r;96715947;61283;437433;10;30
+r;96715946;61283;291052;10;30
+r;96715938;61283;571456;10;30
+r;96715928;61283;378540;10;29
+r;28028087;61283;1569828;10;29
+r;25149966;61283;1525814;10;29
+r;96715929;61283;271719;10;27
+r;96715927;61283;577677;10;27
+r;11003712;61283;21742;10;27
+r;20751536;61283;437930;10;26
+r;431503563;61283;15384541;10;25
+r;402599791;61283;15663240;10;25
+r;402599785;61283;15663239;10;25
+r;402599779;61283;15663238;10;25
+r;383580703;61283;9101783;10;25
+r;11024664;61283;177275;10;25
+r;9996541;61283;119713;10;25
+r;96715907;61283;330857;10;16
+r;93770512;61283;3744053;10;16
+r;402912580;61283;14915933;10;15
+r;402912579;61283;308165;10;15
+r;402912578;61283;61802;10;15
+r;402912577;61283;216936;10;15
+r;96715924;61283;153554;10;15
+r;96715919;61283;1136803;10;15
+r;418981889;61283;15062312;10;13
+r;418981814;61283;8052392;10;13
+r;473918757;61283;15146254;10;10
+r;473918755;61283;217141;10;10
+r;413249071;61283;14941467;10;10
+r;105670504;61283;2475310;10;10
+r;397079820;61283;15252759;10;9
+r;397079836;61283;7123648;10;9
+r;12790358;61283;229462;10;9
+r;438492024;61283;100307;10;8
+r;12785432;61283;226266;10;7
+r;12784163;61283;284895;10;7
+r;116628101;61283;317757;10;6
+r;10005135;61283;26201;10;4
+r;418982023;61283;15054599;10;-1
+r;418982014;61283;8061837;10;-1
+r;418981808;61283;191722;10;-1
+r;10986949;61283;322821;10;-17
+r;10986927;61283;322820;10;-17
+r;401297803;61283;6398107;10;-25
+r;394322;61283;9190;10;-49
+r;394321;61283;112386;10;-59
+r;394320;61283;40635;10;-59
+
+// END
+</code>]

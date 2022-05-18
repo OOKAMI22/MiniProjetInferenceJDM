@@ -1,0 +1,77 @@
+[<code>
+// DUMP pour le terme 'nager' (eid=20911)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;20911;'nager';1;1388
+e;254642;'faire des longueurs';1;4
+e;256933;'nager le crawl';1;50
+e;256934;'nager la brasse';1;52
+e;14355220;'::&gt;13:237687&gt;29:20911';8;0;'nager [sujet] nageurs'
+e;14355222;'::&gt;31:146105&gt;29:20911';8;0;'nager [endroit] mer'
+e;14355225;'::&gt;31:33976&gt;29:20911';8;0;'nager [endroit] lac'
+e;14355228;'::&gt;31:49154&gt;29:20911';8;0;'nager [endroit] rivière'
+e;14386123;'::&gt;13:68439&gt;29:20911';8;0;'nager [sujet] individu'
+e;14386141;'::&gt;13:244993&gt;29:20911';8;0;'nager [sujet] collégiens'
+e;14386143;'::&gt;31:158024&gt;29:20911';8;0;'nager [endroit] piscine municipale'
+e;14386146;'::&gt;13:219800&gt;29:20911';8;0;'nager [sujet] écoliers'
+e;14388683;'::&gt;13:61490&gt;29:20911';8;0;'nager [sujet] femme'
+e;14388688;'::&gt;31:9664&gt;29:20911';8;0;'nager [endroit] océan'
+e;14388691;'::&gt;31:69943&gt;29:20911';8;0;'nager [endroit] fleuve'
+e;14400770;'::&gt;13:68467&gt;29:20911';8;0;'nager [sujet] poisson'
+e;14549224;'::&gt;13:124094&gt;29:20911';8;0;'nager [sujet] enfant'
+e;15207807;'en:do the crawl';1;0
+e;15207789;'en:to do the breaststroke';1;0
+e;15229501;'en:swim breast-stroke';1;0
+e;15563976;'en:do the breaststroke';1;0
+e;15806487;'::&gt;13:136624&gt;29:20911';8;0;'nager [sujet] alligator'
+e;14386125;'::&gt;31:134474&gt;29:20911';8;0;'nager [endroit] piscine'
+e;16559845;'::&gt;13:34527&gt;29:20911';8;0;'nager [sujet] enfants'
+e;5635158;'In culo alla balena';777;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 24 relations sortantes 
+
+r;9769845;20911;254642;8;54
+r;13180392;20911;256933;8;35
+r;14041416;20911;256934;8;32
+r;376305095;20911;14355220;8;25
+r;376305093;20911;14355222;8;25
+r;376305090;20911;14355225;8;25
+r;376305087;20911;14355228;8;25
+r;376284682;20911;14386123;8;25
+r;376284674;20911;14386141;8;25
+r;376284672;20911;14386143;8;25
+r;376284669;20911;14386146;8;25
+r;376283291;20911;14388683;8;25
+r;376283290;20911;14388688;8;25
+r;376283287;20911;14388691;8;25
+r;376278385;20911;14400770;8;25
+r;370074268;20911;14549224;8;23
+r;419356257;20911;15207807;8;5
+r;419326836;20911;15207789;8;5
+r;419326835;20911;15229501;8;5
+r;419326834;20911;15563976;8;5
+r;420053540;20911;15806487;8;3
+r;370074272;20911;14386125;8;3
+r;435539727;20911;16559845;8;1
+r;262782555;20911;5635158;8;-25
+
+// END
+</code>]

@@ -1,0 +1,126 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "87987": {
+            "name": "'France'",
+            "type": "1",
+            "w": "4535"
+        },
+        "183372": {
+            "name": "'noblesse de robe'",
+            "type": "1",
+            "w": "20"
+        },
+        "202455": {
+            "name": "'justice retenue'",
+            "type": "1",
+            "w": "50"
+        },
+        "202452": {
+            "name": "'justice d\u00e9l\u00e9gu\u00e9e'",
+            "type": "1",
+            "w": "50"
+        },
+        "13655959": {
+            "name": "'exporte de l'armement'",
+            "type": "777",
+            "w": "0"
+        },
+        "14563063": {
+            "name": "'La France Continue'",
+            "type": "777",
+            "w": "0"
+        },
+        "288932": {
+            "name": "'Fort-Royal'",
+            "type": "777",
+            "w": "50"
+        },
+        "14755844": {
+            "name": "'standard officiel des volailles'",
+            "type": "777",
+            "w": "0"
+        },
+        "11162235": {
+            "name": "'agent judiciaire de l'\u00c9tat'",
+            "type": "777",
+            "w": "0"
+        },
+        "462490": {
+            "name": "'fraise des bois&gt;146781'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'fraise des bois&gt;Fran\u00e7ois Hollande'"
+        }
+    },
+    "r": {
+        "376240456": {
+            "node1": "87987",
+            "node2": "183372",
+            "type": "8",
+            "w": "25"
+        },
+        "373520320": {
+            "node1": "87987",
+            "node2": "202455",
+            "type": "8",
+            "w": "25"
+        },
+        "373520319": {
+            "node1": "87987",
+            "node2": "202452",
+            "type": "8",
+            "w": "25"
+        },
+        "349606040": {
+            "node1": "87987",
+            "node2": "13655959",
+            "type": "8",
+            "w": "25"
+        },
+        "370059464": {
+            "node1": "87987",
+            "node2": "14563063",
+            "type": "8",
+            "w": "22"
+        },
+        "374068311": {
+            "node1": "87987",
+            "node2": "288932",
+            "type": "8",
+            "w": "5"
+        },
+        "376131242": {
+            "node1": "87987",
+            "node2": "14755844",
+            "type": "8",
+            "w": "1"
+        },
+        "285900272": {
+            "node1": "87987",
+            "node2": "11162235",
+            "type": "8",
+            "w": "-5"
+        },
+        "28899731": {
+            "node1": "87987",
+            "node2": "462490",
+            "type": "8",
+            "w": "-37"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

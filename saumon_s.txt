@@ -1,0 +1,5021 @@
+[<code>
+// DUMP pour le terme 'saumon' (eid=3361)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;8;'n_chunk'
+nt;9;'n_question'
+nt;36;'n_data_pot'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;3361;'saumon';1;432
+e;175647;'Ichthyologie';1;50
+e;106404;'ichtyologie';1;128
+e;406521;'Épinard';1;50
+e;109803;'épinard';1;120
+e;68467;'poisson';1;7106
+e;139578;'muscle';1;2147
+e;6880460;'en:muscle';1;8
+e;47319;'colonne vertébrale';1;362
+e;8535678;'en:spine';1;0
+e;177298;'saumon fumé';1;38
+e;6797262;'en:vertebral column';1;0
+e;264067;'saumon d'élevage';1;8
+e;213387;'saumon&gt;68467';1;68;'saumon&gt;poisson'
+e;213792;'coeur&gt;213791';1;186;'coeur&gt;organe musculaire'
+e;6800176;'en:heart';1;0
+e;114327;'acide désoxyribonucléique';1;140
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;14918011;'en:DNA';1;0
+e;191611;'omble de fontaine';1;52
+e;213260;'saumon du Pacifique';1;50
+e;249228;'saumon mariné';1;4
+e;191613;'truite mouchetée';1;50
+e;143669;'vertébrés';1;80
+e;113628;'ouananiche';1;50
+e;6947917;'en:vertebrata';1;0
+e;191612;'saumon de fontaine';1;50
+e;222553;'saumon atlantique';1;2
+e;9107106;'en:salmon, pink';1;0
+e;269722;'saumon rose';1;50
+e;286459;'pavé de saumon';1;52
+e;286472;'darne de saumon';1;74
+e;264070;'rillettes de saumon';1;50
+e;311461;'gravelax de saumon';777;50
+e;269614;'rose saumon';1;4
+e;191294;'requin saumon';1;50
+e;207513;'saumon de fonte';1;50
+e;213259;'saumon de l'Atlantique';1;50
+e;264056;'saumon frais';1;50
+e;264619;'oeuf de saumon';1;50
+e;264621;'oeufs de saumon';1;52
+e;284528;'saumon rose à bosse';777;50
+e;286456;'carpaccio de saumon';1;2
+e;286461;'saumon sauvage';1;54
+e;286463;'saumon à l'oseille';1;50
+e;286466;'saumon argenté';1;50
+e;286468;'pages saumon';1;50
+e;286473;'pêche au saumon';1;50
+e;307539;'lactaire couleur de saumon';777;50
+e;2491227;'saumon à bosse';1;0
+e;170440;'lactaire couleur saumon';1;50
+e;53086;'dévalaison';1;50
+e;6947697;'en:salmon';1;0
+e;49154;'rivière';1;3775
+e;1973298;'tartare de saumon';1;0
+e;74082;'nageoire';1;316
+e;15238417;'en:salmon tartar';1;0
+e;14960400;'en:salmon pink';1;0
+e;15204635;'rose saumoné';1;0
+e;217014;'sashimi';1;76
+e;2368352;'oncorhynchus nerka';777;0
+e;11957799;'Oncorhynchus nerka';777;0
+e;348649;'dé de saumon';1;50
+e;264357;'shashimi';1;50
+e;365264;'mousse de saumon';1;50
+e;437034;'filet de saumon';1;50
+e;263322;'pâtes fraîches';1;56
+e;15220148;'en:fresh pasta';1;0
+e;15238415;'en:salmon filet';1;0
+e;355569;'fumerie de saumon';1;50
+e;152629;'animal marin';1;244
+e;378766;'saumon norvégien';1;54
+e;392679;'pou du saumon';1;50
+e;105678;'carpaccio';1;212
+e;378767;'saumon écossais';1;50
+e;352309;'escalope de saumon';1;50
+e;15083686;'en:sea animal';1;0
+e;14334456;'::&gt;13:3361&gt;29:18699';8;0;'remonter [sujet] saumon'
+e;15014185;'::&gt;14:3361&gt;29:30536';8;0;'faire cuire [objet] saumon'
+e;3370422;'tarte au saumon';1;0
+e;3752866;'darnes de saumon';1;0
+e;15203199;'en:salmon tart';1;0
+e;15284576;'en:salmon steaks';1;0
+e;15083684;'en:marine animal';1;0
+e;1816244;'colonne rachidienne';1;0
+e;150367;'salmonidé';1;60
+e;16779;'zakouski';1;56
+e;392519;'salmoniforme';1;50
+e;15014186;'::&gt;66:3361&gt;26:30536';8;0;'saumon [se faire] faire cuire'
+e;3746005;'salade de pennes au saumon fumé';1;0
+e;3745869;'terrine de saumon aux petits pois';1;0
+e;3745089;'roulés de saumon fumé à la crème fraîche';1;0
+e;3745323;'flan au saumon et à la ciboulette';1;0
+e;3744717;'tagliatelles au saumon fumé et au champagne';1;0
+e;3746690;'pavé de saumon grillé à la poêle';1;0
+e;6752145;'miettes de crabe';1;0
+e;21031;'saumoné';1;54
+e;3745062;'quiche saumon et figues';1;0
+e;3744995;'lasagnes au saumon et aux épinards';1;0
+e;3743677;'rillettes de saumon frais';1;0
+e;3746164;'verrines de saumon fumé à la crème de raifort';1;0
+e;3744331;'bouchées au saumon fumé';1;0
+e;3368020;'quiche saumon champignons';1;0
+e;15225855;'en:flaked crab';1;0
+e;15427203;'en:salmon-pink';1;0
+e;3745529;'quiche saumon poireaux';1;0
+e;3745044;'lasagnes au saumon et aux asperges vertes';1;0
+e;3746847;'crumble de saumon à la noix de coco';1;0
+e;3745006;'samoussas au saumon et aux poireaux';1;0
+e;3743698;'crème au saumon fumé à tartiner';1;0
+e;3745423;'mini quiches renversées au saumon fumé';1;0
+e;3746531;'pavés de saumon à la sauce hollandaise';1;0
+e;3745203;'lasagnes au saumon fumé et à la tomate';1;0
+e;3745902;'rillettes de saumon minute';1;0
+e;3745105;'blinis et saumon fumé à l'aneth';1;0
+e;3746225;'pâte à tartiner de saumon fumé';1;0
+e;3745114;'petites tartines au saumon fumé et concombre';1;0
+e;3745467;'darnes de saumon à la poêle';1;0
+e;3744817;'cake saumon fumé citron et chèvre';1;0
+e;3744439;'lasagnes au saumon fumé';1;0
+e;3744061;'tagliatelles au saumon fumé';1;0
+e;3744929;'lasagnes au saumon fumé et whisky';1;0
+e;3744079;'cake au saumon fumé';1;0
+e;3743657;'salade au saumon fumé dans son avocat';1;0
+e;3746796;'tarte au saumon à la sauge et au comté';1;0
+e;3746426;'chouquettes au saumon fumé et à l'aneth';1;0
+e;3743937;'papillotes de saumon au four';1;0
+e;3368001;'quiche mascarpone au saumon fumé';1;0
+e;3367905;'quiche au saumon et champignons';1;0
+e;3223089;'escalope de saumon à l'oseille';1;0
+e;3318801;'feuilleté rapide au saumon fumé';1;0
+e;3318659;'tortellini courgette saumon et basilic';1;0
+e;114984;'branchies';1;94
+e;3745240;'aumônières de saumon aux épinards';1;0
+e;3744178;'soupe de pommes de terre au saumon fumé';1;0
+e;3745108;'petits choux à la mousse de saumon fumé';1;0
+e;3745745;'quiche au saumon fumé';1;0
+e;3743794;'verrines de lentilles au saumon fumé';1;0
+e;3743986;'tartare de saumon frais au citron vert';1;0
+e;3743686;'carpaccio d'avocat et de saumon crème à la vodka';1;0
+e;3744258;'salade de concombre et saumon fumé à l'asiatique';1;0
+e;3744252;'pâtes au Pesto et saumon fumé';1;0
+e;3743992;'salade de pâtes aux asperges et au saumon fumé';1;0
+e;3745064;'pavés de saumon à l'aigre-douce';1;0
+e;3746878;'tarte au saumon fumé et aux pointes d'asperges';1;0
+e;3744128;'tartelettes au saumon fumé';1;0
+e;3743950;'cuillères d'Isa au saumon fumé avec sauce raifort';1;0
+e;3744904;'verrine saumon fumé et concombre';1;0
+e;3744545;'tarte au saumon sans pâte';1;0
+e;3745256;'oeufs cocotte au saumon fumé';1;0
+e;3368021;'quiche saumon crevette';1;0
+e;3367904;'quiche au saumon et au cantal';1;0
+e;3367902;'quiche au saumon à l'oseille';1;0
+e;3318442;'brochettes de saumon et truite fumée';1;0
+e;14334457;'::&gt;66:3361&gt;24:18699';8;0;'saumon [peut] remonter'
+e;14334460;'::&gt;66:3361&gt;24:14334458';8;0;'saumon [peut] remonter [objet] rivière'
+e;3746282;'quiche au saumon aux oignons et au raifort';1;0
+e;3745774;'salade de pâtes au saumon fumé';1;0
+e;3746034;'blinis au sarrasin et saumon fumé';1;0
+e;3745583;'duo d'avocat et de saumon fumé';1;0
+e;3746862;'salade verte au saumon fumé et aux ufs de caille';1;0
+e;3745369;'filets de saumon au vinaigre balsamique';1;0
+e;3746363;'tagliatelles au saumon fumé et aux asperges';1;0
+e;3743709;'bouchées au saumon fumé avocat et pamplemousse';1;0
+e;3746281;'avocats mousse de saumon fumé';1;0
+e;3745488;'tagliatelles au saumon et aux épinards frais';1;0
+e;3746537;'mousse de saumon fumé au citron vert';1;0
+e;3744574;'gondoles d'endives au saumon fumé';1;0
+e;3367948;'quiche aux poireaux et saumon frais';1;0
+e;3367906;'quiche au saumon frais et à la courgette';1;0
+e;3759353;'tartare de saumon aux agrumes sur lit de poireau en vinaigrette acidulée';1;0
+e;3318742;'oeufs cocotte au saumon fumé gratinés';1;0
+e;3318593;'galette de blé noir au saumon et graines de sésame';1;0
+e;3318525;'spaghettis au saumon fumé';1;0
+e;3318834;'blanquette de saumon aux moules';1;0
+e;146872;'eau douce';1;198
+e;3744365;'cake au saumon et aux poireaux';1;0
+e;3746461;'quiche au saumon fumé et à la fondue de poireaux';1;0
+e;3745543;'crudités et ufs mayonnaise au saumon fumé';1;0
+e;3744597;'curry de saumon au chutney de fruit';1;0
+e;3743917;'quiche au saumon et à la tomate';1;0
+e;3745864;'risotto de quinoa aux asperges et au saumon fumé';1;0
+e;3744510;'petits choux au tartare de saumon fumé';1;0
+e;3744152;'salade de pâtes au concombre et au saumon fumé';1;0
+e;3744105;'salade hawaïenne au saumon fumé';1;0
+e;3746385;'verrine saumon fumé et avocat';1;0
+e;3746395;'verrines de saumon et ufs';1;0
+e;3368022;'quiche saumon féta';1;0
+e;2447;'truite';1;424
+e;6912844;'en:fresh water';1;0
+e;12321907;'en:eukaryote';1;0
+e;14925035;'en:gills';1;0
+e;15238411;'en:farmed salmon';1;0
+e;166115;'::&gt;13:74860&gt;29:26507&gt;14';9;50;'Qu'est-ce qu'un homme pourrait pêcher ?'
+e;328670;'::&gt;13:74860&gt;29:26507';8;50;'pêcher [sujet] homme'
+e;3744973;'muffins salés à la crème de saumon fumé';1;0
+e;3745667;'quiche saumon fumé';1;0
+e;3743712;'terrine de saumon sauce à l'estragon';1;0
+e;3744953;'cuillères de saumon au gingembre';1;0
+e;3745696;'cake au saumon et à la courgette';1;2
+e;3746139;'papillotes de saumon aux poireaux';1;0
+e;3744193;'frittata au saumon fumé';1;0
+e;3745948;'tarte feuilletée au saumon fumé';1;0
+e;3744737;'lasagnes au saumon fumé et à la crème fraiche';1;0
+e;3746863;'verrines au cottage cheese et saumon fumé';1;0
+e;3367862;'quiche à la choucroute et au saumon fumé';1;0
+e;3745641;'soupe de lentilles au saumon fumé';1;0
+e;3746814;'mini cakes au saumon fumé et à l'aneth';1;0
+e;3746771;'tarte saumon et aux poireaux';1;0
+e;3746151;'tagliatelles au saumon fumé et au brocoli';1;0
+e;3745271;'papillotes de saumon teriyaki';1;0
+e;3746846;'tiramisu de saumon fumé et à l'avocat';1;0
+e;3371607;'tourte au saumon';1;0
+e;12876;'allergène';1;194
+e;3744714;'tagliatelles aux tomates et saumon fumé';1;0
+e;3745717;'petites pizzas au saumon fumé';1;0
+e;3745007;'sushi au saumon fumé';1;0
+e;54794;'eucaryote';1;194
+e;143757;'art culinaire';1;848
+e;3744159;'saumon en papillote';1;22
+e;7012843;'en:allergen';1;0
+e;3745957;'salade verte au saumon fumé';1;0
+e;3318595;'ravioles de saumon à l'aneth';1;0
+e;213389;'saumon&gt;40056';1;50;'saumon&gt;couleur'
+e;3744782;'filets de saumon au four';1;0
+e;3367931;'quiche aux épinards, chèvre et saumon';1;0
+e;15281195;'en:branchiae';1;0
+e;15100594;'en:culinary art';1;6
+e;156064;'art de la table';1;82
+e;15238416;'en:salmon pie';1;0
+e;182207;'échelle à poissons';1;50
+e;130912;'smolt';1;50
+e;3318592;'verrine coquillettes, avocat, saumon fumé';1;0
+e;258998;'plat de poisson';1;92
+e;3362048;'feuilleté de saint-jacques au saumon';1;0
+e;8125649;'en:pizza';1;0
+e;14934498;'en:fish ladder';1;0
+e;15064181;'en:Salvelinus fontinalis';1;0
+e;35999;'fumer';1;1238
+e;7305916;'en:fromage frais';1;0
+e;13065;'salmonidés';1;60
+e;109533;'pizza';1;602
+e;3318599;'chicon, endive, sauce au saumon fumé';1;0
+e;99220;'hétérotrophe';1;68
+e;1906688;'tartare de loup et saumon';1;0
+e;3318867;'salade Wafu au saumon';1;0
+e;22253;'fromage frais';1;110
+e;75350;'bécard';1;52
+e;173529;'beccard';1;50
+e;6948544;'en:salmonidae';1;0
+e;11405719;'heart';1;0
+e;10314012;'en:heterotroph';1;0
+e;16614;'poissonnerie';1;224
+e;30536;'faire cuire';1;180
+e;1906695;'tarte au saumon et aux épinards';1;0
+e;3369179;'salade wafu au saumon';1;0
+e;3746843;'saumon au four pané aux noix de Pecan';1;0
+e;3754942;'pavés de saumon';1;0
+e;32791;'arête';1;162
+e;152711;'nageoires';1;88
+e;258954;'poisson comestible';1;50
+e;126343;'pisciculture';1;156
+e;9980133;'aimer le poisson';1;0
+e;286457;'élevage de saumons';1;50
+e;269215;'prendre du poisson';1;50
+e;183577;'passe à poissons';1;50
+e;120157;'règne animal';1;102
+e;18699;'remonter';1;1950
+e;14334458;'::&gt;14:49154&gt;29:18699';8;0;'remonter [objet] rivière'
+e;25421;'saumonelle';1;50
+e;171025;'truite de rivière';1;2
+e;325728;'uniconte';1;42
+e;325738;'filozoaire';1;84
+e;234036;'être vivant&gt;123933';1;258;'être vivant&gt;entité'
+e;65081;'organisme vivant';1;146
+e;225847;'organisme&gt;71624';1;98;'organisme&gt;être vivant'
+e;260820;'entité vivante';1;64
+e;237445;'être&gt;68439';1;32;'être&gt;individu'
+e;437359;'poêlée de saumon';1;50
+e;465056;'saumon kéta';777;50
+e;3372060;'verrines de saumon fumé au mascarpone';1;0
+e;3372037;'verrines avocat saumon tomates';1;0
+e;3372001;'verrine de saumon en cheese cake';1;0
+e;3371871;'velouté de chou fleur à la moutarde et ses canapés de saumon fumé';1;0
+e;3371669;'tourte de saumon aux endives';1;0
+e;3371613;'tourte au saumon, thon et poireaux';1;0
+e;3371305;'terrine de saumon aux parfums d'agrumes';1;0
+e;3371302;'terrine de saumon au riz';1;0
+e;3371267;'terrine de poisson blanc et saumon fumé';1;0
+e;3371198;'terrine bicolore épinard saumon';1;0
+e;3371020;'tarte saumon légumes';1;0
+e;3371013;'tarte salée saumon courgettes mascarpone';1;0
+e;3370425;'tarte au saumon et aux poireaux';1;0
+e;3370424;'tarte au saumon et aux endives d'hélène';1;0
+e;3370182;'tartare de saumon sur lit d'aubergines';1;0
+e;3370176;'tartare de saumon à la thaï';1;0
+e;3369993;'suprême de saumon à la tomate';1;0
+e;3369933;'steack de saumon rapide';1;0
+e;3369324;'saumon sur lit de tomates-poivrons';1;0
+e;3369319;'saumon poché en gelée';1;0
+e;3369305;'saumon et pétoncles sur lit d'épinards';1;0
+e;3369303;'saumon entier farci aux fruits de mer';1;0
+e;3369294;'saumon avec crevettes sauce soja';1;0
+e;3369285;'saumon au miel et à l'estragon';1;0
+e;3369283;'saumon au four, tomates et courgettes';1;0
+e;3369277;'saumon au curry et épinards... au micro-ondes!';1;0
+e;3369270;'saumon à la sauce soja et purée de patate douce';1;0
+e;3368812;'salade de farfalles au saumon';1;0
+e;3368573;'roulés au saumon';1;0
+e;3368552;'rouleaux de printemps au saumon';1;0
+e;3368138;'raviolis maison au saumon et champignons';1;0
+e;3366940;'pizza au saumon fumé';1;0
+e;3366640;'pavés de saumon en croûte parmentière';1;0
+e;3366615;'pavé de saumon au chèvre chaud et miel en papillote';1;0
+e;3366213;'papillote de saumon et sa compotée de petits légumes';1;0
+e;3366164;'panequets de saumon fumé au fenouil';1;0
+e;3366054;'pain de poisson, lieu jaune et saumon';1;0
+e;3365361;'chicon, endive sauce au saumon fumé';1;0
+e;3365289;'cake au saumon, fromage et herbes';1;0
+e;3364913;'nems de saumon sauce mangue';1;0
+e;3364754;'mousse de saumon fumé aux oeufs de saumon';1;0
+e;3364729;'mousse de concombre en habit de saumon';1;0
+e;3364723;'mousse d'avocat au citron et saumon fumé';1;0
+e;3363621;'gratin de saumon et poireaux';1;0
+e;3363406;'gratin de chicons au saumon fumé';1;0
+e;3362306;'flan au saumon et à la courgette';1;0
+e;3372558;'saumon-crevettes';1;0
+e;3360056;'calin d'aubergine grillée au saumon fumé';1;0
+e;3360357;'charlottes de pomme de terre au saumon fumé';1;0
+e;3360940;'courgettes rondes et tomates au saumon fumé';1;0
+e;3361577;'darne de saumon en papillotte';1;0
+e;3361583;'darnes de saumon façon mamie brelier';1;0
+e;3361580;'darnes de saumon au vin blanc';1;0
+e;3361704;'dôme de saumon';1;0
+e;3743839;'pierrade de saumon';1;0
+e;3751063;'tranches de saumon fumé découpée en morceaux';1;0
+e;3751137;'saumon frais sans peau ni arête';1;0
+e;3751246;'tranches de saumon fumé sauvage';1;0
+e;3758545;'saumon frais sans peau et sans arête';1;0
+e;3758171;'saumon très frais';1;0
+e;3757494;'pavés de saumon sans la peau';1;0
+e;3756431;'filet de saumon d'kg';1;0
+e;3756097;'saumon fumé en tranches';1;0
+e;3755939;'darnes de saumon frais';1;0
+e;3755754;'saumon fumé de tranches';1;0
+e;3755375;'filets de saumon coupés en dés';1;0
+e;3755041;'tranches de saumon fumé d'Écosse';1;0
+e;3754258;'filets de saumon frais d'environ chacun';1;0
+e;3752620;'saumon fumé haché';1;0
+e;3752013;'tranches de saumon fumé';1;0
+e;9101823;'pâtes au pesto et saumon fumé';1;0
+e;9101916;'cuillères d'isa au saumon fumé avec sauce raifort';1;0
+e;9101897;'saumon au four pané aux noix de pecan';1;0
+e;6948373;'en:oncorhynchus keta';1;0
+e;15438841;'en:fishway';1;0
+e;15427204;'en:Oncorhynchus gorbuscha';1;0
+e;14960404;'en:pink salmon';1;0
+e;15080161;'en:animal kingdom';1;0
+e;364788;'monde animal';1;50
+e;327277;'::&gt;16:16110&gt;29:41971';8;50;'avaler [avec] bouche'
+e;212426;'::&gt;13:143187&gt;29:26507&gt;14';9;50;'Qu'est-ce qu'un pêcheur pourrait pêcher ?'
+e;327472;'::&gt;13:143187&gt;29:26507';8;50;'pêcher [sujet] pêcheur'
+e;118227;'désarêter';1;50
+e;39901;'cru';1;1869
+e;3744002;'saumon au barbecue au beurre de citron vert pimenté';1;0
+e;3745065;'saumon en papillote à l'aneth';1;0
+e;3743959;'saumon mariné au sel et au sucre';1;0
+e;3366061;'pain de saumon aux crevettes';1;0
+e;3754105;'tranches de saumon fumé coupé en fines lanières';1;0
+e;233133;'animal&gt;117095';1;836;'animal&gt;zoologie'
+e;325736;'holozoaire';1;60
+e;325741;'choanobionte';1;76
+e;329657;'choano-organisme';1;62
+e;2581422;'couteau à saumon';1;0
+e;3318469;'verrine avocat, mangue, saumon';1;0
+e;3318419;'verrines lentilles, saumon, chèvre';1;0
+e;3359010;'amour de saumon en papillote';1;0
+e;3359169;'ballotins de saumon fumé aux oeufs mollets';1;0
+e;3371309;'terrine de saumon fumé aux asperges vertes et son coulis rouge';1;0
+e;3371101;'tartinade de saumon fumé';1;0
+e;3370513;'tarte aux endives et saumon frais';1;0
+e;3370423;'tarte au saumon en gelée';1;0
+e;3370191;'tartare saumon fumé et truite';1;0
+e;3370084;'tagliatelles tomatées au saumon fumé';1;0
+e;3369907;'spaghettis au saumon fumé et aux pistaches';1;0
+e;3369321;'saumon roulé';1;0
+e;3369315;'saumon pané aux cacahuètes et sa sauce curry';1;0
+e;3369308;'saumon fumé sur galettes de pommes de terre';1;0
+e;3369307;'saumon fumé à l'aneth';1;0
+e;3369287;'saumon au thé noir et au miel';1;0
+e;3369284;'saumon au maroilles et au thym, sauce moutarde';1;0
+e;3369010;'salade d'été au saumon fumé, feta, pommes et carottes';1;0
+e;3368907;'salade de pâtes aux bulots et saumon fumé';1;0
+e;3368898;'salade de pâte pomme - concombre - saumon';1;0
+e;3368533;'roulades de chicons au saumon et à la mozzarella';1;0
+e;3368388;'rosace pamplemousse et saumon fumé';1;0
+e;3367018;'poêlée de pomme de terres au saumon fumé et au citron';1;0
+e;3366617;'pavé de saumon aux asperges';1;0
+e;3366299;'parmentier de saumon';1;0
+e;3366215;'papillote de saumon super fondant aux poireaux';1;0
+e;3366208;'papillote de saumon au boursin';1;0
+e;3365090;'omelette au saumon et au chèvre d'alex';1;0
+e;3364508;'mille-feuilles de saumon fumé sur lit de crabe';1;0
+e;3364050;'lasagnes saumon poireaux mascarpone';1;0
+e;3363620;'gratin de saumon et courgettes';1;0
+e;3363395;'gratin de brocolis au saumon';1;0
+e;3362359;'flan de saumon aux poireaux';1;0
+e;3361292;'croque-monsieur léger au saumon';1;0
+e;3372364;'saumon-crevette';1;0
+e;3360957;'couronne de saumon fumé';1;0
+e;3361319;'croquettes rapides au saumon';1;0
+e;3361463;'crumble saumon champignons';1;0
+e;3361809;'entrée de saumon frais et de saumon fumé';1;0
+e;3744149;'frittata gratinée au brocoli et au saumon';1;0
+e;3744870;'saumon mariné au barbecue';1;0
+e;3744843;'chowder de saumon';1;0
+e;3746630;'saumon au four et légumes d'hiver';1;0
+e;3746213;'salade de pâtes surimi et saumon';1;0
+e;3745684;'saumon à l'aneth au four';1;0
+e;3759057;'saumon en filets';1;0
+e;3756449;'saumon fumé découpé en petits morceaux';1;0
+e;3755689;'saumon frais coupé en fines lamelles';1;0
+e;3754845;'filets de saumon de chacun';1;0
+e;3753927;'saumon frais cuit';1;0
+e;3751922;'saumon fumé thon ou crabe en petits morceaux';1;0
+e;2368351;'saumon rouge';1;0
+e;2368353;'saumon nerka';777;0
+e;3361462;'crumble saumon aubergine chèvre';1;0
+e;3363016;'gâteau de saumon fumé à la brousse';1;0
+e;3751169;'tranches de saumon cru';1;0
+e;3752042;'filet de saumon frais cru sur la peau';1;0
+e;3753567;'tranches de saumon fumé coupées en petits morceaux';1;0
+e;2324891;'tartare de saumon mariné au citron';1;0
+e;3359172;'baluchon saumon crevette';1;0
+e;3359166;'ballotin de saumon fumé à l'avocat et aux herbes';1;0
+e;3371970;'verrine 3 couleurs : avocat, saumon, cream cheese';1;0
+e;3371608;'tourte au saumon à la sébastien';1;0
+e;3370429;'tarte au saumon fumé-et-aux-poireaux';1;0
+e;3370407;'tarte au pesto et saumon fumé';1;0
+e;3369309;'saumon laqué, coriandre et sésame';1;0
+e;3369301;'saumon en feuille de brick';1;0
+e;3369295;'saumon chavignol';1;0
+e;3369278;'saumon au four à la méditerranéenne';1;0
+e;3369276;'saumon au chou';1;0
+e;3369268;'saumon à l'aneth et au citron';1;0
+e;3368996;'salade de saint-jacques au saumon fumé et à la sauce cognac';1;0
+e;3368861;'salade de lentilles au saumon fumé';1;0
+e;3368698;'salade chaud-froid au saumon mariné';1;0
+e;3368585;'roulés de saumon à la mousse de saumon';1;0
+e;3368542;'roulé au saumon et épinards';1;0
+e;3366857;'petits soufflés au saumon';1;0
+e;3366632;'pavés de saumon à la fondue de poireaux et graines d'anis';1;0
+e;3366621;'pavé de saumon en papillotte au nolly pratt';1;0
+e;3366399;'pâté de saumon au paprika';1;0
+e;3366258;'papillotes de saumon aux fruits de mer et aux légumes';1;0
+e;3366257;'papillote de saumon du soleil';1;0
+e;3366249;'papillotes de saumon sur lit d'oseille';1;0
+e;3366244;'papillotes de saumon au gingembre';1;0
+e;3366214;'papillote de saumon sauce crevettes-ciboulette';1;0
+e;3366207;'papillote de saumon à la mozzarella';1;0
+e;3365804;'lasagnes au saumon, chèvre et épinards';1;0
+e;3359582;'brick de saumon mozzarella tomate';1;0
+e;3365513;'dôme de carré frais au saumon fumé, poireaux et poivrons grillés';1;0
+e;3365395;'cur de filet de saumon fumé, salade de courgettes crues';1;0
+e;3360176;'carpaccio de saumon à la pomme';1;0
+e;3364874;'nage de saumon au fenouil';1;0
+e;3364757;'mousse de thon et saumon';1;0
+e;3364521;'mini bouchées au saumon';1;0
+e;3364506;'mille-feuilles de saumon';1;0
+e;3364048;'lasagnes saumon brocolis légères';1;0
+e;3363724;'hamburger au saumon de ludovic';1;0
+e;3362649;'galettes aux champignons frais et saumon';1;0
+e;3359569;'brick au saumon';1;0
+e;3361786;'endives à l'avocat et au saumon';1;0
+e;3744485;'verrines avocat saumon';1;0
+e;3745019;'tian méditerranéen au saumon';1;0
+e;3745205;'saumon cru mariné au citron et à l'aneth';1;0
+e;3745434;'saumon Gravlax';1;0
+e;3746029;'saumon frais en papillote';1;0
+e;3745673;'saumon poêlé aux câpres';1;0
+e;3745392;'millefeuille de mousse de saumon';1;0
+e;3759444;'saumon mariné à l'aneth (gravlax)';1;0
+e;3756514;'grandes tranches de saumon fumé';1;0
+e;3756512;'saumon gravlax';1;0
+e;3754403;'saumon coupé en petits morceaux';1;0
+e;3752471;'saumon fumé coupé en dés';1;0
+e;3752145;'saumon fumé coupé en petits morceaux';1;0
+e;396055;'mucine';1;4
+e;7066020;'en:mucin';1;0
+e;129788;'saumons';1;50
+e;3366047;'pain de poisson au saumon et surimi';1;0
+e;3752943;'tranches de saumon fumé détaillées en lanières';1;0
+e;3753505;'tranche de saumon fumé coupée en languettes';1;0
+e;3754469;'filet de saumon de environ avec la peau';1;0
+e;3755825;'petite tranche de saumon fumé coupée en lanières';1;0
+e;3755856;'filets de saumon de chacun sans arête et très frais';1;0
+e;3757249;'pavé de saumon frais';1;0
+e;3758175;'tranches de saumon fumé déchirées en petits morceaux';1;0
+e;3758740;'pavés de saumon sans peau';1;0
+e;437445;'saumon égoutté';1;50
+e;465057;'saumon chien';777;50
+e;2604130;'saumon d'Europe';1;0
+e;3372003;'verrine de saumon fumé, concassée de tomate et fromage blanc';1;0
+e;3371989;'verrine de faisselle au saumon';1;0
+e;3371100;'tartiflette saumon';1;0
+e;3371021;'tarte saumon surimi';1;0
+e;3370776;'tarte de courgettes au saumon';1;0
+e;3370746;'tarte courgette saumon chèvre';1;0
+e;3370177;'tartare de saumon au chèvre pimenté';1;0
+e;3369930;'spirale de saumon a l'italienne';1;0
+e;3369592;'soupe au saumon, salmon chowder';1;0
+e;3369323;'saumon sur filets exotiques et baies sauvages nordiques';1;0
+e;3369320;'saumon poêlé et sa sauce citronnée à l'aneth';1;0
+e;3369318;'saumon parmesan laurier';1;0
+e;3369317;'saumon papillote sauce curry, de julie';1;0
+e;3369282;'saumon au four sur légumes râpés';1;0
+e;3369273;'saumon au beurre de saumon fumé et sa sauce au citron vert';1;0
+e;3369269;'saumon à l'aneth et son gratin';1;0
+e;3369265;'saumon à la crème d'aneth et d'agrumes';1;0
+e;3369000;'salade de saumon et colin cru au citron';1;0
+e;3368957;'salade de pommes de terre au saumon fumé';1;0
+e;3368906;'salade de pâtes au saumon fumé tout simplement';1;0
+e;3366643;'pavés de saumon sauce crevettes';1;0
+e;3366642;'pavés de saumon grillés sauce aux épinards';1;0
+e;3366639;'pavés de saumon cannelle - gingembre';1;0
+e;3366618;'pavé de saumon, coriandre et moutarde';1;0
+e;3366497;'pâtes aux endives et au saumon';1;0
+e;3366246;'papillotes de saumon aux courgettes';1;0
+e;3366090;'pain perdu au saumon fumé';1;0
+e;3366060;'pain de saumon';1;0
+e;3365552;'feuilleté de saumon et de poireau, sauce aux crevettes';1;0
+e;3364328;'makis chèvre-tomates séchées / saumon fumé-concombre';1;0
+e;3364045;'lasagnes rapides saumon et courgettes';1;0
+e;3363862;'koulibiac de saumon et épinards';1;0
+e;3363622;'gratin de saumon fumé au fromage de chèvre';1;0
+e;3361911;'escalopes de saumon au saint-moret';1;0
+e;3359977;'cake de brocolis au saumon fumé';1;0
+e;3360110;'cannellonis de saumon';1;0
+e;3361582;'darnes de saumon en papillote de pac';1;0
+e;3361643;'délicieuses timbales de saumon aux herbes';1;0
+e;3361725;'duo de saumon et d'endive en robe d'été';1;0
+e;3362049;'feuilleté de saumon à la grecque';1;0
+e;3743749;'quiche légère au saumon';1;0
+e;3743850;'saumon sauce au chocolat blanc';1;0
+e;3745074;'gratin d'endives au saumon';1;0
+e;3746579;'saumon grillé sauce soja et gingembre';1;0
+e;3746257;'saumon poché à l'aneth facile';1;0
+e;3745729;'saumon fumé et concombre au vinaigre';1;0
+e;3745566;'saumon frais farci';1;0
+e;3745449;'saumon poché au vin blanc';1;0
+e;3751404;'boîte de saumon';1;0
+e;3757780;'saumon cuit';1;0
+e;3756149;'saumon fumé coupé grossièrement';1;0
+e;3755600;'petites tranches de saumon fumé';1;0
+e;3755597;'chutes de saumon ou belle tranche';1;0
+e;3753668;'saumon en morceaux';1;0
+e;3753213;'filet de saumon sans la peau';1;0
+e;3752689;'saumon fumé coupé en morceaux';1;0
+e;3751559;'tranches de saumon fumé coupé en morceaux';1;0
+e;328038;'::&gt;13:142124&gt;29:26507';8;50;'pêcher [sujet] garçon'
+e;3744944;'saumon en croûte de sel';1;0
+e;3745263;'saumon à l'ail et à l'aneth';1;0
+e;3365045;'oeufs durs farcis au saumon fumé';1;0
+e;3751743;'filets de saumon frais';1;0
+e;3751946;'tranches de saumon fumé coupées en lanière';1;0
+e;3752531;'tranches de saumon fumé hachées';1;0
+e;3754674;'tranche de saumon fumé coupée en dés';1;0
+e;3754811;'pavés de saumon frais ou surgelés';1;0
+e;3756128;'belles tranches de saumon fumé coupées en dés';1;0
+e;3758055;'tranches de saumon fumé coupées en lamelles';1;0
+e;40056;'couleur';1;5193
+e;2359490;'saumon quinat';1;0
+e;2536685;'saumon quinnat';1;0
+e;2934411;'gravlax de saumon';1;0
+e;3358987;'aiguillettes de saumon au gingembre';1;0
+e;3359069;'assiette de saumon aux blinis';1;0
+e;3359064;'aspic de saumon rapide';1;0
+e;3372026;'verrines asperges et saumon';1;0
+e;3371687;'tourte moelleuse au saumon et champignons';1;0
+e;3371612;'tourte au saumon frais et au riz';1;0
+e;3371611;'tourte au saumon frais';1;0
+e;3371307;'terrine de saumon';1;0
+e;3371306;'terrine de saumon et ricotta';1;0
+e;3371207;'terrine de brochet et saumon';1;0
+e;3370860;'tarte kiwi saumon';1;0
+e;3370689;'tarte aux tomates et au saumon';1;0
+e;3370518;'tarte aux épinards, poireaux et saumon fumé';1;0
+e;3370427;'tarte au saumon et tartare';1;0
+e;3370179;'tartare de saumon aux asperges';1;0
+e;3370030;'tagliatelles au champagne et saumon';1;0
+e;3369312;'saumon mariné au miel';1;0
+e;3369300;'saumon en croûte d'épices et sa crème miellée';1;0
+e;3369293;'saumon aux trois poivrons';1;0
+e;3369281;'saumon au four facile et léger';1;0
+e;3369280;'saumon au four au champagne';1;0
+e;3369274;'saumon au caramel epicé';1;0
+e;3368175;'rillettes de saumon au chablis';1;0
+e;3366942;'pizza aux courgettes, saumon et crevettes';1;0
+e;3366939;'pizza au saumon, champignons et mozzarella';1;0
+e;3366637;'pavés de saumon aux agrumes et grand marnier';1;0
+e;3366530;'pâtes farcies au saumon';1;0
+e;3366471;'pâtes au saumon fumé';1;0
+e;3366400;'pâté de saumon et courgettes';1;0
+e;3364494;'mille feuilles au saumon fumé';1;0
+e;3364047;'lasagnes saumon asperges et chèvre';1;0
+e;3363863;'koulibiac de saumon';1;0
+e;3363615;'gratin de riz et saumon';1;0
+e;3363433;'gratin de courgettes au saumon fumé';1;0
+e;3363158;'gâteau saumon et brocoli';1;0
+e;3362360;'flan de saumon fumé';1;0
+e;3359597;'bricks au saumon et au chou-fleur';1;0
+e;3359754;'bûche au saumon fumé';1;0
+e;3359943;'cake aux olives et au saumon';1;0
+e;3360097;'cannelloni à la brousse et saumon fumé';1;0
+e;3360220;'cassolette de saumon à l'érable';1;0
+e;3360519;'cigares de saumon fumé aux crevettes et raifort';1;0
+e;3360914;'courgettes farcies au boulgour et saumon';1;0
+e;3362050;'feuilleté de saumon cru au poireau';1;0
+e;3743683;'tarte épicée croustillante au saumon';1;0
+e;3743651;'saumon au barbecue a la plancha';1;0
+e;3744650;'cake au pesto et au saumon';1;0
+e;3746621;'saumon et tagliatelles à la crème';1;0
+e;3746267;'pizza au saumon';1;0
+e;3756950;'filet ou de darnes de saumon';1;0
+e;3751867;'boîtes de saumon';1;0
+e;2348416;'::&gt;66:68467&gt;17:39901';8;0;'poisson [carac] cru'
+e;3369896;'spaghetti de concombres au saumon et aux écrevisses';1;0
+e;3752121;'filet de saumon surgelé décongelé';1;0
+e;3752604;'boîtes de saumon au naturel égoutté et émietté';1;0
+e;3753312;'filet de saumon frais';1;0
+e;3754320;'dos de saumon grillés ou pochés';1;0
+e;3754333;'tranches de saumon fumé coupé en fines et petites lanières';1;0
+e;3759108;'tranches de saumon fumé découpées en morceaux';1;0
+e;116323;'anadrome';1;50
+e;325731;'opisthoconte';1;76
+e;437037;'filets de saumon';1;50
+e;436823;'caviar de saumon';1;50
+e;265176;'ichthyologie';1;52
+e;1764250;'saumon des dieux';777;0
+e;2499664;'saumon royal';1;0
+e;2397510;'coulibiac';1;0
+e;3359103;'aubergines farcies au saumon fumé';1;0
+e;3372005;'verrine fraîcheur au saumon';1;0
+e;3372002;'verrine de saumon';1;0
+e;3371705;'tourte tricolore au saumon laqué, épinards et abricots';1;0
+e;3371700;'tourte saumon champignons';1;0
+e;3371609;'tourte au saumon et au thon';1;0
+e;3371308;'terrine de saumon façon scandinave';1;0
+e;3371027;'tarte soufflée au saumon';1;0
+e;3371019;'tarte saumon frais et asperges';1;0
+e;3370950;'tarte poireaux saumon philadelphia';1;0
+e;3370478;'tarte aux brocolis, au saumon fumé et à la ricotta';1;0
+e;3370426;'tarte au saumon et aux pommes de terre';1;0
+e;3369306;'saumon façon daube';1;0
+e;3369304;'saumon et panais express';1;0
+e;3369302;'saumon entier au court bouillon aromatique';1;0
+e;3369298;'saumon de norvège en écailles de pommes de terre';1;0
+e;3369290;'saumon aux épinards et crème fraîche';1;0
+e;3369289;'saumon aux épices en barbecue';1;0
+e;3369275;'saumon au champagne';1;0
+e;3369272;'saumon au basilic et courgettes';1;0
+e;3369271;'saumon asiatique';1;0
+e;3369138;'salade russe au saumon';1;0
+e;3368860;'salade de lentilles au saumon';1;0
+e;3368791;'salade de concombre et saumon fumé,sauce au petit suisse';1;0
+e;3368176;'rillettes de saumon au cognac';1;0
+e;3366746;'petit rouleau de pâte au saumon';1;0
+e;3366668;'penne au saumon fumé et à la crème fraiche';1;0
+e;3366641;'pavés de saumon forestiers';1;0
+e;3366636;'pavés de saumon au thé vert';1;0
+e;3366622;'pavé de saumon frais en papillotte';1;0
+e;3366619;'pavé de saumon en croute d'amandes';1;0
+e;3366616;'pavé de saumon aux amandes déglacé à la bière';1;0
+e;3366473;'pâtes au saumon fumé et oeufs de lompe';1;0
+e;3366470;'pâtes au saumon express';1;0
+e;3366469;'pâtes au saumon au miel et à l'amaretto';1;0
+e;3365544;'faux risotto saumon, thon, fenouil express';1;0
+e;3365256;'bricks au saumon fumé, pomme de terre et petits oignons caramélisés';1;0
+e;3364049;'lasagnes saumon fumé épinard';1;0
+e;3363991;'lasagnes au saumon';1;0
+e;3363861;'koulibiac au saumon';1;0
+e;3363623;'gratin de saumon fumé';1;0
+e;3362567;'fricassée de saumon et de turbot';1;0
+e;3362345;'flan de courgettes au saumon frais';1;0
+e;3362305;'flan au saumon et à la bisque de homard';1;0
+e;3360224;'cassolettes aux saumon et cabillaud';1;0
+e;3360302;'charlotte à tomber saumon asperge';1;0
+e;3361584;'darnes de saumon sauce citron et échalotes';1;0
+e;3361651;'délicieux cornets de saumon à l'avocat';1;0
+e;3361803;'endives surprises au saumon fumé et crevettes';1;0
+e;3362034;'feuilleté au saumon en julienne';1;0
+e;3744294;'cake au saumon';1;0
+e;3759335;'Pierrade de saumon';1;0
+e;3758652;'filets de saumon sans peau';1;0
+e;3756338;'saumon fumé en dés';1;0
+e;3756065;'filet de saumon frais sans peau et coupé en dés';1;0
+e;3755152;'saumon fumé coupé en morceaux ou en lanières';1;0
+e;3755046;'saumon en conserve égoutté';1;0
+e;9102041;'pierrade de saumon';1;0
+e;174176;'spine';1;50
+e;86356;'rouge';1;5574
+e;3364986;'oeuf cocotte au saumon fumé et tombée de poireaux poivrée';1;0
+e;3751805;'saumon frais cuit ou saumon fumé';1;0
+e;3752372;'filets de saumon de environ';1;0
+e;3754787;'filets de saumon sans la peau';1;0
+e;3758798;'grande boîte de thon saumon ou saumon en cubes';1;0
+e;17559;'animal';1;14019
+e;460511;'saumon rose&gt;171869';1;50;'saumon rose&gt;Adj:'
+e;460510;'saumon rose&gt;171870';1;50;'saumon rose&gt;Nom:'
+e;2517767;'guinée saumon';1;0
+e;3318855;'saumon poêlé à la vanille';1;0
+e;3359143;'avocats au saumon fumé';1;0
+e;3371301;'terrine de saumon au homard';1;0
+e;3371299;'terrine de saint-jacques et saumon';1;0
+e;3371125;'tartines au saumon fondant';1;0
+e;3370605;'tarte aux poireaux, saumon fumé et chèvre';1;0
+e;3370181;'tartare de saumon frais et fumé, variante';1;0
+e;3370072;'tagliatelles de mon coeur, saumon fumé et rocamadour';1;0
+e;3369898;'spaghettini au saumon fumé et truffe';1;0
+e;3369325;'saumon sur lit d'oignons';1;0
+e;3369311;'saumon mariné à l'indienne';1;0
+e;3369291;'saumon aux poireaux';1;0
+e;3369286;'saumon au miel et au soja';1;0
+e;3369279;'saumon au four au caramel balsamique';1;0
+e;3369001;'salade de saumon sauce vodka';1;0
+e;3368567;'roulé de saumon aux 3 fromages';1;0
+e;3368023;'quiche saumon, feta, tomates cerises et olives noires';1;0
+e;3366716;'petite marmite de saumon';1;0
+e;3366620;'pavé de saumon en croûte d'herbes, sauce raifort';1;0
+e;3366472;'pâtes au saumon fumé et chicons à la crème';1;0
+e;3366206;'papillote de saumon';1;0
+e;3365807;'lasagnes de saumon, poireaux et feta';1;0
+e;3364753;'mousse de saumon frais cuit au court-bouillon';1;0
+e;3364752;'mousse de saumon en terrine';1;0
+e;3364507;'millefeuilles de saumon';1;0
+e;3363326;'gnocchis au saumon fumée et épinard';1;0
+e;3362327;'flan aux poivrons et au saumon';1;0
+e;3372222;'saumon-échalotes';1;0
+e;3359699;'brochettes de saumon et de thon japonaises';1;0
+e;3360190;'carré frais et son melon au saumon fumé';1;0
+e;3360478;'choucroute au saumon à la purée d'ail';1;0
+e;3361123;'crêpe aux miettes de saumon';1;0
+e;3361354;'croustilles de saumon';1;0
+e;3361581;'darnes de saumon colombo';1;0
+e;3744078;'saumon poché à la sauce hollandaise';1;0
+e;3744232;'saumon aux haricots verts et aux graines de lin';1;0
+e;3744344;'tarte aux épinards et au saumon';1;0
+e;3756523;'saumon fumé coupé finement';1;0
+e;3753388;'saumon fumé finement haché';1;0
+e;3753114;'saumon fumé en tranches fines';1;0
+e;3752502;'saumon frais sans peau coupé en gros dés';1;0
+e;3751981;'filets ou steaks de saumon';1;0
+e;38931;'éperlan';1;52
+e;96211;'coeur';1;2342
+e;80010;'saisir';1;435
+e;92142;'toast';1;230
+e;228309;'toast&gt;65846';1;40;'toast&gt;pain grillé'
+e;137865;'cours d'eau';1;508
+e;3178868;'Cours d'eau';777;0
+e;3755477;'filets de saumon de chacun sans la peau';1;0
+e;3756817;'lamelles de saumon fumé';1;0
+e;3757545;'tranches de saumon fumé coupé en lanières';1;0
+e;3759143;'tranches de saumon fumé coupé en petits morceaux';1;0
+e;154611;'poisson cru';1;168
+e;86754;'thon';1;586
+e;437446;'saumon et lotte';1;50
+e;3318430;'duo frais de saumon';1;0
+e;3359070;'assiette de saumon fumée à l'oeuf';1;0
+e;3359220;'bâtonnets de saumon panés';1;0
+e;3359375;'blanquette de saumon';1;0
+e;3372059;'verrines de saumon frais et au lait de coco';1;0
+e;3371519;'tomates farcies au saumon fumé oeufs et pâtes';1;0
+e;3370143;'tajine de saumon flambé à l'armagnac';1;0
+e;3370053;'tagliatelles aux dés de saumon';1;0
+e;3370052;'tagliatelles aux délices de saumon et tomates cerise';1;0
+e;3370047;'tagliatelles au saumon et à la coriandre';1;0
+e;3369322;'saumon simplement authentique';1;0
+e;3369316;'saumon pané sauce au chèvre';1;0
+e;3369292;'saumon aux pommes de terre de ma marraine';1;0
+e;3369288;'saumon aux carottes caramélisées';1;0
+e;3369267;'saumon à l'alsacienne';1;0
+e;3368659;'salade aromatique au saumon';1;0
+e;3367911;'quiche aux asperges et au saumon';1;0
+e;3366638;'pavés de saumon aux épinards et au boursin, ultra simple';1;0
+e;3366634;'pavés de saumon au curry';1;0
+e;3366633;'pavés de saumon à l'orange et aux amandes';1;0
+e;3366623;'pavé de saumon sauce chocolat blanc';1;0
+e;3366614;'pavé de saumon à l'orientale';1;0
+e;3366253;'papillotes fraîches de saumon au crabe';1;0
+e;3366210;'papillote de saumon au curry';1;0
+e;3365802;'lasagne au saumon, aux poireaux et à la mozzarella';1;0
+e;3365739;'gratins de saumon, courgette et chèvre';1;0
+e;3364985;'oeuf cocotte au saumon';1;0
+e;3364481;'millefeuille brioché au saumon';1;0
+e;3372192;'saumon-pomme';1;0
+e;3359655;'briquettes saumon et poireaux';1;0
+e;3361759;'émincé de saumon au cidre et au safran';1;0
+e;3360689;'concombre au saumon fumé';1;0
+e;3360922;'courgettes farcies au saumon';1;0
+e;3743831;'spaghetti crémeux au saumon';1;0
+e;3743875;'cake aux épinards frais et au saumon';1;0
+e;3745364;'salade de pâtes au tartare de saumon';1;0
+e;3746638;'petites bouchées aux oeufs de saumon';1;0
+e;3746330;'tagliatelles au saumon';1;0
+e;3746146;'saumon et coriandre au barbecue';1;0
+e;3746135;'saumon minute à la marmelade d'orange';1;0
+e;3758959;'saumon frais sans peau';1;0
+e;3758560;'saumon au naturel égoutté et émietté';1;0
+e;3757897;'saumon coupé en tranches fines';1;0
+e;3757774;'saumon fumé émietté';1;0
+e;3757757;'tranches de saumon';1;0
+e;3756201;'saumon fumé découpé en morceaux';1;0
+e;3756129;'pavés de saumon coupés en dés';1;0
+e;3755435;'tranche de saumon fumé';1;0
+e;3754094;'tranches de saumon fumé coupées en morceaux';1;0
+e;28105;'cuit';1;358
+e;3362361;'flan de saumon sauce aux épinards';1;0
+e;3754564;'tranches de saumon gravlax coupées en lanières';1;0
+e;3757398;'filets de saumon avec la peau';1;0
+e;225291;'couleur&gt;17226';1;284;'couleur&gt;teinte'
+e;154719;'animal aquatique';1;84
+e;2324892;'saumon mariné au citron';1;0
+e;2492103;'saumon rose du Pacifique';1;0
+e;2769081;'saumon chinook';777;0
+e;3318775;'saumon mariné sauce soja, gingembre avocat';1;0
+e;3371681;'tourte gourmande au saumon et petits légumes';1;0
+e;3371610;'tourte au saumon et aux légumes';1;0
+e;3371173;'tatin de saumon et légumes du soleil';1;0
+e;3371018;'tarte saumon et épinards';1;0
+e;3370758;'tarte crémeuse saumon brocolis poireaux';1;0
+e;3370431;'tarte au saumon fumé, feta et chicons';1;0
+e;3370430;'tarte au saumon fumé et cébette';1;0
+e;3370310;'tarte aubergines, saumon, chèvre';1;0
+e;3370178;'tartare de saumon au gingembre';1;0
+e;3370142;'tajine de saumon';1;0
+e;3370026;'tagliatelles à la mousse de saumon fumé';1;0
+e;3370000;'sushi rouget, maquereaux, thon, saumon';1;0
+e;3369881;'spaghetti au saumon';1;0
+e;3369314;'saumon mi cuit sur fondue de poireaux- échalotes';1;0
+e;3369142;'salade saumon / mâche';1;0
+e;3369091;'salade légère saumon crevettes';1;0
+e;3368665;'salade au fromage frais et au saumon fumé agrémenté de noix';1;0
+e;3368587;'roulés de saumon fumé, avocat et pomme';1;0
+e;3368586;'roulés de saumon au thon';1;0
+e;3368530;'roulade de saumon mi-figue mi-raisin';1;0
+e;3366294;'parmentier de poisson, truite et saumon fumé';1;0
+e;3366248;'papillotes de saumon aux petits légumes';1;0
+e;3366247;'papillotes de saumon aux épinards et à la banane';1;0
+e;3366243;'papillotes de saumon';1;10
+e;3366189;'papillote de daurade et saumon, mirepoix de légumes';1;0
+e;3365975;'paëlla au saumon, poulet et fruits de mer';1;0
+e;3365805;'lasagnes au saumon, courgettes et mascarpone';1;0
+e;3365765;'involtini, roulés crevettes saumon fumé et courgettes';1;0
+e;3365722;'gratin de céleri rave, pommes de terre et saumon fumé';1;0
+e;3364981;'oeuf au saumon';1;0
+e;3364493;'mille feuilles aubergines - saumon';1;0
+e;3359712;'brouillade d'oeuf au saumon fumé';1;0
+e;3359894;'cake au saumon et à l'oseille';1;0
+e;3362081;'feuilletés saumon fumé et julienne';1;0
+e;3759008;'saumon fumé coupé en fines et petites lanières';1;0
+e;3756652;'saumon fumé coupé en fins rubans';1;0
+e;3756148;'saumon entier sans l'arête centrale';1;0
+e;3754817;'saumon fumé coupé en lanières';1;0
+e;3754659;'saumon entier';1;0
+e;3753024;'saumon en boîte non égoutté';1;0
+e;3752858;'saumon fumé coupé en lamelles';1;0
+e;3751691;'saumon frais coupé en petits morceaux';1;0
+e;165651;'::&gt;13:142124&gt;29:26507&gt;14';9;50;'Qu'est-ce qu'un garçon pourrait pêcher ?'
+e;21639;'darne';1;190
+e;258992;'poisson d'élevage';1;58
+e;264208;'manger du poisson';1;60
+e;71624;'être vivant';1;1888
+e;55823;'métazoaire';1;174
+e;165262;'::&gt;13:18067&gt;29:130164&gt;14';9;50;'Qu'est-ce qu'un invité pourrait manger ?'
+e;327247;'::&gt;13:18067&gt;29:130164';8;50;'manger [sujet] invité'
+e;460883;'saumon bossu';777;50
+e;2324888;'tartare de saumon mariné';1;0
+e;267642;'organisme animal';1;4
+e;3318642;'roulé au saumon';1;0
+e;3359024;'ananas farci au saumon';1;0
+e;3359080;'aubergine farçie au saumon';1;0
+e;3359171;'ballottines de saumon fumé au cabillaud';1;0
+e;3371335;'terrine lentilles saumon';1;0
+e;3371304;'terrine de saumon aux blancs de poireaux';1;0
+e;3371303;'terrine de saumon aux asperges';1;0
+e;3371268;'terrine de poisson et saumon fumé';1;0
+e;3371208;'terrine de brocolis au saumon';1;0
+e;3370180;'tartare de saumon et lotte';1;0
+e;3370163;'tartare au saumon fumé sauce yaourt ciboulette';1;0
+e;3369313;'saumon mi-cuit à l'aneth et à l'huile de pistache';1;0
+e;3369310;'saumon mariné à l'aneth';1;0
+e;3369299;'saumon émietté et saint-jacques';1;0
+e;3369297;'saumon croustillant au pamplemousse et sa fondue de poireaux';1;0
+e;3369266;'saumon à la crème d'oseille';1;0
+e;3369068;'salade fraîche de saumon à l'orange';1;0
+e;3368647;'saint-jacques sur son lit de saumon aux champignons';1;0
+e;3367903;'quiche au saumon, à l'oseille et aux tomates';1;0
+e;3367160;'pommes au four au saumon';1;0
+e;3366822;'petits muffins au saumon';1;0
+e;3366717;'petite mousse de saumon d'ecosse';1;0
+e;3366645;'pavés de saumon sauce soja';1;0
+e;3366644;'pavés de saumon sauce facile en papillote';1;0
+e;3366635;'pavés de saumon au pistou';1;0
+e;3366245;'papillotes de saumon aux clémentines';1;0
+e;3366212;'papillote de saumon et gambas';1;0
+e;3366211;'papillote de saumon aux épices douces';1;0
+e;3366209;'papillote de saumon au boursin et légumes';1;0
+e;3365963;'oeufs mimosa au saumon : c'est bon !';1;0
+e;3365810;'tarte soleil aux courgettes, tomates et saumon';1;0
+e;3365808;'lasagnes ravioles, saumon et épinards';1;0
+e;3364724;'mousse d'avocats au saumon fumé';1;0
+e;3363624;'gratin de saumon / pommes de terre';1;0
+e;3363619;'gratin de saumon aux milles saveurs';1;0
+e;3363520;'gratin de pâtes au saumon fumé';1;0
+e;3359570;'brick au saumon fumé et poireaux';1;0
+e;3359895;'cake au saumon fumé et à la ciboulette';1;0
+e;3362051;'feuilleté de saumon fumé au pélardon';1;0
+e;3746097;'saumon au citron et à la menthe';1;0
+e;3755902;'belles darnes de saumon';1;0
+e;9745691;'ne pas aimer le poisson';1;26
+e;5334011;'attraper un poisson';1;0
+e;9448020;'à l'unilatéral';1;0
+e;3112725;'loup grillé au fenouil';1;0
+e;5370111;'pavé de poisson au four';1;2
+e;5370112;'pavé de lieu jaune façon hongroise';1;0
+e;5370155;'pavé de truite';1;0
+e;9446810;'habiller un poisson';1;0
+e;14585967;'cuisson à l'unilatérale';1;10
+e;14668641;'poux de mer';1;2
+e;14874935;'bar à sushis';1;0
+e;16160646;'filets de maquereau';1;8
+e;16160651;'dessaler la morue';1;6
+e;16165999;'papillote de bar aux petits légumes';1;0
+e;158245;'::&gt;16:16110&gt;29:41971&gt;13';9;50;'Qui pourrait avaler avec une bouche ?'
+e;1747273;'couper en tranches';1;0
+e;4114;'tacon';1;50
+e;2490524;'ténia du saumon';1;0
+e;9102115;'makis chèvre-tomates séchées et saumon fumé-concombre';1;0
+e;9101971;'pâte oseille cresson et saumon fumé';1;0
+e;283591;'Salmonidae';777;50
+e;15521245;'Jeune saumon venant de s'adapter physiologiquement au passage dans l'eau de mer lors de sa migration';1;0
+e;15236992;'Il fait un saumon méchamment bon.';1;0
+e;15490315;'Laissez mariner les tranches de saumon 24 h.';1;0
+e;16260068;'Couleur saumon';777;0
+e;15046741;'en:red salmon';1;0
+e;16068394;'en:thick slice of salmon';1;0
+e;16165997;'lotte en papillote';1;0
+e;260926;'conserve de poisson';1;102
+e;257821;'sardine grillée';1;50
+e;15046739;'en:Oncorhynchus nerka';1;0
+e;9264356;'en:stream';1;0
+e;3176225;'Saumon de Llyn Llyn';777;0
+e;332343;'saumon&gt;15229';1;50;'saumon&gt;aéronautique'
+e;25658;'lingot';1;198
+e;257893;'faire mariner';1;48
+e;146491;'Marne';1;3607
+e;274768;'saumon de Llyn Llyn';777;50
+e;156430;'poisson de rivière';1;78
+e;2354778;'saumon transgénique';1;0
+e;15083400;'en:freshwater fish';1;0
+e;153477;'poisson d'eau douce';1;146
+e;218940;'poisson&gt;17559';1;590;'poisson&gt;animal'
+e;222542;'poisson gras';1;10
+e;16166000;'papillote de saumon au butternut et romarin';1;0
+e;16166015;'papillotes de saumon, sucrines braisées et crème aux baies roses';1;16
+e;16166017;'papillotes de saumon aux légumes du sud';1;0
+e;213388;'saumon&gt;25658';1;50;'saumon&gt;lingot'
+e;17477789;'::&gt;66:3361&gt;26:257893';8;0;'saumon [se faire] faire mariner'
+e;107073;'Art culinaire';1;52
+e;14585958;'chaud-froid de saumon';1;26
+e;20965;'nourriture';1;3820
+e;17477788;'::&gt;14:3361&gt;29:257893';8;0;'faire mariner [objet] saumon'
+e;6297517;'saumon sockeye';1;0
+e;16166016;'saumon en papillotes et petits légumes';1;0
+e;15414683;'en:oily fish';1;0
+e;15490316;'en:Leave the slices of salmon to marinade for 24 hours.';1;0
+e;116980;'squelette';1;1228
+e;129073;'polyhalite';1;50
+e;65012;'eau';1;11222
+e;16033;'cuisine';1;11756
+e;231316;'rivière&gt;137865';1;124;'rivière&gt;cours d'eau'
+e;145583;'rose';1;2789
+e;126388;'articulation';1;730
+e;240590;'arête&gt;68467';1;18;'arête&gt;poisson'
+e;225934;'oeil&gt;330323';1;224;'oeil&gt;organe de la vue'
+e;1636805;'oeil&gt;44335';1;50;'oeil&gt;organe'
+e;2346186;'poissonnier&gt;65750';1;4;'poissonnier&gt;commerçant'
+e;157007;'être&gt;146885';1;50;'être&gt;Nom:Mas+SG'
+e;9107107;'en:sockeye salmon';1;0
+e;249227;'gravlax';1;26
+e;310326;'Oncorhynchus keta';777;50
+e;46367;'griller';1;396
+e;146105;'mer';1;9338
+e;58675;'poêlée';1;86
+e;123418;'ingrédient';1;142
+e;1086913;'stroganina';1;0
+e;15490317;'en:Marinade the slices of salmon for 24 hours.';1;0
+e;5949273;'Oncorhynchus gilae';777;0
+e;84059;'ouïes';1;54
+e;130164;'manger';1;10304
+e;247171;'fumé&gt;43125';1;20;'fumé&gt;gastronomie'
+e;233638;'mer&gt;218698';1;244;'mer&gt;étendue d'eau'
+e;5903021;'régime sans poisson';1;0
+e;43125;'gastronomie';1;2682
+e;152553;'Gastronomie';1;72
+e;2769082;'Oncorhynchus tshawytscha';777;0
+e;12255499;'saumon d'Europe&gt;171869';1;0;'saumon d'Europe&gt;Adj:'
+e;12255498;'saumon d'Europe&gt;171870';1;0;'saumon d'Europe&gt;Nom:'
+e;225786;'nageoire dorsale';1;14
+e;258618;'nageoire pelvienne';1;4
+e;6948438;'en:pig';1;0
+e;16068393;'en:wingtip';1;0
+e;1803925;'saumoné&gt;171869';1;0;'saumoné&gt;Adj:'
+e;176220;'vitamine B6';1;54
+e;250695;'carpaccio de poisson';1;6
+e;261738;'viande&gt;20965';1;408;'viande&gt;nourriture'
+e;13369;'être';1;3929
+e;58768;'organisme';1;2509
+e;9107126;'en:oncorhynchus tshawytscha (fish)';1;0
+e;217397;'Chinook';666;50
+e;17526003;'::&gt;66:3361&gt;26:46367';8;0;'saumon [se faire] griller'
+e;52119;'langue';1;4914
+e;258622;'nageoire pectorale';1;52
+e;221019;'bouche&gt;112609';1;214;'bouche&gt;anatomie'
+e;17526002;'::&gt;14:3361&gt;29:46367';8;0;'griller [objet] saumon'
+e;239506;'mi-cuit';1;6
+e;159613;'pêche en rivière';1;50
+e;265785;'élevage de poissons';1;50
+e;269577;'tacon&gt;3361';1;50;'tacon&gt;saumon'
+e;9162565;'en:salmo salmo';1;0
+e;16793888;'Organisation pour la conservation du saumon de l'Atlantique nord';777;0
+e;241352;'ventre&gt;112609';1;100;'ventre&gt;anatomie'
+e;224422;'manger&gt;113902&gt;119570';1;206;'manger&gt;alimentation&gt;absorber'
+e;250822;'cuire au four';1;16
+e;88315;'émincer';1;172
+e;5115;'cuire';1;1713
+e;36246;'préparer';1;2268
+e;23335;'fumé';1;150
+e;30458;'brochet';1;156
+e;223048;'darne&gt;143123';1;86;'darne&gt;tranche'
+e;91657;'nutrition';1;466
+e;284529;'Oncorhynchus gorbuscha';777;50
+e;3744408;'gravlax de Saumon';1;0
+e;15247742;'en:art of cooking';1;4
+e;43853;'aile';1;2172
+e;326146;'système nerveux en position dorsale';1;56
+e;57875;'tube digestif';1;118
+e;234188;'écaille&gt;117095';1;8;'écaille&gt;zoologie'
+e;2538325;'bronchies';1;0
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;15150534;'en:dorsal fin';1;0
+e;15047666;'en:alimentary canal';1;0
+e;11008328;'ADN&gt;30051';1;8;'ADN&gt;code génétique'
+e;259820;'vivre&gt;160251';1;78;'vivre&gt;être en vie'
+e;43253;'dormir';1;6578
+e;251694;'mourir&gt;126720';1;238;'mourir&gt;cesser de vivre'
+e;242894;'nager&gt;11057832';1;34;'nager&gt;se déplacer dans un liquide'
+e;124600;'mourir';1;2755
+e;79364;'sauter';1;1030
+e;2442;'vivre';1;3276
+e;43601;'se reproduire';1;502
+e;20911;'nager';1;1388
+e;33882;'se nourrir';1;436
+e;47918;'boire';1;4568
+e;78768;'chasser';1;1086
+e;6681658;'manger&gt;113902';1;138;'manger&gt;alimentation'
+e;105814;'regarder';1;3658
+e;9944214;'remonter une rivière';1;0
+e;258940;'ne pas fumer';1;102
+e;24646;'attraper';1;838
+e;26507;'pêcher';1;772
+e;14581505;'::&gt;13:225916&gt;29:257893';8;0;'faire mariner [sujet] personne&gt;être humain'
+e;97571;'consommer';1;208
+e;213544;'pêcher&gt;78768';1;46;'pêcher&gt;chasser'
+e;439411;'pêcher&gt;146882';1;50;'pêcher&gt;Ver:Inf'
+e;14472584;'::&gt;13:225916&gt;29:30536';8;0;'faire cuire [sujet] personne&gt;être humain'
+e;15014192;'::&gt;31:149733&gt;29:15014185';8;0;'faire cuire [objet] saumon [endroit] poële'
+e;15014194;'::&gt;31:119686&gt;29:15014185';8;0;'faire cuire [objet] saumon [endroit] poêle'
+e;238029;'garder au frais';1;4
+e;257879;'faire frire';1;66
+e;15742971;'en:slice something thinly';1;0
+e;16574003;'en:slice something finely';1;0
+e;16601796;'::&gt;13:116477&gt;29:30536';8;0;'faire cuire [sujet] personne'
+e;15742972;'couper quelque chose en lamelles';1;0
+e;15420435;'couper [qch] en lamelles';1;0
+e;14474322;'::&gt;13:225916&gt;29:46367';8;0;'griller [sujet] personne&gt;être humain'
+e;17526006;'::&gt;31:9190&gt;29:17526002';8;0;'griller [objet] saumon [endroit] four'
+e;17542457;'::&gt;13:59151&gt;29:46367';8;0;'griller [sujet] cuisinière'
+e;48855;'carnivore';1;1566
+e;53495;'frais';1;2884
+e;108750;'poissons';1;2816
+e;12503940;'en:river';1;0
+e;607836;'saumon&gt;171869';1;0;'saumon&gt;Adj:'
+e;250997;'thon en boîte';1;116
+e;16746;'alimentaire';1;2563
+e;17132650;'Ouverture de la pêche commerciale au saumon';777;0
+e;139779;'ADN';1;1254
+e;16747;'adn';1;164
+e;330215;'bilatéralement symétrique';1;22
+e;145464;'délicieux';1;474
+e;88096;'gros';1;3306
+e;114637;'aliment';1;1578
+e;47549;'oseille';1;216
+e;93099;'plomb';1;2012
+e;1920538;'domaine alimentaire';1;0
+e;1395235;'être&gt;171870';1;0;'être&gt;Nom:'
+e;7256380;'en:zoology';1;0
+e;213644;'os&gt;116980';1;404;'os&gt;squelette'
+e;77727;'gueule';1;706
+e;149413;'organes';1;2688
+e;1969939;'fumé&gt;161702';1;0;'fumé&gt;Ver:PPas'
+e;214275;'cuisine&gt;143757';1;2032;'cuisine&gt;art culinaire'
+e;152552;'Cuisine';1;156
+e;3172362;'verrine&gt;43125&gt;177321';1;6;'verrine&gt;gastronomie&gt;préparation culinaire'
+e;13799537;'oncorhynchus tshawytscha';1;0
+e;13782846;'oncorhynchus keta';1;0
+e;215897;'aile&gt;97756';1;22;'aile&gt;avion'
+e;60902;'dent';1;3454
+e;82844;'comestible';1;280
+e;152125;'Zoologie';1;210
+e;1920730;'ingrédients de cuisine';1;0
+e;20621;'aliments';1;2130
+e;5994;'rosâtre';1;56
+e;213386;'rose&gt;40056';1;136;'rose&gt;couleur'
+e;79889;'aneth';1;134
+e;416318;'Saumon';1;50
+e;2499187;'anet';1;0
+e;140100;'viande';1;5110
+e;35801;'poissonnier';1;154
+e;3744086;'pâte Oseille Cresson et Saumon Fumé';1;0
+e;15212240;'Le saumon était en réclame au supermarché.';1;0
+e;3973676;'madeleineau';1;0
+e;126285;'dos';1;2898
+e;215758;'gueule&gt;215755';1;14;'gueule&gt;bouche animale'
+e;260032;'cuire&gt;16033';1;138;'cuire&gt;cuisine'
+e;112671;'basilic';1;250
+e;214149;'cru&gt;214148';1;142;'cru&gt;pas cuit'
+e;113963;'mangeable';1;130
+e;117095;'zoologie';1;2392
+e;17478116;'::&gt;66:116477&gt;24:17477788';8;0;'personne [peut] faire mariner [objet] saumon'
+e;17477790;'::&gt;66:225916&gt;24:17477788';8;0;'personne&gt;être humain [peut] faire mariner [objet] saumon'
+e;14581506;'::&gt;66:225916&gt;24:257893';8;0;'personne&gt;être humain [peut] faire mariner'
+e;14334459;'::&gt;66:49154&gt;26:18699';8;0;'rivière [se faire] remonter'
+e;13777887;'oncorhynchus gorbuscha';1;0
+e;223465;'koulibiak';666;50
+e;14472585;'::&gt;66:225916&gt;24:30536';8;0;'personne&gt;être humain [peut] faire cuire'
+e;15014187;'::&gt;66:225916&gt;24:15014185';8;0;'personne&gt;être humain [peut] faire cuire [objet] saumon'
+e;15014191;'::&gt;66:15014187&gt;15:149733';8;0;'personne&gt;être humain [peut] faire cuire [objet] saumon [lieu] poële'
+e;15014193;'::&gt;66:15014187&gt;15:119686';8;0;'personne&gt;être humain [peut] faire cuire [objet] saumon [lieu] poêle'
+e;14925190;'en:ingot';1;0
+e;37752;'veau-marin';1;50
+e;16600454;'::&gt;66:116477&gt;24:15014185';8;0;'personne [peut] faire cuire [objet] saumon'
+e;16601795;'::&gt;66:116477&gt;24:30536';8;0;'personne [peut] faire cuire'
+e;15212241;'en:Salmon was on special offer at the supermarket.';1;0
+e;14474323;'::&gt;66:225916&gt;24:46367';8;0;'personne&gt;être humain [peut] griller'
+e;17526004;'::&gt;66:225916&gt;24:17526002';8;0;'personne&gt;être humain [peut] griller [objet] saumon'
+e;17526005;'::&gt;66:17526004&gt;15:9190';8;0;'personne&gt;être humain [peut] griller [objet] saumon [lieu] four'
+e;17542458;'::&gt;66:59151&gt;24:46367';8;0;'cuisinière [peut] griller'
+e;17542460;'::&gt;66:59151&gt;24:17526002';8;0;'cuisinière [peut] griller [objet] saumon'
+e;17542461;'::&gt;66:17542460&gt;15:9190';8;0;'cuisinière [peut] griller [objet] saumon [lieu] four'
+e;6767;'musculaire';1;1549
+e;14950244;'en:muscular';1;0
+e;15205594;'tout en muscle';1;0
+e;15205595;'en:very muscular';1;0
+e;14731178;'détaillé&gt;263977';1;0;'détaillé&gt;vente au détail'
+e;52413;'carnassier';1;402
+e;35143;'biologie';1;3428
+e;214276;'cuisine&gt;96851';1;386;'cuisine&gt;pièce'
+e;9190;'four';1;2415
+e;89628;'récipient';1;1160
+e;3260867;'récipient de cuisson';1;2
+e;218941;'poisson&gt;20965';1;336;'poisson&gt;nourriture'
+e;12105601;'saumon ac igg';1;0
+e;3372522;'salmon';1;0
+e;73126;'requin';1;654
+e;91691;'surprise';1;2394
+e;143712;'marine';1;3155
+e;71539;'animaux';1;3421
+e;3318579;'makis Chèvre-Tomates séchées et Saumon fumé-concombre';1;0
+e;17132791;'guerre du saumon';777;0
+e;48496;'sauvage';1;2444
+e;15229;'aéronautique';1;3021
+e;1384;'vivant';1;3307
+e;84432;'long';1;3802
+e;113902;'alimentation';1;1961
+e;6341943;'requin-taupe saumon';1;0
+e;14668644;'alphavirus du saumon';1;2
+e;15238420;'brochette de saumon';1;0
+e;103311;'système nerveux';1;276
+e;6800353;'en:nervous system';1;0
+e;122864;'mort';1;7245
+e;23178;'grand';1;3856
+e;132338;'couleurs';1;3576
+e;111235;'métallurgie';1;138
+e;13785044;'vitamine b6';1;0
+e;15397290;'en:fish dish';1;0
+e;30942;'omble';1;60
+e;16793897;'saumon d'eau douce';777;0
+e;599339;'fumé&gt;171869';1;0;'fumé&gt;Adj:'
+e;14951878;'en:brook trout';1;0
+e;9107311;'en:salvelinus fontinalis';1;0
+e;15078190;'en:vitamin B6';1;0
+e;15335832;'en:salmon tartare';1;0
+e;15328042;'en:organa';1;0
+e;15238421;'en:salmon brochette';1;0
+e;149243;'musculeuse';1;50
+e;15526700;'en:muscular coat';1;0
+e;15202063;'en:fine dining';1;0
+e;15465322;'rivière à saumon';1;0
+e;15088586;'en:systema nervosum';1;0
+e;15446416;'en:mi-cuit';1;0
+e;15446417;'en:semi-cooked';1;0
+e;15446418;'en:partially cooked';1;0
+e;16793896;'saumon atlantique d'eau douce';777;0
+e;16793875;'saumon du Japon';777;0
+e;16793874;'saumon masou';777;0
+e;77424;'oeil';1;3278
+e;16110;'bouche';1;4340
+e;141480;'écaille';1;412
+e;108463;'ventre';1;2056
+e;74558;'os';1;3037
+e;80755;'polyphagie';1;50
+e;12110479;'saumon ag';1;0
+e;83944;'nerf';1;858
+e;240720;'squelette&gt;112609';1;152;'squelette&gt;anatomie'
+e;398564;'mâchoires';1;50
+e;1483990;'être vivant non humain';1;4
+e;216142;'Friskies';666;12
+e;154845;'sang froid';1;102
+e;145960;'détaillé';1;3442
+e;145930;'argentine';1;62
+e;223461;'oméga-3';666;52
+e;1709894;'rose&gt;171869';1;0;'rose&gt;Adj:'
+e;17526007;'::&gt;66:116477&gt;24:17526002';8;0;'personne [peut] griller [objet] saumon'
+e;74846;'corps';1;5240
+e;219363;'corps&gt;112609';1;190;'corps&gt;anatomie'
+e;606876;'cru&gt;171869';1;0;'cru&gt;Adj:'
+e;229681;'verrine&gt;43125';1;16;'verrine&gt;gastronomie'
+e;3747509;'saumon-poireaux';1;0
+e;212746;'choucroute garnie';666;30
+e;2442938;'saumon coho';1;0
+e;60807;'parr';1;50
+e;16637;'salmoniculteur';1;50
+e;12081264;'saumon du Mackenzie';1;0
+e;16034830;'salmine';1;0
+e;112398;'saumoneau';1;50
+e;2081634;'taquon';1;0
+e;2417315;'saumon du Danube';1;0
+e;16053385;'oncorhynque';1;0
+e;50469;'petit-suisse';1;54
+e;16601119;'::&gt;66:116477&gt;24:257893';8;0;'personne [peut] faire mariner'
+e;2425918;'saumon de Sibérie';1;0
+e;5901056;'saumon du Burnett';777;0
+e;12032852;'saumon quinat&gt;171869';1;0;'saumon quinat&gt;Adj:'
+e;12032851;'saumon quinat&gt;171870';1;0;'saumon quinat&gt;Nom:'
+e;14959530;'en:pinkish';1;0
+e;14959531;'en:rosy';1;0
+e;9168582;'en:smoked salmon';1;0
+e;15056381;'en:lox';1;0
+e;15491154;'en:metal industry';1;0
+e;15289319;'en:fishculture';1;0
+e;15289320;'en:pisciculture';1;0
+e;15289321;'en:fish-culture';1;0
+e;15289322;'en:fishfarming';1;0
+e;15299674;'en:metalbashing';1;0
+e;15299675;'en:metal bashing';1;0
+e;8525077;'en:metallurgy';1;0
+e;15284575;'des darnes de saumon';1;0
+e;15094630;'en:pectoral fin';1;0
+e;43409;'Canada';1;3769
+e;15563864;'en:catch fish';1;0
+e;15237480;'en:to catch fish';1;0
+e;173609;'umble';1;50
+e;15088064;'en:omega-3';1;0
+e;7053316;'en:metazoa';1;0
+e;15199018;'en:river fish';1;0
+e;36886;'faune';1;2225
+e;15080160;'en:animalia';1;0
+e;16601120;'::&gt;13:116477&gt;29:257893';8;0;'faire mariner [sujet] personne'
+e;86916;'fromage blanc';1;264
+e;14606397;'organisme hétérotrophe';1;2
+e;65083;'torrent';1;268
+e;66842;'verrine';1;108
+e;86808;'aquaculture';1;74
+e;272327;'halieuculture';777;50
+e;127699;'aquiculture';1;52
+e;34415;'Iroquois';1;50
+e;135068;'apéritif';1;1038
+e;110915;'apéro';1;508
+e;273707;'animal transgénique';777;50
+e;90912;'animaux transgéniques';1;50
+e;166471;'vitamine D';1;68
+e;273949;'vitamine d';777;50
+e;114696;'Durance';1;52
+e;213167;'Recul des glaciers depuis 1850';1;50
+e;274517;'requin-taupe du Pacifique';777;50
+e;274518;'Lamna ditropis';777;50
+e;274550;'poisson transgénique';777;50
+e;138960;'Écaille';1;50
+e;274746;'migration des poissons';777;50
+e;75436;'surpêche';1;58
+e;2060;'tilapia';1;64
+e;274766;'Saumon de la sagesse';777;50
+e;274767;'Saumon du savoir';777;50
+e;94208;'Alaska';1;64
+e;261916;'Salmo trutta';1;50
+e;176028;'truite fario';1;10
+e;274753;'esturgeons';777;50
+e;274754;'Acipenseridae';777;50
+e;274742;'anatomie des poissons';777;50
+e;274965;'mer de Norvège';1;50
+e;275304;'phoque commun';1;50
+e;64938;'veau marin';1;50
+e;114202;'pesticide';1;448
+e;55572;'steak';1;576
+e;21940;'beefsteak';1;58
+e;18094;'bifteck';1;94
+e;123340;'voilure';1;346
+e;275861;'l'aile';777;1668
+e;99862;'caviar';1;174
+e;61796;'salmoniculture';1;54
+e;1400;'croque-monsieur';1;102
+e;276723;'croquemonsieur';777;50
+e;20101;'croque';1;56
+e;3176832;'Wye';777;0
+e;228251;'Purina';1;50
+e;88585;'bouchot';1;52
+e;6139;'bouchoteur';1;50
+e;279658;'méthylmercure';777;50
+e;255569;'méthyl-mercure';1;50
+e;213240;'flétan du Groenland';1;50
+e;279681;'Reinhardtius hippoglossoides';777;50
+e;213242;'turbot américain';1;50
+e;20877;'civelle';1;62
+e;27962;'pibale';1;50
+e;166480;'pou de mer';1;54
+e;52773;'bicyclette';1;728
+e;28421;'bicycle';1;60
+e;180189;'anisakiase';1;50
+e;214171;'fish and chips';1;86
+e;281147;'fish supper';777;50
+e;177474;'cacheroute';1;18
+e;281335;'kashrout';777;58
+e;34174;'casherout';1;50
+e;77858;'kipper';1;52
+e;212545;'potamodrome';1;50
+e;114510;'Oussouri';1;50
+e;282935;'pôchouse';777;50
+e;149580;'pauchouse';1;50
+e;106511;'pochouse';1;50
+e;36389;'poux';1;157
+e;52219;'Chinooks';1;50
+e;30316;'cacher';1;1197
+e;50531;'fumage';1;66
+e;33985;'koulibiac';1;52
+e;242690;'cténophores';1;50
+e;285160;'ctenophora';777;50
+e;51882;'cténaires';1;50
+e;171027;'turbot de Terre-Neuve';1;50
+e;286898;'22 août';777;50
+e;60328;'Nature';1;2265
+e;225852;'vieux clou';1;50
+e;62657;'Jack London';1;56
+e;289505;'John Griffith Chaney';777;50
+e;43827;'écailles';1;228
+e;191256;'chat marin';1;50
+e;165864;'velo';1;52
+e;83469;'bichique';1;50
+e;68572;'Bornholm';1;50
+e;232359;'Gaspésie';666;50
+e;106958;'Irlande';1;3004
+e;158679;'irlandaise';1;1554
+e;130322;'cténaire';1;50
+e;76800;'pisciculteur';1;80
+e;108586;'maquereau';1;486
+e;224197;'maquereau bleu';1;50
+e;224198;'maquereau commun';1;50
+e;10954;'sénescence';1;68
+e;11742;'vieillissement';1;336
+e;13017;'appâter';1;126
+e;142545;'Appât';1;50
+e;14912;'fumaison';1;52
+e;19066;'gué';1;76
+e;120470;'caroténoïdes';1;54
+e;23432;'caroténoïde';1;56
+e;26579;'catadrome';1;50
+e;39650;'sushi';1;282
+e;296271;'shari';777;50
+e;296272;'neta';777;50
+e;41205;'Navarrenx';1;50
+e;47685;'Aberdeen';1;50
+e;55334;'civelles';1;50
+e;57738;'lac des Settons';1;50
+e;58678;'Brioude';1;50
+e;59587;'Sioule';1;50
+e;64554;'naturellement';1;2548
+e;66942;'lac Champlain';1;50
+e;67631;'Micmacs';1;50
+e;298307;'Mi'kmaq';777;50
+e;68089;'Petsamo';1;50
+e;298365;'Petchenga';777;50
+e;298756;'sami';777;50
+e;72598;'Lapons';1;52
+e;73510;'aquaculteur';1;52
+e;299524;'Bølling';777;50
+e;81922;'Bölling';1;50
+e;95283;'calcitonine';1;52
+e;300670;'flottage du bois';777;50
+e;82002;'drave';1;50
+e;95677;'flottage';1;52
+e;100825;'astaxanthine';1;50
+e;115021;'Haïdas';1;50
+e;115547;'Kamtchatka';1;50
+e;63348;'marronnage';1;54
+e;121354;'féral';1;50
+e;121530;'Salmon';1;52
+e;122257;'boucholeur';1;50
+e;160411;'salade russe';1;50
+e;169495;'régime hydrologique';1;50
+e;305681;'régime hydrologique naturel';777;50
+e;306056;'acides gras essentiels';777;50
+e;306057;'indispensables';777;50
+e;177121;'acide gras essentiel';1;50
+e;273800;'quasi menacé';777;50
+e;183106;'manchot papou';1;50
+e;306135;'Pygoscelis papua';777;50
+e;168159;'aiguillat commun';1;2
+e;306875;'aiguillat tacheté';777;50
+e;26469;'aiguillat';1;52
+e;177190;'balyk';1;50
+e;209276;'train de bois';1;50
+e;220978;'cacherouth';1;60
+e;222487;'Haudenosaunee';1;50
+e;170944;'grande alose';1;50
+e;237012;'diadrome';1;50
+e;309321;'État de Washington';1;50
+e;213241;'flétan noir';1;50
+e;221045;'furikake';1;8
+e;311456;'gravlaks';777;50
+e;311457;'gravad laks';777;50
+e;311458;'graavilohi';777;50
+e;311459;'graflax';777;50
+e;311460;'gravelax';777;50
+e;237011;'océanodrome';1;50
+e;265171;'écaille placoïde';1;6
+e;312137;'cuisine algérienne';777;50
+e;312787;'mer du Groenland';1;50
+e;330074;'espace naturel';1;50
+e;329647;'cténophore';1;50
+e;392680;'Lepeophtheirus salmonis';777;50
+e;393829;'cuisine russe';1;70
+e;437824;'sauce beurre rouge';1;50
+e;380648;'souris transgénique';1;50
+e;293810;'méandre de Queuille';777;50
+e;389159;'écaille cycloïde';1;50
+e;399313;'vélos';1;64
+e;407303;'Acipenser';1;50
+e;410631;'micmaque';1;50
+e;416329;'Nageoire';1;50
+e;418120;'Caviar';1;50
+e;419462;'pizzas';1;54
+e;433843;'Pou';1;50
+e;461764;'Tilapia';1;50
+e;462132;'Salmo salar';777;50
+e;128439;'superprédateur';1;56
+e;280744;'prédateur alpha';777;50
+e;280745;'apex prédateur';777;50
+e;280746;'alpha prédateur';777;50
+e;581989;'Samis';777;0
+e;111887;'cobalamine';1;50
+e;166472;'vitamine B';1;60
+e;95983;'niacine';1;62
+e;176225;'vitamine PP';1;12
+e;242575;'pâte à pizza';1;28
+e;599594;'Lutin';1;0
+e;145382;'orange';1;2231
+e;74783;'orangé';1;93
+e;22471;'aquacole';1;50
+e;48784;'Villard-de-Lans';1;50
+e;816846;'salade Olivier';1;0
+e;308547;'naturels';777;2885
+e;381718;'sulfate de protamine';1;50
+e;404919;'iroquoise';1;50
+e;152432;'steack';1;156
+e;53120;'cagot';1;60
+e;285301;'cagote';777;52
+e;1370135;'agote';777;0
+e;279511;'données insuffisantes';777;50
+e;324956;'truite brune';1;50
+e;168166;'chat de mer';1;50
+e;173587;'caqueux';1;50
+e;1586787;'Salvelinus fontinalis';777;0
+e;1595152;'souchi';777;0
+e;324960;'truite de lac';1;50
+e;1573231;'oméga 3';1;0
+e;168175;'lamproie marine';1;50
+e;709087;'Petromyzon marinus';777;0
+e;709088;'Petromyzon';1;0
+e;1655155;'souriquois';1;0
+e;296416;'Coregonus';777;50
+e;1783638;'corégone oxyrhynque';1;0
+e;176065;'acide nicotinique';1;6
+e;44615;'Skye';1;50
+e;1814280;'île Manitoulin';1;0
+e;1815178;'Haida';1;0
+e;1850064;'acide eicosapentaénoïque';1;0
+e;1833102;'EPA';1;2
+e;1859117;'acide icosapentaénoïque';777;0
+e;1859118;'acide timnodonique';777;0
+e;1885138;'poissons migrateurs';1;0
+e;9653;'naturelle';1;3496
+e;1395798;'oukha';1;54
+e;428094;'Wupper';1;50
+e;1650851;'Wipper';777;0
+e;2144681;'chinooks';2;0
+e;2059275;'lapons';2;0
+e;2362968;'alutiiq';1;0
+e;2362969;'Yupik du Pacifique';777;0
+e;2362970;'Sugpiaq';777;0
+e;2365734;'haïda';1;0
+e;2365302;'Yupiks';1;0
+e;2366576;'yup'ik';777;0
+e;2366577;'yupiit';777;0
+e;264288;'signe de Babinski';1;52
+e;594059;'bloc de branche gauche';1;0
+e;2368541;'nerka';1;0
+e;2396298;'Amqui';1;0
+e;2397040;'Salmbach';1;0
+e;2400029;'méthoprène';1;0
+e;2401904;'youpik';1;0
+e;2409227;'Saami';1;0
+e;2588744;'Dissostichus';777;0
+e;2588745;'légines';777;0
+e;2435168;'diflubenzuron';1;4
+e;2460404;'senescence';1;22
+e;272186;'En danger';777;50
+e;2509456;'Vielsalm';1;0
+e;1814522;'élevages en mer';1;0
+e;398671;'naturelles';1;2878
+e;2952638;'féralisation';777;0
+e;2601675;'Quasi menacé';777;0
+e;2956492;'Crestian';1;0
+e;211563;'poissons d'eau douce';1;50
+e;2872080;'Préoccupation mineure';777;0
+e;3309995;'Saumonette';777;0
+e;3384563;'Guic';777;0
+e;17413;'laitance';1;52
+e;3513652;'Élorn';777;0
+e;1814302;'île Kodiak';1;0
+e;3602043;'Ctenophora';1;0
+e;5537339;'Keropok';777;0
+e;3725163;'Corégone oxyrhynque';777;0
+e;5624081;'baie Egesik';777;0
+e;5002471;'Kamchatka';777;0
+e;14918935;'en:alevin';1;0
+e;5539090;'balclutha';777;0
+e;70405;'migration';1;1529
+e;217183;'cuisine japonaise';1;252
+e;5561063;'rôle de l'alimentation dans la prévention des cancers';777;0
+e;5619649;'aquaculture du tilapia';777;0
+e;5619650;'élevage du tilapia';777;0
+e;5619651;'tilapiculture';777;0
+e;5621610;'cuisine acadienne';777;0
+e;5621633;'cuisine bretonne';777;0
+e;127547;'grillade';1;478
+e;20399;'lasagnes';1;122
+e;5622070;'pain polaire';777;0
+e;5622878;'rambol';777;0
+e;5623034;'kasuzuke';777;0
+e;5624256;'chutes de Kettle';777;0
+e;5624387;'rivière Eek';777;0
+e;5627686;'Squalus acanthias';777;0
+e;3445940;'Osmerus';1;0
+e;5629747;'Scomber scombrus';777;0
+e;18412;'élevage';1;992
+e;5681529;'Francis Trevelyan Buckland';777;0
+e;5624458;'Gakona';777;0
+e;132476;'rogue';1;60
+e;5786843;'cuisine comtadine et vauclusienne';777;0
+e;1973061;'sauce vierge';1;0
+e;5795641;'café Pouchkine de Moscou';777;0
+e;5795703;'Cage Brasserie Sportive';777;0
+e;5797319;'chassagne-montrachet';777;0
+e;5800903;'cuisine malawite';777;0
+e;5801029;'chazuke';777;0
+e;5801030;'ochazuke';777;0
+e;5801298;'delpeyrat';777;0
+e;239865;'fumet de poisson';1;2
+e;5804286;'gastronomie fuégienne';777;0
+e;5804811;'goldwasser';777;0
+e;5804812;'Danziger Goldwasser';777;0
+e;5807795;'koshu';777;0
+e;245290;'Le Train bleu';1;52
+e;5808231;'troisgros';777;0
+e;5811705;'yusheng';777;0
+e;5811706;'lo hei';777;0
+e;176218;'vitamine B3';1;56
+e;176216;'vitamine B12';1;60
+e;216936;'panini';1;76
+e;5828571;'pâté au saumon';777;0
+e;1963162;'cottage pie';1;0
+e;5828643;'salade californienne';777;0
+e;5835766;'certification sylvicole ATFS';777;0
+e;5835804;'game ranching';777;0
+e;173347;'Papou';1;2
+e;5892691;'Phoca vitulina';777;0
+e;5892840;'Zalophus californianus';777;0
+e;5892841;'Otarie de Californie';777;0
+e;5894229;'Jökulsárlón';777;0
+e;5895259;'smörgåsbord';777;0
+e;5897872;'ration alimentaire de l'armée américaine';777;0
+e;5814007;'Goldwasser';1;0
+e;5900785;'Saumon d'eau douce';777;0
+e;19444;'alevin';1;98
+e;5901089;'Alosa alosa';777;0
+e;5926731;'désastre d'Escuminac';777;0
+e;5941958;'Classe Som';777;0
+e;69125;'Corail';1;50
+e;5945741;'quatre éléments';777;0
+e;5949532;'Coregonus oxyrinchus';777;0
+e;5878898;'Wanapums';1;0
+e;5971976;'Wanapams';777;0
+e;5971977;'Sokulks';777;0
+e;5980924;'réserves fauniques';777;0
+e;6070144;'Ätran';777;0
+e;118502;'abricot';1;622
+e;6700431;'cuisine irlandaise';777;0
+e;9949463;'22 aout';777;0
+e;2359024;'cacherout';1;12
+e;406010;'Blaine';1;50
+e;9572799;'Ian Anderson';777;0
+e;9572800;'Martin Barre';777;0
+e;9572801;'David Goodier';777;0
+e;9572802;'John O'Hara';777;0
+e;9573123;'Doane Perry';777;0
+e;168167;'saumonette';1;50
+e;114290;'Aran';1;50
+e;4277934;'Harana';1;0
+e;135646;'Joyeuse';1;50
+e;9960604;'parc national du Fjord-du-Saguenay';777;0
+e;9962578;'Canyon City';777;0
+e;10063264;'Panopea abrupta';777;0
+e;10063265;'panope du Pacifique';777;0
+e;10083279;'banquet des maires de 1900';777;0
+e;10083280;'à l'occasion de l'exposition universelle de 1900';777;0
+e;10095916;'mer d'Okhotsk';777;0
+e;10139841;'John Nathan Cobb';777;0
+e;10158973;'causapscal';777;0
+e;10158996;'La Matapédia';777;0
+e;10158998;'La Mitis';777;0
+e;10191184;'centrale de la Mitis-1';777;0
+e;10787730;'listuguj';777;0
+e;10385376;'Goodison Park';777;0
+e;409067;'Champ';1;388
+e;435524;'Kinderdijk';1;50
+e;10440786;'Kobushi';1;0
+e;10462092;'expédition Lewis et Clark';777;0
+e;10462094;'expédition de Lewis et Clark';777;0
+e;78129;'Aïnous';1;50
+e;6069163;'rivière Ristigouche';777;0
+e;6065943;'Restigouche';777;0
+e;10583622;'abri du poisson';777;0
+e;10599812;'agriculture en Irlande';777;0
+e;9624;'Elbe';1;52
+e;10743992;'Francisco Álvarez-Cascos Fernández';777;0
+e;31548;'Cortes';1;54
+e;10748037;'armoiries du Nouveau-Brunswick';777;0
+e;10778213;'réserve naturelle nationale de la petite Camargue alsacienne';777;0
+e;10762823;'Nashwaak';1;0
+e;10344577;'usk';777;0
+e;1812566;'Leif Erikson';777;0
+e;10874534;'Des saumons dans le désert';777;0
+e;10874535;'Partie de pêche au Yémen';777;0
+e;10906451;'Terence Hanbury White';777;0
+e;8571113;'Vulnérable';777;0
+e;10512449;'Namsen';777;0
+e;5624222;'Fleuves';777;0
+e;301156;'Glomma';777;50
+e;9958568;'Numedalslågen';777;0
+e;9958569;'Tenojoki';777;0
+e;9958570;'Altaelva';777;0
+e;9958571;'Gaula';777;0
+e;10943259;'Sør-Trøndelag';777;0
+e;1564;'Klamath';1;50
+e;10933675;'rivière malheur';777;0
+e;10933698;'rivière Sandy';777;0
+e;10936729;'ENSO';777;0
+e;10970391;'économie du Chili';777;0
+e;138498;'golfe d'Alaska';1;50
+e;10987240;'golfe de l'Alaska';777;0
+e;10987279;'histoire des Premières Nations';777;0
+e;10987412;'colonisation de l'Islande';777;0
+e;10846451;'oblast de Magadan';777;0
+e;39864;'Allier';1;2512
+e;27919;'Alagnon';1;50
+e;11003507;'nageoire molle ou adipeuse';777;0
+e;11003508;'pédoncule caudal ou queue';777;0
+e;214630;'nageoire caudale';1;6
+e;258617;'nageoire anale';1;52
+e;11003509;'nageoire ventrale ou pelvienne';777;0
+e;83866;'fretin';1;54
+e;123207;'nourrain';1;66
+e;3796364;'Onneiouts';1;0
+e;278569;'choucroute d'Alsace';777;50
+e;6348197;'animal génétiquement modifié';1;0
+e;11077812;'Tiguil';777;0
+e;11078165;'Vefsna';777;0
+e;11077823;'Varzouga';777;0
+e;6530781;'Anisakis';1;0
+e;11080517;'Anisakidae';777;0
+e;11105599;'Parc naturel régional Loire-Anjou-Touraine';777;0
+e;11109510;'rivière Ericht';777;0
+e;6145;'Severn';1;50
+e;4063288;'Bann';1;0
+e;11109516;'rivière Shiel';777;0
+e;11120073;'culture nauruane';777;0
+e;244701;'tarte flambée';1;4
+e;5827657;'flàmmenküeche';777;0
+e;568640;'Kodiak';1;50
+e;3767212;'cuisine californienne';1;0
+e;11150810;'piège écologique';777;0
+e;11172876;'Proto-Indo-Européens';777;0
+e;11174781;'L'Île aux Hérons';777;0
+e;11184275;'La préhistoire et la protohistoire du Québec';777;0
+e;11208966;'Eau et Rivières de Bretagne';777;0
+e;11208967;'ERB';777;0
+e;11208968;'Eau et Rivières';777;0
+e;11218754;'Lion de mer de Californie';777;0
+e;92493;'nyctalopie';1;52
+e;11233424;'rivière Nicolet';777;0
+e;11287815;'gorge du Columbia';777;0
+e;11287816;'gorges du Columbia';777;0
+e;11287817;'Columbia Gorge National Scenic Area';777;0
+e;11343193;'Jack London ou John Griffith Chaney';777;0
+e;11353582;'Myxobolus cerebralis';777;0
+e;11353583;'Myxosoma cerebralis Triactinomyxon dubium Triactinomyxon gyrosalmo';777;0
+e;11353584;'maladie du tournis';777;0
+e;2416362;'Labeyrie';1;0
+e;9745589;'Troisgros';1;0
+e;2571066;'Illhaeusern';1;0
+e;11494445;'David Starr Jordan';777;0
+e;11539465;'Myxozoa';777;0
+e;11572434;'Holsteinborg';777;0
+e;11572531;'ketchikan';777;0
+e;11572793;'île du Prince de Galles';777;0
+e;11694837;'Charles Henry Gilbert';777;0
+e;35530;'Arques';1;50
+e;11831927;'poisson génétiquement modifié';777;0
+e;60098;'appât';1;262
+e;11577114;'Ketchikan';1;0
+e;14225480;'Migration des poissons';777;0
+e;3864737;'Ramales de la Victoria';1;0
+e;2497859;'La Roche-Maurice';1;0
+e;244702;'flammekueche';1;52
+e;12267245;'Flàmmaküacha';777;0
+e;154465;'pêche à la ligne';1;210
+e;6064901;'Jeux olympiques de 1900';777;0
+e;12978181;'Cessna LC-126';777;0
+e;10556106;'Causapscal';1;0
+e;11009420;'Raspes';1;0
+e;79993;'anglais';1;3833
+e;5814639;'Sushi';1;0
+e;10673200;'Croque-monsieur';777;0
+e;14166374;'zec de la Rivière-Laval';777;0
+e;9699182;'L98';777;0
+e;115112;'Luna';1;50
+e;115620;'Yom Kippour';1;54
+e;302446;'Jour du Grand Pardon';777;50
+e;407531;'essentiels';1;54
+e;14473503;'non indispensables ou bien non essentiels';777;0
+e;5562349;'Balclutha';777;0
+e;146045;'Carpaccio';1;50
+e;5990018;'atholville';777;0
+e;5990019;'Tjikog';777;0
+e;9959636;'Poissonnerie';1;0
+e;14467125;'Rivière Salmon';777;0
+e;14467126;'grande rivière Salmon';777;0
+e;14482822;'tétraterpènoides';777;0
+e;3748043;'chirashizushi';777;0
+e;14483089;'chirashi sushi';777;0
+e;3747281;'chirashi';1;0
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;14484513;'équipement de signalisation';777;0
+e;14486584;'nature des espèces';777;0
+e;350752;'en gras';1;50
+e;14488750;'Basses côtes';777;0
+e;115614;'hyperphagie';1;64
+e;12282755;'ou la suralimentation';777;0
+e;14531631;'shabbat shabbaton';777;0
+e;75811;'interdit';1;3095
+e;14531632;'Erev Yom Kippour';777;0
+e;14531633;'Gmar 'Hatima Tova';777;0
+e;14530678;'poux des plantes';777;0
+e;14571675;'conditionnellement indispensables';777;0
+e;14580234;'Aberdon';777;0
+e;5564952;'Cépage de cuve';777;0
+e;5564953;'Cépage de table';777;0
+e;305679;'bent';777;50
+e;14595702;'o-bent';777;0
+e;10160249;'Cette section peut contenir un travail inédit ou des déclarations non vérifiées';777;0
+e;2397535;'La Roche';1;0
+e;14742973;'Elbe supérieur';777;0
+e;14742974;'Elbe moyen';777;0
+e;14742975;'Elbe inférieur';777;0
+e;5535122;'Grandes familles de biomolécules';777;0
+e;287069;'Au Canada';777;50
+e;14869729;'D.S.Jord';777;0
+e;280780;'Consulter la liste des abréviations d'auteur';777;50
+e;14893315;'Exemples de caroténoïdes rouges et roses présents dans les aliments';777;0
+e;14893316;'Exemples de caroténoïdes jaunes et oranges présents dans les aliments';777;0
+e;173943;'bento';1;16
+e;15039565;'nuisances écologiques';777;0
+e;15039566;'Pollution génétique';777;0
+e;14481206;'cinétique environnementale et biomagnification du mercure';777;0
+e;231012;'faibles';1;2630
+e;154086;'meilleurs';1;3070
+e;14776522;'Yvan Adam';777;0
+e;116025;'Arlon';1;52
+e;15705636;'Acipenserinae';777;0
+e;15705637;'Scaphirhynchinae';777;0
+e;187257;'lac Majeur';1;50
+e;15773071;'berri rouge';777;0
+e;9985744;'Espèces menacées';777;0
+e;15775039;'Espèces selon le type d'habitat';777;0
+e;15775040;'Les variétés';777;0
+e;15775041;'leur habitat';777;0
+e;15775042;'L'activité de la pêche';777;0
+e;10117115;'Eureka';1;0
+e;230581;'salade César';1;12
+e;30472;'titres';1;3409
+e;66372;'texte';1;3570
+e;56362;'gras';1;2597
+e;136284;'italique';1;62
+e;191712;'citations';1;54
+e;9634975;'listes à puces';777;0
+e;146823;'tableaux';1;2487
+e;15964266;'Le méandre de Queuille';777;0
+e;6065722;'viaduc des Fades';777;0
+e;15964267;'Château-Rocher';777;0
+e;15964269;'pont de Menat';777;0
+e;15964270;'abbaye clunisienne de Menat';777;0
+e;168197;'truite de mer';1;50
+e;239128;'_COM';36;50
+e;141604;'rive';1;3077
+e;750240;'Histogramme de l'évolution démographique';777;0
+e;2100287;'recyclée';2;0
+e;16133302;'réserve aquatique de la Vallée-de-la-Rivière-Sainte-Marguerite';777;0
+e;9267656;'Contenus de qualité';777;0
+e;9267657;'Bons contenus';777;0
+e;5951228;'Sélection';1;0
+e;411314;'Programme';1;1431
+e;1980587;'abolit';2;0
+e;59082;'attentat';1;1673
+e;12540937;'rivière Sainte-Marguerite';777;0
+e;228019;'glissement de terrain';1;18
+e;16159179;'Panopea generosa';777;0
+e;11952;'blini';1;58
+e;16315002;'parenki';777;0
+e;3373743;'syrniki';1;0
+e;2465297;'Hastingues';1;0
+e;16320272;'La Déambulation';777;0
+e;51177;'Clyde';1;54
+e;410087;'Histogramme';1;50
+e;13396144;'Sisimiut';777;0
+e;42321;'suralimentation';1;54
+e;217188;'pâtes farcies';1;50
+e;411902;'Figure';1;50
+e;16415890;'Capitole de l'État de l'Oregon';777;0
+e;16576269;'Exemples de caroténoïdes jaunes et orange présents dans les aliments';777;0
+e;16577919;'borscht vert';777;0
+e;16577920;'soupe à l'oseille';777;0
+e;16577925;'oladi';777;0
+e;22004;'Wuppertal';1;98
+e;59936;'AOC';1;2161
+e;139752;'Blanc';1;2656
+e;145113;'Rouge';1;2846
+e;142859;'Village';1;2150
+e;16585413;'mi'gmaq';777;0
+e;16585414;'L'nuk';777;0
+e;14656644;'Onamag';777;0
+e;14656645;'Pouwowin';777;0
+e;14656646;'Sketekemouc';777;0
+e;127687;'montaison';1;50
+e;105739;'avalaison';1;52
+e;125527;'Sunderland';1;50
+e;3318760;'oyakodon';1;0
+e;208456;'steak tartare';1;138
+e;20797;'tartare';1;106
+e;16779512;'sponda';777;0
+e;303218;'III';777;3874
+e;1655856;'smoltification';1;0
+e;2286473;'smolts';2;0
+e;16793899;'Saumon fumé';777;0
+e;415227;'Reinhardtius';1;50
+e;16796891;'Histoire de la cuisine japonaise';777;0
+e;16794346;'Flammekueche';1;0
+e;165678;'nature humaine';1;58
+e;10933686;'Slocan';777;0
+e;16810882;'EPA (pour EicosaPentaénoïque Acide)';1;0
+e;16838373;'ECA2';1;0
+e;1850176;'acide érythrorbique';1;0
+e;16810873;'acide éthanedicarboxylique';1;0
+e;1832760;'acide eicosatétraènoïque';1;0
+e;16811358;'acide épsilon-aminocaproïque';1;0
+e;333476;'acide éthanoïque';1;50
+e;333475;'acide érucique';1;50
+e;16811308;'acide éicosatétraénoïque';1;0
+e;223903;'acide élaïdique';666;50
+e;15016448;'acide éicosapentaénoïque';777;0
+e;16830709;'TCT';1;0
+e;16182579;'Capitale administrative';777;0
+e;16979502;'Raions';777;0
+e;69445;'Magadan';1;50
+e;11011520;'Le Figaro Économie';777;0
+e;17132648;'La première descente';777;0
+e;17132649;'La deuxième descente';777;0
+e;17132651;'L'appel';777;0
+e;17132726;'Histoire précoloniale du Québec';777;0
+e;17132849;'Le procès';777;0
+e;2514660;'onigiri';1;0
+e;26784;'Mauléon-Licharre';1;50
+e;10789459;'Slaney';1;0
+e;14734525;'Ouvrages généraux';777;0
+e;14734526;'Monographies et articles';777;0
+e;5620267;'cuisine canadienne';777;0
+e;2495038;'marronage';1;0
+e;17409498;'Nuisances écologiques';777;0
+e;14930589;'en:coulibiac';1;0
+e;14930590;'en:koulibiac';1;0
+e;14930591;'en:koulibiak';1;0
+e;14920402;'en:apéritif';1;0
+e;177238;'filet américain';1;50
+e;14963778;'en:tartare';1;0
+e;7186991;'en:nature';1;0
+e;14928028;'en:Chinook';1;0
+e;14924284;'en:blini';1;0
+e;3346300;'E375';1;0
+e;15238412;'du saumon fumé';1;0
+e;15301409;'du saumon à l'aneth';1;0
+e;143607;'nature';1;3628
+e;114950;'esturgeon';1;140
+e;145043;'pâté';1;364
+e;85355;'lutin';1;332
+e;68256;'vélo';1;3092
+e;137784;'Tamise';1;84
+e;2389101;'saumon chum';1;0
+e;10870787;'Flabelline saumon';777;0
+e;233138;'tête&gt;390963';1;72;'tête&gt;extrémité supérieure du corps'
+e;13115;'mâchoire';1;510
+e;258619;'ligne latérale';1;54
+e;390927;'tête&gt;112609';1;72;'tête&gt;anatomie'
+e;13031861;'chair du saumon';1;0
+e;86661;'aquiculteur';1;50
+e;214601;'queue&gt;214624&gt;68467';1;18;'queue&gt;queue d'animal&gt;poisson'
+e;189981;'ingrédient de cuisine';1;66
+e;12110480;'saumon du pacifique ag';1;0
+e;12110481;'saumon oeuf ag';1;0
+e;12241345;'mesure de saumon ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | masse/volume';1;0
+e;12241344;'mesure de saumon ac igg | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;12241343;'mesure de saumon ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | ratio';1;0
+e;12241342;'mesure de saumon ac ige | technique indéterminée | sérum | ponctuel | résultat numérique | arbitraire/volume';1;0
+e;95256;'queue';1;3266
+e;143187;'pêcheur';1;454
+e;12105606;'saumon oeuf ac ige';1;0
+e;12105605;'saumon du pacifique ac ige classification rast';1;0
+e;12105604;'saumon du pacifique ac ige';1;0
+e;12105603;'saumon ac igg4';1;0
+e;12105602;'saumon ac igg classification rast';1;0
+e;12105600;'saumon ac ige classification rast';1;0
+e;12105599;'saumon ac ige';1;0
+e;61835;'chair';1;2253
+e;232082;'ouïe&gt;68467';1;6;'ouïe&gt;poisson'
+e;216283;'dent&gt;45311';1;284;'dent&gt;dentaire'
+e;144846;'tête';1;5937
+e;147184;'dents';1;2390
+e;77008;'yeux';1;4539
+e;236940;'estomac&gt;112609';1;108;'estomac&gt;anatomie'
+e;152946;'arêtes';1;114
+e;133921;'dentition';1;430
+e;44160;'branchie';1;172
+e;50751;'ouïe';1;418
+e;109785;'peau';1;3983
+e;101938;'estomac';1;852
+e;69943;'fleuve';1;3454
+e;215971;'fleuve&gt;137865';1;130;'fleuve&gt;cours d'eau'
+e;46141;'congélateur';1;778
+e;62735;'assiette';1;1688
+e;9664;'océan';1;3202
+e;107150;'bateau';1;5823
+e;38188;'menu';1;748
+e;13624;'pêcherie';1;58
+e;60152;'bassin';1;2996
+e;68925;'chambre froide';1;222
+e;215833;'carte&gt;79954';1;76;'carte&gt;restaurant'
+e;139467;'cale';1;146
+e;227955;'port&gt;123977';1;26;'port&gt;maritime'
+e;181184;'boite de conserve';1;8
+e;45624;'frigo';1;1024
+e;131196;'carte';1;3407
+e;19653;'frigidaire';1;390
+e;138622;'Atlantique';1;2459
+e;42188;'filet';1;708
+e;241907;'étal&gt;64437';1;20;'étal&gt;boucherie'
+e;56676;'étal';1;236
+e;166492;'filet de poisson';1;162
+e;7575;'boîte';1;2361
+e;156119;'boîte de conserve';1;156
+e;146274;'marché';1;3560
+e;143608;'pièce d'eau';1;76
+e;219326;'bateau&gt;127671';1;338;'bateau&gt;embarcation'
+e;45212;'conserverie';1;64
+e;128721;'réfrigérateur';1;666
+e;18475;'vivier';1;62
+e;216598;'assiette&gt;60109';1;158;'assiette&gt;pièce de vaisselle'
+e;225908;'boîte&gt;42731';1;74;'boîte&gt;contenant'
+e;257264;'rayon frais';1;48
+e;128626;'criée';1;72
+e;113743;'port';1;3594
+e;226027;'marché&gt;135190';1;52;'marché&gt;lieu'
+e;5787857;'saumon des gaves';777;0
+e;5787856;'saumon de l'Adour';777;0
+e;6438983;'virus de l'anémie infectieuse du saumon';1;0
+e;12196930;'saumon ac';1;0
+e;12201543;'saumon oeuf';1;0
+e;426495;'Lotte';1;52
+e;14330;'satisfaction';1;626
+e;28453;'bonheur';1;2804
+e;6037;'poissonneux';1;60
+e;6347874;'poux du saumon';1;0
+e;6364597;'entolome couleur saumon';1;0
+e;12201679;'saumon du pacifique';1;0
+e;12185936;'mesure de saumon oeuf ac ige';1;0
+e;12185934;'détermination de la présence de saumon du pacifique ac ige classification rast';1;0
+e;12185932;'mesure de saumon du pacifique ac ige';1;0
+e;12185930;'mesure de saumon ac igg4';1;0
+e;12185928;'détermination de la présence de saumon ac igg classification rast';1;0
+e;12185925;'mesure de saumon ac igg';1;0
+e;12185923;'détermination de la présence de saumon ac ige classification rast';1;0
+e;12185920;'mesure de saumon ac ige';1;0
+e;2440596;'escalopine';1;0
+e;2442520;'guimoisseron';1;0
+e;1500;'portage';1;76
+e;24743;'mollusque';1;448
+e;2007;'homard';1;336
+e;6023;'chester';1;50
+e;155489;'ecrevisse';1;50
+e;217619;'SAUVAGE';1;50
+e;3319595;'POU';1;0
+e;244857;'rivière Rouge';666;50
+e;1342544;'comestible&gt;113963';1;10;'comestible&gt;mangeable'
+e;229957;'truite saumonée';1;76
+e;35428;'flamant';1;56
+e;158578;'fruits de mer';1;94
+e;88245;'pou';1;354
+e;111059;'casher';1;60
+e;88091;'kasher';1;68
+e;146958;'cascher';1;50
+e;176955;'cachère';1;50
+e;96342;'Washington';1;3282
+e;173480;'Washington, District de Columbia';1;50
+e;105057;'strip-teaseuse';1;118
+e;28447;'sage-femme';1;128
+e;252829;'Washington, DC';1;50
+e;148791;'kascher';1;66
+e;146974;'cawcher';1;50
+e;317777;'Pediculus humanus';1;10
+e;179984;'pediculus humanus';1;50
+e;270986;'Washington DC';1;50
+e;312704;'Washington D.C.';1;50
+e;152828;'stripteaseuse';1;60
+e;606875;'cru&gt;171870';1;0;'cru&gt;Nom:'
+e;216120;'recette de cuisine';1;140
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;13;'r_agent';'action&gt;agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;14;'r_patient';'action&gt;patient';Le patient (qu'on appelle aussi l'objet) est l'entité qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent être 'viande', 'légume', 'pain', ... (manger r_patient pain)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;21;'r_has_antimagn';'antimagn';L'inverse de la magnification, par exemple - bruine - pour pluie.
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;28;'r_lieu-1';'lieu&gt;chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;35;'r_meaning/glose';'glose/sens/signification';Quels SENS/SIGNIFICATIONS pouvez vous donner au terme proposé. Il s'agira de termes (des gloses) évoquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'.
+rt;50;'r_object&gt;mater';'objet&gt;matiere';Quel est la ou les MATIERE/SUBSTANCE pouvant composer l'objet qui suit. Par exemple, 'bois' pour 'poutre'.
+rt;51;'r_mater&gt;object';'matière&gt;objet';Quel est la ou les CHOSES qui sont composés de la MATIERE/SUBSTANCE qui suit (exemple 'bois' -&gt; poutre, table, ...).
+rt;55;'r_against';'s'oppose à';A quoi le terme suivant S'OPPOSE/COMBAT/EMPECHE ? Par exemple, un médicament s'oppose à la maladie.
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --&gt; adénomyose)
+rt;102;'r_can_eat';'se nourrit de';De quoi peut se nourir l'animal suivant ?
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;127;'r_incompatible';'r_incompatible';Relation d'incompatibilité, ne doivent pas être présents ensemble. Par exemple, alcool r_incompatible antibiotique.
+rt;170;'r_sing_form';'r_sing_from';La forme au singulier d'un terme. Exemple : chevaux r_sing_from cheval (pas de relation inverse)
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;2000;'r_raff_sem-1';'r_raff_sem-1';Inverse de r_raff_sem (automatique)
+
+// les relations entrantes : r;rid;node1;node2;type;w 
+// 2891 relations entrantes 
+
+r;15541962;175647;3361;27;816
+r;15204736;106404;3361;27;812
+r;373035674;406521;3361;17;570
+r;372564987;109803;3361;17;566
+r;110536;68467;3361;0;392
+r;97419336;139578;3361;10;353
+r;125655295;6880460;3361;10;349
+r;83535422;47319;3361;10;281
+r;216391558;8535678;3361;10;277
+r;1466938;177298;3361;0;262
+r;154229634;6797262;3361;10;237
+r;11286863;264067;3361;6;229
+r;289322488;213387;3361;2000;224
+r;97419333;213792;3361;10;215
+r;149060004;6800176;3361;10;214
+r;98620816;213792;3361;0;212
+r;149053485;6800176;3361;0;209
+r;15821739;114327;3361;10;204
+r;398669151;14917526;3361;10;200
+r;398850310;14918011;3361;10;200
+r;9924249;191611;3361;6;198
+r;9924251;213260;3361;6;198
+r;9543978;264067;3361;0;193
+r;2456311;249228;3361;0;189
+r;9924241;191613;3361;6;182
+r;83515891;143669;3361;27;180
+r;2486039;113628;3361;6;177
+r;150579787;6947917;3361;27;177
+r;83515892;143669;3361;0;176
+r;9924247;191612;3361;6;174
+r;9508120;222553;3361;0;173
+r;150567410;6947917;3361;0;172
+r;8910366;222553;3361;6;171
+r;9503188;213260;3361;0;165
+r;203842727;9107106;3361;0;165
+r;9467080;191612;3361;0;163
+r;1880807;177298;3361;6;163
+r;9550102;269722;3361;0;162
+r;9568177;286459;3361;0;162
+r;9568193;286472;3361;0;157
+r;9084945;264070;3361;0;148
+r;9596361;311461;3361;0;148
+r;3178845;269614;3361;0;147
+r;9466528;191294;3361;0;147
+r;9493664;207513;3361;0;147
+r;9503186;213259;3361;0;147
+r;9543952;264056;3361;0;147
+r;9544669;264619;3361;0;147
+r;9544673;264621;3361;0;147
+r;9565855;284528;3361;0;147
+r;9568171;286456;3361;0;147
+r;9568178;286461;3361;0;147
+r;9568180;286463;3361;0;147
+r;9568184;286466;3361;0;147
+r;9568187;286468;3361;0;147
+r;9568195;286473;3361;0;147
+r;9591571;307539;3361;0;147
+r;52480426;2491227;3361;0;147
+r;9443148;170440;3361;0;145
+r;425788034;53086;3361;0;141
+r;215817318;6947697;3361;333;138
+r;1568586;49154;3361;28;129
+r;31819207;1973298;3361;0;121
+r;155845;74082;3361;10;121
+r;396665389;15238417;3361;0;120
+r;396537652;14960400;3361;0;120
+r;401818388;15204635;3361;0;120
+r;2415530;217014;3361;0;114
+r;120589398;2368352;3361;0;114
+r;308673863;11957799;3361;0;113
+r;12708628;348649;3361;0;110
+r;13429366;264357;3361;0;109
+r;12641164;365264;3361;0;107
+r;14690585;437034;3361;0;106
+r;342717407;263322;3361;0;106
+r;395983156;15220148;3361;0;105
+r;396537680;15238415;3361;0;105
+r;12680880;355569;3361;0;104
+r;11743423;152629;3361;0;103
+r;12586634;378766;3361;0;102
+r;13198293;392679;3361;0;102
+r;128476;105678;3361;0;101
+r;12586630;378767;3361;0;101
+r;12694052;352309;3361;0;101
+r;319275522;2368352;3361;6;101
+r;405790047;15083686;3361;0;100
+r;308649964;11957799;3361;6;100
+r;364668018;14334456;3361;13;100
+r;392120657;15014185;3361;14;100
+r;86145200;3370422;3361;0;96
+r;93709684;3752866;3361;0;96
+r;396537624;15203199;3361;0;95
+r;403815339;15284576;3361;0;95
+r;405799880;15083684;3361;0;95
+r;220079508;1816244;3361;10;93
+r;10901153;150367;3361;0;92
+r;1635377;16779;3361;0;90
+r;13394306;392519;3361;0;90
+r;392120671;15014186;3361;0;90
+r;93794658;3746005;3361;50;89
+r;93794619;3745869;3361;50;88
+r;93794691;3745089;3361;50;88
+r;93794567;3745323;3361;50;87
+r;93794607;3744717;3361;50;87
+r;93794652;3746690;3361;50;87
+r;384883410;6752145;3361;0;86
+r;679086;21031;3361;5;86
+r;93794577;3745062;3361;50;86
+r;93794606;3744995;3361;50;86
+r;93794623;3743677;3361;50;86
+r;93794632;3746164;3361;50;86
+r;93794638;3744331;3361;50;86
+r;93794684;3368020;3361;50;86
+r;397643595;15225855;3361;0;85
+r;435586993;15427203;3361;0;85
+r;93794570;3745529;3361;50;85
+r;93794573;3745044;3361;50;85
+r;93794597;3746847;3361;50;85
+r;93794610;3745006;3361;50;85
+r;93794614;3743698;3361;50;85
+r;93794621;3745423;3361;50;85
+r;93794644;3746531;3361;50;85
+r;93794645;3745203;3361;50;85
+r;93794656;3745902;3361;50;85
+r;93794662;3745105;3361;50;85
+r;93794672;3746225;3361;50;85
+r;93794676;3745114;3361;50;85
+r;93794682;3745467;3361;50;85
+r;93794580;3744817;3361;50;84
+r;93794590;3744439;3361;50;84
+r;93794596;3744061;3361;50;84
+r;93794611;3744929;3361;50;84
+r;93794622;3744079;3361;50;84
+r;93794625;3743657;3361;50;84
+r;93794627;3746796;3361;50;84
+r;93794647;3746426;3361;50;84
+r;93794654;3743937;3361;50;84
+r;93794686;3368001;3361;50;84
+r;93794687;3367905;3361;50;84
+r;93794693;3223089;3361;50;84
+r;93794700;3318801;3361;50;84
+r;93794702;3318659;3361;50;84
+r;99797483;114984;3361;0;83
+r;93794561;3745240;3361;50;83
+r;93794562;3744178;3361;50;83
+r;93794568;3745108;3361;50;83
+r;93794578;3745745;3361;50;83
+r;93794585;3743794;3361;50;83
+r;93794591;3743986;3361;50;83
+r;93794594;3743686;3361;50;83
+r;93794603;3744258;3361;50;83
+r;93794604;3744252;3361;50;83
+r;93794608;3743992;3361;50;83
+r;93794624;3745064;3361;50;83
+r;93794649;3746878;3361;50;83
+r;93794651;3744128;3361;50;83
+r;93794666;3743950;3361;50;83
+r;93794668;3744904;3361;50;83
+r;93794673;3744545;3361;50;83
+r;93794675;3745256;3361;50;83
+r;93794680;3368021;3361;50;83
+r;93794681;3367904;3361;50;83
+r;93794689;3367902;3361;50;83
+r;93794703;3318442;3361;50;83
+r;364668028;14334457;3361;0;82
+r;364668060;14334460;3361;0;82
+r;2218980;249228;3361;6;82
+r;93794563;3746282;3361;50;82
+r;93794564;3745774;3361;50;82
+r;93794576;3746034;3361;50;82
+r;93794582;3745583;3361;50;82
+r;93794595;3746862;3361;50;82
+r;93794598;3745369;3361;50;82
+r;93794600;3746363;3361;50;82
+r;93794613;3743709;3361;50;82
+r;93794631;3746281;3361;50;82
+r;93794653;3745488;3361;50;82
+r;93794660;3746537;3361;50;82
+r;93794670;3744574;3361;50;82
+r;93794688;3367948;3361;50;82
+r;93794690;3367906;3361;50;82
+r;93794692;3759353;3361;50;82
+r;93794695;3318742;3361;50;82
+r;93794696;3318593;3361;50;82
+r;93794697;3318525;3361;50;82
+r;93794701;3318834;3361;50;82
+r;93901305;3752866;3361;50;82
+r;464176;146872;3361;0;81
+r;93794565;3744365;3361;50;81
+r;93794569;3746461;3361;50;81
+r;93794572;3745543;3361;50;81
+r;93794574;3744597;3361;50;81
+r;93794583;3743917;3361;50;81
+r;93794584;3745864;3361;50;81
+r;93794589;3744510;3361;50;81
+r;93794599;3744152;3361;50;81
+r;93794630;3744105;3361;50;81
+r;93794636;3746385;3361;50;81
+r;93794669;3746395;3361;50;81
+r;93794683;3368022;3361;50;81
+r;1747515;2447;3361;0;80
+r;270899400;6912844;3361;0;80
+r;321865750;12321907;3361;0;80
+r;398098830;14925035;3361;0;80
+r;403855540;15238411;3361;0;80
+r;403855541;15238411;3361;6;80
+r;475270;166115;3361;14;80
+r;11586682;328670;3361;14;80
+r;93794566;3744973;3361;50;80
+r;93794586;3745667;3361;50;80
+r;93794592;3743712;3361;50;80
+r;93794637;3744953;3361;50;80
+r;93794641;3745696;3361;50;80
+r;93794648;3746139;3361;50;80
+r;93794650;3744193;3361;50;80
+r;93794661;3745948;3361;50;80
+r;93794663;3744737;3361;50;80
+r;93794679;3746863;3361;50;80
+r;93794685;3367862;3361;50;80
+r;403815357;15284576;3361;50;80
+r;93794579;3745641;3361;50;79
+r;93794587;3746814;3361;50;79
+r;93794593;3746771;3361;50;79
+r;93794615;3746151;3361;50;79
+r;93794628;3745271;3361;50;79
+r;93794635;3746846;3361;50;79
+r;86135498;3371607;3361;0;78
+r;34726168;12876;3361;23;78
+r;93794609;3744714;3361;50;78
+r;93794626;3745717;3361;50;78
+r;93794629;3745007;3361;50;78
+r;11545842;54794;3361;0;77
+r;31328276;143757;3361;0;77
+r;93461217;3744159;3361;0;77
+r;210468008;7012843;3361;23;77
+r;93794605;3745957;3361;50;77
+r;93794707;3318595;3361;50;77
+r;289322490;213389;3361;2000;77
+r;93794602;3744782;3361;50;76
+r;86166350;3367931;3361;0;75
+r;398107077;15281195;3361;0;75
+r;402873508;15100594;3361;0;75
+r;402994932;156064;3361;0;75
+r;403855552;15238416;3361;0;75
+r;1861928;182207;3361;0;74
+r;53720190;130912;3361;5;73
+r;93794706;3318592;3361;50;73
+r;14199718;258998;3361;0;71
+r;86215266;3362048;3361;0;70
+r;211999787;8125649;3361;0;70
+r;403952268;14934498;3361;0;70
+r;409222544;15064181;3361;0;70
+r;409222548;15064181;3361;6;70
+r;211999864;8125649;3361;9;70
+r;184078;35999;3361;14;70
+r;402980152;7305916;3361;17;70
+r;211999869;8125649;3361;28;70
+r;98551541;13065;3361;0;69
+r;24849032;109533;3361;28;69
+r;93794704;3318599;3361;50;69
+r;24924614;109533;3361;0;67
+r;24851758;109533;3361;9;67
+r;78279852;99220;3361;23;67
+r;30715909;1906688;3361;0;66
+r;83651254;3318867;3361;0;66
+r;372565000;22253;3361;17;66
+r;788169;75350;3361;0;65
+r;11717224;173529;3361;0;65
+r;305821029;6948544;3361;0;65
+r;308923804;139578;3361;0;65
+r;390188409;11405719;3361;0;65
+r;390188410;11405719;3361;10;65
+r;253123631;10314012;3361;23;65
+r;25292441;16614;3361;28;65
+r;93458638;3743950;3361;0;64
+r;392120654;30536;3361;14;64
+r;30715871;1906695;3361;0;63
+r;86155366;3369179;3361;0;63
+r;93493005;3746843;3361;0;63
+r;93690260;3754942;3361;0;63
+r;97574228;13065;3361;9;63
+r;152265;32791;3361;10;63
+r;93463104;3744252;3361;0;62
+r;125653258;6880460;3361;0;62
+r;218839;152711;3361;10;62
+r;2450100;258954;3361;0;61
+r;2467151;126343;3361;0;61
+r;370235745;9980133;3361;0;61
+r;372934594;286457;3361;0;61
+r;423724205;269215;3361;0;61
+r;435944658;183577;3361;0;61
+r;10535596;120157;3361;9;61
+r;364668015;18699;3361;13;61
+r;364668035;14334458;3361;13;61
+r;114912;25421;3361;0;60
+r;2504894;171025;3361;0;60
+r;11385284;325728;3361;0;60
+r;11505248;325738;3361;0;60
+r;13809263;234036;3361;0;60
+r;13885722;65081;3361;0;60
+r;13921468;225847;3361;0;60
+r;13983048;260820;3361;0;60
+r;14030265;237445;3361;0;60
+r;14689353;437359;3361;0;60
+r;16367678;465056;3361;0;60
+r;83650106;3318742;3361;0;60
+r;86131965;3372060;3361;0;60
+r;86132197;3372037;3361;0;60
+r;86132474;3372001;3361;0;60
+r;86133470;3371871;3361;0;60
+r;86134977;3371669;3361;0;60
+r;86135431;3371613;3361;0;60
+r;86137930;3371305;3361;0;60
+r;86137955;3371302;3361;0;60
+r;86138266;3371267;3361;0;60
+r;86138934;3371198;3361;0;60
+r;86140359;3371020;3361;0;60
+r;86140412;3371013;3361;0;60
+r;86145171;3370425;3361;0;60
+r;86145180;3370424;3361;0;60
+r;86147231;3370182;3361;0;60
+r;86147293;3370176;3361;0;60
+r;86148806;3369993;3361;0;60
+r;86149285;3369933;3361;0;60
+r;86154278;3369324;3361;0;60
+r;86154322;3369319;3361;0;60
+r;86154445;3369305;3361;0;60
+r;86154459;3369303;3361;0;60
+r;86154531;3369294;3361;0;60
+r;86154591;3369285;3361;0;60
+r;86154607;3369283;3361;0;60
+r;86154651;3369277;3361;0;60
+r;86154697;3369270;3361;0;60
+r;86158909;3368812;3361;0;60
+r;86160976;3368573;3361;0;60
+r;86161131;3368552;3361;0;60
+r;86164738;3368138;3361;0;60
+r;86174507;3366940;3361;0;60
+r;86176881;3366640;3361;0;60
+r;86177109;3366615;3361;0;60
+r;86180508;3366213;3361;0;60
+r;86180956;3366164;3361;0;60
+r;86181874;3366054;3361;0;60
+r;86188749;3365361;3361;0;60
+r;86189489;3365289;3361;0;60
+r;86192888;3364913;3361;0;60
+r;86194058;3364754;3361;0;60
+r;86194260;3364729;3361;0;60
+r;86194304;3364723;3361;0;60
+r;86202366;3363621;3361;0;60
+r;86204296;3363406;3361;0;60
+r;86213177;3362306;3361;0;60
+r;86221042;3372558;3361;0;60
+r;86226044;3360056;3361;0;60
+r;86230561;3360357;3361;0;60
+r;86241348;3360940;3361;0;60
+r;86252198;3361577;3361;0;60
+r;86252316;3361583;3361;0;60
+r;86254004;3361580;3361;0;60
+r;86255571;3361704;3361;0;60
+r;93457046;3743839;3361;0;60
+r;93462122;3744258;3361;0;60
+r;93469939;3744717;3361;0;60
+r;93484272;3744973;3361;0;60
+r;93485414;3744953;3361;0;60
+r;93485705;3745006;3361;0;60
+r;93489178;3745256;3361;0;60
+r;93491229;3745423;3361;0;60
+r;93500920;3745869;3361;0;60
+r;93501764;3745774;3361;0;60
+r;93586184;3751063;3361;0;60
+r;93597607;3751137;3361;0;60
+r;93622261;3751246;3361;0;60
+r;93655816;3758545;3361;0;60
+r;93659378;3758171;3361;0;60
+r;93665616;3757494;3361;0;60
+r;93675421;3756431;3361;0;60
+r;93678477;3756097;3361;0;60
+r;93679925;3755939;3361;0;60
+r;93681765;3755754;3361;0;60
+r;93686329;3755375;3361;0;60
+r;93689392;3755041;3361;0;60
+r;93696492;3754258;3361;0;60
+r;93711928;3752620;3361;0;60
+r;93717537;3752013;3361;0;60
+r;200557502;9101823;3361;0;60
+r;200558262;9101916;3361;0;60
+r;200631219;9101897;3361;0;60
+r;294102933;6948373;3361;0;60
+r;430826894;15438841;3361;0;60
+r;435826702;15427204;3361;0;60
+r;435826776;14960404;3361;0;60
+r;305821030;6948544;3361;9;60
+r;405677769;15080161;3361;9;60
+r;409561605;364788;3361;9;60
+r;11560072;327277;3361;13;60
+r;1582484;212426;3361;14;60
+r;11589676;327472;3361;14;60
+r;33141010;118227;3361;14;60
+r;31860863;39901;3361;23;60
+r;93794575;3744002;3361;50;60
+r;93794643;3745065;3361;50;60
+r;93794698;3743959;3361;50;60
+r;93809552;3366061;3361;50;60
+r;93809605;3368138;3361;50;60
+r;93809712;3754105;3361;50;60
+r;1833341;32791;3361;0;59
+r;10628647;233133;3361;0;59
+r;11372101;325736;3361;0;59
+r;11543079;325741;3361;0;59
+r;14390215;329657;3361;0;59
+r;53145532;2581422;3361;0;59
+r;83633893;3318469;3361;0;59
+r;83640134;3318599;3361;0;59
+r;83646320;3318419;3361;0;59
+r;86124922;3359010;3361;0;59
+r;86125571;3359169;3361;0;59
+r;86137892;3371309;3361;0;59
+r;86139666;3371101;3361;0;59
+r;86144454;3370513;3361;0;59
+r;86145191;3370423;3361;0;59
+r;86147144;3370191;3361;0;59
+r;86148118;3370084;3361;0;59
+r;86149463;3369907;3361;0;59
+r;86154308;3369321;3361;0;59
+r;86154352;3369315;3361;0;59
+r;86154417;3369308;3361;0;59
+r;86154430;3369307;3361;0;59
+r;86154577;3369287;3361;0;59
+r;86154597;3369284;3361;0;59
+r;86156824;3369010;3361;0;59
+r;86157883;3368907;3361;0;59
+r;86157997;3368898;3361;0;59
+r;86161282;3368533;3361;0;59
+r;86162621;3368388;3361;0;59
+r;86165623;3368022;3361;0;59
+r;86173910;3367018;3361;0;59
+r;86177087;3366617;3361;0;59
+r;86179841;3366299;3361;0;59
+r;86180483;3366215;3361;0;59
+r;86180569;3366208;3361;0;59
+r;86191273;3365090;3361;0;59
+r;86195909;3364508;3361;0;59
+r;86199101;3364050;3361;0;59
+r;86202372;3363620;3361;0;59
+r;86204374;3363395;3361;0;59
+r;86212745;3362359;3361;0;59
+r;86215551;3361292;3361;0;59
+r;86221230;3372364;3361;0;59
+r;86240691;3360957;3361;0;59
+r;86245159;3361319;3361;0;59
+r;86247346;3361463;3361;0;59
+r;86255391;3361809;3361;0;59
+r;93456766;3743794;3361;0;59
+r;93462227;3744149;3361;0;59
+r;93469675;3744714;3361;0;59
+r;93478668;3744870;3361;0;59
+r;93484289;3744843;3361;0;59
+r;93489056;3745271;3361;0;59
+r;93489700;3745114;3361;0;59
+r;93491427;3745203;3361;0;59
+r;93494711;3746630;3361;0;59
+r;93498102;3746213;3361;0;59
+r;93502237;3745717;3361;0;59
+r;93502399;3745696;3361;0;59
+r;93502491;3745684;3361;0;59
+r;93504220;3745467;3361;0;59
+r;93650800;3759057;3361;0;59
+r;93675254;3756449;3361;0;59
+r;93682371;3755689;3361;0;59
+r;93691205;3754845;3361;0;59
+r;93699768;3753927;3361;0;59
+r;93718440;3751922;3361;0;59
+r;50697034;2368351;3361;6;59
+r;77956288;2368353;3361;6;59
+r;332022;3361;3361;19;59
+r;93809492;3361462;3361;50;59
+r;93809519;3363016;3361;50;59
+r;93809694;3751169;3361;50;59
+r;93809701;3752042;3361;50;59
+r;93809710;3753567;3361;50;59
+r;93809721;3754845;3361;50;59
+r;93809730;3755939;3361;50;59
+r;33798899;2324891;3361;0;58
+r;86125014;3359172;3361;0;58
+r;86127357;3359166;3361;0;58
+r;86132743;3371970;3361;0;58
+r;86135488;3371608;3361;0;58
+r;86145133;3370429;3361;0;58
+r;86145308;3370407;3361;0;58
+r;86154409;3369309;3361;0;58
+r;86154479;3369301;3361;0;58
+r;86154527;3369295;3361;0;58
+r;86154645;3369278;3361;0;58
+r;86154659;3369276;3361;0;58
+r;86154715;3369268;3361;0;58
+r;86156943;3368996;3361;0;58
+r;86158382;3368861;3361;0;58
+r;86160009;3368698;3361;0;58
+r;86160890;3368585;3361;0;58
+r;86161210;3368542;3361;0;58
+r;86175126;3366857;3361;0;58
+r;86176947;3366632;3361;0;58
+r;86177037;3366621;3361;0;58
+r;86178933;3366399;3361;0;58
+r;86180130;3366258;3361;0;58
+r;86180140;3366257;3361;0;58
+r;86180205;3366249;3361;0;58
+r;86180261;3366244;3361;0;58
+r;86180496;3366214;3361;0;58
+r;86180579;3366207;3361;0;58
+r;86184180;3365804;3361;0;58
+r;86185754;3359582;3361;0;58
+r;86187185;3365513;3361;0;58
+r;86188421;3365395;3361;0;58
+r;86231241;3360176;3361;0;58
+r;86193158;3364874;3361;0;58
+r;86194042;3364757;3361;0;58
+r;86195825;3364521;3361;0;58
+r;86195927;3364506;3361;0;58
+r;86199119;3364048;3361;0;58
+r;86201575;3363724;3361;0;58
+r;86210271;3362649;3361;0;58
+r;86218341;3359569;3361;0;58
+r;86258629;3361786;3361;0;58
+r;93459644;3743986;3361;0;58
+r;93467622;3744485;3361;0;58
+r;93469886;3744737;3361;0;58
+r;93483456;3744929;3361;0;58
+r;93484474;3745019;3361;0;58
+r;93485308;3745064;3361;0;58
+r;93486399;3745089;3361;0;58
+r;93488603;3745205;3361;0;58
+r;93492248;3745434;3361;0;58
+r;93495442;3746537;3361;0;58
+r;93496340;3746426;3361;0;58
+r;93496712;3746385;3361;0;58
+r;93499567;3746034;3361;0;58
+r;93499604;3746029;3361;0;58
+r;93502589;3745673;3361;0;58
+r;93504550;3745392;3361;0;58
+r;93647788;3759444;3361;0;58
+r;93674666;3756514;3361;0;58
+r;93674677;3756512;3361;0;58
+r;93695171;3754403;3361;0;58
+r;93713366;3752471;3361;0;58
+r;93716326;3752145;3361;0;58
+r;97406353;396055;3361;0;58
+r;220125805;7066020;3361;0;58
+r;332023;129788;3361;19;58
+r;93809551;3366047;3361;50;58
+r;93809706;3752943;3361;50;58
+r;93809709;3753505;3361;50;58
+r;93809716;3754469;3361;50;58
+r;93809723;3755375;3361;50;58
+r;93809728;3755825;3361;50;58
+r;93809729;3755856;3361;50;58
+r;93809737;3757249;3361;50;58
+r;93809742;3758175;3361;50;58
+r;93809744;3758740;3361;50;58
+r;14689007;437445;3361;0;57
+r;16367674;465057;3361;0;57
+r;55463119;2604130;3361;0;57
+r;86132452;3372003;3361;0;57
+r;86132589;3371989;3361;0;57
+r;86139673;3371100;3361;0;57
+r;86140353;3371021;3361;0;57
+r;86142250;3370776;3361;0;57
+r;86142477;3370746;3361;0;57
+r;86147282;3370177;3361;0;57
+r;86149303;3369930;3361;0;57
+r;86152208;3369592;3361;0;57
+r;86154290;3369323;3361;0;57
+r;86154312;3369320;3361;0;57
+r;86154328;3369318;3361;0;57
+r;86154334;3369317;3361;0;57
+r;86154615;3369282;3361;0;57
+r;86154675;3369273;3361;0;57
+r;86154709;3369269;3361;0;57
+r;86154731;3369265;3361;0;57
+r;86156911;3369000;3361;0;57
+r;86157359;3368957;3361;0;57
+r;86157895;3368906;3361;0;57
+r;86166580;3367902;3361;0;57
+r;86176857;3366643;3361;0;57
+r;86176865;3366642;3361;0;57
+r;86176889;3366639;3361;0;57
+r;86177076;3366618;3361;0;57
+r;86178127;3366497;3361;0;57
+r;86180241;3366246;3361;0;57
+r;86181522;3366090;3361;0;57
+r;86181817;3366060;3361;0;57
+r;86186761;3365552;3361;0;57
+r;86197131;3364328;3361;0;57
+r;86199150;3364045;3361;0;57
+r;86200516;3363862;3361;0;57
+r;86202356;3363622;3361;0;57
+r;86215274;3361911;3361;0;57
+r;86226887;3359977;3361;0;57
+r;86227097;3360110;3361;0;57
+r;86252415;3361582;3361;0;57
+r;86252556;3361643;3361;0;57
+r;86254403;3361725;3361;0;57
+r;86261310;3362049;3361;0;57
+r;93450870;3743677;3361;0;57
+r;93454832;3743749;3361;0;57
+r;93458167;3743937;3361;0;57
+r;93458348;3743850;3361;0;57
+r;93486387;3745044;3361;0;57
+r;93486456;3745074;3361;0;57
+r;93487237;3745105;3361;0;57
+r;93492720;3746878;3361;0;57
+r;93494242;3746690;3361;0;57
+r;93495112;3746579;3361;0;57
+r;93496609;3746395;3361;0;57
+r;93497730;3746257;3361;0;57
+r;93502139;3745729;3361;0;57
+r;93503441;3745566;3361;0;57
+r;93503747;3745529;3361;0;57
+r;93504327;3745449;3361;0;57
+r;93504710;3745323;3361;0;57
+r;93629385;3751404;3361;0;57
+r;93659331;3758175;3361;0;57
+r;93663014;3757780;3361;0;57
+r;93677960;3756149;3361;0;57
+r;93683353;3755600;3361;0;57
+r;93683374;3755597;3361;0;57
+r;93702305;3753668;3361;0;57
+r;93703812;3753505;3361;0;57
+r;93706485;3753213;3361;0;57
+r;93711259;3752689;3361;0;57
+r;93721593;3751559;3361;0;57
+r;11585372;328038;3361;14;57
+r;93794612;3744944;3361;50;57
+r;93794634;3745263;3361;50;57
+r;93809500;3361643;3361;50;57
+r;93809454;1906695;3361;50;57
+r;93809549;3365045;3361;50;57
+r;93809622;3368996;3361;50;57
+r;93809693;3751063;3361;50;57
+r;93809697;3751743;3361;50;57
+r;93809699;3751946;3361;50;57
+r;93809704;3752531;3361;50;57
+r;93809718;3754674;3361;50;57
+r;93809720;3754811;3361;50;57
+r;93809732;3756128;3361;50;57
+r;93809741;3758055;3361;50;57
+r;3174415;40056;3361;0;56
+r;9770545;113628;3361;0;56
+r;50068097;2359490;3361;0;56
+r;52459205;2536685;3361;0;56
+r;72060098;2934411;3361;0;56
+r;77513708;3223089;3361;0;56
+r;86110465;3358987;3361;0;56
+r;86124673;3359069;3361;0;56
+r;86125563;3359064;3361;0;56
+r;86132276;3372026;3361;0;56
+r;86134841;3371687;3361;0;56
+r;86135443;3371612;3361;0;56
+r;86135458;3371611;3361;0;56
+r;86137916;3371307;3361;0;56
+r;86137923;3371306;3361;0;56
+r;86138863;3371207;3361;0;56
+r;86141620;3370860;3361;0;56
+r;86142859;3370689;3361;0;56
+r;86144420;3370518;3361;0;56
+r;86145151;3370427;3361;0;56
+r;86147264;3370179;3361;0;56
+r;86148559;3370030;3361;0;56
+r;86154382;3369312;3361;0;56
+r;86154485;3369300;3361;0;56
+r;86154539;3369293;3361;0;56
+r;86154623;3369281;3361;0;56
+r;86154631;3369280;3361;0;56
+r;86154669;3369274;3361;0;56
+r;86164452;3368175;3361;0;56
+r;86165637;3368020;3361;0;56
+r;86174493;3366942;3361;0;56
+r;86174514;3366939;3361;0;56
+r;86176909;3366637;3361;0;56
+r;86177840;3366530;3361;0;56
+r;86178364;3366471;3361;0;56
+r;86178927;3366400;3361;0;56
+r;86191635;3365045;3361;0;56
+r;86196034;3364494;3361;0;56
+r;86199128;3364047;3361;0;56
+r;86200509;3363863;3361;0;56
+r;86202412;3363615;3361;0;56
+r;86204077;3363433;3361;0;56
+r;86206042;3363158;3361;0;56
+r;86212738;3362360;3361;0;56
+r;86216428;3359597;3361;0;56
+r;86222657;3359754;3361;0;56
+r;86224470;3359943;3361;0;56
+r;86227028;3360097;3361;0;56
+r;86228020;3360220;3361;0;56
+r;86232455;3360519;3361;0;56
+r;86239545;3360914;3361;0;56
+r;86260722;3362050;3361;0;56
+r;93453742;3743683;3361;0;56
+r;93454596;3743651;3361;0;56
+r;93455412;3743709;3361;0;56
+r;93455857;3743657;3361;0;56
+r;93457257;3743917;3361;0;56
+r;93464052;3744178;3361;0;56
+r;93466523;3744510;3361;0;56
+r;93468157;3744597;3361;0;56
+r;93468695;3744650;3361;0;56
+r;93485797;3744944;3361;0;56
+r;93487056;3745065;3361;0;56
+r;93494800;3746621;3361;0;56
+r;93497663;3746267;3361;0;56
+r;93498695;3746139;3361;0;56
+r;93502004;3745745;3361;0;56
+r;93504075;3745488;3361;0;56
+r;93660479;3758055;3361;0;56
+r;93670717;3756950;3361;0;56
+r;93678184;3756128;3361;0;56
+r;93717262;3752042;3361;0;56
+r;93718211;3751946;3361;0;56
+r;93718938;3751867;3361;0;56
+r;94086950;2348416;3361;0;56
+r;93794581;3744159;3361;50;56
+r;93809523;3363433;3361;50;56
+r;93809588;3366632;3361;50;56
+r;93809629;3369896;3361;50;56
+r;93809695;3751246;3361;50;56
+r;93809696;3751559;3361;50;56
+r;93809702;3752121;3361;50;56
+r;93809705;3752604;3361;50;56
+r;93809708;3753312;3361;50;56
+r;93809714;3754320;3361;50;56
+r;93809715;3754333;3361;50;56
+r;93809746;3759108;3361;50;56
+r;193691390;3366299;3361;50;56
+r;1377419;116323;3361;0;55
+r;11378692;325731;3361;0;55
+r;14690573;437037;3361;0;55
+r;14691411;436823;3361;0;55
+r;15738195;265176;3361;0;55
+r;28989037;1764250;3361;0;55
+r;52476601;2499664;3361;0;55
+r;82637986;2397510;3361;0;55
+r;83638815;3318525;3361;0;55
+r;83648787;3318659;3361;0;55
+r;83651127;3318834;3361;0;55
+r;86124523;3359103;3361;0;55
+r;86132440;3372005;3361;0;55
+r;86132467;3372002;3361;0;55
+r;86134710;3371705;3361;0;55
+r;86134749;3371700;3361;0;55
+r;86135478;3371609;3361;0;55
+r;86137907;3371308;3361;0;55
+r;86140307;3371027;3361;0;55
+r;86140365;3371019;3361;0;55
+r;86140901;3370950;3361;0;55
+r;86144699;3370478;3361;0;55
+r;86145160;3370426;3361;0;55
+r;86154439;3369306;3361;0;55
+r;86154453;3369304;3361;0;55
+r;86154469;3369302;3361;0;55
+r;86154501;3369298;3361;0;55
+r;86154557;3369290;3361;0;55
+r;86154565;3369289;3361;0;55
+r;86154665;3369275;3361;0;55
+r;86154687;3369272;3361;0;55
+r;86154693;3369271;3361;0;55
+r;86155707;3369138;3361;0;55
+r;86158397;3368860;3361;0;55
+r;86159090;3368791;3361;0;55
+r;86164442;3368176;3361;0;55
+r;86165777;3368001;3361;0;55
+r;86166888;3367862;3361;0;55
+r;86176078;3366746;3361;0;55
+r;86176677;3366668;3361;0;55
+r;86176875;3366641;3361;0;55
+r;86176919;3366636;3361;0;55
+r;86177026;3366622;3361;0;55
+r;86177065;3366619;3361;0;55
+r;86177096;3366616;3361;0;55
+r;86178336;3366473;3361;0;55
+r;86178371;3366470;3361;0;55
+r;86178378;3366469;3361;0;55
+r;86186841;3365544;3361;0;55
+r;86189799;3365256;3361;0;55
+r;86199110;3364049;3361;0;55
+r;86199562;3363991;3361;0;55
+r;86200523;3363861;3361;0;55
+r;86202348;3363623;3361;0;55
+r;86207109;3363016;3361;0;55
+r;86211005;3362567;3361;0;55
+r;86212852;3362345;3361;0;55
+r;86213184;3362305;3361;0;55
+r;86227989;3360224;3361;0;55
+r;86230120;3360302;3361;0;55
+r;86248964;3361584;3361;0;55
+r;86252977;3361651;3361;0;55
+r;86260107;3361803;3361;0;55
+r;86261465;3362034;3361;0;55
+r;93458142;3743992;3361;0;55
+r;93458771;3743698;3361;0;55
+r;93460449;3744128;3361;0;55
+r;93461380;3744193;3361;0;55
+r;93461575;3744152;3361;0;55
+r;93463429;3744294;3361;0;55
+r;93465427;3744365;3361;0;55
+r;93467388;3744545;3361;0;55
+r;93486038;3744904;3361;0;55
+r;93486070;3744782;3361;0;55
+r;93492872;3746862;3361;0;55
+r;93497529;3746282;3361;0;55
+r;93500256;3745948;3361;0;55
+r;93500980;3745864;3361;0;55
+r;93503321;3745583;3361;0;55
+r;93648765;3759335;3361;0;55
+r;93653924;3758740;3361;0;55
+r;93654752;3758652;3361;0;55
+r;93676246;3756338;3361;0;55
+r;93678769;3756065;3361;0;55
+r;93688368;3755152;3361;0;55
+r;93689354;3755046;3361;0;55
+r;93697970;3754105;3361;0;55
+r;93712788;3752531;3361;0;55
+r;93716559;3752121;3361;0;55
+r;200621230;9102041;3361;0;55
+r;255662403;174176;3361;10;55
+r;124297;86356;3361;21;55
+r;93809475;3359754;3361;50;55
+r;93809548;3364986;3361;50;55
+r;93809633;3369933;3361;50;55
+r;93809659;3370950;3361;50;55
+r;93809671;3371302;3361;50;55
+r;93809676;3371308;3361;50;55
+r;93809698;3751805;3361;50;55
+r;93809700;3752013;3361;50;55
+r;93809703;3752372;3361;50;55
+r;93809707;3753213;3361;50;55
+r;93809713;3754258;3361;50;55
+r;93809719;3754787;3361;50;55
+r;93809727;3755600;3361;50;55
+r;93809734;3756431;3361;50;55
+r;93809739;3757494;3361;50;55
+r;93809743;3758652;3361;50;55
+r;93809745;3758798;3361;50;55
+r;10627019;17559;3361;0;54
+r;15419135;106404;3361;0;54
+r;15698880;175647;3361;0;54
+r;16146957;460511;3361;0;54
+r;16146959;460510;3361;0;54
+r;52468109;2517767;3361;0;54
+r;83634758;3318442;3361;0;54
+r;83647761;3318595;3361;0;54
+r;83651161;3318855;3361;0;54
+r;86124725;3359143;3361;0;54
+r;86137962;3371301;3361;0;54
+r;86137975;3371299;3361;0;54
+r;86139482;3371125;3361;0;54
+r;86143684;3370605;3361;0;54
+r;86147242;3370181;3361;0;54
+r;86148220;3370072;3361;0;54
+r;86149529;3369898;3361;0;54
+r;86154272;3369325;3361;0;54
+r;86154391;3369311;3361;0;54
+r;86154553;3369291;3361;0;54
+r;86154585;3369286;3361;0;54
+r;86154637;3369279;3361;0;54
+r;86156902;3369001;3361;0;54
+r;86161010;3368567;3361;0;54
+r;86165608;3368023;3361;0;54
+r;86176316;3366716;3361;0;54
+r;86177050;3366620;3361;0;54
+r;86178350;3366472;3361;0;54
+r;86180589;3366206;3361;0;54
+r;86184147;3365807;3361;0;54
+r;86194069;3364753;3361;0;54
+r;86194082;3364752;3361;0;54
+r;86195923;3364507;3361;0;54
+r;86204834;3363326;3361;0;54
+r;86213003;3362327;3361;0;54
+r;86215204;3372222;3361;0;54
+r;86219492;3359699;3361;0;54
+r;86228206;3360190;3361;0;54
+r;86233648;3360478;3361;0;54
+r;86242331;3361123;3361;0;54
+r;86245940;3361354;3361;0;54
+r;86252835;3361581;3361;0;54
+r;93458803;3744002;3361;0;54
+r;93459750;3744078;3361;0;54
+r;93462620;3744232;3361;0;54
+r;93463485;3744344;3361;0;54
+r;93467525;3744574;3361;0;54
+r;93487394;3745108;3361;0;54
+r;93488438;3745240;3361;0;54
+r;93492976;3746847;3361;0;54
+r;93493375;3746796;3361;0;54
+r;93495495;3746531;3361;0;54
+r;93497997;3746225;3361;0;54
+r;93502637;3745667;3361;0;54
+r;93598209;3751169;3361;0;54
+r;93667876;3757249;3361;0;54
+r;93674582;3756523;3361;0;54
+r;93691731;3754787;3361;0;54
+r;93694571;3754469;3361;0;54
+r;93704870;3753388;3361;0;54
+r;93707415;3753114;3361;0;54
+r;93712069;3752604;3361;0;54
+r;93713041;3752502;3361;0;54
+r;93717901;3751981;3361;0;54
+r;93719461;3751805;3361;0;54
+r;101917907;38931;3361;0;54
+r;10010417;96211;3361;10;54
+r;31864773;80010;3361;14;54
+r;1756418;92142;3361;28;54
+r;1756450;228309;3361;28;54
+r;2516044;137865;3361;28;54
+r;84562523;3178868;3361;28;54
+r;93794674;3743651;3361;50;54
+r;93809571;3366257;3361;50;54
+r;93809576;3366470;3361;50;54
+r;93809725;3755477;3361;50;54
+r;93809736;3756817;3361;50;54
+r;93809740;3757545;3361;50;54
+r;93809747;3759143;3361;50;54
+r;251089;154611;3361;0;53
+r;416598;86754;3361;0;53
+r;14689003;437446;3361;0;53
+r;83641854;3318430;3361;0;53
+r;86110669;3359070;3361;0;53
+r;86126983;3359220;3361;0;53
+r;86129138;3359375;3361;0;53
+r;86131974;3372059;3361;0;53
+r;86136212;3371519;3361;0;53
+r;86147553;3370143;3361;0;53
+r;86148378;3370053;3361;0;53
+r;86148385;3370052;3361;0;53
+r;86148430;3370047;3361;0;53
+r;86154302;3369322;3361;0;53
+r;86154344;3369316;3361;0;53
+r;86154545;3369292;3361;0;53
+r;86154571;3369288;3361;0;53
+r;86154721;3369267;3361;0;53
+r;86160348;3368659;3361;0;53
+r;86165630;3368021;3361;0;53
+r;86166511;3367911;3361;0;53
+r;86166564;3367904;3361;0;53
+r;86176897;3366638;3361;0;53
+r;86176933;3366634;3361;0;53
+r;86176939;3366633;3361;0;53
+r;86177013;3366623;3361;0;53
+r;86177124;3366614;3361;0;53
+r;86180173;3366253;3361;0;53
+r;86180544;3366210;3361;0;53
+r;86181807;3366061;3361;0;53
+r;86181953;3366047;3361;0;53
+r;86184209;3365802;3361;0;53
+r;86184783;3365739;3361;0;53
+r;86192191;3364986;3361;0;53
+r;86192212;3364985;3361;0;53
+r;86196137;3364481;3361;0;53
+r;86215228;3372192;3361;0;53
+r;86221393;3359655;3361;0;53
+r;86253936;3361759;3361;0;53
+r;86234896;3360689;3361;0;53
+r;86241185;3360922;3361;0;53
+r;93454942;3743686;3361;0;53
+r;93455556;3743831;3361;0;53
+r;93456231;3743875;3361;0;53
+r;93459107;3744061;3361;0;53
+r;93464640;3744331;3361;0;53
+r;93476946;3744439;3361;0;53
+r;93484240;3744817;3361;0;53
+r;93490231;3745364;3361;0;53
+r;93494663;3746638;3361;0;53
+r;93497148;3746330;3361;0;53
+r;93498638;3746146;3361;0;53
+r;93498725;3746135;3361;0;53
+r;93500663;3745902;3361;0;53
+r;93651744;3758959;3361;0;53
+r;93655684;3758560;3361;0;53
+r;93661914;3757897;3361;0;53
+r;93663069;3757774;3361;0;53
+r;93663235;3757757;3361;0;53
+r;93671929;3756817;3361;0;53
+r;93677492;3756201;3361;0;53
+r;93678167;3756129;3361;0;53
+r;93684432;3755477;3361;0;53
+r;93685810;3755435;3361;0;53
+r;93695843;3754333;3361;0;53
+r;93695977;3754320;3361;0;53
+r;93698085;3754094;3361;0;53
+r;93705610;3753312;3361;0;53
+r;93714295;3752372;3361;0;53
+r;93720060;3751743;3361;0;53
+r;31839751;28105;3361;23;53
+r;93794571;3746630;3361;50;53
+r;93794633;3745684;3361;50;53
+r;93794699;177298;3361;50;53
+r;93809505;3361809;3361;50;53
+r;93809486;3360357;3361;50;53
+r;93809515;3362359;3361;50;53
+r;93809517;3362361;3361;50;53
+r;93809535;3364048;3361;50;53
+r;93809547;3364913;3361;50;53
+r;93809619;3368906;3361;50;53
+r;93809646;3370182;3361;50;53
+r;93809691;3372059;3361;50;53
+r;93809711;3754094;3361;50;53
+r;93809717;3754564;3361;50;53
+r;93809722;3755041;3361;50;53
+r;93809724;3755435;3361;50;53
+r;93809731;3756065;3361;50;53
+r;93809738;3757398;3361;50;53
+r;10873275;225291;3361;0;52
+r;10901154;154719;3361;0;52
+r;33799561;2324892;3361;0;52
+r;52480024;2492103;3361;0;52
+r;63172436;2769081;3361;0;52
+r;99407008;96211;3361;0;52
+r;83650420;3318592;3361;0;52
+r;83659419;3318775;3361;0;52
+r;83674148;3318593;3361;0;52
+r;86134886;3371681;3361;0;52
+r;86135468;3371610;3361;0;52
+r;86139139;3371173;3361;0;52
+r;86140373;3371018;3361;0;52
+r;86142387;3370758;3361;0;52
+r;86145109;3370431;3361;0;52
+r;86145122;3370430;3361;0;52
+r;86146235;3370310;3361;0;52
+r;86147273;3370178;3361;0;52
+r;86147565;3370142;3361;0;52
+r;86148589;3370026;3361;0;52
+r;86148764;3370000;3361;0;52
+r;86149550;3369896;3361;0;52
+r;86149671;3369881;3361;0;52
+r;86154362;3369314;3361;0;52
+r;86155670;3369142;3361;0;52
+r;86156121;3369091;3361;0;52
+r;86160300;3368665;3361;0;52
+r;86160874;3368587;3361;0;52
+r;86160884;3368586;3361;0;52
+r;86161302;3368530;3361;0;52
+r;86179878;3366294;3361;0;52
+r;86180217;3366248;3361;0;52
+r;86180229;3366247;3361;0;52
+r;86180271;3366243;3361;0;52
+r;86180741;3366189;3361;0;52
+r;86182509;3365975;3361;0;52
+r;86184168;3365805;3361;0;52
+r;86184532;3365765;3361;0;52
+r;86184981;3365722;3361;0;52
+r;86192249;3364981;3361;0;52
+r;86196047;3364493;3361;0;52
+r;86212729;3362361;3361;0;52
+r;86219461;3359712;3361;0;52
+r;86223492;3359894;3361;0;52
+r;86261961;3362081;3361;0;52
+r;93455127;3743712;3361;0;52
+r;93484622;3745007;3361;0;52
+r;93492340;3745369;3361;0;52
+r;93492860;3746863;3361;0;52
+r;93492985;3746846;3361;0;52
+r;93493235;3746814;3361;0;52
+r;93493589;3746771;3361;0;52
+r;93496075;3746461;3361;0;52
+r;93496885;3746363;3361;0;52
+r;93498601;3746151;3361;0;52
+r;93500182;3745957;3361;0;52
+r;93502829;3745641;3361;0;52
+r;93503629;3745543;3361;0;52
+r;93648599;3759353;3361;0;52
+r;93649926;3759143;3361;0;52
+r;93650289;3759108;3361;0;52
+r;93651235;3759008;3361;0;52
+r;93653304;3758798;3361;0;52
+r;93666501;3757398;3361;0;52
+r;93673343;3756652;3361;0;52
+r;93677971;3756148;3361;0;52
+r;93681093;3755825;3361;0;52
+r;93691458;3754817;3361;0;52
+r;93692658;3754674;3361;0;52
+r;93692782;3754659;3361;0;52
+r;93693681;3754564;3361;0;52
+r;93703251;3753567;3361;0;52
+r;93708296;3753024;3361;0;52
+r;93709751;3752858;3361;0;52
+r;93720542;3751691;3361;0;52
+r;2064350;165651;3361;14;52
+r;93809569;3366249;3361;50;52
+r;93809726;3755597;3361;50;52
+r;93809733;3756129;3361;50;52
+r;93809735;3756514;3361;50;52
+r;2154964;21639;3361;0;51
+r;8995665;258992;3361;0;51
+r;9969802;264208;3361;0;51
+r;10627673;71624;3361;0;51
+r;10868737;55823;3361;0;51
+r;12062283;165262;3361;0;51
+r;12142223;327247;3361;0;51
+r;16156937;460883;3361;0;51
+r;33799671;2324888;3361;0;51
+r;50693562;2368351;3361;0;51
+r;78691288;267642;3361;0;51
+r;83651845;3318642;3361;0;51
+r;83674074;3318801;3361;0;51
+r;86110657;3359024;3361;0;51
+r;86125348;3359080;3361;0;51
+r;86127335;3359171;3361;0;51
+r;86137663;3371335;3361;0;51
+r;86137939;3371304;3361;0;51
+r;86137948;3371303;3361;0;51
+r;86138255;3371268;3361;0;51
+r;86138856;3371208;3361;0;51
+r;86147255;3370180;3361;0;51
+r;86147389;3370163;3361;0;51
+r;86154372;3369313;3361;0;51
+r;86154400;3369310;3361;0;51
+r;86154495;3369299;3361;0;51
+r;86154511;3369297;3361;0;51
+r;86154725;3369266;3361;0;51
+r;86156324;3369068;3361;0;51
+r;86160425;3368647;3361;0;51
+r;86166212;3367948;3361;0;51
+r;86166548;3367906;3361;0;51
+r;86166557;3367905;3361;0;51
+r;86166571;3367903;3361;0;51
+r;86172761;3367160;3361;0;51
+r;86175414;3366822;3361;0;51
+r;86176308;3366717;3361;0;51
+r;86176839;3366645;3361;0;51
+r;86176847;3366644;3361;0;51
+r;86176927;3366635;3361;0;51
+r;86180251;3366245;3361;0;51
+r;86180522;3366212;3361;0;51
+r;86180532;3366211;3361;0;51
+r;86180554;3366209;3361;0;51
+r;86182640;3365963;3361;0;51
+r;86184125;3365810;3361;0;51
+r;86184140;3365808;3361;0;51
+r;86194294;3364724;3361;0;51
+r;86202340;3363624;3361;0;51
+r;86202378;3363619;3361;0;51
+r;86203303;3363520;3361;0;51
+r;86222567;3359570;3361;0;51
+r;86223590;3359895;3361;0;51
+r;86248931;3361462;3361;0;51
+r;86261197;3362051;3361;0;51
+r;93459733;3744105;3361;0;51
+r;93460959;3743959;3361;0;51
+r;93464456;3744079;3361;0;51
+r;93484145;3744995;3361;0;51
+r;93487311;3745062;3361;0;51
+r;93488544;3745263;3361;0;51
+r;93497540;3746281;3361;0;51
+r;93498492;3746164;3361;0;51
+r;93499063;3746097;3361;0;51
+r;93499819;3746005;3361;0;51
+r;93665129;3757545;3361;0;51
+r;93680302;3755902;3361;0;51
+r;93680771;3755856;3361;0;51
+r;93691499;3754811;3361;0;51
+r;93709017;3752943;3361;0;51
+r;218038707;9745691;3361;0;51
+r;366775477;5334011;3361;0;51
+r;370288584;9448020;3361;0;51
+r;370288658;3112725;3361;0;51
+r;370601364;5370111;3361;0;51
+r;370601397;5370112;3361;0;51
+r;370601450;5370155;3361;0;51
+r;370746274;9446810;3361;0;51
+r;370783031;14585967;3361;0;51
+r;373000022;14668641;3361;0;51
+r;385051583;14874935;3361;0;51
+r;423424354;16160646;3361;0;51
+r;423424408;16160651;3361;0;51
+r;423808333;16165999;3361;0;51
+r;356997;158245;3361;13;51
+r;55918491;1747273;3361;14;51
+r;93794639;3746257;3361;50;51
+r;93794657;3745434;3361;50;51
+r;93794678;3759444;3361;50;51
+r;93794694;3318855;3361;50;51
+r;93809509;3362050;3361;50;51
+r;93809488;3360519;3361;50;51
+r;93809473;3359699;3361;50;51
+r;93809472;3359655;3361;50;51
+r;93809455;2324888;3361;50;51
+r;93809514;3362345;3361;50;51
+r;93809533;3364045;3361;50;51
+r;93809539;3364494;3361;50;51
+r;93809566;3366246;3361;50;51
+r;93809570;3366253;3361;50;51
+r;93809601;3366668;3361;50;51
+r;93809610;3368533;3361;50;51
+r;93809611;3368542;3361;50;51
+r;93809626;3369091;3361;50;51
+r;93809648;3370407;3361;50;51
+r;93809649;3370423;3361;50;51
+r;93809660;3371013;3361;50;51
+r;93809664;3371021;3361;50;51
+r;93809666;3371125;3361;50;51
+r;93809672;3371303;3361;50;51
+r;93809673;3371304;3361;50;51
+r;93809678;3371519;3361;50;51
+r;93809680;3371609;3361;50;51
+r;9361776;4114;3361;0;50
+r;52480782;2490524;3361;0;50
+r;200683304;9102115;3361;0;50
+r;200684252;9101971;3361;0;50
+r;290335741;283591;3361;0;50
+r;414755731;15521245;3361;0;50
+r;402106717;15236992;3361;0;50
+r;417521846;15490315;3361;0;50
+r;426796166;16260068;3361;0;50
+r;435826427;15046741;3361;0;50
+r;435826555;16068394;3361;0;50
+r;441265604;16165997;3361;0;50
+r;473401078;260926;3361;0;50
+r;473419422;257821;3361;0;50
+r;435826293;15046739;3361;6;50
+r;435826429;15046741;3361;6;50
+r;400633866;9264356;3361;28;50
+r;93794618;3746097;3361;50;50
+r;84573801;3176225;3361;0;49
+r;93794617;3746843;3361;50;49
+r;93794659;3744232;3361;50;49
+r;93794705;3318775;3361;50;49
+r;93809507;3362034;3361;50;49
+r;93809503;3361759;3361;50;49
+r;93809491;3360957;3361;50;49
+r;93809487;3360478;3361;50;49
+r;93809483;3360220;3361;50;49
+r;93809482;3360190;3361;50;49
+r;93809477;3359895;3361;50;49
+r;93809471;3359597;3361;50;49
+r;93809470;3359582;3361;50;49
+r;93809466;3359171;3361;50;49
+r;93809465;3359169;3361;50;49
+r;93809464;3359166;3361;50;49
+r;93809459;3359064;3361;50;49
+r;93809516;3362360;3361;50;49
+r;93809524;3363520;3361;50;49
+r;93809525;3363619;3361;50;49
+r;93809530;3363624;3361;50;49
+r;93809537;3364050;3361;50;49
+r;93809541;3364723;3361;50;49
+r;93809545;3364754;3361;50;49
+r;93809550;3365090;3361;50;49
+r;93809555;3366207;3361;50;49
+r;93809557;3366209;3361;50;49
+r;93809563;3366215;3361;50;49
+r;93809573;3366399;3361;50;49
+r;93809592;3366636;3361;50;49
+r;93809597;3366642;3361;50;49
+r;93809598;3366643;3361;50;49
+r;93809606;3368175;3361;50;49
+r;93809607;3368176;3361;50;49
+r;93809615;3368647;3361;50;49
+r;93809621;3368957;3361;50;49
+r;93809628;3369273;3361;50;49
+r;93809632;3369930;3361;50;49
+r;93809639;3370143;3361;50;49
+r;93809640;3370163;3361;50;49
+r;93809651;3370425;3361;50;49
+r;93809658;3370758;3361;50;49
+r;93809662;3371019;3361;50;49
+r;93809669;3371268;3361;50;49
+r;93809670;3371301;3361;50;49
+r;93809675;3371306;3361;50;49
+r;93809683;3371612;3361;50;49
+r;93809688;3371871;3361;50;49
+r;93809689;3372001;3361;50;49
+r;289384964;332343;3361;2000;49
+r;93794620;3744078;3361;50;48
+r;93794640;3745729;3361;50;48
+r;93794664;3743850;3361;50;48
+r;93794677;3745673;3361;50;48
+r;93809510;3362051;3361;50;48
+r;93809506;3361911;3361;50;48
+r;93809501;3361651;3361;50;48
+r;93809499;3361584;3361;50;48
+r;93809498;3361583;3361;50;48
+r;93809494;3361577;3361;50;48
+r;93809484;3360224;3361;50;48
+r;93809474;3359712;3361;50;48
+r;93809469;3359570;3361;50;48
+r;93809467;3359172;3361;50;48
+r;93809458;3359010;3361;50;48
+r;93809457;3358987;3361;50;48
+r;93809456;2324891;3361;50;48
+r;93809518;3362567;3361;50;48
+r;93809522;3363406;3361;50;48
+r;93809527;3363621;3361;50;48
+r;93809529;3363623;3361;50;48
+r;93809531;3363724;3361;50;48
+r;93809532;3363862;3361;50;48
+r;93809536;3364049;3361;50;48
+r;93809538;3364328;3361;50;48
+r;93809540;3364508;3361;50;48
+r;93809560;3366212;3361;50;48
+r;93809562;3366214;3361;50;48
+r;93809567;3366247;3361;50;48
+r;93809568;3366248;3361;50;48
+r;93809574;3366400;3361;50;48
+r;93809578;3366472;3361;50;48
+r;93809580;3366614;3361;50;48
+r;93809583;3366617;3361;50;48
+r;93809584;3366619;3361;50;48
+r;93809585;3366621;3361;50;48
+r;93809586;3366622;3361;50;48
+r;93809589;3366633;3361;50;48
+r;93809594;3366639;3361;50;48
+r;93809600;3366645;3361;50;48
+r;93809604;3367018;3361;50;48
+r;93809613;3368585;3361;50;48
+r;93809617;3368698;3361;50;48
+r;93809618;3368861;3361;50;48
+r;93809620;3368907;3361;50;48
+r;93809623;3369000;3361;50;48
+r;93809624;3369001;3361;50;48
+r;93809630;3369898;3361;50;48
+r;93809631;3369907;3361;50;48
+r;93809634;3369993;3361;50;48
+r;93809636;3370047;3361;50;48
+r;93809637;3370052;3361;50;48
+r;93809642;3370177;3361;50;48
+r;93809645;3370180;3361;50;48
+r;93809653;3370427;3361;50;48
+r;93809656;3370513;3361;50;48
+r;93809657;3370746;3361;50;48
+r;93809661;3371018;3361;50;48
+r;93809667;3371173;3361;50;48
+r;93809682;3371611;3361;50;48
+r;93809684;3371669;3361;50;48
+r;93809685;3371681;3361;50;48
+r;93809686;3371687;3361;50;48
+r;1532412;25658;3361;0;47
+r;2427744;257893;3361;14;47
+r;15541750;265176;3361;27;47
+r;8544182;146491;3361;28;47
+r;93794588;3744870;3361;50;47
+r;93794601;3745449;3361;50;47
+r;93794646;3746621;3361;50;47
+r;93794671;3746146;3361;50;47
+r;93809508;3362049;3361;50;47
+r;93809496;3361581;3361;50;47
+r;93809495;3361580;3361;50;47
+r;93809493;3361463;3361;50;47
+r;93809485;3360302;3361;50;47
+r;93809481;3360176;3361;50;47
+r;93809480;3360097;3361;50;47
+r;93809479;3360056;3361;50;47
+r;93809478;3359977;3361;50;47
+r;93809476;3359894;3361;50;47
+r;93809463;3359143;3361;50;47
+r;93809461;3359070;3361;50;47
+r;93809460;3359069;3361;50;47
+r;93809528;3363622;3361;50;47
+r;93809543;3364752;3361;50;47
+r;93809556;3366208;3361;50;47
+r;93809559;3366211;3361;50;47
+r;93809564;3366244;3361;50;47
+r;93809572;3366258;3361;50;47
+r;93809577;3366471;3361;50;47
+r;93809579;3366473;3361;50;47
+r;93809599;3366644;3361;50;47
+r;93809609;3368530;3361;50;47
+r;93809614;3368586;3361;50;47
+r;93809627;3369142;3361;50;47
+r;93809643;3370178;3361;50;47
+r;93809650;3370424;3361;50;47
+r;93809654;3370429;3361;50;47
+r;93809674;3371305;3361;50;47
+r;93809679;3371608;3361;50;47
+r;93809687;3371700;3361;50;47
+r;93901312;3756512;3361;50;47
+r;28555705;274768;3361;0;46
+r;93794616;3746029;3361;50;46
+r;93794642;3745205;3361;50;46
+r;93794655;3746135;3361;50;46
+r;93794665;3745566;3361;50;46
+r;93794667;3746579;3361;50;46
+r;93809504;3361803;3361;50;46
+r;93809502;3361725;3361;50;46
+r;93809497;3361582;3361;50;46
+r;93809490;3360940;3361;50;46
+r;93809489;3360689;3361;50;46
+r;93809511;3362081;3361;50;46
+r;93809512;3362305;3361;50;46
+r;93809513;3362306;3361;50;46
+r;93809521;3363326;3361;50;46
+r;93809534;3364047;3361;50;46
+r;93809542;3364724;3361;50;46
+r;93809544;3364753;3361;50;46
+r;93809546;3364874;3361;50;46
+r;93809554;3366164;3361;50;46
+r;93809558;3366210;3361;50;46
+r;93809561;3366213;3361;50;46
+r;93809565;3366245;3361;50;46
+r;93809575;3366469;3361;50;46
+r;93809581;3366615;3361;50;46
+r;93809582;3366616;3361;50;46
+r;93809590;3366634;3361;50;46
+r;93809591;3366635;3361;50;46
+r;93809593;3366637;3361;50;46
+r;93809595;3366640;3361;50;46
+r;93809608;3368388;3361;50;46
+r;93809625;3369068;3361;50;46
+r;93809635;3370026;3361;50;46
+r;93809638;3370084;3361;50;46
+r;93809641;3370176;3361;50;46
+r;93809644;3370179;3361;50;46
+r;93809647;3370191;3361;50;46
+r;93809652;3370426;3361;50;46
+r;93809665;3371101;3361;50;46
+r;93809668;3371267;3361;50;46
+r;93809677;3371309;3361;50;46
+r;93809681;3371610;3361;50;46
+r;93809692;3372060;3361;50;46
+r;1532403;213389;3361;0;45
+r;2513032;156430;3361;0;45
+r;41172739;2354778;3361;0;45
+r;395639282;15083400;3361;0;45
+r;410171855;153477;3361;0;45
+r;435826291;15046739;3361;0;45
+r;62608717;2499664;3361;6;45
+r;290335721;283591;3361;9;45
+r;3155642;4114;3361;35;45
+r;93809468;3359220;3361;50;45
+r;93809462;3359103;3361;50;45
+r;93809520;3363158;3361;50;45
+r;93809526;3363620;3361;50;45
+r;93809553;3366090;3361;50;45
+r;93809587;3366623;3361;50;45
+r;93809596;3366641;3361;50;45
+r;93809602;3366717;3361;50;45
+r;93809603;3366940;3361;50;45
+r;93809612;3368567;3361;50;45
+r;93809616;3368665;3361;50;45
+r;93809655;3370430;3361;50;45
+r;93809663;3371020;3361;50;45
+r;93809690;3372037;3361;50;45
+r;276827223;9101897;3361;50;45
+r;2479932;218940;3361;0;44
+r;9917319;222542;3361;0;44
+r;93901281;286459;3361;50;44
+r;423732492;16166000;3361;0;43
+r;423732677;16166015;3361;0;43
+r;423732715;16166017;3361;0;43
+r;289322489;213388;3361;2000;43
+r;477310206;17477789;3361;0;42
+r;85007769;107073;3361;0;42
+r;370645411;14585958;3361;0;42
+r;21030572;284528;3361;6;42
+r;61502510;2491227;3361;6;42
+r;9973641;20965;3361;9;42
+r;477310192;17477788;3361;14;42
+r;11717223;191611;3361;0;41
+r;11717225;191613;3361;0;41
+r;120589386;6297517;3361;0;41
+r;423732699;16166016;3361;0;41
+r;21030479;460883;3361;6;41
+r;28555898;274768;3361;6;41
+r;84573802;3176225;3361;6;41
+r;410172165;15414683;3361;0;40
+r;435988455;15490316;3361;0;40
+r;24576440;437445;3361;6;40
+r;83529603;116980;3361;10;40
+r;19174293;129073;3361;17;40
+r;11318974;65012;3361;28;40
+r;11320802;16033;3361;28;40
+r;11327330;231316;3361;28;40
+r;435826556;16068394;3361;50;40
+r;434920696;145583;3361;5;39
+r;83539285;126388;3361;10;39
+r;1942147;240590;3361;10;38
+r;10010310;225934;3361;10;38
+r;25837322;1636805;3361;10;38
+r;93809749;3365361;3361;50;38
+r;93809754;3365765;3361;50;38
+r;93809755;3365808;3361;50;38
+r;93809758;3366620;3361;50;38
+r;93809762;3368791;3361;50;38
+r;34527578;2346186;3361;0;37
+r;97555995;157007;3361;0;37
+r;203834567;9107107;3361;0;37
+r;93786096;3743850;3361;6;37
+r;93809748;3365256;3361;50;37
+r;93809750;3365395;3361;50;37
+r;93809751;3365513;3361;50;37
+r;93809752;3365552;3361;50;37
+r;93809757;3366294;3361;50;37
+r;93809759;3366638;3361;50;37
+r;1942264;240590;3361;0;36
+r;2218907;249227;3361;0;36
+r;294103013;310326;3361;0;36
+r;478149271;46367;3361;14;36
+r;11684087;146105;3361;28;36
+r;30735843;58675;3361;28;36
+r;93809753;3365722;3361;50;36
+r;93809756;3365963;3361;50;36
+r;93809761;3368587;3361;50;36
+r;93809765;3370181;3361;50;36
+r;93809768;3370518;3361;50;36
+r;93809770;3371705;3361;50;36
+r;93809771;3372003;3361;50;36
+r;1532389;213387;3361;0;35
+r;15303717;123418;3361;0;35
+r;21558094;1086913;3361;0;35
+r;435988451;15490317;3361;0;35
+r;89185411;286466;3361;6;35
+r;97406964;2769081;3361;6;35
+r;116293513;5949273;3361;6;35
+r;93808749;3318642;3361;9;35
+r;97419334;84059;3361;10;35
+r;2169592;130164;3361;14;35
+r;2156491;247171;3361;23;35
+r;11683641;233638;3361;28;35
+r;93809760;3366942;3361;50;35
+r;93809763;3369010;3361;50;35
+r;93809764;3370072;3361;50;35
+r;93809766;3370431;3361;50;35
+r;93809767;3370478;3361;50;35
+r;93809769;3370605;3361;50;35
+r;115339529;5903021;3361;127;35
+r;21162023;43125;3361;0;34
+r;21609742;152553;3361;0;34
+r;120589419;2769082;3361;0;34
+r;318208073;12255499;3361;0;34
+r;318208075;12255498;3361;0;34
+r;216241703;6947697;3361;5;34
+r;97416952;225786;3361;10;34
+r;97419330;258618;3361;10;34
+r;418503723;6948438;3361;333;34
+r;418503726;16068393;3361;333;34
+r;309437521;1803925;3361;5;33
+r;435563240;15427203;3361;333;33
+r;1368946;176220;3361;0;32
+r;1532398;213388;3361;0;32
+r;15854755;250695;3361;0;32
+r;13995673;261738;3361;0;32
+r;96840105;13369;3361;0;32
+r;97145337;58768;3361;0;32
+r;203837648;9107126;3361;0;32
+r;423433201;217397;3361;0;32
+r;478149289;17526003;3361;0;32
+r;97416954;52119;3361;10;32
+r;97416960;258622;3361;10;32
+r;97419332;221019;3361;10;32
+r;478149274;17526002;3361;14;32
+r;2057883;239506;3361;23;32
+r;662861;159613;3361;0;31
+r;3098430;265785;3361;0;31
+r;3155645;269577;3361;0;31
+r;206013258;9162565;3361;0;31
+r;442258555;16793888;3361;0;31
+r;83524065;241352;3361;10;31
+r;83511522;224422;3361;13;31
+r;365695073;224422;3361;14;31
+r;426712635;250822;3361;14;31
+r;426712636;88315;3361;14;31
+r;426712637;5115;3361;14;31
+r;426712638;36246;3361;14;31
+r;2156469;23335;3361;23;31
+r;93901324;3758560;3361;50;31
+r;786106;30458;3361;0;30
+r;1664770;223048;3361;0;30
+r;31277832;91657;3361;0;30
+r;54319100;130912;3361;0;30
+r;98477823;258622;3361;0;30
+r;120589384;284529;3361;0;30
+r;369168217;3744408;3361;0;30
+r;398979170;15247742;3361;0;30
+r;364668056;14334460;3361;6;30
+r;97848815;43853;3361;9;30
+r;10010290;114984;3361;10;30
+r;83518353;326146;3361;10;30
+r;83520355;57875;3361;10;30
+r;97419331;234188;3361;10;30
+r;97950069;2538325;3361;10;30
+r;330144455;12791689;3361;10;30
+r;397784603;15150534;3361;10;30
+r;398101443;14925035;3361;10;30
+r;398109678;15281195;3361;10;30
+r;401133026;15047666;3361;10;30
+r;479029907;11008328;3361;10;30
+r;14945562;259820;3361;13;30
+r;14958482;43253;3361;13;30
+r;14969914;251694;3361;13;30
+r;14986385;242894;3361;13;30
+r;14988763;124600;3361;13;30
+r;15010255;130164;3361;13;30
+r;15019440;79364;3361;13;30
+r;15019441;2442;3361;13;30
+r;15019442;43601;3361;13;30
+r;15019443;20911;3361;13;30
+r;33211500;33882;3361;13;30
+r;83512875;47918;3361;13;30
+r;97747393;78768;3361;13;30
+r;232529566;6681658;3361;13;30
+r;347739636;105814;3361;13;30
+r;364668072;9944214;3361;13;30
+r;2448556;258940;3361;14;30
+r;15082104;24646;3361;14;30
+r;15082105;26507;3361;14;30
+r;477310207;14581505;3361;14;30
+r;29346606;97571;3361;14;30
+r;97862870;213544;3361;14;30
+r;98702137;439411;3361;14;30
+r;365697266;6681658;3361;14;30
+r;392120672;14472584;3361;14;30
+r;392120758;15014192;3361;14;30
+r;392120796;15014194;3361;14;30
+r;431584396;238029;3361;14;30
+r;431584397;257879;3361;14;30
+r;436041748;15742971;3361;14;30
+r;436041930;16574003;3361;14;30
+r;437688197;16601796;3361;14;30
+r;449258326;15742972;3361;14;30
+r;449258514;15420435;3361;14;30
+r;478149293;14474322;3361;14;30
+r;478149346;17526006;3361;14;30
+r;478299044;17542457;3361;14;30
+r;14779035;48855;3361;23;30
+r;97409600;53495;3361;23;30
+r;30898671;108750;3361;27;30
+r;31328275;143757;3361;27;30
+r;85008793;107073;3361;27;30
+r;398978631;15247742;3361;27;30
+r;402872973;15100594;3361;27;30
+r;402994383;156064;3361;27;30
+r;407336144;12503940;3361;28;30
+r;93901278;3751404;3361;50;30
+r;93901285;3753668;3361;50;30
+r;93901286;3757780;3361;50;30
+r;93901290;3756523;3361;50;30
+r;93901291;3752858;3361;50;30
+r;93901293;3759057;3361;50;30
+r;93901304;437034;3361;50;30
+r;93901308;3756097;3361;50;30
+r;93901313;3753114;3361;50;30
+r;93901316;3758959;3361;50;30
+r;276858481;3369267;3361;50;30
+r;276858486;3369266;3361;50;30
+r;276858487;3369270;3361;50;30
+r;396537673;15238415;3361;50;30
+r;307597224;607836;3361;2000;30
+r;2480411;250997;3361;0;29
+r;15282270;16746;3361;0;29
+r;15304084;16033;3361;0;29
+r;21109895;108750;3361;0;29
+r;98683620;43853;3361;0;29
+r;471114048;17132650;3361;0;29
+r;10382879;139779;3361;10;29
+r;10659067;16747;3361;10;29
+r;83561285;330215;3361;23;29
+r;97408994;145464;3361;23;29
+r;97408995;88096;3361;23;29
+r;15173777;114637;3361;27;29
+r;31328452;43125;3361;27;29
+r;93901275;3751981;3361;50;29
+r;93901284;3755689;3361;50;29
+r;93901295;3752471;3361;50;29
+r;93901298;3755046;3361;50;29
+r;93901299;3753024;3361;50;29
+r;93901300;3757897;3361;50;29
+r;93901302;3754659;3361;50;29
+r;93901306;3755902;3361;50;29
+r;93901314;3756449;3361;50;29
+r;93901317;3756148;3361;50;29
+r;93901318;3756201;3361;50;29
+r;93901322;3756149;3361;50;29
+r;276858482;3369268;3361;50;29
+r;276858483;3369269;3361;50;29
+r;276858485;3369265;3361;50;29
+r;1671053;47549;3361;0;28
+r;21105695;93099;3361;0;28
+r;31069792;1920538;3361;0;28
+r;50719533;2368353;3361;0;28
+r;87485628;129788;3361;0;28
+r;98477822;225786;3361;0;28
+r;98628617;2538325;3361;0;28
+r;206005109;6947697;3361;0;28
+r;310432823;1395235;3361;0;28
+r;390543973;7256380;3361;0;28
+r;83531516;213644;3361;10;28
+r;97416958;77727;3361;10;28
+r;97416962;149413;3361;10;28
+r;97408996;145583;3361;23;28
+r;97675620;1969939;3361;23;28
+r;15092063;214275;3361;27;28
+r;15511911;152552;3361;27;28
+r;76412495;3172362;3361;28;28
+r;93901273;3754942;3361;50;28
+r;93901274;437037;3361;50;28
+r;93901279;3756338;3361;50;28
+r;93901280;3757774;3361;50;28
+r;93901282;3751867;3361;50;28
+r;93901283;3755754;3361;50;28
+r;93901287;264621;3361;50;28
+r;93901288;3756950;3361;50;28
+r;93901292;3759008;3361;50;28
+r;93901294;3752145;3361;50;28
+r;93901296;3751137;3361;50;28
+r;93901303;3361;3361;50;28
+r;93901309;3752689;3361;50;28
+r;93901310;3756652;3361;50;28
+r;93901311;3758171;3361;50;28
+r;276858484;286463;3361;50;28
+r;216481571;6947697;3361;72;28
+r;15548372;152552;3361;0;27
+r;368848390;13799537;3361;0;27
+r;369268034;13782846;3361;0;27
+r;97834791;215897;3361;9;27
+r;97416956;60902;3361;10;27
+r;471842261;5115;3361;13;27
+r;14779037;82844;3361;23;27
+r;15516611;152125;3361;27;27
+r;31083394;1920730;3361;27;27
+r;31189113;20621;3361;27;27
+r;93901276;213387;3361;50;27
+r;93901277;3754403;3361;50;27
+r;93901289;3757757;3361;50;27
+r;93901297;3751691;3361;50;27
+r;93901301;3754817;3361;50;27
+r;93901307;3753388;3361;50;27
+r;93901315;3758545;3361;50;27
+r;93901319;3752620;3361;50;27
+r;93901320;3753927;3361;50;27
+r;93901321;264056;3361;50;27
+r;93901323;3752502;3361;50;27
+r;992214;5994;3361;0;26
+r;1532380;213386;3361;0;26
+r;2305836;79889;3361;0;26
+r;14434876;416318;3361;0;26
+r;31083395;1920730;3361;0;26
+r;63297462;2499187;3361;0;26
+r;96709685;140100;3361;0;26
+r;96920768;35801;3361;0;26
+r;96924598;607836;3361;0;26
+r;369169959;3744086;3361;0;26
+r;419493520;15212240;3361;0;26
+r;434945519;3973676;3361;5;26
+r;83533444;126285;3361;10;26
+r;97419329;215758;3361;10;26
+r;471842260;260032;3361;13;26
+r;373014551;112671;3361;17;26
+r;1929744;214149;3361;23;26
+r;14755497;113963;3361;23;26
+r;15103150;117095;3361;27;26
+r;15173641;123418;3361;27;26
+r;369170281;9101916;3361;50;26
+r;19174305;129073;3361;106;26
+r;390463927;14960400;3361;333;26
+r;477310199;17477788;3361;0;25
+r;477310190;257893;3361;0;25
+r;477313612;17478116;3361;0;25
+r;477310223;17477790;3361;0;25
+r;477310213;14581506;3361;0;25
+r;364668016;18699;3361;0;25
+r;364668021;14334456;3361;0;25
+r;364668037;14334458;3361;0;25
+r;364668045;14334459;3361;0;25
+r;369305066;13777887;3361;0;25
+r;423637441;223465;3361;0;25
+r;392120655;30536;3361;0;25
+r;392120664;15014185;3361;0;25
+r;392120677;14472585;3361;0;25
+r;392120687;15014187;3361;0;25
+r;392120748;15014191;3361;0;25
+r;392120757;15014192;3361;0;25
+r;392120786;15014193;3361;0;25
+r;392120795;15014194;3361;0;25
+r;397784583;15150534;3361;0;25
+r;415993785;14925190;3361;0;25
+r;424068964;37752;3361;0;25
+r;435638651;16068393;3361;0;25
+r;435638653;6948438;3361;0;25
+r;437630302;16600454;3361;0;25
+r;437688099;16601795;3361;0;25
+r;442271495;15212241;3361;0;25
+r;478149272;46367;3361;0;25
+r;478149281;17526002;3361;0;25
+r;478149298;14474323;3361;0;25
+r;478149308;17526004;3361;0;25
+r;478149336;17526005;3361;0;25
+r;478149345;17526006;3361;0;25
+r;478299049;17542458;3361;0;25
+r;478299059;17542460;3361;0;25
+r;478299083;17542461;3361;0;25
+r;477310200;17477789;3361;6;25
+r;364668024;14334457;3361;6;25
+r;392120665;15014186;3361;6;25
+r;410011506;3744159;3361;6;25
+r;478149282;17526003;3361;6;25
+r;401928791;6767;3361;10;25
+r;403819777;14950244;3361;10;25
+r;431391140;15205594;3361;10;25
+r;450041201;15205595;3361;10;25
+r;374577014;14731178;3361;23;25
+r;376096585;52413;3361;23;25
+r;384121159;35143;3361;27;25
+r;375974873;214276;3361;28;25
+r;478820592;9190;3361;28;25
+r;478820593;89628;3361;28;25
+r;478820594;3260867;3361;28;25
+r;276827216;3369275;3361;50;25
+r;276827234;3369292;3361;50;25
+r;276827217;3369276;3361;50;25
+r;276827235;3369293;3361;50;25
+r;276827218;3369277;3361;50;25
+r;276827219;3369278;3361;50;25
+r;276827220;3369279;3361;50;25
+r;276827221;3369280;3361;50;25
+r;276827222;3369281;3361;50;25
+r;276827224;3369282;3361;50;25
+r;276827225;3369283;3361;50;25
+r;276827226;3369284;3361;50;25
+r;276827227;3369285;3361;50;25
+r;276827228;3369286;3361;50;25
+r;276827229;3369287;3361;50;25
+r;276827230;3369288;3361;50;25
+r;276827233;3369291;3361;50;25
+r;276827215;3369274;3361;50;25
+r;276827231;3369289;3361;50;25
+r;276827232;3369290;3361;50;25
+r;276827214;3369272;3361;50;25
+r;376041215;218941;3361;51;25
+r;376041310;68467;3361;51;25
+r;376041362;3361;3361;51;25
+r;316810736;12105601;3361;55;25
+r;311804512;3372522;3361;72;25
+r;312601511;73126;3361;102;25
+r;375673633;91691;3361;115;25
+r;475873315;129788;3361;170;25
+r;390463964;14925190;3361;333;25
+r;15227866;214275;3361;0;24
+r;15441596;143712;3361;0;24
+r;29304878;20965;3361;0;24
+r;31377690;71539;3361;0;24
+r;98547828;215897;3361;0;24
+r;369190594;3318579;3361;0;24
+r;471283181;17132791;3361;0;24
+r;14779036;48496;3361;23;24
+r;31377689;71539;3361;27;24
+r;369169555;9101823;3361;50;24
+r;992132;145583;3361;0;23
+r;10592546;114637;3361;0;23
+r;12257669;21031;3361;0;23
+r;98002998;15229;3361;0;23
+r;14771221;1384;3361;23;23
+r;14779018;84432;3361;23;23
+r;15149096;16746;3361;27;23
+r;31069791;1920538;3361;27;23
+r;98002997;15229;3361;27;23
+r;15303783;113902;3361;0;22
+r;31189114;20621;3361;0;22
+r;98622059;149413;3361;0;22
+r;301486464;6341943;3361;0;22
+r;372941318;14668644;3361;0;22
+r;419665388;15238420;3361;0;22
+r;9924243;75350;3361;6;22
+r;9924245;173529;3361;6;22
+r;10977816;103311;3361;10;22
+r;154169623;6800353;3361;10;22
+r;14757707;122864;3361;23;22
+r;97409599;23178;3361;23;22
+r;15174086;16033;3361;27;22
+r;30952716;132338;3361;27;22
+r;31277831;91657;3361;27;22
+r;15238868;117095;3361;0;21
+r;15552811;152125;3361;0;21
+r;30952717;132338;3361;0;21
+r;98476677;258618;3361;0;21
+r;98666386;111235;3361;0;21
+r;312134862;3372522;3361;0;21
+r;369361766;13785044;3361;0;21
+r;400314477;15397290;3361;0;21
+r;418229649;30942;3361;0;21
+r;442258243;16793897;3361;0;21
+r;97459059;599339;3361;23;21
+r;15173709;113902;3361;27;21
+r;15216776;143712;3361;27;21
+r;98666385;111235;3361;27;21
+r;401925369;6767;3361;0;20
+r;403819776;14950244;3361;0;20
+r;409222163;14951878;3361;0;20
+r;413327180;9107311;3361;0;20
+r;429070460;15078190;3361;0;20
+r;429727704;15335832;3361;0;20
+r;429808679;15328042;3361;0;20
+r;431391139;15205594;3361;0;20
+r;433153007;35143;3361;0;20
+r;442271418;15238421;3361;0;20
+r;444093727;149243;3361;0;20
+r;445048908;15526700;3361;0;20
+r;450041200;15205595;3361;0;20
+r;456925905;15202063;3361;0;20
+r;472911620;15465322;3361;0;20
+r;409222168;14951878;3361;6;20
+r;413327181;9107311;3361;6;20
+r;429808948;15328042;3361;10;20
+r;444093728;149243;3361;10;20
+r;444493194;15088586;3361;10;20
+r;445048909;15526700;3361;10;20
+r;408054218;15446416;3361;23;20
+r;408054271;15446417;3361;23;20
+r;408054324;15446418;3361;23;20
+r;456929355;15202063;3361;27;20
+r;472944334;16793896;3361;0;19
+r;472944345;16793875;3361;0;19
+r;472944349;16793874;3361;0;19
+r;10010305;77424;3361;10;19
+r;10010317;16110;3361;10;19
+r;10010409;141480;3361;10;19
+r;10010421;108463;3361;10;19
+r;96727091;74558;3361;0;18
+r;98620814;234188;3361;0;18
+r;98620815;221019;3361;0;18
+r;98620817;84059;3361;0;18
+r;98622056;52119;3361;0;18
+r;427247940;80755;3361;0;18
+r;316525187;12110479;3361;10;18
+r;98620813;215758;3361;0;17
+r;98622057;60902;3361;0;17
+r;98622058;77727;3361;0;17
+r;10980309;83944;3361;10;17
+r;11036866;240720;3361;10;17
+r;425223481;398564;3361;10;17
+r;24576212;1483990;3361;0;16
+r;434992469;216142;3361;0;16
+r;11077943;154845;3361;10;16
+r;430046839;145960;3361;23;16
+r;309894134;1803925;3361;0;15
+r;417855888;145930;3361;0;15
+r;428563496;223461;3361;0;15
+r;430041828;1709894;3361;0;15
+r;433728377;120157;3361;0;15
+r;478149357;17526007;3361;0;15
+r;10436394;74846;3361;10;15
+r;10460756;219363;3361;10;15
+r;96730338;74558;3361;10;15
+r;97427063;606876;3361;23;15
+r;390577991;7256380;3361;27;15
+r;96661106;229681;3361;28;15
+r;93518823;3747509;3361;0;14
+r;440376571;212746;3361;0;14
+r;55298070;2442938;3361;0;13
+r;417640485;60807;3361;0;13
+r;418317447;16637;3361;0;13
+r;467768135;15080161;3361;0;13
+r;9972506;74082;3361;0;12
+r;315108478;12081264;3361;0;12
+r;417810703;16034830;3361;0;12
+r;418320008;112398;3361;0;12
+r;418348609;2081634;3361;0;12
+r;54400724;2417315;3361;0;11
+r;418230035;16053385;3361;0;11
+r;435808876;50469;3361;17;11
+r;99404502;141480;3361;0;10
+r;477319461;16601119;3361;0;10
+r;54572928;2425918;3361;0;10
+r;99405858;16110;3361;0;10
+r;115094308;5901056;3361;0;10
+r;313607890;12032852;3361;0;10
+r;313607892;12032851;3361;0;10
+r;390851170;14959530;3361;0;10
+r;390851179;14959531;3361;0;10
+r;395991474;9168582;3361;0;10
+r;395991703;15056381;3361;0;10
+r;398096257;15491154;3361;0;10
+r;399098964;15289319;3361;0;10
+r;399099023;15289320;3361;0;10
+r;399099082;15289321;3361;0;10
+r;399099141;15289322;3361;0;10
+r;399836658;15299674;3361;0;10
+r;399837497;15299675;3361;0;10
+r;399838354;8525077;3361;0;10
+r;419774081;15284575;3361;0;10
+r;432391445;15094630;3361;0;10
+r;434454915;43409;3361;0;10
+r;436095207;15563864;3361;0;10
+r;436095247;15237480;3361;0;10
+r;441785938;173609;3361;0;10
+r;445540996;15088064;3361;0;10
+r;445789462;7053316;3361;0;10
+r;447873279;15199018;3361;0;10
+r;395991513;9168582;3361;6;10
+r;395991742;15056381;3361;6;10
+r;9973700;36886;3361;9;10
+r;408598411;15080160;3361;9;10
+r;432391447;15094630;3361;10;10
+r;477319465;16601120;3361;14;10
+r;442287104;86916;3361;17;10
+r;467890143;14606397;3361;23;10
+r;398096256;15491154;3361;27;10
+r;399836657;15299674;3361;27;10
+r;399837496;15299675;3361;27;10
+r;399838353;8525077;3361;27;10
+r;23813484;65083;3361;28;10
+r;97055903;66842;3361;28;10
+r;395991625;9168582;3361;50;10
+r;395991854;15056381;3361;50;10
+r;3382494;86808;3361;777;10
+r;3382496;272327;3361;777;10
+r;3382498;127699;3361;777;10
+r;3525101;34415;3361;777;10
+r;3593688;135068;3361;777;10
+r;3593689;110915;3361;777;10
+r;3636796;273707;3361;777;10
+r;3636797;90912;3361;777;10
+r;3673396;166471;3361;777;10
+r;3673397;273949;3361;777;10
+r;3792340;114696;3361;777;10
+r;3792752;213167;3361;777;10
+r;3804433;191294;3361;777;10
+r;3804434;274517;3361;777;10
+r;3804436;274518;3361;777;10
+r;3809917;274550;3361;777;10
+r;3814322;191612;3361;777;10
+r;3818039;141480;3361;777;10
+r;3818165;138960;3361;777;10
+r;3821083;74082;3361;777;10
+r;3831688;274746;3361;777;10
+r;3836099;75436;3361;777;10
+r;3836724;2060;3361;777;10
+r;3837533;274766;3361;777;10
+r;3837639;274767;3361;777;10
+r;3837736;274768;3361;777;10
+r;3839287;94208;3361;777;10
+r;3839763;261916;3361;777;10
+r;3839874;176028;3361;777;10
+r;3840096;274753;3361;777;10
+r;3840218;274754;3361;777;10
+r;3846783;274742;3361;777;10
+r;3874737;274965;3361;777;10
+r;3912443;275304;3361;777;10
+r;3912444;64938;3361;777;10
+r;3918813;114202;3361;777;10
+r;3967503;55572;3361;777;10
+r;3967504;21940;3361;777;10
+r;3967505;18094;3361;777;10
+r;3995880;123340;3361;777;10
+r;3995892;275861;3361;777;10
+r;4015112;99862;3361;777;10
+r;4044449;222542;3361;777;10
+r;4050831;61796;3361;777;10
+r;4050834;16637;3361;777;10
+r;4102737;1400;3361;777;10
+r;4102738;276723;3361;777;10
+r;4102739;20101;3361;777;10
+r;4131025;217397;3361;777;10
+r;76580155;3176832;3361;777;10
+r;4237667;228251;3361;777;10
+r;4237670;216142;3361;777;10
+r;4244137;88585;3361;777;10
+r;4244138;6139;3361;777;10
+r;4435516;279658;3361;777;10
+r;4435517;255569;3361;777;10
+r;4437108;213240;3361;777;10
+r;4437109;279681;3361;777;10
+r;4437110;213242;3361;777;10
+r;4465231;20877;3361;777;10
+r;4465237;27962;3361;777;10
+r;4510588;166480;3361;777;10
+r;4533817;52773;3361;777;10
+r;4533823;28421;3361;777;10
+r;4548481;180189;3361;777;10
+r;4574611;16614;3361;777;10
+r;4619795;214171;3361;777;10
+r;4619798;281147;3361;777;10
+r;4644518;177474;3361;777;10
+r;4644519;281335;3361;777;10
+r;4644520;34174;3361;777;10
+r;4668157;77858;3361;777;10
+r;4705234;212545;3361;777;10
+r;4755403;114510;3361;777;10
+r;4841448;282935;3361;777;10
+r;4841449;149580;3361;777;10
+r;4841450;106511;3361;777;10
+r;4860958;36389;3361;777;10
+r;4889139;52219;3361;777;10
+r;4987938;30316;3361;777;10
+r;5100886;50531;3361;777;10
+r;5102145;223465;3361;777;10
+r;5102150;33985;3361;777;10
+r;5141808;242690;3361;777;10
+r;5141809;285160;3361;777;10
+r;5141810;51882;3361;777;10
+r;5164916;53086;3361;777;10
+r;5287638;171027;3361;777;10
+r;5548298;286898;3361;777;10
+r;5915862;60328;3361;777;10
+r;6152318;225852;3361;777;10
+r;6216224;62657;3361;777;10
+r;6216225;289505;3361;777;10
+r;6220715;43827;3361;777;10
+r;6237869;191256;3361;777;10
+r;6304945;165864;3361;777;10
+r;6427447;83469;3361;777;10
+r;6449204;68572;3361;777;10
+r;6456793;130912;3361;777;10
+r;6458285;38931;3361;777;10
+r;6462217;232359;3361;777;10
+r;6463322;191613;3361;777;10
+r;6547386;106958;3361;777;10
+r;6547387;158679;3361;777;10
+r;6564621;130322;3361;777;10
+r;6607719;76800;3361;777;10
+r;6629748;108586;3361;777;10
+r;6629749;224197;3361;777;10
+r;6629750;224198;3361;777;10
+r;6635962;10954;3361;777;10
+r;6635963;11742;3361;777;10
+r;6656869;13017;3361;777;10
+r;6656870;142545;3361;777;10
+r;6675750;14912;3361;777;10
+r;6718314;19066;3361;777;10
+r;6745597;120470;3361;777;10
+r;6745598;23432;3361;777;10
+r;6775116;26579;3361;777;10
+r;6897293;39650;3361;777;10
+r;6897294;296271;3361;777;10
+r;6897295;296272;3361;777;10
+r;6913949;41205;3361;777;10
+r;6957985;47685;3361;777;10
+r;6992066;55334;3361;777;10
+r;7015695;57738;3361;777;10
+r;7024313;58678;3361;777;10
+r;7036677;59587;3361;777;10
+r;7079977;64554;3361;777;10
+r;7099628;66942;3361;777;10
+r;7105693;67631;3361;777;10
+r;7105694;298307;3361;777;10
+r;7110983;68089;3361;777;10
+r;7110984;298365;3361;777;10
+r;7153179;298756;3361;777;10
+r;7153180;72598;3361;777;10
+r;7161591;73510;3361;777;10
+r;7236382;299524;3361;777;10
+r;7236383;81922;3361;777;10
+r;7353924;95283;3361;777;10
+r;7355098;300670;3361;777;10
+r;7355099;82002;3361;777;10
+r;7355100;95677;3361;777;10
+r;7397468;100825;3361;777;10
+r;7531595;115021;3361;777;10
+r;7540160;115547;3361;777;10
+r;7550426;152711;3361;777;10
+r;7611973;63348;3361;777;10
+r;7611974;121354;3361;777;10
+r;7614999;121530;3361;777;10
+r;7626788;122257;3361;777;10
+r;7872923;160411;3361;777;10
+r;7901963;169495;3361;777;10
+r;7901965;305681;3361;777;10
+r;7933141;306056;3361;777;10
+r;7933142;306057;3361;777;10
+r;7933143;177121;3361;777;10
+r;7939945;273800;3361;777;10
+r;7939946;183106;3361;777;10
+r;7939947;306135;3361;777;10
+r;7983375;191611;3361;777;10
+r;8006825;168159;3361;777;10
+r;8006826;306875;3361;777;10
+r;8006827;26469;3361;777;10
+r;8066486;177190;3361;777;10
+r;8074059;209276;3361;777;10
+r;8106895;220978;3361;777;10
+r;8113940;222487;3361;777;10
+r;8138179;170944;3361;777;10
+r;8188070;237012;3361;777;10
+r;8229645;309321;3361;777;10
+r;8300450;213241;3361;777;10
+r;8339064;264357;3361;777;10
+r;8348680;221045;3361;777;10
+r;8370949;223461;3361;777;10
+r;8462311;311456;3361;777;10
+r;8462312;311457;3361;777;10
+r;8462313;311458;3361;777;10
+r;8462314;311459;3361;777;10
+r;8462315;311460;3361;777;10
+r;8462316;311461;3361;777;10
+r;8496709;237011;3361;777;10
+r;8512974;265171;3361;777;10
+r;8530460;312137;3361;777;10
+r;8559842;312787;3361;777;10
+r;11781665;330074;3361;777;10
+r;11678947;329647;3361;777;10
+r;13196859;392679;3361;777;10
+r;13196860;392680;3361;777;10
+r;13681482;393829;3361;777;10
+r;15472493;437824;3361;777;10
+r;17165648;380648;3361;777;10
+r;16228773;293810;3361;777;10
+r;17203516;389159;3361;777;10
+r;17273001;399313;3361;777;10
+r;17359116;407303;3361;777;10
+r;17401925;410631;3361;777;10
+r;17477847;416329;3361;777;10
+r;17496724;418120;3361;777;10
+r;17510895;419462;3361;777;10
+r;17662893;433843;3361;777;10
+r;17717783;461764;3361;777;10
+r;17722661;462132;3361;777;10
+r;17823024;128439;3361;777;10
+r;17823026;280744;3361;777;10
+r;17823028;280745;3361;777;10
+r;17823030;280746;3361;777;10
+r;18222109;581989;3361;777;10
+r;18283671;111887;3361;777;10
+r;18526312;166472;3361;777;10
+r;18526314;95983;3361;777;10
+r;18526316;176225;3361;777;10
+r;18574885;242575;3361;777;10
+r;18754074;599594;3361;777;10
+r;18826220;145382;3361;777;10
+r;18826221;74783;3361;777;10
+r;18913229;22471;3361;777;10
+r;19010995;48784;3361;777;10
+r;19994398;816846;3361;777;10
+r;21235187;308547;3361;777;10
+r;21592792;381718;3361;777;10
+r;21792129;404919;3361;777;10
+r;23203108;152432;3361;777;10
+r;23290570;53120;3361;777;10
+r;23290572;285301;3361;777;10
+r;23290574;1370135;3361;777;10
+r;24256469;279511;3361;777;10
+r;24377891;324956;3361;777;10
+r;25411365;168166;3361;777;10
+r;25424182;173587;3361;777;10
+r;25463373;1586787;3361;777;10
+r;25506242;1595152;3361;777;10
+r;26038571;324960;3361;777;10
+r;28149106;1573231;3361;777;10
+r;28210744;168175;3361;777;10
+r;28210746;709087;3361;777;10
+r;28210748;709088;3361;777;10
+r;28998442;1655155;3361;777;10
+r;29286042;296416;3361;777;10
+r;29286044;1783638;3361;777;10
+r;29405493;153477;3361;777;10
+r;29478423;176065;3361;777;10
+r;29612149;44615;3361;777;10
+r;29614552;1814280;3361;777;10
+r;29628138;1815178;3361;777;10
+r;30112281;1850064;3361;777;10
+r;30112283;1833102;3361;777;10
+r;30112285;1859117;3361;777;10
+r;30112287;1859118;3361;777;10
+r;30424917;1885138;3361;777;10
+r;30709884;9653;3361;777;10
+r;31506066;1395798;3361;777;10
+r;34122494;428094;3361;777;10
+r;34122496;1650851;3361;777;10
+r;34478066;2144681;3361;777;10
+r;34523224;2059275;3361;777;10
+r;50197182;2362968;3361;777;10
+r;50197184;2362969;3361;777;10
+r;50197186;2362970;3361;777;10
+r;50460737;2365734;3361;777;10
+r;50465831;2365302;3361;777;10
+r;50465839;2366576;3361;777;10
+r;50465841;2366577;3361;777;10
+r;50696474;2368352;3361;777;10
+r;50696492;2368353;3361;777;10
+r;50696499;264288;3361;777;10
+r;50696504;594059;3361;777;10
+r;50719802;2368541;3361;777;10
+r;53216062;2396298;3361;777;10
+r;53229819;2397040;3361;777;10
+r;53285448;2400029;3361;777;10
+r;53325661;2401904;3361;777;10
+r;53892473;2409227;3361;777;10
+r;54487567;2588744;3361;777;10
+r;54487625;2588745;3361;777;10
+r;55110095;2435168;3361;777;10
+r;55666527;2460404;3361;777;10
+r;62608192;272186;3361;777;10
+r;62608195;2769081;3361;777;10
+r;62608198;2769082;3361;777;10
+r;68222820;2509456;3361;777;10
+r;71592070;1814522;3361;777;10
+r;71788966;398671;3361;777;10
+r;72860179;2952638;3361;777;10
+r;73170701;2601675;3361;777;10
+r;73975303;2956492;3361;777;10
+r;76240256;211563;3361;777;10
+r;76246094;2872080;3361;777;10
+r;76538504;3176225;3361;777;10
+r;83316786;3309995;3361;777;10
+r;86881863;3384563;3361;777;10
+r;87203204;17413;3361;777;10
+r;88503168;3513652;3361;777;10
+r;89162995;1814302;3361;777;10
+r;91047529;3602043;3361;777;10
+r;476983890;5537339;3361;777;10
+r;92963641;3725163;3361;777;10
+r;110728515;5624081;3361;777;10
+r;104390266;5002471;3361;777;10
+r;476763413;14918935;3361;777;10
+r;109672350;5539090;3361;777;10
+r;109912301;70405;3361;777;10
+r;109917165;217183;3361;777;10
+r;109952238;5561063;3361;777;10
+r;110597517;5619649;3361;777;10
+r;110597519;5619650;3361;777;10
+r;110597521;5619651;3361;777;10
+r;110672812;5621610;3361;777;10
+r;110673548;5621633;3361;777;10
+r;110679828;127547;3361;777;10
+r;110681196;20399;3361;777;10
+r;110683400;5622070;3361;777;10
+r;110701435;5622878;3361;777;10
+r;110705816;5623034;3361;777;10
+r;110732103;5624256;3361;777;10
+r;110734194;5624387;3361;777;10
+r;110798921;5627686;3361;777;10
+r;110799764;3445940;3361;777;10
+r;110820658;5629747;3361;777;10
+r;110821763;18412;3361;777;10
+r;111488838;5681529;3361;777;10
+r;111515679;5624458;3361;777;10
+r;111660204;132476;3361;777;10
+r;112686274;5786843;3361;777;10
+r;112701135;1973061;3361;777;10
+r;112854634;5795641;3361;777;10
+r;112856000;5795703;3361;777;10
+r;112893189;5797319;3361;777;10
+r;112975276;5800903;3361;777;10
+r;112979255;5801029;3361;777;10
+r;112979257;5801030;3361;777;10
+r;112985720;5801298;3361;777;10
+r;113054389;239865;3361;777;10
+r;113062166;5804286;3361;777;10
+r;113072576;5804811;3361;777;10
+r;113072578;5804812;3361;777;10
+r;113151153;5807795;3361;777;10
+r;113163320;245290;3361;777;10
+r;113166551;5808231;3361;777;10
+r;113256781;5811705;3361;777;10
+r;113256783;5811706;3361;777;10
+r;113545499;176218;3361;777;10
+r;113545612;176216;3361;777;10
+r;113554575;216936;3361;777;10
+r;113584087;5828571;3361;777;10
+r;113584089;1963162;3361;777;10
+r;113587252;5828643;3361;777;10
+r;113818878;5835766;3361;777;10
+r;113821240;5835804;3361;777;10
+r;114271106;173347;3361;777;10
+r;114619956;5892691;3361;777;10
+r;114626314;5892840;3361;777;10
+r;114626317;5892841;3361;777;10
+r;114671250;5894229;3361;777;10
+r;114746168;5895259;3361;777;10
+r;114868457;5897872;3361;777;10
+r;114974431;5814007;3361;777;10
+r;115006647;5900785;3361;777;10
+r;115007678;19444;3361;777;10
+r;115018889;5901089;3361;777;10
+r;115744278;5926731;3361;777;10
+r;116008326;5941958;3361;777;10
+r;116148636;69125;3361;777;10
+r;116155899;5945741;3361;777;10
+r;116281024;5949273;3361;777;10
+r;116284623;5949532;3361;777;10
+r;116755958;5878898;3361;777;10
+r;116755960;5971976;3361;777;10
+r;116755962;5971977;3361;777;10
+r;117036406;5980924;3361;777;10
+r;119046372;6070144;3361;777;10
+r;121331906;118502;3361;777;10
+r;122896468;6700431;3361;777;10
+r;220506762;9949463;3361;777;10
+r;195810733;2359024;3361;777;10
+r;214872103;406010;3361;777;10
+r;214922521;9572799;3361;777;10
+r;214922523;9572800;3361;777;10
+r;214922525;9572801;3361;777;10
+r;214922527;9572802;3361;777;10
+r;214922529;9573123;3361;777;10
+r;218144195;168167;3361;777;10
+r;218644642;114290;3361;777;10
+r;218644644;4277934;3361;777;10
+r;218644646;135646;3361;777;10
+r;220883376;9960604;3361;777;10
+r;220952421;9962578;3361;777;10
+r;230332404;10063264;3361;777;10
+r;230332406;10063265;3361;777;10
+r;232296847;10083279;3361;777;10
+r;232296849;10083280;3361;777;10
+r;233317602;10095916;3361;777;10
+r;235719143;10139841;3361;777;10
+r;236837712;10158973;3361;777;10
+r;236846619;10158996;3361;777;10
+r;236847377;10158998;3361;777;10
+r;242061852;10191184;3361;777;10
+r;269844933;10787730;3361;777;10
+r;255071268;10385376;3361;777;10
+r;250072171;409067;3361;777;10
+r;276096077;435524;3361;777;10
+r;258497430;10440786;3361;777;10
+r;259060540;10462092;3361;777;10
+r;259060543;10462094;3361;777;10
+r;262398996;78129;3361;777;10
+r;262940181;6069163;3361;777;10
+r;262940183;6065943;3361;777;10
+r;263609788;10583622;3361;777;10
+r;264327392;10599812;3361;777;10
+r;267417669;9624;3361;777;10
+r;268778010;10743992;3361;777;10
+r;268780410;31548;3361;777;10
+r;268956783;10748037;3361;777;10
+r;269722674;10778213;3361;777;10
+r;270249518;10762823;3361;777;10
+r;270937042;10344577;3361;777;10
+r;271716970;1812566;3361;777;10
+r;271830770;43409;3361;777;10
+r;272743663;10874534;3361;777;10
+r;272743665;10874535;3361;777;10
+r;273727889;10906451;3361;777;10
+r;273753107;8571113;3361;777;10
+r;273796330;10512449;3361;777;10
+r;273796331;5624222;3361;777;10
+r;273796332;301156;3361;777;10
+r;273796334;9958568;3361;777;10
+r;273796336;9958569;3361;777;10
+r;273796338;9958570;3361;777;10
+r;273796340;9958571;3361;777;10
+r;275626507;10943259;3361;777;10
+r;274472640;1564;3361;777;10
+r;275041702;10933675;3361;777;10
+r;275042893;10933698;3361;777;10
+r;275268306;10936729;3361;777;10
+r;277021649;10970391;3361;777;10
+r;277374339;138498;3361;777;10
+r;277374341;10987240;3361;777;10
+r;277378123;10987279;3361;777;10
+r;277387111;10987412;3361;777;10
+r;277499271;10846451;3361;777;10
+r;277599832;39864;3361;777;10
+r;277600389;27919;3361;777;10
+r;278324405;11003507;3361;777;10
+r;278324407;11003508;3361;777;10
+r;278324409;214630;3361;777;10
+r;278324411;258617;3361;777;10
+r;278324413;11003509;3361;777;10
+r;278998235;83866;3361;777;10
+r;278998237;123207;3361;777;10
+r;279194922;3796364;3361;777;10
+r;280018337;278569;3361;777;10
+r;280729733;6348197;3361;777;10
+r;280898144;11077812;3361;777;10
+r;280909325;11078165;3361;777;10
+r;280910841;11077823;3361;777;10
+r;281043356;6530781;3361;777;10
+r;281043408;11080517;3361;777;10
+r;281830879;11105599;3361;777;10
+r;282103457;11109510;3361;777;10
+r;282103458;6145;3361;777;10
+r;282103459;4063288;3361;777;10
+r;282104328;11109516;3361;777;10
+r;282319578;11120073;3361;777;10
+r;282359637;244701;3361;777;10
+r;282359639;5827657;3361;777;10
+r;282639938;568640;3361;777;10
+r;283259090;3767212;3361;777;10
+r;283421626;11150810;3361;777;10
+r;285850953;11172876;3361;777;10
+r;285984504;11174781;3361;777;10
+r;286951176;11184275;3361;777;10
+r;287267632;11208966;3361;777;10
+r;287267634;11208967;3361;777;10
+r;287267636;11208968;3361;777;10
+r;287587827;11218754;3361;777;10
+r;287750489;92493;3361;777;10
+r;287854540;11233424;3361;777;10
+r;288818425;11287815;3361;777;10
+r;288818427;11287816;3361;777;10
+r;288818429;11287817;3361;777;10
+r;290602966;11343193;3361;777;10
+r;290948905;11353582;3361;777;10
+r;290948907;11353583;3361;777;10
+r;290948909;11353584;3361;777;10
+r;293736200;2416362;3361;777;10
+r;294394551;9745589;3361;777;10
+r;294959433;2571066;3361;777;10
+r;295228516;11494445;3361;777;10
+r;296283480;11539465;3361;777;10
+r;297283512;11572434;3361;777;10
+r;297291333;11572531;3361;777;10
+r;297304150;11572793;3361;777;10
+r;300088453;11694837;3361;777;10
+r;305904743;35530;3361;777;10
+r;305908704;11831927;3361;777;10
+r;306124247;60098;3361;777;10
+r;308621828;11957799;3361;777;10
+r;308622060;11577114;3361;777;10
+r;361101447;14225480;3361;777;10
+r;314602980;3864737;3361;777;10
+r;318211614;2497859;3361;777;10
+r;318542030;244702;3361;777;10
+r;318542032;12267245;3361;777;10
+r;331433788;154465;3361;777;10
+r;331433790;6064901;3361;777;10
+r;332120154;12978181;3361;777;10
+r;343635080;10556106;3361;777;10
+r;345244687;11009420;3361;777;10
+r;345816885;79993;3361;777;10
+r;355997480;5814639;3361;777;10
+r;358996870;212746;3361;777;10
+r;359901983;10673200;3361;777;10
+r;359983096;14166374;3361;777;10
+r;365266013;9699182;3361;777;10
+r;365266011;115112;3361;777;10
+r;365322256;115620;3361;777;10
+r;365322258;302446;3361;777;10
+r;367465513;407531;3361;777;10
+r;367465511;14473503;3361;777;10
+r;366284635;5562349;3361;777;10
+r;366284693;146045;3361;777;10
+r;366541032;5990018;3361;777;10
+r;366541034;5990019;3361;777;10
+r;366686870;9959636;3361;777;10
+r;367111419;14467125;3361;777;10
+r;367111432;14467126;3361;777;10
+r;367967808;14482822;3361;777;10
+r;367999137;3748043;3361;777;10
+r;367999139;14483089;3361;777;10
+r;367999141;3747281;3361;777;10
+r;368049303;5536212;3361;777;10
+r;368049305;14484513;3361;777;10
+r;368136985;14486584;3361;777;10
+r;368196267;350752;3361;777;10
+r;368196269;14488750;3361;777;10
+r;368416144;115614;3361;777;10
+r;368416146;80755;3361;777;10
+r;368416148;12282755;3361;777;10
+r;368674065;14531631;3361;777;10
+r;368674067;75811;3361;777;10
+r;368674069;14531632;3361;777;10
+r;368674071;14531633;3361;777;10
+r;370240671;14530678;3361;777;10
+r;370307116;14571675;3361;777;10
+r;370450418;14580234;3361;777;10
+r;370997163;5564952;3361;777;10
+r;370997165;5564953;3361;777;10
+r;371327601;305679;3361;777;10
+r;371327603;14595702;3361;777;10
+r;371327605;10160249;3361;777;10
+r;371576987;2397535;3361;777;10
+r;374783234;14742973;3361;777;10
+r;374783236;14742974;3361;777;10
+r;374783238;14742975;3361;777;10
+r;375139334;5535122;3361;777;10
+r;375162760;287069;3361;777;10
+r;384922103;14869729;3361;777;10
+r;384922105;280780;3361;777;10
+r;388723769;14893315;3361;777;10
+r;388723771;14893316;3361;777;10
+r;389752364;173943;3361;777;10
+r;392357863;15039565;3361;777;10
+r;392357865;15039566;3361;777;10
+r;400902769;14481206;3361;777;10
+r;399333228;231012;3361;777;10
+r;399333230;154086;3361;777;10
+r;399977577;14776522;3361;777;10
+r;399977579;116025;3361;777;10
+r;403749148;15705636;3361;777;10
+r;403749150;15705637;3361;777;10
+r;405641042;187257;3361;777;10
+r;406001543;15773071;3361;777;10
+r;406497588;9985744;3361;777;10
+r;406497590;15775039;3361;777;10
+r;406497592;15775040;3361;777;10
+r;406497594;15775041;3361;777;10
+r;406497596;15775042;3361;777;10
+r;412616285;10117115;3361;777;10
+r;414437337;230581;3361;777;10
+r;415028420;30472;3361;777;10
+r;415028422;66372;3361;777;10
+r;415028424;56362;3361;777;10
+r;415028426;136284;3361;777;10
+r;415028428;191712;3361;777;10
+r;415028430;9634975;3361;777;10
+r;415028432;146823;3361;777;10
+r;416864403;15964266;3361;777;10
+r;416864405;6065722;3361;777;10
+r;416864407;15964267;3361;777;10
+r;416864409;15964269;3361;777;10
+r;416864411;15964270;3361;777;10
+r;418731202;168197;3361;777;10
+r;418909500;239128;3361;777;10
+r;420210139;141604;3361;777;10
+r;420210140;750240;3361;777;10
+r;420984401;2100287;3361;777;10
+r;421181468;16133302;3361;777;10
+r;421181470;9267656;3361;777;10
+r;421181472;9267657;3361;777;10
+r;421181474;5951228;3361;777;10
+r;421181476;411314;3361;777;10
+r;421181478;1980587;3361;777;10
+r;421181480;59082;3361;777;10
+r;421191958;12540937;3361;777;10
+r;421981437;228019;3361;777;10
+r;423316890;16159179;3361;777;10
+r;428672651;11952;3361;777;10
+r;428672653;16315002;3361;777;10
+r;428672655;3373743;3361;777;10
+r;428983582;2465297;3361;777;10
+r;428983584;16320272;3361;777;10
+r;429040733;51177;3361;777;10
+r;429173516;410087;3361;777;10
+r;429173518;13396144;3361;777;10
+r;432031337;42321;3361;777;10
+r;432181013;217188;3361;777;10
+r;432634721;411902;3361;777;10
+r;433323361;16415890;3361;777;10
+r;435683921;16576269;3361;777;10
+r;435884515;16577919;3361;777;10
+r;435884517;16577920;3361;777;10
+r;435884705;16577925;3361;777;10
+r;436334228;22004;3361;777;10
+r;436539150;59936;3361;777;10
+r;436539152;139752;3361;777;10
+r;436539154;145113;3361;777;10
+r;436539156;142859;3361;777;10
+r;436549101;16585413;3361;777;10
+r;436549103;16585414;3361;777;10
+r;436549105;14656644;3361;777;10
+r;436549107;14656645;3361;777;10
+r;436549109;14656646;3361;777;10
+r;438943625;127687;3361;777;10
+r;438943627;105739;3361;777;10
+r;440441517;125527;3361;777;10
+r;441039273;3318760;3361;777;10
+r;441416801;208456;3361;777;10
+r;441416802;20797;3361;777;10
+r;441551956;16779512;3361;777;10
+r;442251612;303218;3361;777;10
+r;442251720;1655856;3361;777;10
+r;442251721;2286473;3361;777;10
+r;442256003;16793899;3361;777;10
+r;442311058;415227;3361;777;10
+r;442461459;16796891;3361;777;10
+r;442495681;16794346;3361;777;10
+r;444029660;165678;3361;777;10
+r;448086708;10933686;3361;777;10
+r;450912001;16810882;3361;777;10
+r;450912003;16838373;3361;777;10
+r;450912005;1850176;3361;777;10
+r;450912007;16810873;3361;777;10
+r;450912009;1832760;3361;777;10
+r;450912011;16811358;3361;777;10
+r;450912013;333476;3361;777;10
+r;450912015;333475;3361;777;10
+r;450912017;16811308;3361;777;10
+r;450912019;223903;3361;777;10
+r;450912021;15016448;3361;777;10
+r;450984181;16830709;3361;777;10
+r;451846938;16182579;3361;777;10
+r;451846940;16979502;3361;777;10
+r;451846942;69445;3361;777;10
+r;457691364;11011520;3361;777;10
+r;458773199;17132648;3361;777;10
+r;458773200;17132649;3361;777;10
+r;458773201;17132650;3361;777;10
+r;458773202;17132651;3361;777;10
+r;458782615;17132726;3361;777;10
+r;458804665;17132849;3361;777;10
+r;462782357;2514660;3361;777;10
+r;463718724;26784;3361;777;10
+r;464906056;10789459;3361;777;10
+r;469829828;14734525;3361;777;10
+r;469829830;14734526;3361;777;10
+r;473928875;5620267;3361;777;10
+r;474355687;2495038;3361;777;10
+r;474355689;17409498;3361;777;10
+r;474576102;14930589;3361;777;10
+r;474576104;14930590;3361;777;10
+r;474576106;14930591;3361;777;10
+r;474826489;14920402;3361;777;10
+r;475306805;177238;3361;777;10
+r;475306806;14963778;3361;777;10
+r;475577335;7186991;3361;777;10
+r;477749584;14928028;3361;777;10
+r;480085035;14924284;3361;777;10
+r;480296300;3346300;3361;777;10
+r;419801546;15238412;3361;0;9
+r;419801550;15301409;3361;0;9
+r;3284162;49154;3361;777;9
+r;3337857;143607;3361;777;9
+r;3809441;17559;3361;777;9
+r;3840336;114950;3361;777;9
+r;6548894;145043;3361;777;9
+r;7266048;85355;3361;777;9
+r;14382424;68256;3361;777;9
+r;27637604;137784;3361;777;9
+r;53071865;2389101;3361;0;8
+r;272638751;10870787;3361;0;8
+r;10179993;233138;3361;10;8
+r;10208879;13115;3361;10;8
+r;11917101;258619;3361;10;8
+r;13124549;390927;3361;10;8
+r;113763180;5828571;3361;0;7
+r;334346684;13031861;3361;0;7
+r;427361502;86661;3361;0;7
+r;432046392;258617;3361;0;7
+r;10010292;214601;3361;10;7
+r;3300486;109533;3361;777;7
+r;34316343;189981;3361;0;6
+r;35636573;12876;3361;0;6
+r;426981765;73510;3361;0;6
+r;429043105;137784;3361;0;6
+r;433314087;114327;3361;0;6
+r;435374962;232359;3361;0;6
+r;11663713;146105;3361;9;6
+r;290184839;8535678;3361;0;5
+r;315484797;12110479;3361;0;5
+r;315484793;12110480;3361;0;5
+r;315484789;12110481;3361;0;5
+r;318425847;12241345;3361;0;5
+r;318425867;12241344;3361;0;5
+r;318425887;12241343;3361;0;5
+r;318425909;12241342;3361;0;5
+r;423594536;49154;3361;0;5
+r;413858154;14917526;3361;0;5
+r;441082215;3318760;3361;0;5
+r;10010300;95256;3361;10;5
+r;8868205;143187;3361;0;4
+r;12832791;154845;3361;0;4
+r;315521728;12105606;3361;0;4
+r;315521734;12105605;3361;0;4
+r;315521747;12105604;3361;0;4
+r;315521753;12105603;3361;0;4
+r;315521757;12105602;3361;0;4
+r;315521768;12105601;3361;0;4
+r;315521772;12105600;3361;0;4
+r;315521783;12105599;3361;0;4
+r;423726723;22471;3361;0;4
+r;442262201;16793899;3361;0;4
+r;10010288;61835;3361;10;4
+r;10010294;232082;3361;10;4
+r;10010296;216283;3361;10;4
+r;10010298;144846;3361;10;4
+r;10010303;147184;3361;10;4
+r;10010307;77008;3361;10;4
+r;10010312;236940;3361;10;4
+r;10010315;152946;3361;10;4
+r;10010407;133921;3361;10;4
+r;10010411;43827;3361;10;4
+r;10010413;44160;3361;10;4
+r;10010415;50751;3361;10;4
+r;10010419;109785;3361;10;4
+r;10010423;101938;3361;10;4
+r;104941799;69943;3361;28;4
+r;104941790;215971;3361;28;4
+r;104941789;46141;3361;28;4
+r;104941698;62735;3361;28;4
+r;104941693;9664;3361;28;4
+r;442580722;3864737;3361;0;3
+r;468903292;364788;3361;0;3
+r;104941235;107150;3361;28;3
+r;104941234;38188;3361;28;3
+r;104941233;146872;3361;28;3
+r;104941232;13624;3361;28;3
+r;104941231;60152;3361;28;3
+r;104941230;143607;3361;28;3
+r;104941209;68925;3361;28;3
+r;104941145;215833;3361;28;3
+r;104941144;139467;3361;28;3
+r;104941143;227955;3361;28;3
+r;104937920;181184;3361;28;3
+r;104942239;45624;3361;28;3
+r;104941801;131196;3361;28;3
+r;104941800;19653;3361;28;3
+r;104941798;138622;3361;28;3
+r;104941797;42188;3361;28;3
+r;104941796;241907;3361;28;3
+r;104941795;56676;3361;28;3
+r;104941794;166492;3361;28;3
+r;104941793;7575;3361;28;3
+r;104941792;156119;3361;28;3
+r;104941791;146274;3361;28;3
+r;104941788;35801;3361;28;3
+r;104941787;143608;3361;28;3
+r;104941786;219326;3361;28;3
+r;104941703;45212;3361;28;3
+r;104941702;128721;3361;28;3
+r;104941701;18475;3361;28;3
+r;104941700;216598;3361;28;3
+r;104941699;225908;3361;28;3
+r;104941697;257264;3361;28;3
+r;104941696;128626;3361;28;3
+r;104941695;113743;3361;28;3
+r;104941694;226027;3361;28;3
+r;1671822;223465;3361;666;3
+r;1782338;33985;3361;666;3
+r;114459609;5787857;3361;0;2
+r;114459613;5787856;3361;0;2
+r;121537089;6438983;3361;0;2
+r;316192227;12196930;3361;0;2
+r;316545435;12201543;3361;0;2
+r;334419671;152711;3361;0;2
+r;423998969;42188;3361;0;2
+r;432931973;14918011;3361;0;2
+r;479173560;426495;3361;0;2
+r;78571888;14330;3361;115;2
+r;78571890;28453;3361;115;2
+r;1787903;217014;3361;666;2
+r;13432530;86661;3361;777;2
+r;423302554;6037;3361;0;1
+r;301691693;6347874;3361;0;1
+r;292449910;47319;3361;0;1
+r;302181766;6364597;3361;0;1
+r;316544510;12201679;3361;0;1
+r;316596486;12185936;3361;0;1
+r;316596497;12185934;3361;0;1
+r;316596510;12185932;3361;0;1
+r;316596519;12185930;3361;0;1
+r;316596528;12185928;3361;0;1
+r;316596539;12185925;3361;0;1
+r;316596548;12185923;3361;0;1
+r;316596559;12185920;3361;0;1
+r;438161141;2440596;3361;0;1
+r;438171877;2442520;3361;0;1
+r;352452526;174176;3361;0;1
+r;421490632;1500;3361;0;1
+r;421520142;73126;3361;0;1
+r;421604805;24743;3361;0;1
+r;422882915;2007;3361;0;1
+r;423328446;6023;3361;0;1
+r;426623891;61796;3361;0;1
+r;428864847;155489;3361;0;1
+r;431475179;217619;3361;0;1
+r;441509219;3319595;3361;0;1
+r;480072886;244857;3361;0;1
+r;351294756;1342544;3361;23;1
+r;82210321;152553;3361;27;1
+r;3162718;229957;3361;106;1
+r;3162925;249228;3361;106;1
+r;3165601;40056;3361;106;1
+r;3175422;218941;3361;106;1
+r;3176898;213387;3361;106;1
+r;3178641;129788;3361;106;1
+r;3178711;35428;3361;106;1
+r;3191510;258954;3361;106;1
+r;3215847;158578;3361;106;1
+r;1671061;47549;3361;666;1
+r;1673101;2447;3361;666;1
+r;1678741;113628;3361;666;1
+r;3284306;156430;3361;666;1
+r;13429367;264357;3361;666;1
+r;4510586;88245;3361;777;1
+r;4598913;156119;3361;777;1
+r;4598914;181184;3361;777;1
+r;6394573;111059;3361;777;1
+r;7288373;88091;3361;777;1
+r;7825834;146958;3361;777;1
+r;7915585;176955;3361;777;1
+r;8229637;96342;3361;777;1
+r;8229646;173480;3361;777;1
+r;10638805;105057;3361;777;1
+r;10639480;28447;3361;777;1
+r;10685644;252829;3361;777;1
+r;10718043;148791;3361;777;1
+r;10719198;146974;3361;777;1
+r;11612755;317777;3361;777;1
+r;11612786;179984;3361;777;1
+r;11712745;270986;3361;777;1
+r;11712920;312704;3361;777;1
+r;13423947;152828;3361;777;1
+r;13429477;217014;3361;777;1
+r;13472674;37752;3361;777;1
+r;366497587;332343;3361;50;-5
+r;9973329;68467;3361;9;-10
+r;97427229;606875;3361;23;-10
+r;15196577;40056;3361;27;-21
+r;312134863;3372522;3361;5;-25
+r;316426874;12110479;3361;6;-25
+r;316491841;12105599;3361;6;-25
+r;316492466;12105601;3361;6;-25
+r;316492581;12196930;3361;6;-25
+r;316492605;12105603;3361;6;-25
+r;316494736;12105604;3361;6;-25
+r;316494896;12105606;3361;6;-25
+r;377624375;216120;3361;6;-25
+r;16428806;258992;3361;9;-25
+r;15204933;68467;3361;27;-28
+
+// END
+</code>]

@@ -1,0 +1,49 @@
+[<code>
+// DUMP pour le terme 'France' (eid=87987)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Gellé Frères France est une société française dans le domaine de la parfumerie et de la cosmétique. Elle a été fondée en 1826 à Paris.<br>
+2. France : Pierre Bayle, Émilie du Châtelet, Étienne Bonnot de Condillac, Nicolas de Condorcet, Denis Diderot, D'Alembert, Olympe de Gouges, Vincent de Gournay, D'Holbach, Fontenelle, Claude-Adrien Helvétius, Marquis de La Fayette, Antoine Laurent de Lavoisier, La Mettrie, Louis de Jaucourt, Choderlos de Laclos, Marquis de Sade, Marivaux, Jean-François Marmontel, Molière, Pierre Louis Moreau de Maupertuis, Montesquieu, François Quesnay, Restif de la Bretonne, Antoine Destutt de Tracy, Anne Robert Jacques Turgot, Voltaire, Buffon, Jean-Jacques Rousseau.
+</br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;87987;'France';1;4535
+e;183372;'noblesse de robe';1;20
+e;202455;'justice retenue';1;50
+e;202452;'justice déléguée';1;50
+e;13655959;'exporte de l'armement';777;0
+e;14563063;'La France Continue';777;0
+e;288932;'Fort-Royal';777;50
+e;14755844;'standard officiel des volailles';777;0
+e;11162235;'agent judiciaire de l'État';777;0
+e;462490;'fraise des bois&gt;146781';1;50;'fraise des bois&gt;François Hollande'
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 9 relations sortantes 
+
+r;376240456;87987;183372;8;25
+r;373520320;87987;202455;8;25
+r;373520319;87987;202452;8;25
+r;349606040;87987;13655959;8;25
+r;370059464;87987;14563063;8;22
+r;374068311;87987;288932;8;5
+r;376131242;87987;14755844;8;1
+r;285900272;87987;11162235;8;-5
+r;28899731;87987;462490;8;-37
+
+// END
+</code>]

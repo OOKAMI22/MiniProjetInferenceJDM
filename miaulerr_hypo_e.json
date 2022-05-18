@@ -1,0 +1,108 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        }
+    },
+    "e": {
+        "47540": {
+            "name": "'miauler'",
+            "type": "1",
+            "w": "430"
+        },
+        "14531745": {
+            "name": "'::&gt;13:150&gt;29:47540'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'miauler [sujet] chat'"
+        },
+        "14531747": {
+            "name": "'::&gt;119:14531744&gt;29:47540'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'miauler [afin de] obtenir \u00e0 manger'"
+        },
+        "14612033": {
+            "name": "'::&gt;13:57444&gt;29:47540'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'miauler [sujet] chaton'"
+        },
+        "14627003": {
+            "name": "'::&gt;13:4455&gt;29:47540'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'miauler [sujet] chien'"
+        },
+        "15080038": {
+            "name": "'en:wawl'",
+            "type": "1",
+            "w": "0"
+        },
+        "14940586": {
+            "name": "'en:squall'",
+            "type": "1",
+            "w": "0"
+        },
+        "16065946": {
+            "name": "'::&gt;13:39377&gt;29:47540'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'miauler [sujet] minette'"
+        }
+    },
+    "r": {
+        "373518397": {
+            "node1": "47540",
+            "node2": "14531745",
+            "type": "8",
+            "w": "25"
+        },
+        "373518395": {
+            "node1": "47540",
+            "node2": "14531747",
+            "type": "8",
+            "w": "25"
+        },
+        "373382947": {
+            "node1": "47540",
+            "node2": "14612033",
+            "type": "8",
+            "w": "25"
+        },
+        "373359823": {
+            "node1": "47540",
+            "node2": "14627003",
+            "type": "8",
+            "w": "25"
+        },
+        "405325284": {
+            "node1": "47540",
+            "node2": "15080038",
+            "type": "8",
+            "w": "10"
+        },
+        "405325283": {
+            "node1": "47540",
+            "node2": "14940586",
+            "type": "8",
+            "w": "10"
+        },
+        "419169116": {
+            "node1": "47540",
+            "node2": "16065946",
+            "type": "8",
+            "w": "9"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

@@ -1,0 +1,93 @@
+[<code>
+// DUMP pour le terme 'saumon' (eid=3361)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;3361;'saumon';1;432
+e;222553;'saumon atlantique';1;2
+e;113628;'ouananiche';1;50
+e;264067;'saumon d'élevage';1;8
+e;213260;'saumon du Pacifique';1;50
+e;191611;'omble de fontaine';1;52
+e;191612;'saumon de fontaine';1;50
+e;173529;'beccard';1;50
+e;75350;'bécard';1;52
+e;191613;'truite mouchetée';1;50
+e;249228;'saumon mariné';1;4
+e;177298;'saumon fumé';1;38
+e;2368351;'saumon rouge';1;0
+e;284528;'saumon rose à bosse';777;50
+e;274768;'saumon de Llyn Llyn';777;50
+e;460883;'saumon bossu';777;50
+e;437445;'saumon égoutté';1;50
+e;15238411;'en:farmed salmon';1;0
+e;15014186;'::&gt;66:3361&gt;26:30536';8;0;'saumon [se faire] faire cuire'
+e;14334457;'::&gt;66:3361&gt;24:18699';8;0;'saumon [peut] remonter'
+e;2368353;'saumon nerka';777;0
+e;5949273;'Oncorhynchus gilae';777;0
+e;2769081;'saumon chinook';777;0
+e;2499664;'saumon royal';1;0
+e;3743850;'saumon sauce au chocolat blanc';1;0
+e;286466;'saumon argenté';1;50
+e;3176225;'Saumon de Llyn Llyn';777;0
+e;2491227;'saumon à bosse';1;0
+e;11957799;'Oncorhynchus nerka';777;0
+e;2368352;'oncorhynchus nerka';777;0
+e;14334460;'::&gt;66:3361&gt;24:14334458';8;0;'saumon [peut] remonter [objet] rivière'
+e;216120;'recette de cuisine';1;140
+e;261738;'viande&gt;20965';1;408;'viande&gt;nourriture'
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 32 relations sortantes 
+
+r;3145919;3361;222553;8;90
+r;3145917;3361;113628;8;79
+r;11286895;3361;264067;8;72
+r;3145924;3361;213260;8;66
+r;3145923;3361;191611;8;66
+r;3145922;3361;191612;8;66
+r;3145921;3361;173529;8;66
+r;3145920;3361;75350;8;66
+r;3145918;3361;191613;8;66
+r;9744806;3361;249228;8;54
+r;9687152;3361;177298;8;43
+r;50726563;3361;2368351;8;38
+r;21030607;3361;284528;8;34
+r;28556119;3361;274768;8;32
+r;21030613;3361;460883;8;28
+r;24579862;3361;437445;8;27
+r;404169369;3361;15238411;8;25
+r;392272836;3361;15014186;8;25
+r;376318771;3361;14334457;8;25
+r;248448291;3361;2368353;8;25
+r;247248220;3361;5949273;8;25
+r;246258286;3361;2769081;8;25
+r;245434948;3361;2499664;8;25
+r;245434361;3361;3743850;8;25
+r;244820434;3361;286466;8;25
+r;243473225;3361;3176225;8;25
+r;243270277;3361;2491227;8;25
+r;308673865;3361;11957799;8;24
+r;328923221;3361;2368352;8;3
+r;376152222;3361;14334460;8;1
+r;333254921;3361;216120;8;-25
+r;13995674;3361;261738;8;-25
+
+// END
+</code>]

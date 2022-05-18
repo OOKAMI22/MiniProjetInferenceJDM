@@ -1,0 +1,633 @@
+[<code>
+// DUMP pour le terme 'transatlantique' (eid=82646)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Paquebot qui fait le service entre l'Europe et l'Amérique.<br> 
+ Bellonte rangea à la hâte ses cartes et le tableau de position des transatlantiques croisant entre l'Europe et l'Amérique.    
+ (Dieudonné Costes &amp; Maurice Bellonte, Paris-New-York, 1930)  <br> 
+ La ville était détruite et deux grands transatlantiques avaient sombré dans le port encore plein de cadavres.    
+ (H. G. Wells, La Guerre dans les airs, 1908, traduction d'Henry-D. Davray et B. Kozakiewicz, Mercure de France, Paris, 1910, p. 419 de l'éd. de 1921)  <br>
+2. Qui traverse l'Atlantique.<br> 
+ Un câble transatlantique. ? Un paquebot transatlantique. ? La Compagnie transatlantique.   <br> 
+ Pour que le vol transatlantique soit un succès commercial, il faudra développer à la fois la vitesse et la sécurité. Seul l'avenir pourra résoudre ce problème.    
+ (Dieudonné Costes &amp; Maurice Bellonte, Paris-New-York, 1930)  
+</br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;82646;'transatlantique';1;98
+e;26942;'Lusitania';1;50
+e;49539;'Titanic';1;124
+e;168639;'paquebot transatlantique';1;24
+e;152778;'moyen de transport';1;458
+e;15205057;'en:means of transportation';1;0
+e;63192;'transports';1;2853
+e;15233350;'en:means of transport';1;0
+e;12530522;'en:transportation';1;0
+e;14965367;'en:public transport';1;0
+e;15267276;'en:public transportation';1;0
+e;231122;'mode de transport';1;50
+e;224717;'course transatlantique';1;54
+e;256794;'croisière transatlantique';1;50
+e;272136;'Compagnie générale transatlantique';777;50
+e;289578;'vol transatlantique';777;20
+e;289579;'câble transatlantique';777;20
+e;289580;'traite transatlantique';777;20
+e;97306;'Course transatlantique en solitaire';1;50
+e;154443;'transport collectif';1;52
+e;14871292;'Transport collectif';777;0
+e;65524;'bâtiment';1;3085
+e;220037;'Titanic&gt;117515';1;14;'Titanic&gt;paquebot'
+e;229311;'transat&gt;4533';1;14;'transat&gt;fauteuil'
+e;384617;'transatlantique en solitaire';1;50
+e;2933294;'Transatlantique en solitaire';777;0
+e;361354;'liaison sous-marine transatlantique';1;50
+e;30171;'navire';1;2992
+e;107150;'bateau';1;5823
+e;117515;'paquebot';1;698
+e;12273;'steamer';1;94
+e;14965366;'en:public transit';1;0
+e;219404;'Queen Mary';1;14
+e;11490;'long-courrier';1;56
+e;219405;'Queen Elisabeth';1;50
+e;189064;'Charles Lindbergh';1;56
+e;15205054;'en:mode of transport';1;0
+e;71976;'chaise longue';1;108
+e;134113;'navire de ligne';1;50
+e;152727;'moyen de locomotion';1;74
+e;2099160;'transatlantiques';2;0
+e;592102;'zone de libre-échange transatlantique';777;0
+e;592103;'grand marché transatlantique';777;0
+e;11158288;'Grand marché transatlantique';777;0
+e;8;'traversée';1;2478
+e;238551;'véhicule&gt;152778';1;212;'véhicule&gt;moyen de transport'
+e;183576;'passager clandestin';1;50
+e;157632;'véhicule à moteur';1;66
+e;123745;'véhicule';1;3113
+e;191595;'véhicule motorisé';1;56
+e;1566402;'avion transatlantique';1;0
+e;33171;'Route du rhum';1;50
+e;153480;'gros bateau';1;50
+e;219326;'bateau&gt;127671';1;338;'bateau&gt;embarcation'
+e;592100;'partenariat transatlantique de commerce et d'investissement';777;0
+e;592101;'traité de libre-échange transatlantique';777;0
+e;114464;'transat';1;100
+e;596081;'transat&gt;146881';1;0;'transat&gt;Nom:Fem+SG'
+e;256790;'partir en croisière';1;50
+e;242855;'course de bateaux';1;54
+e;14965252;'en:deckchair';1;0
+e;14965251;'en:deck chair';1;0
+e;15216089;'en:chaise lounge';1;0
+e;14927161;'en:chaise longue';1;0
+e;15416682;'en:sun lounger';1;0
+e;214225;'bâtiment&gt;30171';1;24;'bâtiment&gt;navire'
+e;392504;'transatlantique&gt;117515';1;50;'transatlantique&gt;paquebot'
+e;392503;'transatlantique&gt;8';1;50;'transatlantique&gt;traversée'
+e;15770186;'en:means of getting around';1;0
+e;139467;'cale';1;146
+e;215827;'cale&gt;30171';1;2;'cale&gt;navire'
+e;86502;'appareiller';1;74
+e;233638;'mer&gt;218698';1;244;'mer&gt;étendue d'eau'
+e;113743;'port';1;3594
+e;96033;'quai';1;414
+e;52598;'chantier';1;1575
+e;43196;'chantier naval';1;62
+e;9664;'océan';1;3202
+e;39621;'marin';1;1994
+e;242066;'appareiller&gt;143712';1;2;'appareiller&gt;marine'
+e;260973;'ville portuaire';1;24
+e;5940469;'Deutschland IV';777;0
+e;270793;'ligne d'arbre';666;50
+e;14965250;'en:transatlantic';1;0
+e;455504;'bateau&gt;171870';1;50;'bateau&gt;Nom:'
+e;157678;'bateau&gt;146891';1;50;'bateau&gt;Adj:InvGen+SG:InvGen+PL'
+e;455505;'bateau&gt;171869';1;50;'bateau&gt;Adj:'
+e;579341;'long-courrier&gt;171870';1;0;'long-courrier&gt;Nom:'
+e;579342;'long-courrier&gt;171869';1;0;'long-courrier&gt;Adj:'
+e;428611;'Deutschland';1;50
+e;11343;'gouvernail';1;276
+e;157677;'bateau&gt;146885';1;58;'bateau&gt;Nom:Mas+SG'
+e;118790;'cuisinier';1;1020
+e;225215;'moteur&gt;5425';1;140;'moteur&gt;machine'
+e;142000;'forme';1;3844
+e;155558;'océans';1;562
+e;15216090;'en:sun-lounger';1;0
+e;21927;'sombrer';1;164
+e;44726;'couler';1;736
+e;99740;'naviguer';1;854
+e;234503;'sombrer&gt;30171';1;18;'sombrer&gt;navire'
+e;59303;'se déplacer';1;702
+e;228996;'flotter&gt;98136';1;24;'flotter&gt;surnager'
+e;24719;'flotter';1;234
+e;23178;'grand';1;3856
+e;146105;'mer';1;9338
+e;9575;'tourisme';1;2930
+e;9894;'géographie';1;2285
+e;247812;'non vivant';1;58
+e;155779;'véhicules';1;2960
+e;98762;'bateaux';1;2690
+e;141272;'Géographie';1;3834
+e;4658;'moteur';1;3467
+e;181;'cambuse';1;82
+e;108166;'beau';1;2896
+e;227955;'port&gt;123977';1;26;'port&gt;maritime'
+e;15335064;'en:sling-chair';1;0
+e;12477976;'en:ocean liner';1;0
+e;218698;'étendue d'eau';1;104
+e;103405;'indifférence';1;612
+e;15083723;'en:motor vehicle';1;0
+e;47638;'véhicule automobile';1;60
+e;16074615;'Véhicule automobile';1;0
+e;455814;'transatlantique&gt;171869';1;50;'transatlantique&gt;Adj:'
+e;11173162;'Nouvel Agenda transatlantique';777;0
+e;11173160;'dialogue transatlantique des travailleurs';777;0
+e;11173161;'dialogue transatlantique des législateurs';777;0
+e;11173156;'Conseil économique transatlantique';777;0
+e;11173158;'Dialogue économique transatlantique';777;0
+e;11173155;'union transatlantique';777;0
+e;11173159;'Dialogue transatlantique des consommateurs';777;0
+e;40184;'siège';1;3638
+e;11576047;'Alliance transatlantique';777;0
+e;6006580;'relevé transatlantique d'exoplanètes';777;0
+e;5942193;'liste des paquebots de la Compagnie générale transatlantique';777;0
+e;14931289;'en:steamer';1;0
+e;15646160;'Transport urbain';777;0
+e;384748;'transports publics';1;54
+e;15456792;'en:stretch of water';1;0
+e;143942;'apocope';1;70
+e;187406;'Guglielmo Marconi';1;50
+e;195119;'The New York Times';1;50
+e;293330;'NY Times';777;50
+e;293331;'nyt';777;50
+e;52867;'Times';1;1669
+e;74757;'Columbus';1;50
+e;187351;'Isambard Kingdom Brunel';1;50
+e;11025;'Aurore';1;54
+e;68358;'Bénarès';1;50
+e;308079;'Black Cat';777;50
+e;308080;'Blackstar';777;58
+e;27887;'Cervin';1;52
+e;308081;'City of Doodlecastle';777;50
+e;308082;'Djebel Amilah';777;50
+e;49859;'New York Times';1;50
+e;222270;'Karaboudjan';1;50
+e;1703013;'Samuel Cunard';1;0
+e;98544;'ruban';1;202
+e;392605;'Latécoère 522';1;50
+e;568461;'Ville de Saint-Pierre';777;50
+e;2579894;'manifest destiny';777;0
+e;40370;'La Famille Fenouillard';1;50
+e;12104;'Fiat';1;130
+e;5557898;'ivernia';777;0
+e;5673249;'Umbria';777;0
+e;5673250;'Regio VI Umbria';777;0
+e;18282;'Ombrie';1;54
+e;5673251;'Umbria Jazz';777;0
+e;5673252;'Umbria Volley';777;0
+e;5900665;'Route du Rhum - La Banque Postale 2010';777;0
+e;5900664;'Route du Rhum 2010';777;0
+e;4312956;'Fiat Chrysler Automobiles';1;0
+e;5831514;'CNH Industrial';777;0
+e;5900851;'Sébastien Rogues';777;0
+e;5901230;'transat BPE';777;0
+e;5918855;'opération Lindbergh';777;0
+e;124504;'aviron';1;160
+e;5895261;'Impératrice Eugénie';777;0
+e;6069374;'Tokyo DisneySea';777;0
+e;9946648;'Guglielmo Giovanni Maria Marconi';777;0
+e;14946680;'en:Liverpool';1;0
+e;9966023;'Disney Cruise Line';777;0
+e;10596559;'Site historique maritime de la Pointe-au-Père';777;0
+e;10596558;'musée de la mer';777;0
+e;10791029;'installations de première classe du Titanic';777;0
+e;2383679;'destinée manifeste';1;0
+e;10849778;'aéroport international de Gander';777;0
+e;10849779;'YQX';777;0
+e;10849780;'CYQX';777;0
+e;11080326;'Transat Jacques-Vabre';777;0
+e;11080327;'Route du café';777;0
+e;384615;'transat en double';1;50
+e;11289823;'aéroport de Séville';777;0
+e;11289824;'aéroport de Séville-San Pablo';777;0
+e;11289825;'SVQ';777;0
+e;11289826;'LEZL';777;0
+e;11361570;'naufrage de l'Austria';777;0
+e;5812984;'Californian';1;0
+e;11756110;'Samuel Argall';777;0
+e;12058720;'Patrouille internationale des glaces';777;0
+e;12058721;'International Ice Patrol';777;0
+e;12058722;'iip';777;0
+e;15571;'Liverpool';1;1242
+e;3227424;'Ruban';1;0
+e;11932608;'Destinée manifeste';1;0
+e;11289237;'traité de Waitangi';777;0
+e;11359426;'première guerre de l'opium';777;0
+e;5835063;'traité de Londres';777;0
+e;14492057;'La peinture en 1840';777;0
+e;14590333;'Duchesse brisée';777;0
+e;145577;'Récamier';1;50
+e;14590334;'récamière';777;0
+e;415899;'Méridienne';1;50
+e;5536212;'Cette section ne cite pas suffisamment ses sources';777;0
+e;156248;'ruban adhésif';1;88
+e;14665190;'ruban duct tape';777;0
+e;220177;'ruban de Möbius';1;4
+e;301084;'ruban magnétique';777;50
+e;292689;'ruban perforé';777;50
+e;5941066;'Disney Magic';777;0
+e;5941056;'Disney Wonder';777;0
+e;30472;'titres';1;3409
+e;66372;'texte';1;3570
+e;56362;'gras';1;2597
+e;136284;'italique';1;62
+e;191712;'citations';1;54
+e;9634975;'listes à puces';777;0
+e;146823;'tableaux';1;2487
+e;16977023;'Musée de la mer';777;0
+e;10603458;'Pointe-au-Père';1;0
+e;5611252;'jumbo transatlantique';1;0
+e;218888;'pont&gt;30171';1;18;'pont&gt;navire'
+e;154056;'chaise pliante';1;102
+e;33812;'hublot';1;126
+e;6910;'coque';1;544
+e;213441;'coque&gt;107150';1;34;'coque&gt;bateau'
+e;35671;'quille';1;90
+e;48860;'poupe';1;156
+e;52141;'proue';1;228
+e;125437;'tribord';1;74
+e;96219;'cabine';1;340
+e;228320;'cabine&gt;30171';1;2;'cabine&gt;navire'
+e;219052;'hélice&gt;67368&gt;30171';1;2;'hélice&gt;mécanique&gt;navire'
+e;237075;'barre&gt;30171';1;50;'barre&gt;navire'
+e;146051;'ancre';1;260
+e;143548;'cheminée';1;1316
+e;87714;'hélice';1;126
+e;91356;'pont';1;3367
+e;92091;'mât';1;490
+e;93100;'capitaine';1;3078
+e;142381;'barre';1;2480
+e;28453;'bonheur';1;2804
+e;91691;'surprise';1;2394
+e;14330;'satisfaction';1;626
+e;25405;'voyager';1;1622
+e;3834;'transcontinental';1;50
+e;102345;'plaisir';1;3741
+e;87987;'France';1;4535
+e;384737;'transport urbain';1;50
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;13;'r_agent';'action&gt;agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;15;'r_lieu';'chose&gt;lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;23;'r_carac-1';'caractéristique-1';Quels sont les objets (des noms) possédant typiquement/possiblement la caractérisque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'.
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;28;'r_lieu-1';'lieu&gt;chose';A partir d'un lieu, il est demandé d'énumérer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel
+rt;31;'r_action_lieu';'action&gt;lieu';A partir d'une action (un verbe), énumérer les lieux typiques possibles où peut être réalisée cette action.
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;130;'r_is_instance_of';'est une instance de';Une instance est un individu particulier. Il s'agit d'une entité nommée (personne, lieu, organisation, etc) - par exemple, 'Jolly Jumper' est une instance de 'cheval', 'Titanic' en est une de 'transatlantique'.
+rt;170;'r_sing_form';'r_sing_from';La forme au singulier d'un terme. Exemple : chevaux r_sing_from cheval (pas de relation inverse)
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;2000;'r_raff_sem-1';'r_raff_sem-1';Inverse de r_raff_sem (automatique)
+
+// les relations entrantes : r;rid;node1;node2;type;w 
+// 317 relations entrantes 
+
+r;1615598;26942;82646;6;331
+r;663241;49539;82646;6;192
+r;9442130;168639;82646;0;165
+r;10877309;152778;82646;0;161
+r;396887941;15205057;82646;0;160
+r;21158008;63192;82646;0;159
+r;406597884;15233350;82646;0;155
+r;406595822;12530522;82646;0;150
+r;406599280;14965367;82646;0;150
+r;406601346;15267276;82646;0;150
+r;407039265;231122;82646;0;150
+r;9509343;224717;82646;0;147
+r;9533904;256794;82646;0;147
+r;9552390;272136;82646;0;147
+r;9572448;289578;82646;0;147
+r;9572450;289579;82646;0;147
+r;9572452;289580;82646;0;147
+r;9408288;97306;82646;0;144
+r;407042263;154443;82646;0;140
+r;429179663;14871292;82646;0;140
+r;53714797;65524;82646;5;122
+r;1630273;220037;82646;6;117
+r;13185412;229311;82646;15;111
+r;12562948;384617;82646;0;110
+r;84911164;2933294;82646;0;110
+r;12657270;361354;82646;0;108
+r;434504;30171;82646;5;108
+r;554934;107150;82646;5;103
+r;652306;117515;82646;5;101
+r;600247;12273;82646;5;98
+r;408234387;14965366;82646;0;95
+r;1619828;219404;82646;0;90
+r;53714800;11490;82646;5;72
+r;1619747;219405;82646;0;70
+r;1622467;189064;82646;0;70
+r;410100145;15205054;82646;0;70
+r;53714798;71976;82646;5;70
+r;1630256;220037;82646;0;68
+r;18;134113;82646;0;60
+r;409029781;152727;82646;0;60
+r;32178133;2099160;82646;19;60
+r;18576223;592102;82646;0;59
+r;18576332;592103;82646;0;59
+r;283999885;11158288;82646;0;59
+r;1615593;26942;82646;0;58
+r;2462904;8;82646;0;58
+r;11241721;238551;82646;0;58
+r;94164349;183576;82646;0;58
+r;11242395;117515;82646;0;57
+r;338499;82646;82646;19;57
+r;9927672;157632;82646;0;56
+r;10877588;123745;82646;0;56
+r;13409940;191595;82646;0;56
+r;25222730;1566402;82646;0;56
+r;411912;33171;82646;0;55
+r;10901518;153480;82646;0;55
+r;11242394;219326;82646;0;55
+r;18576902;592100;82646;0;54
+r;18576283;592101;82646;0;53
+r;97322515;114464;82646;15;53
+r;9927909;107150;82646;0;52
+r;97446087;596081;82646;15;52
+r;12007446;256790;82646;0;51
+r;375390709;242855;82646;0;50
+r;398220525;14965252;82646;5;50
+r;406724104;14965251;82646;5;50
+r;406724133;15216089;82646;5;50
+r;406724203;14927161;82646;5;50
+r;406724272;15416682;82646;5;50
+r;140324240;214225;82646;5;48
+r;435148;49539;82646;0;47
+r;289384380;392504;82646;2000;45
+r;289384381;392503;82646;2000;45
+r;414653101;15770186;82646;0;40
+r;9989027;139467;82646;10;40
+r;326968569;215827;82646;10;40
+r;97338868;86502;82646;13;40
+r;25234280;384617;82646;6;39
+r;84911163;2933294;82646;6;39
+r;11328194;233638;82646;28;39
+r;11328195;113743;82646;28;39
+r;11328196;96033;82646;28;39
+r;11328197;52598;82646;28;39
+r;11328198;43196;82646;28;39
+r;11328199;9664;82646;28;39
+r;11352536;39621;82646;15;38
+r;2163323;242066;82646;13;35
+r;2555333;260973;82646;0;34
+r;115977447;5940469;82646;6;34
+r;97749340;270793;82646;10;34
+r;390508722;14965250;82646;333;34
+r;309223663;455504;82646;5;33
+r;309223664;157678;82646;5;33
+r;309223665;455505;82646;5;33
+r;309270368;579341;82646;5;33
+r;309270369;579342;82646;5;33
+r;115977446;428611;82646;6;33
+r;10007005;11343;82646;10;33
+r;96605667;157677;82646;0;32
+r;72783864;118790;82646;15;32
+r;14505958;225215;82646;10;31
+r;374016376;142000;82646;17;31
+r;795433;71976;82646;0;30
+r;31401666;155558;82646;0;30
+r;310175229;455504;82646;0;30
+r;398220483;14965252;82646;0;30
+r;399628678;15216090;82646;0;30
+r;406724062;14965251;82646;0;30
+r;406724132;15216089;82646;0;30
+r;406724202;14927161;82646;0;30
+r;406724271;15416682;82646;0;30
+r;399628720;15216090;82646;5;30
+r;14905175;21927;82646;13;30
+r;14916801;44726;82646;13;30
+r;14917325;99740;82646;13;30
+r;30573183;234503;82646;13;30
+r;334394683;59303;82646;13;30
+r;365495662;228996;82646;13;30
+r;365496890;24719;82646;13;30
+r;14780209;23178;82646;23;30
+r;15225972;8;82646;27;30
+r;98273141;146105;82646;28;30
+r;15277109;9575;82646;0;29
+r;15727121;9894;82646;0;29
+r;34289943;247812;82646;23;29
+r;31105550;155779;82646;27;29
+r;15458023;9664;82646;0;28
+r;15584769;225215;82646;0;28
+r;30939602;98762;82646;0;28
+r;31105551;155779;82646;0;28
+r;15457623;141272;82646;0;27
+r;97053993;4658;82646;0;27
+r;97749341;181;82646;10;27
+r;15536917;9894;82646;27;27
+r;394633299;14965252;82646;333;27
+r;87522952;2099160;82646;0;26
+r;310175233;455505;82646;0;26
+r;1618423;219326;82646;5;26
+r;96605439;157677;82646;5;26
+r;14780208;108166;82646;23;26
+r;15225973;9664;82646;27;26
+r;30939601;98762;82646;27;26
+r;384116012;227955;82646;28;26
+r;394633302;15335064;82646;333;26
+r;341392518;12477976;82646;0;25
+r;415710090;15335064;82646;0;25
+r;415979359;14965250;82646;0;25
+r;375722422;218698;82646;28;25
+r;376064399;21927;82646;31;25
+r;385300931;103405;82646;115;25
+r;385440778;49539;82646;130;25
+r;385443100;220037;82646;130;25
+r;475876079;2099160;82646;170;25
+r;54321246;11490;82646;0;24
+r;98001300;139467;82646;0;24
+r;31401665;155558;82646;27;24
+r;1026140;114464;82646;0;23
+r;9903764;30171;82646;0;22
+r;140323708;214225;82646;0;22
+r;15143314;9575;82646;27;22
+r;12285943;12273;82646;0;21
+r;54321245;65524;82646;0;21
+r;310175231;157678;82646;0;21
+r;402537636;15083723;82646;0;20
+r;408829120;47638;82646;0;20
+r;418832023;16074615;82646;0;20
+r;308082131;455814;82646;2000;20
+r;285876244;11173162;82646;0;19
+r;285876281;11173160;82646;0;19
+r;285876319;11173161;82646;0;19
+r;285876394;11173156;82646;0;19
+r;285880828;11173158;82646;0;19
+r;285881471;11173155;82646;0;19
+r;285883429;11173159;82646;0;19
+r;10007003;4658;82646;10;19
+r;98630077;181;82646;0;18
+r;98637886;270793;82646;0;18
+r;11038929;40184;82646;10;17
+r;297597836;11576047;82646;0;16
+r;310146934;579341;82646;0;15
+r;310146936;579342;82646;0;15
+r;118525066;6006580;82646;0;13
+r;116314071;5942193;82646;0;11
+r;391058660;14931289;82646;0;10
+r;418864878;15646160;82646;0;10
+r;419080020;384748;82646;0;10
+r;391058715;14931289;82646;5;10
+r;431350368;15456792;82646;28;10
+r;3433470;143942;82646;777;10
+r;4635713;187406;82646;777;10
+r;6613720;195119;82646;777;10
+r;6613721;293330;82646;777;10
+r;6613722;293331;82646;777;10
+r;6613723;52867;82646;777;10
+r;7172335;74757;82646;777;10
+r;7973783;187351;82646;777;10
+r;8111838;11025;82646;777;10
+r;8111843;68358;82646;777;10
+r;8111844;308079;82646;777;10
+r;8111845;308080;82646;777;10
+r;8111846;27887;82646;777;10
+r;8111847;308081;82646;777;10
+r;8111848;308082;82646;777;10
+r;19011811;49859;82646;777;10
+r;23817960;222270;82646;777;10
+r;28089963;1703013;82646;777;10
+r;30435553;98544;82646;777;10
+r;33935040;392605;82646;777;10
+r;33935041;568461;82646;777;10
+r;52966187;2579894;82646;777;10
+r;72640034;40370;82646;777;10
+r;104555611;12104;82646;777;10
+r;109870375;5557898;82646;777;10
+r;111267202;5673249;82646;777;10
+r;111267204;5673250;82646;777;10
+r;111267205;18282;82646;777;10
+r;111267206;5673251;82646;777;10
+r;111267207;5673252;82646;777;10
+r;115002357;5900665;82646;777;10
+r;115002355;5900664;82646;777;10
+r;113702045;4312956;82646;777;10
+r;113702046;5831514;82646;777;10
+r;115008978;5900851;82646;777;10
+r;115022569;5901230;82646;777;10
+r;115528110;5918855;82646;777;10
+r;115530502;124504;82646;777;10
+r;115965122;428611;82646;777;10
+r;115965123;5940469;82646;777;10
+r;115979605;5895261;82646;777;10
+r;119004660;6069374;82646;777;10
+r;220428862;9946648;82646;777;10
+r;476516106;14946680;82646;777;10
+r;221013192;9966023;82646;777;10
+r;264219008;10596559;82646;777;10
+r;264219009;10596558;82646;777;10
+r;269961902;10791029;82646;777;10
+r;271001926;2383679;82646;777;10
+r;271832044;10849778;82646;777;10
+r;271832046;10849779;82646;777;10
+r;271832048;10849780;82646;777;10
+r;281028992;11080326;82646;777;10
+r;281028994;11080327;82646;777;10
+r;281028996;384615;82646;777;10
+r;285876044;11173155;82646;777;10
+r;288894147;11289823;82646;777;10
+r;288894149;11289824;82646;777;10
+r;288894151;11289825;82646;777;10
+r;288894153;11289826;82646;777;10
+r;291410397;11361570;82646;777;10
+r;295549421;5812984;82646;777;10
+r;301616581;11756110;82646;777;10
+r;313889972;12058720;82646;777;10
+r;313889974;12058721;82646;777;10
+r;313889976;12058722;82646;777;10
+r;357622047;15571;82646;777;10
+r;357876419;3227424;82646;777;10
+r;361347768;11932608;82646;777;10
+r;368268349;11289237;82646;777;10
+r;368268350;11359426;82646;777;10
+r;368268351;5835063;82646;777;10
+r;368268352;14492057;82646;777;10
+r;370729781;14590333;82646;777;10
+r;370729782;145577;82646;777;10
+r;370729783;14590334;82646;777;10
+r;370729784;415899;82646;777;10
+r;374426881;5536212;82646;777;10
+r;375109834;156248;82646;777;10
+r;375109835;14665190;82646;777;10
+r;375109836;220177;82646;777;10
+r;375109837;301084;82646;777;10
+r;375109838;292689;82646;777;10
+r;449516687;5941066;82646;777;10
+r;449516688;5941056;82646;777;10
+r;450845190;30472;82646;777;10
+r;450845192;66372;82646;777;10
+r;450845194;56362;82646;777;10
+r;450845196;136284;82646;777;10
+r;450845198;191712;82646;777;10
+r;450845200;9634975;82646;777;10
+r;450845202;146823;82646;777;10
+r;451735010;16977023;82646;777;10
+r;451735273;10603458;82646;777;10
+r;110568235;5611252;82646;0;9
+r;10007024;218888;82646;10;7
+r;3209176;154056;82646;0;5
+r;10007007;33812;82646;10;5
+r;12852259;40184;82646;0;4
+r;9998999;6910;82646;10;4
+r;9999259;213441;82646;10;4
+r;10007009;35671;82646;10;4
+r;10007011;48860;82646;10;4
+r;10007013;52141;82646;10;4
+r;10007015;125437;82646;10;4
+r;10007017;96219;82646;10;4
+r;10007019;228320;82646;10;4
+r;10007020;219052;82646;10;4
+r;10007022;237075;82646;10;4
+r;10007026;146051;82646;10;4
+r;10007028;143548;82646;10;4
+r;10007029;87714;82646;10;4
+r;10007031;91356;82646;10;4
+r;10007033;92091;82646;10;4
+r;10007035;93100;82646;10;4
+r;10007037;142381;82646;10;4
+r;1828675;220037;82646;666;4
+r;34561885;28453;82646;115;3
+r;34561886;91691;82646;115;3
+r;34561887;14330;82646;115;3
+r;1622583;49539;82646;666;3
+r;421477913;25405;82646;0;1
+r;423150008;3834;82646;0;1
+r;34561884;102345;82646;115;1
+r;1528350;87987;82646;666;1
+r;61872531;30171;82646;666;1
+r;15225689;141272;82646;27;-22
+r;15194521;107150;82646;27;-30
+r;407116209;384737;82646;0;-100
+
+// END
+</code>]

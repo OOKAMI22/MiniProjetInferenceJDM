@@ -1,0 +1,30 @@
+[<code>
+// DUMP pour le terme 'apporter Ã  boire' (eid=16319092)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;16319092;'apporter à boire';1;0
+e;16319093;'::&gt;13:16059&gt;29:16319092';8;0;'apporter à boire [sujet] serveuse'
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 1 relations sortantes 
+
+r;430318604;16319092;16319093;8;1
+
+// END
+</code>]

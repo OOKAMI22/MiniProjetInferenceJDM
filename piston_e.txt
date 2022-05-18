@@ -1,0 +1,996 @@
+[<code>
+// DUMP pour le terme 'piston' (eid=140962)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. (Vieilli) Cylindre ou bouchon qui obturait naguère la cuvette dans les cabinets d'aisance.<br>
+2. Petit bouton sur lequel on presse pour ouvrir une boîte.<br>
+3. (Optique) Différence de marche variable induite par la turbulence atmosphérique.<br>
+4. (Figuré) (Familier) (France) Importun.<br> 
+ C'est un solliciteur un peu piston.  <br>
+5. (Argot des Gadz'Arts) vraiment bien.<br> 
+ t'as vu sa bucque? Elle est vraiment piston, cra Zaloeil!  <br>
+6. (Mécanique) Cylindre mobile dans le corps d'une pompe, organe de machine constitué par une cloison, mobile entre deux fluides à des pressions différentes, et destiné à transmettre un effort moteur.<br> 
+ Le piston d'une machine à vapeur, d'un moteur à explosion.   <br/> 
+ La course, le jeu du piston.   <br/> 
+ La tige du piston.   <br/> 
+ Le corps du piston.   <br/> 
+ La pompe ne va pas, le piston est rompu.  <br/>
+7. (Figuré) (Familier) Cause d'action, de mouvement.<br/> 
+ Les commis voyageurs, ces intelligents pistons de la machine à vapeur nommée spéculation.    
+ (Honoré de Balzac)  <br/>
+8. (Familier) Recommandation, protection.<br/> 
+ Le piston fait trop souvent plus pour l'avancement que le mérite personnel.  <br/>
+9. (Musique) Valve cylindrique de certains instruments à vent, permettant de moduler les notes.<br/>
+10. (Technique) (Vieilli) (Didactique) Appareil de verrier appelé généralement pompe de Robinet.<br/>
+11. (Vieilli) (Argot militaire) Capitaine.<br/> 
+ À Soissons, la fameuse nuit où les autres nous bénissaient? Quelle dégringolade!? une décoction de petit pois. On cherchait le piston partout. Pas de piston. Inconnu le piston. On l'a retrouvé, à la fin, dans une cave, plié en deux? une loque.    
+ (Victor Méric, Les Compagnons de l'Escopette, Éditions de l'Épi, Paris, 1930, pp. 13-14)  <br/>
+12. (Vieilli) (Argot scolaire) Élève de l'École centrale, ou personne se préparant à l'être.<br/> 
+ Encouragé par ses nouveaux camarades, qui profitent de son ingéniosité à inventer des tours tordus, Antoine prend une part active à la guéguerre que les flottards, autrement dit ceux qui, comme lui, préparent la Navale, mènent contre les cyrards, les taupins et les pistons, qui voudraient intégrer, eux, Saint-Cyr, Polytechnique ou l'École centrale.    
+ (Virgil Tanase, Saint-Exupéry, Gallimard, « folio - biographies », 2013, pp. 29-30)  <br/> 
+ Heureusement, les multiples soucis de la rentrée l'absorbèrent : ses parents l'envoyèrent au lycée Saint-Louis suivre les cours préparatoires à l'École centrale. Il portait un beau calot à liséré rouge avec un insigne et chantait :C'est le piston qui fait marcher les machinesC'est le piston qui fait marcher les wagons...Cette dignité nouvelle de « piston » comblait Lucien de fierté; et puis sa classe ne ressemblait pas aux autres : elle avait des traditions et un cérémonial; c'était une force. Par exemple, il était d'usage qu'une voix demandât, un quart d'heure avant la fin du cours de français : « Qu'est-ce qu'un cyrard? » et tout le monde répondait en sourdine : « C'est un con! » Sur quoi la voix reprenait : « Qu'est-ce qu'un agro? » et on répondait un peu plus fort : « C'est un con! » [...] Il y avait quelques instants de silence absolu et les élèves se regardaient avec des sourires d'intelligence, puis quelqu'un criait : « Qu'est-ce qu'un piston? » et ils rugissaient tous ensemble : « C'est un type énorme! »    
+ (Jean-Paul Sartre, L'enfance d'un chef, 1938)  <br/>
+13. (Musique) (Par ellipse) Cornet à pistons.<br/> 
+ Le fracas de l'orchestre leur arrivait, assourdissant. Par instants, les violons dominaient le vacarme qu'ils semblaient apaiser, caresser, contenir, mais le saxo, le piston, la clarinette et surtout la trompette [?] se mettaient ensemble à mugir et à pétarader de telle sorte que personne ne parlait plus.    
+ (Francis Carco, L'Homme de minuit, Éditions Albin Michel, Paris, 1938)  <br/>
+14. En musique, un piston est un mécanisme permettant de moduler les sons émis par la majorité des instruments de la famille des cuivres.<br/>
+15. Le piston est l'action par laquelle une personne est recrutée pour un emploi ou nommée à une fonction grâce à la recommandation ou l'appui d'une connaissance qui, travaillant souvent au sein de l'entreprise ou de l'organisation concernée, va recommander le candidat à l'employeur ou à l'institution.<br/>
+16. En musique, un piston est un mécanisme utilisé par la majorité des instruments de la famille des cuivres. Il permet de moduler la hauteur du son en déviant le flux d'air vers un tuyau supplémentaire.<br/>
+17. En mécanique, un piston est une pièce rigide de section généralement circulaire coulissant dans un cylindre de forme complémentaire. Le déplacement du piston entraîne une variation de volume de la chambre, partie située entre le piston et le cylindre. Un piston permet la conversion d'une pression en un travail, ou réciproquement.
+</br></br></br></br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;140962;'piston';1;128
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;241794;'_POL-NEUTRE';36;50
+e;5844071;':r114036548';10;0
+e;16182370;':r307603863';10;0
+e;16257187;':r426578251';10;0
+e;15545513;':r398243441';10;0
+e;223173;'_POL-POS';36;50
+e;259859;'piston&gt;216183';1;50;'piston&gt;pièce mécanique'
+e;179197;'coup de piston';1;60
+e;267514;'monté comme un piston';1;50
+e;86976;'appui';1;104
+e;216211;'cornet à piston';1;50
+e;241124;'cafetière à piston';1;6
+e;33701;'soutien';1;3139
+e;63471;'protection';1;3475
+e;127846;'recommandation';1;126
+e;24247;'service';1;3715
+e;49450;'aide';1;2943
+e;246870;'objet&gt;109527';1;200;'objet&gt;chose'
+e;237;'objet';1;3470
+e;74572;'patronage';1;52
+e;8873150;':r149284546';10;0
+e;41994;'intervention';1;2156
+e;122978;'faveur';1;3137
+e;385522;'tête de piston';1;50
+e;379133;'segment de piston';1;50
+e;334516;'aiguille à piston';1;50
+e;360483;'jupe de piston';1;50
+e;355616;'fusil à piston';1;50
+e;370602;'piston de pompe';1;50
+e;356835;'grippage de piston';1;50
+e;371809;'pompe à piston tournant';1;50
+e;365139;'moteur à piston';1;108
+e;370601;'piston de seringue';1;50
+e;365140;'moteur à piston rotatif';1;50
+e;345380;'crosse de piston';1;50
+e;15518494;':r397073672';10;0
+e;216183;'pièce mécanique';1;10
+e;9401;'parrainage';1;64
+e;129036;'centralien';1;50
+e;74182;'pitaine';1;50
+e;57957;'coup de pouce';1;98
+e;171870;'Nom:';4;50
+e;56405;'capiston';1;50
+e;81662;'accointance';1;52
+e;259858;'piston&gt;127846';1;62;'piston&gt;recommandation'
+e;93100;'capitaine';1;3078
+e;36071;'relation';1;3497
+e;141534;'combine';1;64
+e;4658;'moteur';1;3467
+e;16270918;':r398010487';10;0
+e;5859921;':r114182378';10;0
+e;70527;'musique';1;9940
+e;15590318;':r399685927';10;0
+e;259860;'piston&gt;70527';1;50;'piston&gt;musique'
+e;254877;'_POL-NEUTRE_PC';36;50
+e;119838;'solidaire';1;108
+e;14285;'relié';1;1394
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;71659;'pistonner';1;78
+e;8873146;':r149284558';10;0
+e;241621;'moteur en étoile';1;2
+e;13701;'technique';1;3729
+e;14954993;'en:piston';1;0
+e;44241;'favoritisme';1;82
+e;217817;'_INFO-POLYSEMIC';36;50
+e;146885;'Nom:Mas+SG';4;50
+e;4649911;':r9994675';10;0
+e;16554034;':r10001335';10;0
+e;15356197;'claquement du piston';1;0
+e;12765632;'piston à simple effet';1;0
+e;12765633;'piston à double effet';1;0
+e;2477665;'compresseur à piston';1;0
+e;16085474;'mouvement ascendant du piston';1;0
+e;2586627;'Gender:Mas';4;0
+e;2586629;'Number:Sing';4;0
+e;144032;'cylindre';1;1305
+e;259861;'piston&gt;93100';1;50;'piston&gt;capitaine'
+e;438949;'_INFO-POLYMORPHIC';36;50
+e;16260664;':r397921265';10;0
+e;93370;'clientélisme';1;54
+e;5537516;'architecture des moteurs à piston';777;0
+e;12790759;'pipette à piston';777;0
+e;191672;'_INFO-SEM-ACTION';36;36
+e;14916755;'en:valve';1;0
+e;261731;'locomotive&gt;5425';1;50;'locomotive&gt;machine'
+e;595087;'piston&gt;171870';1;0;'piston&gt;Nom:'
+e;595088;'piston&gt;171869';1;0;'piston&gt;Adj:'
+e;16036959;'vis-piston';1;0
+e;2578964;'Langage:vieilli';18;0
+e;172435;'Langage:familier';18;50
+e;2767138;'Langage:didactique';18;50
+e;214534;'_INFO-MEANING-FIGURED';36;50
+e;106265;'appareil';1;2573
+e;246742;'moteur à pistons';1;50
+e;223172;'_POL-NEG';36;50
+e;87987;'France';1;4535
+e;11341281;'piston triangulaire';1;0
+e;15306643;'accumulateur à piston';1;0
+e;91594;'instrument de musique';1;538
+e;11341279;'piston rotatif';1;0
+e;67368;'mécanique';1;3334
+e;171869;'Adj:';4;50
+e;696867;'moteur à boule chaude';777;0
+e;79324;'cuivres';1;86
+e;114109;'culasse';1;62
+e;15193402;'alésage de piston';1;0
+e;191667;'_INFO-SEM-THING-ARTEFACT';36;242
+e;7053874;'en:recommendation';1;0
+e;7997550;'en:services';1;0
+e;15193404;'en:string-pulling';1;0
+e;76827;'accointances';1;50
+e;3384557;'Coup de pouce';777;0
+e;15193394;'axe de piston';1;0
+e;3393631;'bn:00245187n';444;0
+e;117604;'mécanisme';1;2674
+e;15327955;'jouer du piston';1;0
+e;247812;'non vivant';1;58
+e;15106535;'en:poppet';1;0
+e;134886;'plomberie';1;364
+e;68976;'instruments de musique';1;84
+e;37731;'injustice';1;520
+e;79255;'enseignement';1;1991
+e;95706;'automobile';1;3276
+e;146050;'militaire';1;3686
+e;42774;'armement';1;232
+e;144850;'armée';1;3547
+e;124166;'services';1;3553
+e;9115679;'en:combine';1;0
+e;8568752;'moteur à pistons alternatifs';1;0
+e;5574039;'moteur à piston camless';777;0
+e;139388;'mobile';1;2520
+e;14276270;'rechercher&gt;14275186';1;2;'rechercher&gt;chercher à obtenir'
+e;101793;'déplacer';1;2220
+e;130196;'rechercher';1;1654
+e;254876;'_POL-POS_PC';36;50
+e;3228593;'wiki:@';444;0
+e;202357;'joint de culasse';1;52
+e;14916413;'Langue:français';18;50
+e;3393632;'bn:04756173n';444;0
+e;25856;'valve';1;138
+e;13538416;'dôme en piston';1;0
+e;3576104;'Morpho:nospace';18;50
+e;103405;'indifférence';1;612
+e;231457;'recommendation';1;50
+e;584110;'centralien&gt;171870';1;0;'centralien&gt;Nom:'
+e;165514;'recommandations';1;58
+e;3575927;'Morpho:min';18;50
+e;14931818;'en:plunger';1;0
+e;3393630;'bn:00062630n';444;0
+e;15020885;'Ecole centrale';1;0
+e;96851;'pièce';1;3998
+e;139768;'artéfact';1;142
+e;14225356;'avoir du piston';1;2
+e;15462750;'en:student of/at the Ecole Centrale';1;0
+e;584111;'centralien&gt;171869';1;0;'centralien&gt;Adj:'
+e;14954994;'en:piston valve';1;0
+e;14954992;'en:Perinet valve';1;0
+e;6876635;'en:influence';1;0
+e;38344;'sociologie';1;2117
+e;7187002;'en:music';1;0
+e;316416;'music';777;664
+e;2586628;'Gender:Fem';4;0
+e;15206849;'en:service plaza';1;0
+e;15206847;'en:motorway services';1;0
+e;214494;'aire d'autoroute';1;34
+e;15206846;'en:service area';1;0
+e;15206848;'en:motorway service station';1;0
+e;214495;'aire de service';1;50
+e;15444181;'en:services offered';1;0
+e;367219;'offre de service';1;50
+e;316850;'entité physique';1;50
+e;256309;'essoreuse à salade';1;18
+e;15207600;'en:salad spinner';1;0
+e;15393731;'en:radial engine';1;0
+e;15193400;'en:piston motor';1;0
+e;15193401;'en:piston engine';1;0
+e;14012441;'piston racleur';777;0
+e;6331718;'signe du piston';1;0
+e;54671;'déplacé';1;254
+e;17982;'recherché';1;202
+e;7332979;'Langue:anglais';18;50
+e;172428;'Langage:populaire';18;50
+e;325213;'rentrer dans la vie active';1;64
+e;593999;'entrer dans la vie active';1;10
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;15991431;'_ANIME-YES';36;50
+e;162761;'_INFO-SEM-PERS';36;732
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;29433;'Piston';1;50
+e;153591;'lubrifié';1;76
+e;136461;'cylindrique';1;116
+e;17277875;':r14699100';10;0
+e;49679;'part';1;3796
+e;398886;'coulissante';1;50
+e;22648;'coulissant';1;50
+e;69182;'partir';1;3868
+e;28453;'bonheur';1;2804
+e;15016687;'Wright R-1820-77';1;0
+e;23195;'emploi';1;2263
+e;143063;'Entreprise';1;50
+e;30030;'entreprise';1;3231
+e;101155;'candidat';1;3118
+e;105854;'employeur';1;156
+e;34468;'synonyme';1;1905
+e;11921;'cooptation';1;50
+e;121765;'Centre national de la recherche scientifique';1;50
+e;144315;'CNRS';1;248
+e;275204;'Centre national de ressources textuelles et lexicales';777;50
+e;275203;'CNRTL';1;50
+e;115748;'ISSN';1;50
+e;411618;'Emploi';1;54
+e;302545;'International Standard Serial Number';777;50
+e;2099106;'recrutée';2;0
+e;2937025;'Synonyme';777;2
+e;152349;'Musique';1;3582
+e;163103;'sons';1;2833
+e;3307252;'Cuivre';1;0
+e;426288;'Tuba';1;50
+e;20795;'tuba';1;158
+e;3576919;'Trompette';777;0
+e;135594;'trompette';1;713
+e;367775;'orgue hydraulique';1;50
+e;409802;'Orgue';1;50
+e;52443;'orgue';1;1287
+e;146341;'Alexandrie';1;939
+e;409118;'Distributeur';1;50
+e;26125;'trombone';1;74
+e;91557;'chromatique';1;1073
+e;2004013;'barillets';2;0
+e;168875;'euphonium';1;50
+e;103586;'brasure';1;50
+e;88226;'épaulement';1;52
+e;220729;'Force';1;2907
+e;83445;'poussée';1;1860
+e;20534;'ressort';1;2264
+e;142720;'feutre';1;518
+e;139217;'nacre';1;78
+e;32948;'Bourvil';1;68
+e;13991;'Terence Young';1;50
+e;419327;'Cylindre';1;52
+e;90075;'chambre';1;5318
+e;431789;'Pression';1;50
+e;46706;'pression';1;3612
+e;152550;'Automobile';1;108
+e;401988;'Pompe';1;50
+e;149767;'pompes';1;124
+e;91898;'amortisseurs';1;52
+e;141356;'Travail';1;1971
+e;70283;'travail';1;5146
+e;5720759;'Dynamique';1;0
+e;32468;'Acier';1;50
+e;146358;'acier';1;932
+e;126963;'grec';1;3688
+e;103604;'Espagne';1;3503
+e;205861;'pompe aspirante';1;50
+e;86891;'Bolsena';1;50
+e;67036;'clapet';1;58
+e;238270;'Denis Papin';1;62
+e;4275652;'Vide';1;0
+e;144943;'vide';1;3101
+e;301960;'Thomas Newcomen';777;50
+e;67885;'Evangelista Torricelli';1;50
+e;17357;'Otto von Guericke';1;50
+e;59282;'soupape';1;70
+e;116577;'exhaure';1;50
+e;362592;'machine soufflante';1;50
+e;5122535;'hauts fourneaux';1;0
+e;187451;'James Watt';1;8
+e;28636;'janvier';1;3950
+e;201375;'gaz de houille';1;50
+e;4934410;'Hispano-Suiza';1;0
+e;95561;'aluminium';1;298
+e;69409;'alliages';1;54
+e;136790;'cuivre';1;2573
+e;433600;'Nickel';1;50
+e;84631;'nickel';1;154
+e;64912;'silicium';1;96
+e;72823;'usinage';1;76
+e;204068;'moteur Diesel';1;50
+e;140079;'Joule';1;52
+e;2053248;'joules';2;0
+e;28405;'joule';1;60
+e;4322810;'Chemise';1;0
+e;70606;'chemise';1;1252
+e;5999341;'Combustible';1;0
+e;78365;'gaz';1;3577
+e;325085;'clapet anti-retour';1;50
+e;84056;'Nissan';1;80
+e;3342578;'Combustion';777;0
+e;60312;'combustion';1;1963
+e;16181;'convexe';1;70
+e;11501;'soupapes';1;50
+e;5980289;'affolement de soupapes';777;0
+e;134635;'graphite';1;84
+e;389189;'échange thermique';1;50
+e;236148;'huile moteur';1;54
+e;67358;'usure';1;254
+e;17027;'étanchéité';1;78
+e;426075;'Huile';1;50
+e;141971;'huile';1;2224
+e;86055;'Carter';1;1795
+e;146265;'carter';1;56
+e;3317148;'Rendement';1;0
+e;88848;'rendement';1;2037
+e;89654;'lubrification';1;84
+e;113778;'frottements';1;52
+e;75606;'g';1;3460
+e;5046075;'moteur V8';1;0
+e;138264;'Formule 1';1;82
+e;133722;'tribologie';1;52
+e;158036;'rugueuse';1;76
+e;250613;'traitement de surface';1;50
+e;197935;'constante de Planck';1;66
+e;5978580;'Vibration';1;0
+e;399907;'vibrations';1;60
+e;1854182;'ultrasoniques';1;0
+e;10862606;'Aluminium';1;0
+e;10941104;'Gravitation';1;0
+e;5934675;'Candidat';1;0
+e;10179026;'Employeur';1;0
+e;11160642;'Clapet';1;0
+e;11755903;'Alliage';777;0
+e;12053599;'John Wilkinson';777;0
+e;12246139;'Moteur V8';777;0
+e;2937303;'Cuivres';777;0
+e;5724522;'Hauteur';777;1079
+e;58170;'hauteur';1;3367
+e;51528;'son';1;3927
+e;56323;'facture';1;326
+e;5721319;'Trombone';1;0
+e;90647;'harmoniques';1;52
+e;102811;'demi-ton';1;52
+e;10092777;'Barillet';1;0
+e;419715;'Translation';1;50
+e;129622;'translation';1;54
+e;10970106;'Épaulement';1;0
+e;301849;'trompette piccolo';777;50
+e;11544980;'Étienne Lorin';777;0
+e;10159852;'Blanc comme neige';777;0
+e;399282;'thermiques';1;50
+e;16760028;'Moteur Diesel';777;0
+e;14483351;'Amortisseur';1;0
+e;204071;'moteur thermique';1;60
+e;14540438;'Traitement thermique';777;0
+e;14123728;'Lexique de la fontainerie';777;0
+e;14469658;'Janvier 1807';777;0
+e;14070245;'chambres de combustion';1;0
+e;15627137;'Graphite';1;0
+e;16074117;'Recrutement';1;0
+e;15811188;':r398555953';10;0
+e;91691;'surprise';1;2394
+e;14330;'satisfaction';1;626
+e;1876488;'solliciter&gt;122978';1;16;'solliciter&gt;faveur'
+e;28686;'connu';1;3830
+e;75331;'triche';1;154
+e;233938;'cylindre&gt;204066';1;6;'cylindre&gt;moteur à explosion'
+e;15538356;'zone de service';1;0
+e;17039817;'prestations de services';1;0
+e;974995;':r14676271';10;0
+e;1314597;':r1994676';10;0
+e;16260268;':r382572955';10;0
+e;225215;'moteur&gt;5425';1;140;'moteur&gt;machine'
+e;155305;'locomotive à vapeur';1;84
+e;6890;'voiture';1;11678
+e;97701;'locomotive';1;506
+e;254878;'_POL-NEG_PC';36;50
+e;16553347;':r2392878';10;0
+e;50889;'gris';1;2604
+e;1541448;':r1983101';10;0
+e;16497429;':r395681173';10;0
+e;1707065;':r27795673';10;0
+e;14944897;'en:cylinder head gasket';1;0
+e;269561;'sans couleur';1;50
+e;3492087;':r368938';10;0
+e;3492088;':r57568996';10;0
+e;3492089;':r79958667';10;0
+e;3492090;':r79962549';10;0
+e;8568753;':r149284545';10;0
+e;9834044;':r149284553';10;0
+e;3788837;'dbnary:fra:__ws_7_piston__nom__1';444;0
+e;3812534;'dbnary:fra:__ws_8_piston__nom__1';444;0
+e;3836194;'dbnary:fra:__ws_9_piston__nom__1';444;0
+e;3838263;'dbnary:fra:__ws_10_piston__nom__1';444;0
+e;3861841;'dbnary:fra:__ws_11_piston__nom__1';444;0
+e;4110507;'dbnary:fra:__ws_12_piston__adj__1';444;0
+e;4133755;'dbnary:fra:__ws_13_piston__adj__1';444;0
+e;4154829;'dbnary:fra:__ws_1_piston__nom__1';444;0
+e;4178347;'dbnary:fra:__ws_2_piston__nom__1';444;0
+e;4202082;'dbnary:fra:__ws_3_piston__nom__1';444;0
+e;4225588;'dbnary:fra:__ws_4_piston__nom__1';444;0
+e;4248863;'dbnary:fra:__ws_5_piston__nom__1';444;0
+e;4272338;'dbnary:fra:__ws_6_piston__nom__1';444;0
+e;93081;'segment';1;1984
+e;108504;'racler';1;86
+e;246871;'objet&gt;54490';1;52;'objet&gt;grammaire'
+e;246872;'objet&gt;26845';1;50;'objet&gt;objectif'
+e;246873;'objet&gt;28044';1;50;'objet&gt;cause'
+e;436518;'objet&gt;104993';1;50;'objet&gt;informatique'
+e;105716;'tuyau';1;634
+e;215393;'tube&gt;116053';1;38;'tube&gt;conduit'
+e;134899;'tube';1;3121
+e;64227;'anomalie';1;867
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;1;'r_raff_sem';'raffinement sémantique';Raffinement sémantique vers un usage particulier du terme source
+rt;2;'r_raff_morpho';'raffinement morphologique';Raffinement morphologique vers un usage particulier du terme source
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;15;'r_lieu';'chose&gt;lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;21;'r_has_antimagn';'antimagn';L'inverse de la magnification, par exemple - bruine - pour pluie.
+rt;25;'r_instr-1';'instrument&gt;action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;35;'r_meaning/glose';'glose/sens/signification';Quels SENS/SIGNIFICATIONS pouvez vous donner au terme proposé. Il s'agira de termes (des gloses) évoquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;40;'r_action-verbe';'action&gt;verbe';de l'action vers le verbe. Par exemple, construction -&gt; construire, jardinage -&gt; jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;72;'r_syn_strict';'r_syn_strict';Termes strictement substituables, pour des termes hors du domaine général, et pour la plupart des noms (exemple : endométriose intra-utérine --&gt; adénomyose)
+rt;106;'r_color';'couleur';A comme couleur(s)... chat r_color noir
+rt;128;'r_node2relnode-in';'r_node2relnode-in';Relation entre un noeud (quelconque) et un noeud de relation (type = 10)  - connecte le noeud d'entrée - permet de rendre le graphe connexe même avec les annotations de relations
+rt;140;'r_node2relnode-out';'r_node2relnode-out';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - connecte le noeud de sortie - permet de rendre le graphe connexe même avec les annotations de relations
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 490 relations sortantes 
+
+r;24107546;140962;239128;0;1000000
+r;73963254;140962;2983124;555;12267
+r;2006708;140962;241794;36;721
+r;114036551;140962;5844071;128;581
+r;425254121;140962;16182370;128;521
+r;426594730;140962;16257187;128;509
+r;398397773;140962;15545513;128;477
+r;9144940;140962;223173;36;328
+r;2461782;140962;259859;1;265
+r;8636079;140962;179197;11;163
+r;8735430;140962;267514;11;163
+r;53766380;140962;86976;5;162
+r;8690210;140962;216211;11;161
+r;8706931;140962;241124;11;161
+r;53717482;140962;33701;5;141
+r;54695114;140962;63471;5;133
+r;733993;140962;127846;5;130
+r;59522746;140962;24247;5;129
+r;54806912;140962;49450;5;128
+r;3086177;140962;246870;6;124
+r;3086178;140962;237;6;124
+r;54856579;140962;74572;5;119
+r;190776563;140962;8873150;128;117
+r;53744348;140962;41994;5;113
+r;53750589;140962;122978;5;110
+r;12559235;140962;385522;11;110
+r;12585059;140962;379133;11;110
+r;12767615;140962;334516;11;108
+r;12660793;140962;360483;11;107
+r;12680689;140962;355616;11;107
+r;12620029;140962;370602;11;106
+r;12675621;140962;356835;11;105
+r;12614941;140962;371809;11;104
+r;12641713;140962;365139;11;104
+r;12620033;140962;370601;11;103
+r;12641703;140962;365140;11;102
+r;12722943;140962;345380;11;102
+r;397487762;140962;15518494;128;101
+r;3086169;140962;216183;35;100
+r;54824962;140962;9401;5;99
+r;85630729;140962;129036;5;99
+r;59258808;140962;74182;5;98
+r;54927979;140962;57957;5;97
+r;9358316;140962;127846;0;94
+r;519523;140962;171870;4;94
+r;59258811;140962;56405;5;93
+r;59239443;140962;81662;5;91
+r;2310587;140962;127846;35;89
+r;2461778;140962;259858;1;88
+r;9360701;140962;216183;0;86
+r;53762224;140962;93100;5;86
+r;54813589;140962;36071;5;83
+r;54703826;140962;141534;5;80
+r;2471631;140962;4658;0;79
+r;426874738;140962;16270918;140;76
+r;114182382;140962;5859921;140;70
+r;4953473;140962;70527;0;67
+r;3086171;140962;70527;35;67
+r;399933841;140962;15590318;128;67
+r;2461786;140962;259860;1;66
+r;2330013;140962;254877;36;66
+r;368938;140962;4658;10;63
+r;373978603;140962;119838;17;61
+r;373978626;140962;14285;17;61
+r;9849496;140962;246870;0;60
+r;9849498;140962;237;0;60
+r;323999;140962;140962;19;60
+r;88355695;140962;2585996;36;59
+r;1066204;140962;71659;40;59
+r;190776548;140962;8873146;140;59
+r;3087149;140962;241621;0;58
+r;89053613;140962;13701;0;57
+r;390413147;140962;14954993;333;57
+r;434926165;140962;44241;5;55
+r;2418063;140962;217817;36;55
+r;44322;140962;146885;4;54
+r;54537729;140962;93100;0;53
+r;100843651;140962;4649911;128;53
+r;434928695;140962;16554034;128;53
+r;419712074;140962;15356197;11;50
+r;9923259;140962;216183;6;49
+r;327545527;140962;12765632;11;49
+r;327546159;140962;12765633;11;49
+r;60597320;140962;13701;3;47
+r;58809492;140962;2477665;11;47
+r;27795381;140962;93100;35;47
+r;472753067;140962;16085474;11;46
+r;54139509;140962;2586627;4;45
+r;54178636;140962;2586629;4;45
+r;97347512;140962;144032;6;45
+r;2461790;140962;259861;1;44
+r;18653421;140962;438949;36;44
+r;426717733;140962;16260664;140;43
+r;435001745;140962;93370;5;42
+r;109663415;140962;5537516;11;41
+r;328232401;140962;12790759;11;41
+r;11954503;140962;191672;36;41
+r;394801562;140962;14916755;333;41
+r;12813193;140962;261731;0;40
+r;18653419;140962;595087;2;40
+r;18653422;140962;595088;2;40
+r;473272095;140962;16036959;11;40
+r;52532539;140962;2578964;18;40
+r;60377827;140962;172435;18;40
+r;62581850;140962;2767138;18;40
+r;52633092;140962;214534;36;40
+r;57568996;140962;106265;6;39
+r;14699100;140962;246742;10;39
+r;26435404;140962;223172;36;39
+r;89054057;140962;87987;0;38
+r;60132735;140962;87987;3;38
+r;290517492;140962;11341281;11;38
+r;419571179;140962;15306643;11;38
+r;9360702;140962;91594;0;37
+r;290513599;140962;11341279;11;37
+r;15365643;140962;67368;0;36
+r;1530364;140962;144032;0;35
+r;519524;140962;171869;4;35
+r;27799121;140962;696867;10;35
+r;114036548;140962;79324;10;35
+r;3086170;140962;91594;35;35
+r;59802605;140962;56405;0;34
+r;149284552;140962;114109;9;34
+r;419590561;140962;15193402;11;34
+r;79958666;140962;191667;36;34
+r;211569617;140962;7053874;5;33
+r;212831315;140962;7997550;5;33
+r;394040226;140962;15193404;333;33
+r;512830;140962;67368;3;32
+r;85855317;140962;76827;5;32
+r;87233159;140962;3384557;5;32
+r;419639948;140962;15193394;11;32
+r;2418062;140962;144032;35;32
+r;87006439;140962;3393631;444;32
+r;110119219;140962;117604;6;31
+r;471349475;140962;15327955;11;31
+r;88355694;140962;87987;15;31
+r;79962549;140962;247812;17;31
+r;394040223;140962;15106535;333;31
+r;1330756;140962;134886;0;30
+r;1330757;140962;68976;0;30
+r;1330758;140962;37731;0;30
+r;1330759;140962;79255;0;30
+r;3086172;140962;71659;0;30
+r;15349082;140962;95706;0;30
+r;15394183;140962;146050;0;30
+r;15423507;140962;42774;0;30
+r;15424242;140962;144850;0;30
+r;85924260;140962;124166;0;30
+r;212832571;140962;7053874;0;30
+r;390945341;140962;14954993;0;30
+r;453430;140962;144850;3;30
+r;213812753;140962;9115679;5;30
+r;149284546;140962;8568752;10;30
+r;110586053;140962;5574039;11;30
+r;97347514;140962;139388;17;30
+r;364115717;140962;14276270;26;30
+r;373978963;140962;101793;26;30
+r;478792820;140962;130196;26;30
+r;9258584;140962;254876;36;30
+r;78099076;140962;3228593;444;30
+r;959930;140962;41994;0;29
+r;15600621;140962;246742;0;29
+r;79194563;140962;141534;0;29
+r;87406913;140962;3384557;0;29
+r;453804;140962;42774;3;29
+r;149284557;140962;202357;9;29
+r;390413140;140962;14916413;18;29
+r;87006440;140962;3393632;444;29
+r;54307021;140962;122978;0;28
+r;59643742;140962;36071;0;28
+r;85634067;140962;129036;0;28
+r;485718;140962;146050;3;28
+r;82790794;140962;25856;6;28
+r;11117258;140962;261731;10;28
+r;343034337;140962;13538416;11;28
+r;90828138;140962;3576104;18;28
+r;33154718;140962;103405;32;28
+r;959931;140962;9401;0;27
+r;213987961;140962;231457;0;27
+r;86072546;140962;76827;0;27
+r;311294373;140962;584110;0;27
+r;1648175;140962;95706;3;27
+r;85636770;140962;165514;5;27
+r;89970105;140962;3575927;18;27
+r;390413159;140962;14931818;333;27
+r;87006438;140962;3393630;444;27
+r;959927;140962;49450;0;26
+r;959928;140962;86976;0;26
+r;959929;140962;63471;0;26
+r;27820343;140962;696867;0;26
+r;59531246;140962;57957;0;26
+r;418268922;140962;15020885;0;26
+r;460562;140962;70527;3;26
+r;213810787;140962;231457;5;26
+r;214461913;140962;96851;6;26
+r;427594923;140962;139768;6;26
+r;361093743;140962;14225356;11;26
+r;395544363;140962;15462750;333;26
+r;311294374;140962;584111;0;25
+r;415411900;140962;15462750;0;25
+r;415633069;140962;14916755;0;25
+r;415969980;140962;15193404;0;25
+r;415969982;140962;15106535;0;25
+r;416014928;140962;14931818;0;25
+r;416014930;140962;14954994;0;25
+r;416014932;140962;14954992;0;25
+r;416014934;140962;6876635;0;25
+r;418268916;140962;38344;0;25
+r;385266654;140962;7187002;3;25
+r;385280023;140962;316416;3;25
+r;418268915;140962;38344;3;25
+r;418268921;140962;79255;3;25
+r;418268920;140962;2586628;4;25
+r;310138195;140962;584110;5;25
+r;310138197;140962;584111;5;25
+r;390945342;140962;14954993;5;25
+r;416247896;140962;15206849;5;25
+r;416247962;140962;15206847;5;25
+r;416247977;140962;214494;5;25
+r;416248055;140962;15206846;5;25
+r;416249889;140962;15206848;5;25
+r;416497795;140962;214495;5;25
+r;416497885;140962;15444181;5;25
+r;416497975;140962;367219;5;25
+r;371178508;140962;316850;6;25
+r;9994675;140962;241621;10;25
+r;10001335;140962;256309;10;25
+r;397073672;140962;15207600;10;25
+r;307603863;140962;365139;10;25
+r;399685927;140962;15393731;10;25
+r;398243441;140962;15193400;10;25
+r;426578251;140962;15193401;10;25
+r;353747092;140962;14012441;11;25
+r;444074905;140962;6331718;11;25
+r;477529730;140962;54671;17;25
+r;477536187;140962;17982;17;25
+r;390413151;140962;7332979;18;25
+r;418268919;140962;172428;18;25
+r;377000351;140962;57957;21;25
+r;377007240;140962;3384557;21;25
+r;376165651;140962;325213;25;25
+r;376165653;140962;593999;25;25
+r;469856591;140962;276096;36;25
+r;417923626;140962;15991432;36;25
+r;418268917;140962;15991431;36;25
+r;418268918;140962;162761;36;25
+r;418462631;140962;191669;36;25
+r;437083628;140962;1912917;36;25
+r;390413152;140962;14954993;72;25
+r;390413138;140962;6876635;333;25
+r;390413142;140962;14954992;333;25
+r;390413155;140962;14954994;333;25
+r;14485978;140962;29433;0;24
+r;59530924;140962;74572;0;24
+r;59802604;140962;74182;0;24
+r;85924854;140962;165514;0;24
+r;214008005;140962;9115679;0;24
+r;54320262;140962;33701;0;23
+r;97347513;140962;153591;17;23
+r;59803614;140962;81662;0;22
+r;79543001;140962;24247;0;22
+r;212938672;140962;7997550;0;22
+r;97347515;140962;136461;17;22
+r;429471818;140962;214494;0;20
+r;468940680;140962;17277875;128;17
+r;429321504;140962;367219;0;15
+r;429321605;140962;15444181;0;15
+r;429321661;140962;214495;0;15
+r;429470302;140962;15206848;0;15
+r;429471759;140962;15206846;0;15
+r;429471862;140962;15206847;0;15
+r;429471883;140962;15206849;0;15
+r;417923629;140962;49679;0;12
+r;417923631;140962;398886;0;12
+r;417923632;140962;22648;0;12
+r;417923630;140962;69182;0;11
+r;33666852;140962;28453;32;11
+r;474005276;140962;15016687;10;10
+r;6822952;140962;29433;777;10
+r;6822954;140962;23195;777;10
+r;6822956;140962;143063;777;10
+r;6822957;140962;30030;777;10
+r;6822960;140962;101155;777;10
+r;6822962;140962;105854;777;10
+r;6822964;140962;34468;777;10
+r;6822966;140962;11921;777;10
+r;6822968;140962;121765;777;10
+r;6822969;140962;144315;777;10
+r;6822972;140962;275204;777;10
+r;6822973;140962;275203;777;10
+r;6822976;140962;115748;777;10
+r;23265042;140962;411618;777;10
+r;23265044;140962;302545;777;10
+r;85817740;140962;2099106;777;10
+r;85817743;140962;2937025;777;10
+r;110114007;140962;152349;777;10
+r;110114008;140962;163103;777;10
+r;110114009;140962;3307252;777;10
+r;110114010;140962;79324;777;10
+r;110114011;140962;426288;777;10
+r;110114012;140962;20795;777;10
+r;110114013;140962;3576919;777;10
+r;110114014;140962;135594;777;10
+r;110114015;140962;367775;777;10
+r;110114016;140962;409802;777;10
+r;110114017;140962;52443;777;10
+r;110114018;140962;146341;777;10
+r;110114019;140962;409118;777;10
+r;110114020;140962;26125;777;10
+r;110114021;140962;91557;777;10
+r;110114022;140962;2004013;777;10
+r;110114023;140962;168875;777;10
+r;110114024;140962;103586;777;10
+r;110114025;140962;88226;777;10
+r;110114026;140962;220729;777;10
+r;110114027;140962;83445;777;10
+r;110114028;140962;20534;777;10
+r;110114029;140962;142720;777;10
+r;110114030;140962;139217;777;10
+r;110114031;140962;32948;777;10
+r;110114032;140962;13991;777;10
+r;214454899;140962;419327;777;10
+r;214454900;140962;90075;777;10
+r;214454901;140962;431789;777;10
+r;214454902;140962;46706;777;10
+r;214454903;140962;152550;777;10
+r;214454904;140962;401988;777;10
+r;214454905;140962;149767;777;10
+r;214454906;140962;91898;777;10
+r;214454907;140962;141356;777;10
+r;214454908;140962;70283;777;10
+r;214454909;140962;5720759;777;10
+r;214454926;140962;32468;777;10
+r;214454927;140962;146358;777;10
+r;214454928;140962;126963;777;10
+r;214454929;140962;103604;777;10
+r;214454930;140962;205861;777;10
+r;214454931;140962;86891;777;10
+r;214454932;140962;67036;777;10
+r;214454933;140962;238270;777;10
+r;214454934;140962;4275652;777;10
+r;214454935;140962;144943;777;10
+r;214454936;140962;301960;777;10
+r;214454937;140962;67885;777;10
+r;214454938;140962;17357;777;10
+r;214454939;140962;59282;777;10
+r;214454940;140962;116577;777;10
+r;214454941;140962;362592;777;10
+r;214454942;140962;5122535;777;10
+r;214454943;140962;187451;777;10
+r;214454944;140962;28636;777;10
+r;214454945;140962;201375;777;10
+r;214454946;140962;4934410;777;10
+r;214454947;140962;95561;777;10
+r;214454948;140962;69409;777;10
+r;214454949;140962;136790;777;10
+r;214454950;140962;433600;777;10
+r;214454951;140962;84631;777;10
+r;214454952;140962;64912;777;10
+r;214454953;140962;72823;777;10
+r;214454954;140962;204068;777;10
+r;214454955;140962;140079;777;10
+r;214454956;140962;2053248;777;10
+r;214454957;140962;28405;777;10
+r;214454958;140962;4322810;777;10
+r;214454959;140962;70606;777;10
+r;214454960;140962;5999341;777;10
+r;214454961;140962;78365;777;10
+r;214454962;140962;325085;777;10
+r;214454963;140962;84056;777;10
+r;214454964;140962;3342578;777;10
+r;214454965;140962;60312;777;10
+r;214454966;140962;16181;777;10
+r;214454967;140962;11501;777;10
+r;214454968;140962;5980289;777;10
+r;214454969;140962;134635;777;10
+r;214454970;140962;389189;777;10
+r;214454971;140962;236148;777;10
+r;214454972;140962;67358;777;10
+r;214454973;140962;17027;777;10
+r;214454974;140962;426075;777;10
+r;214454975;140962;141971;777;10
+r;214454976;140962;86055;777;10
+r;214454977;140962;146265;777;10
+r;214454978;140962;3317148;777;10
+r;214454979;140962;88848;777;10
+r;214454980;140962;89654;777;10
+r;214454981;140962;113778;777;10
+r;214454982;140962;75606;777;10
+r;214454983;140962;5046075;777;10
+r;214454984;140962;138264;777;10
+r;214454985;140962;133722;777;10
+r;214454986;140962;158036;777;10
+r;214454989;140962;250613;777;10
+r;214454990;140962;197935;777;10
+r;214454991;140962;5978580;777;10
+r;214454992;140962;399907;777;10
+r;214454993;140962;1854182;777;10
+r;277681556;140962;10862606;777;10
+r;277681557;140962;10941104;777;10
+r;287634777;140962;5934675;777;10
+r;287634778;140962;10179026;777;10
+r;289301334;140962;11160642;777;10
+r;304551508;140962;11755903;777;10
+r;316166754;140962;12053599;777;10
+r;318939819;140962;12246139;777;10
+r;319703763;140962;2937303;777;10
+r;319703764;140962;5724522;777;10
+r;319703765;140962;58170;777;10
+r;319703766;140962;51528;777;10
+r;319703767;140962;56323;777;10
+r;319703768;140962;5721319;777;10
+r;319703769;140962;90647;777;10
+r;319703770;140962;102811;777;10
+r;319703775;140962;10092777;777;10
+r;319703776;140962;419715;777;10
+r;319703777;140962;129622;777;10
+r;319703778;140962;10970106;777;10
+r;319703779;140962;301849;777;10
+r;319703780;140962;11544980;777;10
+r;319703782;140962;10159852;777;10
+r;457335401;140962;399282;777;10
+r;457335402;140962;16760028;777;10
+r;419105957;140962;14483351;777;10
+r;419105958;140962;204071;777;10
+r;419105959;140962;14540438;777;10
+r;419105960;140962;14123728;777;10
+r;419105961;140962;14469658;777;10
+r;419105962;140962;14070245;777;10
+r;419105963;140962;15627137;777;10
+r;423878645;140962;16074117;777;10
+r;411742122;140962;15811188;140;9
+r;33831041;140962;91691;32;8
+r;33831042;140962;14330;32;8
+r;285196270;140962;1876488;999;7
+r;4919598;140962;28686;0;5
+r;4984664;140962;75331;0;5
+r;8545438;140962;233938;0;5
+r;429268003;140962;15538356;5;5
+r;472483154;140962;17039817;5;5
+r;4980439;140962;67368;6;5
+r;20768279;140962;974995;140;5
+r;22962944;140962;1314597;140;5
+r;426690298;140962;16260268;140;5
+r;9989489;140962;225215;10;4
+r;9994858;140962;155305;10;4
+r;10002899;140962;6890;10;4
+r;10006721;140962;97701;10;4
+r;26788635;140962;254878;36;4
+r;434908852;140962;16553347;140;4
+r;427771780;140962;139768;0;3
+r;3162294;140962;50889;106;3
+r;25052314;140962;1541448;140;3
+r;434065090;140962;16497429;140;3
+r;28196043;140962;1707065;140;2
+r;374171415;140962;316850;0;1
+r;432483557;140962;14944897;9;1
+r;3217560;140962;269561;106;1
+r;88355712;140962;3492087;128;1
+r;88355716;140962;3492088;128;1
+r;88355720;140962;3492089;128;1
+r;88355724;140962;3492090;128;1
+r;149284651;140962;8568753;140;1
+r;219192595;140962;9834044;140;1
+r;94187743;140962;3788837;444;1
+r;94208879;140962;3812534;444;1
+r;94230083;140962;3836194;444;1
+r;94231930;140962;3838263;444;1
+r;94252927;140962;3861841;444;1
+r;94475860;140962;4110507;444;1
+r;94496847;140962;4133755;444;1
+r;94515864;140962;4154829;444;1
+r;94537030;140962;4178347;444;1
+r;94558376;140962;4202082;444;1
+r;94579466;140962;4225588;444;1
+r;94600613;140962;4248863;444;1
+r;94621805;140962;4272338;444;1
+r;1471353;140962;93081;666;1
+r;1471354;140962;108504;666;1
+r;30413481;140962;246871;999;1
+r;30413562;140962;246872;999;1
+r;30413637;140962;246873;999;1
+r;30413720;140962;436518;999;1
+r;3086175;140962;105716;6;0
+r;3086166;140962;20795;6;-1
+r;3086173;140962;215393;6;-1
+r;3086179;140962;134899;6;-1
+r;79958667;140962;64227;6;-27
+r;85640643;140962;124166;5;-32
+
+// END
+</code>]

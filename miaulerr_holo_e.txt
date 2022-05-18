@@ -1,0 +1,29 @@
+[<code>
+// DUMP pour le terme 'miauler' (eid=47540)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Se dit du chat qui fait entendre le cri propre à son espèce.<br> 
+ J'entends un chat qui miaule.  
+</br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;47540;'miauler';1;430
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 0 relations sortantes 
+
+
+// END
+</code>]

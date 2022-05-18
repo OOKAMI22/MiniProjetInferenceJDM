@@ -1,0 +1,197 @@
+[<code>
+// DUMP pour le terme 'steak' (eid=55572)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. (Anglicisme) Bifteck, tranche de viande ou de chair de poisson.<br> 
+ Steak de saumon sur lit d'asperges et salade de pommes de terre.   <br> 
+ Vous le voulez comment votre steak, à point ?  <br>
+2. (Anglicisme) (Familier) Ampoule ou arrachement de la peau de la paume, à la base des doigts, provoqués par la pratique de certaines activités sportives, notamment les agrès de barres en gymnastique artistique.<br> 
+ À force de m'entraîner aux barres asymétriques, j'ai des steaks plein les mains.  <br>
+3. (Anglicisme) Bifteck, tranche de viande ou de chair de poisson.<br> 
+ Steak de saumon sur lit d'asperges et salade de pommes de terre.   <br> 
+ ? Et vous comptez tenir le barbeuc dehors tout à l'heure, aussi ? Retourner les steaks hachés à ma place ?    
+ (Amanda Boyden, En attendant Babylone, Albin Michel, 2010, chap.10)  <br>
+4. Les termes steak (de l'anglais steak, « tranche de viande à griller ») et bifteck (de l'anglais beef steak, « tranche de boeuf à griller ») désignent toute tranche de viande rouge, le plus souvent de viande bovine, destinée à la consommation humaine. Les termes « steak » et « bifteck » désignent surtout, et d'une manière générale, une tranche de viande rouge à griller ou frire et pas une partie précise de la viande d'un animal. L'entrecôte, le faux-filet et le rumsteck, par exemple, sont des découpes concrètes et distinctes du boeuf, mais chacun de ces morceaux peut indistinctement être appelé un steak ou bifteck.
+</br></br></br></br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;55572;'steak';1;576
+e;243451;'steak de cheval';1;26
+e;261312;'steack de cheval';1;16
+e;2352221;'steak salisbury';1;0
+e;381233;'steak salade';1;50
+e;381228;'steak dans le faux-filet';1;50
+e;2348415;'steak saignant';1;2
+e;191722;'steak haché';1;208
+e;381231;'steak sur steak';1;50
+e;2346169;'steak végétarien';1;0
+e;177304;'steak à cheval';1;50
+e;212523;'steack haché';666;16
+e;381227;'steak après steak';1;50
+e;381229;'steak frites salade';1;50
+e;212524;'steack tartare';666;50
+e;2346168;'steak de soja';1;0
+e;381230;'steak minute';1;50
+e;381232;'steak bleu';1;50
+e;208456;'steak tartare';1;138
+e;232859;'steak de thon';1;54
+e;14935866;'en:rib steak';1;0
+e;14880733;'::&gt;66:55572&gt;26:30536';8;0;'steak [se faire] faire cuire'
+e;14629324;'steak haché frites';1;20
+e;5912948;'steak végétal';1;0
+e;5631613;'steak Salisbury';777;0
+e;318498;'Steak haché';1;50
+e;3755157;'steak haché bien émietté';1;0
+e;3752398;'steak haché à peu de MG';1;0
+e;3753443;'steak haché maigre';1;0
+e;3755990;'steak d'aloyau coupé en dés';1;0
+e;3759124;'steak coupé en lanières';1;0
+e;3759405;'steak frites dominical';1;0
+e;3745329;'steak frites du dimanche';1;0
+e;3746506;'steak au poivre';1;2
+e;3763568;'steak de boeuf';1;0
+e;279506;'Côte à l'os';777;50
+e;2558916;'t-bone';1;0
+e;3369949;'steak haché aux câpres';1;0
+e;3369951;'steak haché aux oignons caramélisés';1;0
+e;3369959;'steak tartare maison';1;0
+e;3369948;'steak haché à la genovese, italie';1;0
+e;3369945;'steak de thon rouge sur lit de foie gras';1;0
+e;3369944;'steak de thon aux olives noires';1;0
+e;3369942;'steak de cheval aux épices';1;0
+e;3369958;'steak tartare au vinaigre balsamique';1;0
+e;3369941;'steak de cheval au paprika';1;0
+e;3369950;'steak haché aux épices';1;0
+e;3369937;'steak au grill à la sauce tomate';1;0
+e;3369938;'steak au roquefort';1;0
+e;3369939;'steak au sirop d'érable';1;0
+e;3369940;'steak de biche au porto et boursin';1;0
+e;3369943;'steak de requin à la sauce au curry';1;0
+e;3369946;'steak de volaille minceur';1;0
+e;3369947;'steak flambés au poivre';1;0
+e;3369952;'steak milanais';1;0
+e;3318502;'steak de marlin en papillote';1;0
+e;217015;'côte à l'os';1;2
+e;3179891;'T-bone steak';1;0
+e;237789;'T-bone steack';1;2
+e;213723;'steak frites';1;64
+e;1237396;'steak grillé';1;24
+e;55511;'T-bone';1;162
+e;14540352;'::&gt;66:55572&gt;26:128828';8;0;'steak [se faire] couper'
+e;11754125;'steak de mouches';777;0
+e;15054599;'en:ground beef';1;0
+e;8061837;'en:minced beef';1;0
+e;15062312;'en:beefburger';1;0
+e;8052392;'en:burger';1;0
+e;14941467;'en:hamburger';1;0
+e;3369935;'steack hachés à la créole';1;0
+e;3369933;'steack de saumon rapide';1;0
+e;3369934;'steack haché aux oignons';1;0
+e;3178820;'tartare de boeuf';1;2
+e;217141;'boeuf haché';1;62
+e;15225269;'en:tuna steak';1;0
+e;21742;'hamburger';1;482
+e;15225263;'en:steak tartar';1;0
+e;15107288;'en:peppered steak';1;0
+e;15119035;'en:steak tartare';1;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 78 relations sortantes 
+
+r;9827825;55572;243451;8;59
+r;95740642;55572;261312;8;55
+r;34742219;55572;2352221;8;42
+r;33872638;55572;381233;8;42
+r;30182702;55572;381228;8;42
+r;34663573;55572;2348415;8;41
+r;30211060;55572;191722;8;41
+r;33872742;55572;381231;8;38
+r;34531185;55572;2346169;8;37
+r;30851699;55572;177304;8;37
+r;95740640;55572;212523;8;35
+r;33872734;55572;381227;8;35
+r;33872689;55572;381229;8;35
+r;95740639;55572;212524;8;34
+r;34531186;55572;2346168;8;32
+r;33872510;55572;381230;8;32
+r;33872612;55572;381232;8;31
+r;30461539;55572;208456;8;31
+r;31641346;55572;232859;8;29
+r;404212807;55572;14935866;8;25
+r;386022274;55572;14880733;8;25
+r;373359170;55572;14629324;8;25
+r;248498775;55572;5912948;8;25
+r;248478812;55572;5631613;8;25
+r;246247013;55572;318498;8;25
+r;246225222;55572;3755157;8;25
+r;246145142;55572;3752398;8;25
+r;246144013;55572;3753443;8;25
+r;246141312;55572;3755990;8;25
+r;246137770;55572;3759124;8;25
+r;246137606;55572;3759405;8;25
+r;246136900;55572;3745329;8;25
+r;246135907;55572;3746506;8;25
+r;246133301;55572;3763568;8;25
+r;243892582;55572;279506;8;25
+r;243604431;55572;2558916;8;25
+r;243580088;55572;3369949;8;25
+r;243580081;55572;3369951;8;25
+r;243580074;55572;3369959;8;25
+r;243580068;55572;3369948;8;25
+r;243580065;55572;3369945;8;25
+r;243580061;55572;3369944;8;25
+r;243580057;55572;3369942;8;25
+r;243580054;55572;3369958;8;25
+r;243580050;55572;3369941;8;25
+r;243580032;55572;3369950;8;25
+r;243541410;55572;3369937;8;25
+r;243541409;55572;3369938;8;25
+r;243541408;55572;3369939;8;25
+r;243541407;55572;3369940;8;25
+r;243541406;55572;3369943;8;25
+r;243541405;55572;3369946;8;25
+r;243541404;55572;3369947;8;25
+r;243541403;55572;3369952;8;25
+r;243535821;55572;3318502;8;25
+r;243458859;55572;217015;8;25
+r;243457602;55572;3179891;8;25
+r;243457600;55572;237789;8;25
+r;243413458;55572;213723;8;25
+r;243403685;55572;1237396;8;25
+r;243401444;55572;55511;8;25
+r;370084420;55572;14540352;8;21
+r;301596864;55572;11754125;8;14
+r;419147757;55572;15054599;8;10
+r;419147736;55572;8061837;8;10
+r;419147650;55572;15062312;8;10
+r;419147569;55572;8052392;8;10
+r;419147553;55572;14941467;8;10
+r;367567502;55572;3369935;8;10
+r;367567503;55572;3369933;8;10
+r;367567504;55572;3369934;8;10
+r;403817118;55572;3178820;8;7
+r;419320849;55572;217141;8;6
+r;419335782;55572;15225269;8;5
+r;419327781;55572;21742;8;5
+r;403817102;55572;15225263;8;2
+r;435507651;55572;15107288;8;1
+r;430258509;55572;15119035;8;1
+
+// END
+</code>]

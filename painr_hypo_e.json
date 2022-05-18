@@ -1,0 +1,6832 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "2": {
+            "ntname": "'n_form'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        },
+        "666": {
+            "ntname": "'n_AKI'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "61283": {
+            "name": "'pain'",
+            "type": "1",
+            "w": "3616"
+        },
+        "128482": {
+            "name": "'baguette'",
+            "type": "1",
+            "w": "1932"
+        },
+        "130548": {
+            "name": "'pain de mie'",
+            "type": "1",
+            "w": "144"
+        },
+        "163027": {
+            "name": "'pain de campagne'",
+            "type": "1",
+            "w": "104"
+        },
+        "160122": {
+            "name": "'pain aux c\u00e9r\u00e9ales'",
+            "type": "1",
+            "w": "166"
+        },
+        "94536": {
+            "name": "'ficelle'",
+            "type": "1",
+            "w": "538"
+        },
+        "244083": {
+            "name": "'pain au son'",
+            "type": "1",
+            "w": "98"
+        },
+        "244073": {
+            "name": "'banette'",
+            "type": "1",
+            "w": "52"
+        },
+        "158444": {
+            "name": "'pain blanc'",
+            "type": "1",
+            "w": "104"
+        },
+        "204927": {
+            "name": "'pain noir'",
+            "type": "1",
+            "w": "62"
+        },
+        "138712": {
+            "name": "'paillasse'",
+            "type": "1",
+            "w": "98"
+        },
+        "213758": {
+            "name": "'baguette&gt;61283'",
+            "type": "1",
+            "w": "244",
+            "formated name": "'baguette&gt;pain'"
+        },
+        "213573": {
+            "name": "'ficelle&gt;61283'",
+            "type": "1",
+            "w": "86",
+            "formated name": "'ficelle&gt;pain'"
+        },
+        "146257": {
+            "name": "'fl\u00fbte'",
+            "type": "1",
+            "w": "394"
+        },
+        "264910": {
+            "name": "'pain rassis'",
+            "type": "1",
+            "w": "62"
+        },
+        "213482": {
+            "name": "'fl\u00fbte&gt;61283'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'fl\u00fbte&gt;pain'"
+        },
+        "219151": {
+            "name": "'empereur&gt;61283'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'empereur&gt;pain'"
+        },
+        "161669": {
+            "name": "'pain complet'",
+            "type": "1",
+            "w": "144"
+        },
+        "24786": {
+            "name": "'faluche'",
+            "type": "1",
+            "w": "68"
+        },
+        "242522": {
+            "name": "'pain de glace'",
+            "type": "1",
+            "w": "70"
+        },
+        "251791": {
+            "name": "'pain de mort'",
+            "type": "1",
+            "w": "50"
+        },
+        "251790": {
+            "name": "'pain des morts'",
+            "type": "1",
+            "w": "50"
+        },
+        "253853": {
+            "name": "'pain pita'",
+            "type": "1",
+            "w": "52"
+        },
+        "123693": {
+            "name": "'pain long'",
+            "type": "1",
+            "w": "52"
+        },
+        "2348391": {
+            "name": "'pain au seigle'",
+            "type": "1",
+            "w": "0"
+        },
+        "2348383": {
+            "name": "'pain \u00e0 l'\u00e9pautre'",
+            "type": "1",
+            "w": "0"
+        },
+        "156823": {
+            "name": "'gros pain'",
+            "type": "1",
+            "w": "94"
+        },
+        "231390": {
+            "name": "'restaurant&gt;61283'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'restaurant&gt;pain'"
+        },
+        "222839": {
+            "name": "'demi-baguette'",
+            "type": "1",
+            "w": "50"
+        },
+        "80875": {
+            "name": "'fougasse'",
+            "type": "1",
+            "w": "92"
+        },
+        "213430": {
+            "name": "'miche&gt;61283'",
+            "type": "1",
+            "w": "68",
+            "formated name": "'miche&gt;pain'"
+        },
+        "5622583": {
+            "name": "'vastedda'",
+            "type": "777",
+            "w": "0"
+        },
+        "91273": {
+            "name": "'pain des anges'",
+            "type": "1",
+            "w": "50"
+        },
+        "56050": {
+            "name": "'pain de m\u00e9teil'",
+            "type": "1",
+            "w": "50"
+        },
+        "10895900": {
+            "name": "'coppia Ferrarese'",
+            "type": "1",
+            "w": "0"
+        },
+        "5621578": {
+            "name": "'coccoi a pitzus'",
+            "type": "777",
+            "w": "0"
+        },
+        "2348355": {
+            "name": "'pain int\u00e9gral'",
+            "type": "1",
+            "w": "0"
+        },
+        "248974": {
+            "name": "'pain libanais'",
+            "type": "1",
+            "w": "50"
+        },
+        "144832": {
+            "name": "'pain d'\u00e9pices'",
+            "type": "1",
+            "w": "130"
+        },
+        "225489": {
+            "name": "'pain au lait'",
+            "type": "1",
+            "w": "34"
+        },
+        "177274": {
+            "name": "'pain dor\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "168282": {
+            "name": "'pain \u00e0 cacheter'",
+            "type": "1",
+            "w": "50"
+        },
+        "232183": {
+            "name": "'pain de singe'",
+            "type": "1",
+            "w": "50"
+        },
+        "2556969": {
+            "name": "'focaccia'",
+            "type": "1",
+            "w": "0"
+        },
+        "10895902": {
+            "name": "'pagnotta del Dittaino'",
+            "type": "1",
+            "w": "0"
+        },
+        "10895901": {
+            "name": "'focaccia novese'",
+            "type": "1",
+            "w": "0"
+        },
+        "139616": {
+            "name": "'pain de sucre'",
+            "type": "1",
+            "w": "64"
+        },
+        "12855": {
+            "name": "'pita'",
+            "type": "1",
+            "w": "78"
+        },
+        "437277": {
+            "name": "'muffuletta'",
+            "type": "1",
+            "w": "50"
+        },
+        "2366506": {
+            "name": "'ciabatta'",
+            "type": "1",
+            "w": "0"
+        },
+        "137681": {
+            "name": "'pain d'oiseau'",
+            "type": "1",
+            "w": "50"
+        },
+        "204914": {
+            "name": "'pain brioch\u00e9'",
+            "type": "1",
+            "w": "82"
+        },
+        "45269": {
+            "name": "'b\u00e2tard'",
+            "type": "1",
+            "w": "158"
+        },
+        "368097": {
+            "name": "'pain hypercellullosique'",
+            "type": "1",
+            "w": "50"
+        },
+        "368092": {
+            "name": "'pain de sarrasin'",
+            "type": "1",
+            "w": "50"
+        },
+        "1922600": {
+            "name": "'pagnotte'",
+            "type": "1",
+            "w": "0"
+        },
+        "216942": {
+            "name": "'naan'",
+            "type": "1",
+            "w": "26"
+        },
+        "175019": {
+            "name": "'pain du Cardinal'",
+            "type": "1",
+            "w": "50"
+        },
+        "5802345": {
+            "name": "'pane carasau'",
+            "type": "777",
+            "w": "0"
+        },
+        "2540822": {
+            "name": "'pain de manioc'",
+            "type": "1",
+            "w": "0"
+        },
+        "67446": {
+            "name": "'pain de sel'",
+            "type": "1",
+            "w": "50"
+        },
+        "204920": {
+            "name": "'pain de seigle'",
+            "type": "1",
+            "w": "144"
+        },
+        "183499": {
+            "name": "'pain mousseau'",
+            "type": "1",
+            "w": "50"
+        },
+        "167803": {
+            "name": "'pain quotidien'",
+            "type": "1",
+            "w": "78"
+        },
+        "11154314": {
+            "name": "'pain bio'",
+            "type": "1",
+            "w": "4"
+        },
+        "10895903": {
+            "name": "'pain noir de Castelvetrano'",
+            "type": "1",
+            "w": "0"
+        },
+        "217650": {
+            "name": "'pain chaud'",
+            "type": "1",
+            "w": "70"
+        },
+        "368096": {
+            "name": "'pain fourr\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "368093": {
+            "name": "'pain de volaille'",
+            "type": "1",
+            "w": "50"
+        },
+        "368104": {
+            "name": "'pain d'\u00e9mail'",
+            "type": "1",
+            "w": "50"
+        },
+        "368090": {
+            "name": "'pain de plastic'",
+            "type": "1",
+            "w": "50"
+        },
+        "368106": {
+            "name": "'pain de crapaud'",
+            "type": "1",
+            "w": "50"
+        },
+        "368080": {
+            "name": "'pain au beurre'",
+            "type": "1",
+            "w": "50"
+        },
+        "2324858": {
+            "name": "'pain bruschetta'",
+            "type": "1",
+            "w": "0"
+        },
+        "257801": {
+            "name": "'pain de viande'",
+            "type": "1",
+            "w": "50"
+        },
+        "145476": {
+            "name": "'g\u00e2che'",
+            "type": "1",
+            "w": "102"
+        },
+        "93846": {
+            "name": "'pain-de-pourceau'",
+            "type": "1",
+            "w": "50"
+        },
+        "3366096": {
+            "name": "'pain perdu sal\u00e9 \u00e0 l'italienne'",
+            "type": "1",
+            "w": "0"
+        },
+        "117152": {
+            "name": "'soupe'",
+            "type": "1",
+            "w": "1895"
+        },
+        "2348357": {
+            "name": "'pain de kamut'",
+            "type": "1",
+            "w": "6"
+        },
+        "219664": {
+            "name": "'pain parisien'",
+            "type": "1",
+            "w": "52"
+        },
+        "440637": {
+            "name": "'pain et chocolat'",
+            "type": "1",
+            "w": "88"
+        },
+        "368084": {
+            "name": "'pain d'abeilles'",
+            "type": "1",
+            "w": "50"
+        },
+        "368085": {
+            "name": "'pain de beurre'",
+            "type": "1",
+            "w": "50"
+        },
+        "368094": {
+            "name": "'pain dermatologique'",
+            "type": "1",
+            "w": "50"
+        },
+        "368081": {
+            "name": "'pain biologique'",
+            "type": "1",
+            "w": "50"
+        },
+        "368083": {
+            "name": "'pain b\u00e9ni pour'",
+            "type": "1",
+            "w": "50"
+        },
+        "302021": {
+            "name": "'pain de J\u00e9sus'",
+            "type": "777",
+            "w": "50"
+        },
+        "1917040": {
+            "name": "'pain crott\u00e9'",
+            "type": "777",
+            "w": "0"
+        },
+        "302836": {
+            "name": "'pain Barbari'",
+            "type": "777",
+            "w": "50"
+        },
+        "217036": {
+            "name": "'pain sans levain'",
+            "type": "1",
+            "w": "50"
+        },
+        "332550": {
+            "name": "'banette&gt;61283'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'banette&gt;pain'"
+        },
+        "14752975": {
+            "name": "'pain croquant'",
+            "type": "1",
+            "w": "0"
+        },
+        "263993": {
+            "name": "'pain beurr\u00e9'",
+            "type": "1",
+            "w": "52"
+        },
+        "368086": {
+            "name": "'pain de chapitre'",
+            "type": "1",
+            "w": "50"
+        },
+        "368098": {
+            "name": "'pain mollet'",
+            "type": "1",
+            "w": "50"
+        },
+        "1963201": {
+            "name": "'pain maori'",
+            "type": "1",
+            "w": "0"
+        },
+        "221881": {
+            "name": "'pain de couleuvre'",
+            "type": "1",
+            "w": "50"
+        },
+        "38589": {
+            "name": "'fou\u00e9e'",
+            "type": "1",
+            "w": "50"
+        },
+        "177275": {
+            "name": "'pain perdu'",
+            "type": "1",
+            "w": "64"
+        },
+        "177329": {
+            "name": "'pain de gruau'",
+            "type": "1",
+            "w": "50"
+        },
+        "75271": {
+            "name": "'pain c\u00e9leste'",
+            "type": "1",
+            "w": "50"
+        },
+        "158745": {
+            "name": "'pain de savon'",
+            "type": "1",
+            "w": "50"
+        },
+        "154315": {
+            "name": "'roti'",
+            "type": "1",
+            "w": "84"
+        },
+        "290011": {
+            "name": "'pain fran\u00e7ais'",
+            "type": "777",
+            "w": "56"
+        },
+        "69067": {
+            "name": "'pain de Dieppe'",
+            "type": "1",
+            "w": "50"
+        },
+        "111325": {
+            "name": "'pain azyme'",
+            "type": "1",
+            "w": "58"
+        },
+        "368089": {
+            "name": "'pain de liquidation'",
+            "type": "1",
+            "w": "50"
+        },
+        "368111": {
+            "name": "'pain m\u00e9dicinal'",
+            "type": "1",
+            "w": "50"
+        },
+        "2324856": {
+            "name": "'pain long brioch\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "183498": {
+            "name": "'pain d'\u00e9pice'",
+            "type": "1",
+            "w": "72"
+        },
+        "1963200": {
+            "name": "'pain de pommes de terre'",
+            "type": "1",
+            "w": "0"
+        },
+        "368101": {
+            "name": "'pain tremp\u00e9'",
+            "type": "1",
+            "w": "54"
+        },
+        "183497": {
+            "name": "'pain de coucou'",
+            "type": "1",
+            "w": "56"
+        },
+        "14752962": {
+            "name": "'bergis'",
+            "type": "1",
+            "w": "0"
+        },
+        "2348341": {
+            "name": "'pain aux c\u00e9r\u00e9ales germ\u00e9es'",
+            "type": "1",
+            "w": "0"
+        },
+        "437311": {
+            "name": "'pain sant\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "368088": {
+            "name": "'pain de fruits'",
+            "type": "1",
+            "w": "50"
+        },
+        "368105": {
+            "name": "'pain de chanoine'",
+            "type": "1",
+            "w": "50"
+        },
+        "368112": {
+            "name": "'pain \u00e0 la reine'",
+            "type": "1",
+            "w": "50"
+        },
+        "368087": {
+            "name": "'pain de dynamite'",
+            "type": "1",
+            "w": "50"
+        },
+        "278323": {
+            "name": "'pain tabouna'",
+            "type": "1",
+            "w": "50"
+        },
+        "224027": {
+            "name": "'pain plat'",
+            "type": "1",
+            "w": "50"
+        },
+        "332559": {
+            "name": "'pain frais'",
+            "type": "1",
+            "w": "104"
+        },
+        "122581": {
+            "name": "'pain rond'",
+            "type": "1",
+            "w": "52"
+        },
+        "14752964": {
+            "name": "'pain hallah'",
+            "type": "1",
+            "w": "0"
+        },
+        "14752955": {
+            "name": "'skorpor'",
+            "type": "1",
+            "w": "0"
+        },
+        "2363869": {
+            "name": "'pain de chien'",
+            "type": "1",
+            "w": "0"
+        },
+        "368108": {
+            "name": "'pain de pavot'",
+            "type": "1",
+            "w": "50"
+        },
+        "368103": {
+            "name": "'pain court'",
+            "type": "1",
+            "w": "50"
+        },
+        "368095": {
+            "name": "'pain eucharistique'",
+            "type": "1",
+            "w": "50"
+        },
+        "368109": {
+            "name": "'pain de poisson'",
+            "type": "1",
+            "w": "64"
+        },
+        "368100": {
+            "name": "'pain tranch\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "368091": {
+            "name": "'pain de recoupe'",
+            "type": "1",
+            "w": "50"
+        },
+        "153047": {
+            "name": "'pain au chocolat'",
+            "type": "1",
+            "w": "522"
+        },
+        "1652883": {
+            "name": "'longuet&gt;61283'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'longuet&gt;pain'"
+        },
+        "204912": {
+            "name": "'pain au levain'",
+            "type": "1",
+            "w": "66"
+        },
+        "204928": {
+            "name": "'pain sec'",
+            "type": "1",
+            "w": "68"
+        },
+        "265463": {
+            "name": "'pain \u00e0 l'ail'",
+            "type": "1",
+            "w": "50"
+        },
+        "14752965": {
+            "name": "'kaffebr\u00f6d'",
+            "type": "1",
+            "w": "0"
+        },
+        "14752961": {
+            "name": "'kavring'",
+            "type": "1",
+            "w": "0"
+        },
+        "14752954": {
+            "name": "'kn\u00e4ckebr\u00f6d'",
+            "type": "1",
+            "w": "0"
+        },
+        "2365163": {
+            "name": "'pain de m\u00e9nage'",
+            "type": "1",
+            "w": "0"
+        },
+        "65846": {
+            "name": "'pain grill\u00e9'",
+            "type": "1",
+            "w": "166"
+        },
+        "2348356": {
+            "name": "'pain au quinoa'",
+            "type": "1",
+            "w": "10"
+        },
+        "368110": {
+            "name": "'pain fendu'",
+            "type": "1",
+            "w": "50"
+        },
+        "368107": {
+            "name": "'pain de fesse'",
+            "type": "1",
+            "w": "50"
+        },
+        "437812": {
+            "name": "'roti&gt;61283'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'roti&gt;pain'"
+        },
+        "257797": {
+            "name": "'bagel'",
+            "type": "1",
+            "w": "50"
+        },
+        "14752963": {
+            "name": "'barkis'",
+            "type": "1",
+            "w": "0"
+        },
+        "263994": {
+            "name": "'pain aux noix'",
+            "type": "1",
+            "w": "62"
+        },
+        "368082": {
+            "name": "'pain bis'",
+            "type": "1",
+            "w": "62"
+        },
+        "7003": {
+            "name": "'miche'",
+            "type": "1",
+            "w": "96"
+        },
+        "204916": {
+            "name": "'pain de froment'",
+            "type": "1",
+            "w": "50"
+        },
+        "1678560": {
+            "name": "'fougasse&gt;61283'",
+            "type": "1",
+            "w": "16",
+            "formated name": "'fougasse&gt;pain'"
+        },
+        "3225649": {
+            "name": "'pain \u00e0 cacheter&gt;102206'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pain \u00e0 cacheter&gt;m\u00e9decine'"
+        },
+        "3366113": {
+            "name": "'pain surprise'",
+            "type": "1",
+            "w": "0"
+        },
+        "215347": {
+            "name": "'pain ess\u00e8ne'",
+            "type": "1",
+            "w": "50"
+        },
+        "437310": {
+            "name": "'pain et sandwich'",
+            "type": "1",
+            "w": "50"
+        },
+        "368099": {
+            "name": "'pain sans sel'",
+            "type": "1",
+            "w": "50"
+        },
+        "368102": {
+            "name": "'pain vivant'",
+            "type": "1",
+            "w": "50"
+        },
+        "241367": {
+            "name": "'mie&gt;61283'",
+            "type": "1",
+            "w": "12",
+            "formated name": "'mie&gt;pain'"
+        },
+        "231735": {
+            "name": "'pain d'autel'",
+            "type": "1",
+            "w": "50"
+        },
+        "204930": {
+            "name": "'pain viennois'",
+            "type": "1",
+            "w": "70"
+        },
+        "217035": {
+            "name": "'pain indien'",
+            "type": "1",
+            "w": "58"
+        },
+        "393311": {
+            "name": "'pain su\u00e9dois'",
+            "type": "1",
+            "w": "50"
+        },
+        "393310": {
+            "name": "'Wasa'",
+            "type": "1",
+            "w": "52"
+        },
+        "8769158": {
+            "name": "'en:pita'",
+            "type": "1",
+            "w": "0"
+        },
+        "15369242": {
+            "name": "'en:pita bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "14925183": {
+            "name": "'en:bun'",
+            "type": "1",
+            "w": "0"
+        },
+        "5807566": {
+            "name": "'kipferl'",
+            "type": "777",
+            "w": "0"
+        },
+        "5807565": {
+            "name": "'kifli'",
+            "type": "777",
+            "w": "0"
+        },
+        "9791562": {
+            "name": "'foassa'",
+            "type": "777",
+            "w": "0"
+        },
+        "7288132": {
+            "name": "'en:chapati'",
+            "type": "1",
+            "w": "0"
+        },
+        "8126395": {
+            "name": "'en:crumpet'",
+            "type": "1",
+            "w": "0"
+        },
+        "5621597": {
+            "name": "'crumpet'",
+            "type": "777",
+            "w": "0"
+        },
+        "3183461": {
+            "name": "'Pain noir'",
+            "type": "777",
+            "w": "0"
+        },
+        "131135": {
+            "name": "'chapati'",
+            "type": "1",
+            "w": "102"
+        },
+        "14159313": {
+            "name": "'pain au cacao'",
+            "type": "777",
+            "w": "0"
+        },
+        "575": {
+            "name": "'tarte'",
+            "type": "1",
+            "w": "1126"
+        },
+        "14252100": {
+            "name": "'pain en tranches'",
+            "type": "1",
+            "w": "0"
+        },
+        "14363898": {
+            "name": "'::&gt;66:61283&gt;26:5115'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] cuire'"
+        },
+        "3297938": {
+            "name": "'pistolet&gt;122581'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pistolet&gt;pain rond'"
+        },
+        "14389065": {
+            "name": "'::&gt;66:61283&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] couper'"
+        },
+        "14486218": {
+            "name": "'::&gt;66:61283&gt;26:32322'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] trancher'"
+        },
+        "14510177": {
+            "name": "'::&gt;66:61283&gt;26:195857'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] aller chercher'"
+        },
+        "14529677": {
+            "name": "'::&gt;66:61283&gt;26:97885'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] beurrer'"
+        },
+        "5799990": {
+            "name": "'coppia ferrarese'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622068": {
+            "name": "'Pagnotta del Dittaino'",
+            "type": "777",
+            "w": "0"
+        },
+        "14604616": {
+            "name": "'pain aux graines'",
+            "type": "1",
+            "w": "2"
+        },
+        "14638922": {
+            "name": "'::&gt;66:61283&gt;26:122353'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] partager'"
+        },
+        "14653008": {
+            "name": "'::&gt;66:61283&gt;26:134489'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] faire griller'"
+        },
+        "14654821": {
+            "name": "'pain allong\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "14665384": {
+            "name": "'::&gt;66:61283&gt;26:64325'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] aimer'"
+        },
+        "14670127": {
+            "name": "'pain de la veille'",
+            "type": "1",
+            "w": "6"
+        },
+        "14585145": {
+            "name": "'pain de vesou'",
+            "type": "1",
+            "w": "0"
+        },
+        "14563672": {
+            "name": "'pain de mie grill\u00e9'",
+            "type": "1",
+            "w": "10"
+        },
+        "14121757": {
+            "name": "'cheese naan'",
+            "type": "1",
+            "w": "0"
+        },
+        "13426628": {
+            "name": "'labza'",
+            "type": "777",
+            "w": "0"
+        },
+        "13426632": {
+            "name": "'tanourt'",
+            "type": "777",
+            "w": "0"
+        },
+        "13426630": {
+            "name": "'taicht'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621564": {
+            "name": "'bouchiyyar'",
+            "type": "777",
+            "w": "0"
+        },
+        "12009018": {
+            "name": "'baguette compl\u00e8te'",
+            "type": "1",
+            "w": "2"
+        },
+        "8126413": {
+            "name": "'en:scone'",
+            "type": "1",
+            "w": "0"
+        },
+        "11027009": {
+            "name": "'pain baguette'",
+            "type": "777",
+            "w": "0"
+        },
+        "79954": {
+            "name": "'restaurant'",
+            "type": "1",
+            "w": "5348"
+        },
+        "4939328": {
+            "name": "'pain perdu espagnol'",
+            "type": "1",
+            "w": "0"
+        },
+        "94812": {
+            "name": "'cramique'",
+            "type": "1",
+            "w": "52"
+        },
+        "589543": {
+            "name": "'fougace'",
+            "type": "777",
+            "w": "0"
+        },
+        "2405506": {
+            "name": "'ciabattina'",
+            "type": "1",
+            "w": "0"
+        },
+        "2557599": {
+            "name": "'gata'",
+            "type": "1",
+            "w": "0"
+        },
+        "9102157": {
+            "name": "'pain de No\u00ebl'",
+            "type": "1",
+            "w": "0"
+        },
+        "9101861": {
+            "name": "'pain marocain ksra'",
+            "type": "1",
+            "w": "0"
+        },
+        "9101798": {
+            "name": "'pain d'\u00e9pice pour une maison de no\u00ebl'",
+            "type": "1",
+            "w": "0"
+        },
+        "2360696": {
+            "name": "'leckerli'",
+            "type": "1",
+            "w": "0"
+        },
+        "5912136": {
+            "name": "'pain de bl\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "5912833": {
+            "name": "'pain multigrain'",
+            "type": "1",
+            "w": "0"
+        },
+        "5912835": {
+            "name": "'pain keiser'",
+            "type": "1",
+            "w": "0"
+        },
+        "5916579": {
+            "name": "'pain panini'",
+            "type": "1",
+            "w": "0"
+        },
+        "5916581": {
+            "name": "'pain de mie courant'",
+            "type": "1",
+            "w": "0"
+        },
+        "5916585": {
+            "name": "'pain de mie brioch\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "5916587": {
+            "name": "'pain aux c\u00e9r\u00e9ales et graines'",
+            "type": "1",
+            "w": "0"
+        },
+        "5916596": {
+            "name": "'pain grill\u00e9 domestique'",
+            "type": "1",
+            "w": "0"
+        },
+        "5786856": {
+            "name": "'pain \u00e0 la duchesse'",
+            "type": "777",
+            "w": "0"
+        },
+        "5787577": {
+            "name": "'pain paysan'",
+            "type": "777",
+            "w": "0"
+        },
+        "5827979": {
+            "name": "'pain \u00e0 la grecque'",
+            "type": "777",
+            "w": "0"
+        },
+        "5828623": {
+            "name": "'pain d'\u00e9pices appenzellois'",
+            "type": "777",
+            "w": "0"
+        },
+        "5801038": {
+            "name": "'pain melon'",
+            "type": "777",
+            "w": "0"
+        },
+        "5802331": {
+            "name": "'pain d'\u00e9peautre'",
+            "type": "777",
+            "w": "0"
+        },
+        "5802334": {
+            "name": "'pain lev\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "5812050": {
+            "name": "'pain marqouq'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812094": {
+            "name": "'pain du Luberon'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812097": {
+            "name": "'pain de Beaucaire'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812099": {
+            "name": "'pain au vin rouge'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812112": {
+            "name": "'pain d'\u00e9pices de Reims'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812163": {
+            "name": "'pain au fromage'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812189": {
+            "name": "'pain durant la Rome antique'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812204": {
+            "name": "'pain d'\u00e9corce'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812209": {
+            "name": "'pain paillasse'",
+            "type": "777",
+            "w": "0"
+        },
+        "5620351": {
+            "name": "'pain de f\u00e9e'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622069": {
+            "name": "'pain de Modane'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622070": {
+            "name": "'pain polaire'",
+            "type": "777",
+            "w": "0"
+        },
+        "156482": {
+            "name": "'baguette de pain'",
+            "type": "1",
+            "w": "52"
+        },
+        "5501026": {
+            "name": "'pain au s\u00e9same'",
+            "type": "1",
+            "w": "0"
+        },
+        "141883": {
+            "name": "'boule'",
+            "type": "1",
+            "w": "2059"
+        },
+        "5806188": {
+            "name": "'hot cross bun'",
+            "type": "777",
+            "w": "0"
+        },
+        "5916590": {
+            "name": "'pain pour hamburger'",
+            "type": "1",
+            "w": "0"
+        },
+        "5918827": {
+            "name": "'r\u00fagbrau\u00f0'",
+            "type": "777",
+            "w": "0"
+        },
+        "5916577": {
+            "name": "'baguette de tradition fran\u00e7aise'",
+            "type": "1",
+            "w": "0"
+        },
+        "5916575": {
+            "name": "'baguette courante'",
+            "type": "1",
+            "w": "0"
+        },
+        "76784": {
+            "name": "'pistolet'",
+            "type": "1",
+            "w": "1846"
+        },
+        "5801332": {
+            "name": "'matlou'",
+            "type": "777",
+            "w": "0"
+        },
+        "5801333": {
+            "name": "'matlouh'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812212": {
+            "name": "'Texas toast'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812216": {
+            "name": "'pan de sal'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812215": {
+            "name": "'pandesal'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812019": {
+            "name": "'pain crestou'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812029": {
+            "name": "'pan franc\u00e9s'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812028": {
+            "name": "'pan batido'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812027": {
+            "name": "'marraqueta'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812093": {
+            "name": "'pain paillasse de Lod\u00e8ve'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812101": {
+            "name": "'lipie'",
+            "type": "777",
+            "w": "0"
+        },
+        "5812198": {
+            "name": "'pain tandoori'",
+            "type": "777",
+            "w": "0"
+        },
+        "5806190": {
+            "name": "'brioche de Vendredi Saint'",
+            "type": "777",
+            "w": "0"
+        },
+        "5806189": {
+            "name": "'cross-bun'",
+            "type": "777",
+            "w": "0"
+        },
+        "5805287": {
+            "name": "'Grovbr\u00f8d'",
+            "type": "777",
+            "w": "0"
+        },
+        "5801674": {
+            "name": "'tamtunt'",
+            "type": "777",
+            "w": "0"
+        },
+        "5801289": {
+            "name": "'kesra'",
+            "type": "777",
+            "w": "0"
+        },
+        "5801334": {
+            "name": "'khobz ettadjine'",
+            "type": "777",
+            "w": "0"
+        },
+        "5800919": {
+            "name": "'cu\u00f1ap\u00e9'",
+            "type": "777",
+            "w": "0"
+        },
+        "5801035": {
+            "name": "'pain au curry'",
+            "type": "777",
+            "w": "0"
+        },
+        "406083": {
+            "name": "'bun'",
+            "type": "1",
+            "w": "50"
+        },
+        "2479599": {
+            "name": "'boublik'",
+            "type": "1",
+            "w": "0"
+        },
+        "5792466": {
+            "name": "'Bara brith'",
+            "type": "777",
+            "w": "0"
+        },
+        "420727": {
+            "name": "'kouign'",
+            "type": "1",
+            "w": "50"
+        },
+        "5787574": {
+            "name": "'pain bri\u00e9'",
+            "type": "777",
+            "w": "0"
+        },
+        "5787755": {
+            "name": "'pulenda'",
+            "type": "777",
+            "w": "0"
+        },
+        "566847": {
+            "name": "'ipo'",
+            "type": "777",
+            "w": "50"
+        },
+        "5786240": {
+            "name": "'pain coco'",
+            "type": "777",
+            "w": "0"
+        },
+        "5786458": {
+            "name": "'baguette de Paris'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622585": {
+            "name": "'guastedda'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622584": {
+            "name": "'vastiedda'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621513": {
+            "name": "'Bouchiyyar'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622490": {
+            "name": "'Tanourt'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622572": {
+            "name": "'tsour\u00e9ki'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621980": {
+            "name": "'khobz mbesses'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621981": {
+            "name": "'khobz mzouweq'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621982": {
+            "name": "'khobz talian'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621992": {
+            "name": "'Labza'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621997": {
+            "name": "'l\u00e1ngos'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621999": {
+            "name": "'lazar\u00e1kia'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622020": {
+            "name": "'pain madfouna'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622026": {
+            "name": "'Taicht'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622025": {
+            "name": "'merdouma'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622071": {
+            "name": "'pain tress\u00e9 et natt\u00e9'",
+            "type": "777",
+            "w": "0"
+        },
+        "5622466": {
+            "name": "'tafarnout'",
+            "type": "777",
+            "w": "0"
+        },
+        "5621421": {
+            "name": "'abadir de Imilchil'",
+            "type": "777",
+            "w": "0"
+        },
+        "5619906": {
+            "name": "'pan dulce'",
+            "type": "777",
+            "w": "0"
+        },
+        "3490555": {
+            "name": "'matsa'",
+            "type": "777",
+            "w": "0"
+        },
+        "244395": {
+            "name": "'papier azyme'",
+            "type": "1",
+            "w": "50"
+        },
+        "300136": {
+            "name": "'papier hostie'",
+            "type": "777",
+            "w": "50"
+        },
+        "2510683": {
+            "name": "'macatia'",
+            "type": "1",
+            "w": "0"
+        },
+        "2515807": {
+            "name": "'m\u00e9ture'",
+            "type": "1",
+            "w": "0"
+        },
+        "2599309": {
+            "name": "'koulouri'",
+            "type": "777",
+            "w": "0"
+        },
+        "2434320": {
+            "name": "'simit'",
+            "type": "1",
+            "w": "0"
+        },
+        "13736": {
+            "name": "'Pain dur'",
+            "type": "1",
+            "w": "50"
+        },
+        "4337111": {
+            "name": "'pain croustillant'",
+            "type": "1",
+            "w": "0"
+        },
+        "19773": {
+            "name": "'oublie'",
+            "type": "1",
+            "w": "68"
+        },
+        "137479": {
+            "name": "'empereur'",
+            "type": "1",
+            "w": "3474"
+        },
+        "47459": {
+            "name": "'longuet'",
+            "type": "1",
+            "w": "88"
+        },
+        "37905": {
+            "name": "'mie'",
+            "type": "1",
+            "w": "270"
+        },
+        "4312221": {
+            "name": "'soupe&gt;93138&gt;61283'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'soupe&gt;potage&gt;pain'"
+        },
+        "62524": {
+            "name": "'biscuit'",
+            "type": "1",
+            "w": "704"
+        },
+        "2448": {
+            "name": "'tresse'",
+            "type": "1",
+            "w": "192"
+        },
+        "3939646": {
+            "name": "'pain polka'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746216": {
+            "name": "'pain d'\u00e9pices pour foie gras'",
+            "type": "1",
+            "w": "0"
+        },
+        "2366844": {
+            "name": "'mannala'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746272": {
+            "name": "'pain perdu authentique'",
+            "type": "1",
+            "w": "0"
+        },
+        "3753310": {
+            "name": "'pain rassis coup\u00e9 en tranches'",
+            "type": "1",
+            "w": "0"
+        },
+        "3755725": {
+            "name": "'pain de campagne un peu rassis'",
+            "type": "1",
+            "w": "0"
+        },
+        "3756990": {
+            "name": "'pain blanc coup\u00e9 en cubes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3756992": {
+            "name": "'pain complet coup\u00e9 en cubes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3757296": {
+            "name": "'pain sec tremp\u00e9 dans de l'eau'",
+            "type": "1",
+            "w": "0"
+        },
+        "3757899": {
+            "name": "'pain focaccia'",
+            "type": "1",
+            "w": "0"
+        },
+        "3757958": {
+            "name": "'pain d'\u00e9pice nature tranch\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3757961": {
+            "name": "'pain pitas'",
+            "type": "1",
+            "w": "0"
+        },
+        "3758144": {
+            "name": "'pain pita coup\u00e9 en deux'",
+            "type": "1",
+            "w": "0"
+        },
+        "3758879": {
+            "name": "'pain dur hach\u00e9 ou de chapelure'",
+            "type": "1",
+            "w": "0"
+        },
+        "3751160": {
+            "name": "'pain sec hach\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745668": {
+            "name": "'pain Pita'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745691": {
+            "name": "'pain aux \u00e9pinards et au fromage'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745715": {
+            "name": "'pain marocain Ksra'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745841": {
+            "name": "'pain d'\u00e9pice pour une maison de No\u00ebl'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745912": {
+            "name": "'pain aux raisins et \u00e0 la cannelle'",
+            "type": "1",
+            "w": "2"
+        },
+        "3745950": {
+            "name": "'pain indien le naan au fromage'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745987": {
+            "name": "'pain sans p\u00e9trissage'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746008": {
+            "name": "'pain aux raisins et aux graines de carvi'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746075": {
+            "name": "'pain brioch\u00e9 \u00e0 la pur\u00e9e de pommes de terre'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746109": {
+            "name": "'pain d'\u00e9pices toast\u00e9 et ses pommes fondantes au cidre'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746204": {
+            "name": "'pain au gingembre glac\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746245": {
+            "name": "'pain sans gluten \u00e0 la machine \u00e0 pain'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746434": {
+            "name": "'pain au chocolat et amandes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746634": {
+            "name": "'pain aux noix sans p\u00e9trissage'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746660": {
+            "name": "'pain complet \u00e0 la banane'",
+            "type": "1",
+            "w": "0"
+        },
+        "3746883": {
+            "name": "'pain de banane aux noix de p\u00e9can'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745436": {
+            "name": "'pain \u00e0 burger maison'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745375": {
+            "name": "'pain de thon au naturel'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745286": {
+            "name": "'pain brioch\u00e9 aux raisins'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745304": {
+            "name": "'pain au chocolat au lait'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745275": {
+            "name": "'pain brioch\u00e9 tress\u00e9 facile'",
+            "type": "1",
+            "w": "0"
+        },
+        "3745005": {
+            "name": "'pain aux raisins et au rhum'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744975": {
+            "name": "'pain \u00e0 la banane et \u00e0 la cannelle'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744739": {
+            "name": "'pain perdu minute'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744770": {
+            "name": "'pain d'\u00e9pice au beurre et \u00e0 la farine compl\u00e8te'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744642": {
+            "name": "'pain perdu au four \u00e0 la rhubarbe et aux noix'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744452": {
+            "name": "'pain aux cerises et raisins secs'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744552": {
+            "name": "'pain perdu moelleux'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744359": {
+            "name": "'pain \u00e0 la cannelle et aux raisins'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744437": {
+            "name": "'pain sportif'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744377": {
+            "name": "'pain aux kakis moelleux et \u00e9pic\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744091": {
+            "name": "'pain de courgettes sans farine'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744214": {
+            "name": "'pain en machine au chocolat blanc'",
+            "type": "1",
+            "w": "0"
+        },
+        "3743952": {
+            "name": "'pain brioch\u00e9 allemand aux raisins'",
+            "type": "1",
+            "w": "0"
+        },
+        "3744028": {
+            "name": "'pain \u00e0 la banane et aux noix'",
+            "type": "1",
+            "w": "0"
+        },
+        "3743946": {
+            "name": "'pain d'\u00e9pices \u00e0 la pomme'",
+            "type": "1",
+            "w": "0"
+        },
+        "3743925": {
+            "name": "'pain viennois aux p\u00e9pites'",
+            "type": "1",
+            "w": "0"
+        },
+        "3743833": {
+            "name": "'pain au piment'",
+            "type": "1",
+            "w": "0"
+        },
+        "3759369": {
+            "name": "'pain irlandais (Spotted Dog Irish Bread)'",
+            "type": "1",
+            "w": "0"
+        },
+        "3763669": {
+            "name": "'pain dur'",
+            "type": "1",
+            "w": "10"
+        },
+        "17761": {
+            "name": "'brignolet'",
+            "type": "1",
+            "w": "50"
+        },
+        "3301257": {
+            "name": "'schneck&gt;156579'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'schneck&gt;pain aux raisins'"
+        },
+        "232592": {
+            "name": "'hostie&gt;61283'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'hostie&gt;pain'"
+        },
+        "2499894": {
+            "name": "'mantou'",
+            "type": "1",
+            "w": "0"
+        },
+        "285382": {
+            "name": "'fouasse'",
+            "type": "777",
+            "w": "50"
+        },
+        "223411": {
+            "name": "'pan-bagnat'",
+            "type": "666",
+            "w": "50"
+        },
+        "308165": {
+            "name": "'pan bagnat'",
+            "type": "777",
+            "w": "52"
+        },
+        "3366092": {
+            "name": "'pain perdu aux framboises'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366075": {
+            "name": "'pain de viande aux \u00e9pinards'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366093": {
+            "name": "'pain perdu aux reines claudes, ou autres prunes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366091": {
+            "name": "'pain perdu aux \u00e9pices'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366089": {
+            "name": "'pain perdu au foie gras acidul\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365993": {
+            "name": "'pain au beurre d\u00e9licieux'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366069": {
+            "name": "'pain de thon au basilic et a\u00efoli'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366082": {
+            "name": "'pain perdu \u00e0 la cannelle et aux noisettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366000": {
+            "name": "'pain aux noix et aux raisins vaudois'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366090": {
+            "name": "'pain perdu au saumon fum\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366051": {
+            "name": "'pain de poisson aux herbes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366070": {
+            "name": "'pain de thon au persil'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366098": {
+            "name": "'pain perdu souffl\u00e9 au fromage blanc'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366061": {
+            "name": "'pain de saumon aux crevettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366099": {
+            "name": "'pain pita aux tomates et \u00e0 la cr\u00e8me'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366047": {
+            "name": "'pain de poisson au saumon et surimi'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366071": {
+            "name": "'pain de thon et sa salade'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365995": {
+            "name": "'pain au lait caill\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366085": {
+            "name": "'pain perdu \u00e0 la fourme d'ambert'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366049": {
+            "name": "'pain de poisson aux baies roses et \u00e0 la ciboulette'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366046": {
+            "name": "'pain de poisson au persil'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366068": {
+            "name": "'pain de thon \u00e0 la tomate'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366087": {
+            "name": "'pain perdu au camembert'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366095": {
+            "name": "'pain perdu rapide'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366084": {
+            "name": "'pain perdu \u00e0 la fleur d'oranger et au chocolat blanc'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366012": {
+            "name": "'pain de courgettes au surimi'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366083": {
+            "name": "'pain perdu \u00e0 la cassonade et \u00e0 la cannelle'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366097": {
+            "name": "'pain perdu sal\u00e9 tomat\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366088": {
+            "name": "'pain perdu au caramel de beurre sal\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366094": {
+            "name": "'pain perdu des montagnes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366072": {
+            "name": "'pain de thon facile aux pommes de terre'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366050": {
+            "name": "'pain de poisson aux courgettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366081": {
+            "name": "'pain maison \u00e0 la levure de bi\u00e8re'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366054": {
+            "name": "'pain de poisson, lieu jaune et saumon'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366086": {
+            "name": "'pain perdu \u00e0 la vanille'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366002": {
+            "name": "'pain brioch\u00e9 gratin\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366020": {
+            "name": "'pain de mie \u00e0 la po\u00eale'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366056": {
+            "name": "'pain de poisson mousseline'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366055": {
+            "name": "'pain de poisson, lieu noir et truite'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365999": {
+            "name": "'pain aux fruits secs et s\u00e9ch\u00e9s'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366045": {
+            "name": "'pain de poisson au crabe'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366048": {
+            "name": "'pain de poisson aux 2 saumons, sauce citron vert'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366052": {
+            "name": "'pain de poisson, colin'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366021": {
+            "name": "'pain de mie fa\u00e7on pizza'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366001": {
+            "name": "'pain brioch\u00e9 aux fines herbes et au cumin'",
+            "type": "1",
+            "w": "0"
+        },
+        "9932235": {
+            "name": "'hostie&gt;146881'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'hostie&gt;Nom:Fem+SG'"
+        },
+        "3365991": {
+            "name": "'pain \u00e0 la farine de ch\u00e2taigne et au figatelli'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365992": {
+            "name": "'pain \u00e0 la tomate'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365994": {
+            "name": "'pain au crabe'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365996": {
+            "name": "'pain aux bananes et aux fraises, banana and strawberry bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365997": {
+            "name": "'pain aux bananes et noix'",
+            "type": "1",
+            "w": "0"
+        },
+        "3365998": {
+            "name": "'pain aux fruits secs'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366003": {
+            "name": "'pain classique \u00e0 la machine \u00e0 pain'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366004": {
+            "name": "'pain d'anis , alsace'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366005": {
+            "name": "'pain d'aubergine au coulis de tomates'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366006": {
+            "name": "'pain d'aubergines au coulis de tomate'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366007": {
+            "name": "'pain d'aubergines au lard'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366008": {
+            "name": "'pain de banane'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366009": {
+            "name": "'pain de blettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366010": {
+            "name": "'pain de chou vert \u00e0 la viande hach\u00e9e'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366011": {
+            "name": "'pain de courgettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366013": {
+            "name": "'pain de crabe'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366014": {
+            "name": "'pain de feuilles de blettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366015": {
+            "name": "'pain de filets de dinde'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366016": {
+            "name": "'pain de jambon aux courgettes et au gouda'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366017": {
+            "name": "'pain de la saint martin'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366018": {
+            "name": "'pain de l\u00e9gumes all\u00e9g\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366019": {
+            "name": "'pain de l\u00e9gumes aux couleurs d'\u00e9t\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366022": {
+            "name": "'pain d'\u00e9pice \u00e0 l'orange'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366023": {
+            "name": "'pain d'epices'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366024": {
+            "name": "'pain d'\u00e9pices \u00e0 la dijonnaise'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366025": {
+            "name": "'pain d'\u00e9pices \u00e0 l'anis'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366026": {
+            "name": "'pain d'\u00e9pices, anis et cannelle'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366027": {
+            "name": "'pain d'\u00e9pices \u00e0 trois mains'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366028": {
+            "name": "'pain d'\u00e9pices au chocolat et au miel'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366029": {
+            "name": "'pain d'\u00e9pices au miel'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366030": {
+            "name": "'pain d'\u00e9pices aux fruits secs'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366031": {
+            "name": "'pain d'\u00e9pices aux noisettes et aux fruits'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366032": {
+            "name": "'pain d'\u00e9pices avec machine \u00e0 pain'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366033": {
+            "name": "'pain d'\u00e9pices corse'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366034": {
+            "name": "'pain d'\u00e9pices de dijon'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366035": {
+            "name": "'pain d'\u00e9pices de tata coco'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366037": {
+            "name": "'pain d'\u00e9pices l\u00e9ger de fanny'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366038": {
+            "name": "'pain d'\u00e9pices parfum\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366039": {
+            "name": "'pain d'\u00e9pices perdu exotique'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366040": {
+            "name": "'pain d'\u00e9pices rapide'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366042": {
+            "name": "'pain d'\u00e9pices, sans oeufs!'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366043": {
+            "name": "'pain d'\u00e9pice surprise'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366044": {
+            "name": "'pain de poireaux'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366057": {
+            "name": "'pain de poissons \u00e0 la tomate'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366058": {
+            "name": "'pain de potiron \u00e0 la normande'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366059": {
+            "name": "'pain de ratatouille'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366060": {
+            "name": "'pain de saumon'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366062": {
+            "name": "'pain des bords de mer : thon crevette'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366063": {
+            "name": "'pain de semoule aux raisins secs'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366064": {
+            "name": "'pain de sole \u00e0 la langouste'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366065": {
+            "name": "'pain de st jacques'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366066": {
+            "name": "'pain de surimi'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366067": {
+            "name": "'pain de thon'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366073": {
+            "name": "'pain de veau au citron'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366074": {
+            "name": "'pain d'\u00e9v\u00eaque'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366077": {
+            "name": "'pain d'hachis accompagn\u00e9 de pommes frites'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366078": {
+            "name": "'pain doux bigouden'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366080": {
+            "name": "'pain l\u00e9ger de colin et courgettes'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366100": {
+            "name": "'pain pizza'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366102": {
+            "name": "'pain plein d'\u00e9pices'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366103": {
+            "name": "'pain pour machine \u00e0 pain'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366104": {
+            "name": "'pain safran\u00e9 \u00e0 la machine \u00e0 pain'",
+            "type": "1",
+            "w": "0"
+        },
+        "3366114": {
+            "name": "'pain traditionnel'",
+            "type": "1",
+            "w": "0"
+        },
+        "3319109": {
+            "name": "'pain croustillant dit Kn\u00e4ckebr\u00f6d'",
+            "type": "1",
+            "w": "0"
+        },
+        "3319110": {
+            "name": "'pain croustillant Kn\u00e4ckebrot'",
+            "type": "1",
+            "w": "0"
+        },
+        "3319555": {
+            "name": "'pain de teff'",
+            "type": "1",
+            "w": "0"
+        },
+        "3320992": {
+            "name": "'pain fait \u00e0 la maison'",
+            "type": "1",
+            "w": "0"
+        },
+        "3320993": {
+            "name": "'pain maison'",
+            "type": "1",
+            "w": "4"
+        },
+        "3321157": {
+            "name": "'pain matze'",
+            "type": "1",
+            "w": "0"
+        },
+        "3318826": {
+            "name": "'pain d'asperges sauce mousseline'",
+            "type": "1",
+            "w": "0"
+        },
+        "3318785": {
+            "name": "'pain de viande, sauce \u00e0 la bi\u00e8re brune'",
+            "type": "1",
+            "w": "0"
+        },
+        "3318758": {
+            "name": "'pain de thon, crevettes et moules au cumin'",
+            "type": "1",
+            "w": "0"
+        },
+        "3318691": {
+            "name": "'pain de viande au cumin et \u00e0 la menthe'",
+            "type": "1",
+            "w": "0"
+        },
+        "3301349": {
+            "name": "'pain de sucre&gt;124187'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pain de sucre&gt;chicor\u00e9e'"
+        },
+        "3301348": {
+            "name": "'pain de sucre&gt;139481'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pain de sucre&gt;sucre'"
+        },
+        "37432": {
+            "name": "'salignon'",
+            "type": "1",
+            "w": "50"
+        },
+        "3322624": {
+            "name": "'pain croquant su\u00e9dois'",
+            "type": "777",
+            "w": "0"
+        },
+        "8103947": {
+            "name": "'en:matzo'",
+            "type": "1",
+            "w": "0"
+        },
+        "2531879": {
+            "name": "'matzo'",
+            "type": "1",
+            "w": "0"
+        },
+        "2475310": {
+            "name": "'pain bagnat'",
+            "type": "1",
+            "w": "0"
+        },
+        "2609101": {
+            "name": "'pain oriental'",
+            "type": "1",
+            "w": "0"
+        },
+        "2434803": {
+            "name": "'pain \u00e0 chanter'",
+            "type": "1",
+            "w": "0"
+        },
+        "160930": {
+            "name": "'chocolatine'",
+            "type": "1",
+            "w": "170"
+        },
+        "204924": {
+            "name": "'pain du roi'",
+            "type": "1",
+            "w": "50"
+        },
+        "156579": {
+            "name": "'pain aux raisins'",
+            "type": "1",
+            "w": "118"
+        },
+        "73445": {
+            "name": "'chapelure'",
+            "type": "1",
+            "w": "100"
+        },
+        "3225646": {
+            "name": "'pain \u00e0 cacheter&gt;73893'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pain \u00e0 cacheter&gt;singe'"
+        },
+        "3301350": {
+            "name": "'pain de sucre&gt;370604'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pain de sucre&gt;piton rocheux'"
+        },
+        "291137": {
+            "name": "'beguel'",
+            "type": "777",
+            "w": "50"
+        },
+        "291136": {
+            "name": "'baguel'",
+            "type": "777",
+            "w": "50"
+        },
+        "2491794": {
+            "name": "'croustipain'",
+            "type": "1",
+            "w": "0"
+        },
+        "2512502": {
+            "name": "'puri'",
+            "type": "1",
+            "w": "0"
+        },
+        "2484004": {
+            "name": "'schneck'",
+            "type": "1",
+            "w": "0"
+        },
+        "2409808": {
+            "name": "'chnek'",
+            "type": "1",
+            "w": "0"
+        },
+        "2490225": {
+            "name": "'petit-deux'",
+            "type": "1",
+            "w": "0"
+        },
+        "2436423": {
+            "name": "'Pumpernickel'",
+            "type": "1",
+            "w": "0"
+        },
+        "53713": {
+            "name": "'fouace'",
+            "type": "1",
+            "w": "64"
+        },
+        "2222708": {
+            "name": "'marquette'",
+            "type": "2",
+            "w": "0"
+        },
+        "3245649": {
+            "name": "'tresse&gt;119014'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'tresse&gt;boulangerie'"
+        },
+        "2387535": {
+            "name": "'yaka'",
+            "type": "1",
+            "w": "0"
+        },
+        "2454596": {
+            "name": "'gros-guillaume'",
+            "type": "1",
+            "w": "0"
+        },
+        "204913": {
+            "name": "'pain b\u00e9nit'",
+            "type": "1",
+            "w": "50"
+        },
+        "204919": {
+            "name": "'pain de munition'",
+            "type": "1",
+            "w": "50"
+        },
+        "2439977": {
+            "name": "'prosphore'",
+            "type": "1",
+            "w": "0"
+        },
+        "2429262": {
+            "name": "'schn\u00e8que'",
+            "type": "1",
+            "w": "0"
+        },
+        "255905": {
+            "name": "'petit pain au chocolat'",
+            "type": "1",
+            "w": "52"
+        },
+        "223459": {
+            "name": "'petit pain'",
+            "type": "1",
+            "w": "66"
+        },
+        "289583": {
+            "name": "'couque au chocolat'",
+            "type": "777",
+            "w": "50"
+        },
+        "2367152": {
+            "name": "'mannele'",
+            "type": "1",
+            "w": "0"
+        },
+        "227591": {
+            "name": "'soupe&gt;93138'",
+            "type": "1",
+            "w": "214",
+            "formated name": "'soupe&gt;potage'"
+        },
+        "146": {
+            "name": "'craquelin'",
+            "type": "1",
+            "w": "68"
+        },
+        "76913": {
+            "name": "'hostie'",
+            "type": "1",
+            "w": "80"
+        },
+        "2953892": {
+            "name": "'oublie&gt;231735'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'oublie&gt;pain d'autel'"
+        },
+        "2363850": {
+            "name": "'aum\u00f4n\u00e9e'",
+            "type": "1",
+            "w": "0"
+        },
+        "214789": {
+            "name": "'biscuit&gt;191827'",
+            "type": "1",
+            "w": "200",
+            "formated name": "'biscuit&gt;g\u00e2teau sec'"
+        },
+        "5723": {
+            "name": "'aillade'",
+            "type": "1",
+            "w": "50"
+        },
+        "3246567": {
+            "name": "'pain russe'",
+            "type": "777",
+            "w": "0"
+        },
+        "3225167": {
+            "name": "'pain de fantaisie'",
+            "type": "1",
+            "w": "0"
+        },
+        "3225650": {
+            "name": "'pain \u00e0 cacheter&gt;17545'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'pain \u00e0 cacheter&gt;sceau'"
+        },
+        "8103307": {
+            "name": "'en:hot cross bun'",
+            "type": "1",
+            "w": "0"
+        },
+        "587837": {
+            "name": "'pain suisse'",
+            "type": "777",
+            "w": "0"
+        },
+        "216976": {
+            "name": "'pain proven\u00e7al'",
+            "type": "1",
+            "w": "10"
+        },
+        "211446": {
+            "name": "'pain d'amande'",
+            "type": "1",
+            "w": "50"
+        },
+        "211447": {
+            "name": "'pain d'avoine'",
+            "type": "1",
+            "w": "50"
+        },
+        "211448": {
+            "name": "'pain d'orge'",
+            "type": "1",
+            "w": "50"
+        },
+        "204923": {
+            "name": "'pain du ciel'",
+            "type": "1",
+            "w": "50"
+        },
+        "204921": {
+            "name": "'pain de son'",
+            "type": "1",
+            "w": "50"
+        },
+        "204918": {
+            "name": "'pain de gluten'",
+            "type": "1",
+            "w": "50"
+        },
+        "204926": {
+            "name": "'pain moul\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "204915": {
+            "name": "'pain de boulanger'",
+            "type": "1",
+            "w": "50"
+        },
+        "204922": {
+            "name": "'pain de vie'",
+            "type": "1",
+            "w": "50"
+        },
+        "204929": {
+            "name": "'pain souffl\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "204925": {
+            "name": "'pain industriel'",
+            "type": "1",
+            "w": "52"
+        },
+        "204917": {
+            "name": "'pain de G\u00eanes'",
+            "type": "1",
+            "w": "50"
+        },
+        "17453446": {
+            "name": "'pain de farine blanche'",
+            "type": "1",
+            "w": "0"
+        },
+        "10895893": {
+            "name": "'pain italien'",
+            "type": "1",
+            "w": "4"
+        },
+        "2403584": {
+            "name": "'pain de guerre'",
+            "type": "1",
+            "w": "0"
+        },
+        "12989696": {
+            "name": "'pain arabe'",
+            "type": "777",
+            "w": "0"
+        },
+        "10962932": {
+            "name": "'pain en forme de couronne'",
+            "type": "1",
+            "w": "0"
+        },
+        "14557755": {
+            "name": "'pain d'abeille'",
+            "type": "1",
+            "w": "0"
+        },
+        "14558115": {
+            "name": "'pain en \u00e9pi'",
+            "type": "1",
+            "w": "6"
+        },
+        "77801": {
+            "name": "'scone'",
+            "type": "1",
+            "w": "50"
+        },
+        "11295704": {
+            "name": "'pain cuit'",
+            "type": "1",
+            "w": "0"
+        },
+        "11350438": {
+            "name": "'pain de perdrix'",
+            "type": "777",
+            "w": "0"
+        },
+        "12989697": {
+            "name": "'pain syrien'",
+            "type": "777",
+            "w": "0"
+        },
+        "12989698": {
+            "name": "'pain turc'",
+            "type": "777",
+            "w": "0"
+        },
+        "2561598": {
+            "name": "'matza'",
+            "type": "1",
+            "w": "0"
+        },
+        "15256106": {
+            "name": "'en:sandwich bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "2505223": {
+            "name": "'pr\u00e9fou'",
+            "type": "1",
+            "w": "0"
+        },
+        "14952632": {
+            "name": "'en:sandwich loaf'",
+            "type": "1",
+            "w": "0"
+        },
+        "15683428": {
+            "name": "'::&gt;66:61283&gt;26:3038'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] p\u00e9trir'"
+        },
+        "15200530": {
+            "name": "'en:block of ice'",
+            "type": "1",
+            "w": "0"
+        },
+        "7288136": {
+            "name": "'en:milk bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "13426629": {
+            "name": "'pain medfouna'",
+            "type": "777",
+            "w": "0"
+        },
+        "15849075": {
+            "name": "'::&gt;66:61283&gt;24:14326649'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [peut] cuire [endroit] four'"
+        },
+        "15849074": {
+            "name": "'::&gt;66:61283&gt;24:5115'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [peut] cuire'"
+        },
+        "15849080": {
+            "name": "'::&gt;66:61283&gt;24:15849078'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [peut] se trouver [endroit] table de la cuisine'"
+        },
+        "15849077": {
+            "name": "'::&gt;66:61283&gt;24:37229'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [peut] se trouver'"
+        },
+        "8085274": {
+            "name": "'en:sponge cake'",
+            "type": "1",
+            "w": "0"
+        },
+        "15297209": {
+            "name": "'en:Genoa bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "10822405": {
+            "name": "'pain sucr\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "14922631": {
+            "name": "'en:baguette'",
+            "type": "1",
+            "w": "0"
+        },
+        "15364559": {
+            "name": "'pain coup\u00e9 en tranches'",
+            "type": "1",
+            "w": "0"
+        },
+        "15364558": {
+            "name": "'en:sliced bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "7288116": {
+            "name": "'en:rye bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "14922634": {
+            "name": "'en:French stick'",
+            "type": "1",
+            "w": "0"
+        },
+        "15200531": {
+            "name": "'en:supply bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "16324120": {
+            "name": "'::&gt;66:61283&gt;26:73827'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] voler'"
+        },
+        "14952626": {
+            "name": "'en:chocolate croissant'",
+            "type": "1",
+            "w": "0"
+        },
+        "14486215": {
+            "name": "'pain artisanal'",
+            "type": "1",
+            "w": "0"
+        },
+        "14486287": {
+            "name": "'pain aux olives'",
+            "type": "1",
+            "w": "2"
+        },
+        "14510690": {
+            "name": "'pain de seigne'",
+            "type": "1",
+            "w": "0"
+        },
+        "2554047": {
+            "name": "'chupatty'",
+            "type": "1",
+            "w": "0"
+        },
+        "15420027": {
+            "name": "'en:ice block'",
+            "type": "1",
+            "w": "0"
+        },
+        "15420028": {
+            "name": "'en:freezer block'",
+            "type": "1",
+            "w": "0"
+        },
+        "15050785": {
+            "name": "'en:ice pack'",
+            "type": "1",
+            "w": "0"
+        },
+        "15253575": {
+            "name": "'en:ginger-bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "15409352": {
+            "name": "'en:holy bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "16387279": {
+            "name": "'pain liquide'",
+            "type": "1",
+            "w": "0"
+        },
+        "15082490": {
+            "name": "'en:fish loaf'",
+            "type": "1",
+            "w": "0"
+        },
+        "14752811": {
+            "name": "'petit pain su\u00e9dois'",
+            "type": "1",
+            "w": "0"
+        },
+        "14755251": {
+            "name": "'pain de carabin'",
+            "type": "777",
+            "w": "0"
+        },
+        "14450971": {
+            "name": "'::&gt;66:61283&gt;26:29926'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] acheter'"
+        },
+        "12080387": {
+            "name": "'pain d'\u00e9picier'",
+            "type": "1",
+            "w": "0"
+        },
+        "12080388": {
+            "name": "'pain d'\u00e9pici\u00e8re'",
+            "type": "1",
+            "w": "0"
+        },
+        "3863755": {
+            "name": "'ciabata'",
+            "type": "1",
+            "w": "0"
+        },
+        "15310900": {
+            "name": "'en:grey bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "86296": {
+            "name": "'lait'",
+            "type": "1",
+            "w": "3756"
+        },
+        "218057": {
+            "name": "'lait&gt;114637'",
+            "type": "1",
+            "w": "294",
+            "formated name": "'lait&gt;aliment'"
+        },
+        "216120": {
+            "name": "'recette de cuisine'",
+            "type": "1",
+            "w": "140"
+        },
+        "1803620": {
+            "name": "'restaurant&gt;146885'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'restaurant&gt;Nom:Mas+SG'"
+        },
+        "2073300": {
+            "name": "'lumps'",
+            "type": "2",
+            "w": "0"
+        },
+        "19636": {
+            "name": "'r\u00f4ti'",
+            "type": "1",
+            "w": "364"
+        }
+    },
+    "r": {
+        "410466": {
+            "node1": "61283",
+            "node2": "128482",
+            "type": "8",
+            "w": "224"
+        },
+        "1816885": {
+            "node1": "61283",
+            "node2": "130548",
+            "type": "8",
+            "w": "151"
+        },
+        "1972114": {
+            "node1": "61283",
+            "node2": "163027",
+            "type": "8",
+            "w": "113"
+        },
+        "1972111": {
+            "node1": "61283",
+            "node2": "160122",
+            "type": "8",
+            "w": "113"
+        },
+        "2062032": {
+            "node1": "61283",
+            "node2": "94536",
+            "type": "8",
+            "w": "111"
+        },
+        "2062031": {
+            "node1": "61283",
+            "node2": "244083",
+            "type": "8",
+            "w": "111"
+        },
+        "2061581": {
+            "node1": "61283",
+            "node2": "244073",
+            "type": "8",
+            "w": "101"
+        },
+        "1972117": {
+            "node1": "61283",
+            "node2": "158444",
+            "type": "8",
+            "w": "101"
+        },
+        "1972108": {
+            "node1": "61283",
+            "node2": "204927",
+            "type": "8",
+            "w": "101"
+        },
+        "437321": {
+            "node1": "61283",
+            "node2": "138712",
+            "type": "8",
+            "w": "101"
+        },
+        "1974196": {
+            "node1": "61283",
+            "node2": "213758",
+            "type": "8",
+            "w": "70"
+        },
+        "2142128": {
+            "node1": "61283",
+            "node2": "213573",
+            "type": "8",
+            "w": "64"
+        },
+        "437320": {
+            "node1": "61283",
+            "node2": "146257",
+            "type": "8",
+            "w": "64"
+        },
+        "9821808": {
+            "node1": "61283",
+            "node2": "264910",
+            "type": "8",
+            "w": "58"
+        },
+        "2024558": {
+            "node1": "61283",
+            "node2": "213482",
+            "type": "8",
+            "w": "58"
+        },
+        "9699041": {
+            "node1": "61283",
+            "node2": "219151",
+            "type": "8",
+            "w": "56"
+        },
+        "31127861": {
+            "node1": "61283",
+            "node2": "161669",
+            "type": "8",
+            "w": "55"
+        },
+        "9760648": {
+            "node1": "61283",
+            "node2": "24786",
+            "type": "8",
+            "w": "53"
+        },
+        "9756969": {
+            "node1": "61283",
+            "node2": "242522",
+            "type": "8",
+            "w": "53"
+        },
+        "9752883": {
+            "node1": "61283",
+            "node2": "251791",
+            "type": "8",
+            "w": "53"
+        },
+        "9752882": {
+            "node1": "61283",
+            "node2": "251790",
+            "type": "8",
+            "w": "53"
+        },
+        "24964543": {
+            "node1": "61283",
+            "node2": "253853",
+            "type": "8",
+            "w": "51"
+        },
+        "9698859": {
+            "node1": "61283",
+            "node2": "123693",
+            "type": "8",
+            "w": "49"
+        },
+        "34663590": {
+            "node1": "61283",
+            "node2": "2348391",
+            "type": "8",
+            "w": "44"
+        },
+        "34663552": {
+            "node1": "61283",
+            "node2": "2348383",
+            "type": "8",
+            "w": "43"
+        },
+        "9685100": {
+            "node1": "61283",
+            "node2": "156823",
+            "type": "8",
+            "w": "43"
+        },
+        "9683798": {
+            "node1": "61283",
+            "node2": "231390",
+            "type": "8",
+            "w": "43"
+        },
+        "9680626": {
+            "node1": "61283",
+            "node2": "222839",
+            "type": "8",
+            "w": "43"
+        },
+        "9679568": {
+            "node1": "61283",
+            "node2": "80875",
+            "type": "8",
+            "w": "43"
+        },
+        "9678705": {
+            "node1": "61283",
+            "node2": "213430",
+            "type": "8",
+            "w": "43"
+        },
+        "246840158": {
+            "node1": "61283",
+            "node2": "5622583",
+            "type": "8",
+            "w": "42"
+        },
+        "30745674": {
+            "node1": "61283",
+            "node2": "91273",
+            "type": "8",
+            "w": "42"
+        },
+        "27536365": {
+            "node1": "61283",
+            "node2": "56050",
+            "type": "8",
+            "w": "42"
+        },
+        "273085558": {
+            "node1": "61283",
+            "node2": "10895900",
+            "type": "8",
+            "w": "41"
+        },
+        "273085556": {
+            "node1": "61283",
+            "node2": "5621578",
+            "type": "8",
+            "w": "41"
+        },
+        "34663581": {
+            "node1": "61283",
+            "node2": "2348355",
+            "type": "8",
+            "w": "41"
+        },
+        "34367769": {
+            "node1": "61283",
+            "node2": "248974",
+            "type": "8",
+            "w": "41"
+        },
+        "31127862": {
+            "node1": "61283",
+            "node2": "144832",
+            "type": "8",
+            "w": "41"
+        },
+        "31127779": {
+            "node1": "61283",
+            "node2": "225489",
+            "type": "8",
+            "w": "41"
+        },
+        "30851709": {
+            "node1": "61283",
+            "node2": "177274",
+            "type": "8",
+            "w": "41"
+        },
+        "30774898": {
+            "node1": "61283",
+            "node2": "168282",
+            "type": "8",
+            "w": "41"
+        },
+        "30617484": {
+            "node1": "61283",
+            "node2": "232183",
+            "type": "8",
+            "w": "41"
+        },
+        "243412842": {
+            "node1": "61283",
+            "node2": "2556969",
+            "type": "8",
+            "w": "40"
+        },
+        "273085564": {
+            "node1": "61283",
+            "node2": "10895902",
+            "type": "8",
+            "w": "39"
+        },
+        "273085560": {
+            "node1": "61283",
+            "node2": "10895901",
+            "type": "8",
+            "w": "39"
+        },
+        "30448112": {
+            "node1": "61283",
+            "node2": "139616",
+            "type": "8",
+            "w": "39"
+        },
+        "371865758": {
+            "node1": "61283",
+            "node2": "12855",
+            "type": "8",
+            "w": "38"
+        },
+        "273085562": {
+            "node1": "61283",
+            "node2": "437277",
+            "type": "8",
+            "w": "38"
+        },
+        "248641663": {
+            "node1": "61283",
+            "node2": "2366506",
+            "type": "8",
+            "w": "38"
+        },
+        "34767097": {
+            "node1": "61283",
+            "node2": "137681",
+            "type": "8",
+            "w": "38"
+        },
+        "31127860": {
+            "node1": "61283",
+            "node2": "204914",
+            "type": "8",
+            "w": "38"
+        },
+        "31127855": {
+            "node1": "61283",
+            "node2": "45269",
+            "type": "8",
+            "w": "38"
+        },
+        "14162642": {
+            "node1": "61283",
+            "node2": "368097",
+            "type": "8",
+            "w": "38"
+        },
+        "33820163": {
+            "node1": "61283",
+            "node2": "368092",
+            "type": "8",
+            "w": "37"
+        },
+        "31127864": {
+            "node1": "61283",
+            "node2": "1922600",
+            "type": "8",
+            "w": "37"
+        },
+        "31127859": {
+            "node1": "61283",
+            "node2": "216942",
+            "type": "8",
+            "w": "37"
+        },
+        "30826086": {
+            "node1": "61283",
+            "node2": "175019",
+            "type": "8",
+            "w": "37"
+        },
+        "247038970": {
+            "node1": "61283",
+            "node2": "5802345",
+            "type": "8",
+            "w": "36"
+        },
+        "52683408": {
+            "node1": "61283",
+            "node2": "2540822",
+            "type": "8",
+            "w": "36"
+        },
+        "34516411": {
+            "node1": "61283",
+            "node2": "67446",
+            "type": "8",
+            "w": "36"
+        },
+        "31127863": {
+            "node1": "61283",
+            "node2": "204920",
+            "type": "8",
+            "w": "36"
+        },
+        "30999217": {
+            "node1": "61283",
+            "node2": "183499",
+            "type": "8",
+            "w": "36"
+        },
+        "30199674": {
+            "node1": "61283",
+            "node2": "167803",
+            "type": "8",
+            "w": "36"
+        },
+        "283598116": {
+            "node1": "61283",
+            "node2": "11154314",
+            "type": "8",
+            "w": "35"
+        },
+        "273085566": {
+            "node1": "61283",
+            "node2": "10895903",
+            "type": "8",
+            "w": "35"
+        },
+        "34364428": {
+            "node1": "61283",
+            "node2": "217650",
+            "type": "8",
+            "w": "35"
+        },
+        "33820184": {
+            "node1": "61283",
+            "node2": "368096",
+            "type": "8",
+            "w": "35"
+        },
+        "33820171": {
+            "node1": "61283",
+            "node2": "368093",
+            "type": "8",
+            "w": "35"
+        },
+        "33820151": {
+            "node1": "61283",
+            "node2": "368104",
+            "type": "8",
+            "w": "35"
+        },
+        "33820114": {
+            "node1": "61283",
+            "node2": "368090",
+            "type": "8",
+            "w": "35"
+        },
+        "33820101": {
+            "node1": "61283",
+            "node2": "368106",
+            "type": "8",
+            "w": "35"
+        },
+        "33818732": {
+            "node1": "61283",
+            "node2": "368080",
+            "type": "8",
+            "w": "35"
+        },
+        "33799833": {
+            "node1": "61283",
+            "node2": "2324858",
+            "type": "8",
+            "w": "35"
+        },
+        "31701097": {
+            "node1": "61283",
+            "node2": "257801",
+            "type": "8",
+            "w": "35"
+        },
+        "31127857": {
+            "node1": "61283",
+            "node2": "145476",
+            "type": "8",
+            "w": "35"
+        },
+        "30564487": {
+            "node1": "61283",
+            "node2": "93846",
+            "type": "8",
+            "w": "35"
+        },
+        "243576181": {
+            "node1": "61283",
+            "node2": "3366096",
+            "type": "8",
+            "w": "34"
+        },
+        "246257922": {
+            "node1": "61283",
+            "node2": "117152",
+            "type": "8",
+            "w": "34"
+        },
+        "34663592": {
+            "node1": "61283",
+            "node2": "2348357",
+            "type": "8",
+            "w": "34"
+        },
+        "34245095": {
+            "node1": "61283",
+            "node2": "219664",
+            "type": "8",
+            "w": "34"
+        },
+        "34144816": {
+            "node1": "61283",
+            "node2": "440637",
+            "type": "8",
+            "w": "34"
+        },
+        "33820180": {
+            "node1": "61283",
+            "node2": "368084",
+            "type": "8",
+            "w": "34"
+        },
+        "33820175": {
+            "node1": "61283",
+            "node2": "368085",
+            "type": "8",
+            "w": "34"
+        },
+        "33820137": {
+            "node1": "61283",
+            "node2": "368094",
+            "type": "8",
+            "w": "34"
+        },
+        "33820127": {
+            "node1": "61283",
+            "node2": "368081",
+            "type": "8",
+            "w": "34"
+        },
+        "33820030": {
+            "node1": "61283",
+            "node2": "368083",
+            "type": "8",
+            "w": "34"
+        },
+        "32042081": {
+            "node1": "61283",
+            "node2": "302021",
+            "type": "8",
+            "w": "34"
+        },
+        "30851745": {
+            "node1": "61283",
+            "node2": "1917040",
+            "type": "8",
+            "w": "34"
+        },
+        "28166763": {
+            "node1": "61283",
+            "node2": "302836",
+            "type": "8",
+            "w": "34"
+        },
+        "14002245": {
+            "node1": "61283",
+            "node2": "217036",
+            "type": "8",
+            "w": "34"
+        },
+        "12414530": {
+            "node1": "61283",
+            "node2": "332550",
+            "type": "8",
+            "w": "34"
+        },
+        "375029294": {
+            "node1": "61283",
+            "node2": "14752975",
+            "type": "8",
+            "w": "32"
+        },
+        "34320745": {
+            "node1": "61283",
+            "node2": "263993",
+            "type": "8",
+            "w": "32"
+        },
+        "33820228": {
+            "node1": "61283",
+            "node2": "368086",
+            "type": "8",
+            "w": "32"
+        },
+        "33820208": {
+            "node1": "61283",
+            "node2": "368098",
+            "type": "8",
+            "w": "32"
+        },
+        "31606248": {
+            "node1": "61283",
+            "node2": "1963201",
+            "type": "8",
+            "w": "32"
+        },
+        "31596249": {
+            "node1": "61283",
+            "node2": "221881",
+            "type": "8",
+            "w": "32"
+        },
+        "31127856": {
+            "node1": "61283",
+            "node2": "38589",
+            "type": "8",
+            "w": "32"
+        },
+        "30851749": {
+            "node1": "61283",
+            "node2": "177275",
+            "type": "8",
+            "w": "32"
+        },
+        "30851729": {
+            "node1": "61283",
+            "node2": "177329",
+            "type": "8",
+            "w": "32"
+        },
+        "30673214": {
+            "node1": "61283",
+            "node2": "75271",
+            "type": "8",
+            "w": "32"
+        },
+        "30617993": {
+            "node1": "61283",
+            "node2": "158745",
+            "type": "8",
+            "w": "32"
+        },
+        "15470860": {
+            "node1": "61283",
+            "node2": "154315",
+            "type": "8",
+            "w": "32"
+        },
+        "14003318": {
+            "node1": "61283",
+            "node2": "290011",
+            "type": "8",
+            "w": "32"
+        },
+        "34516408": {
+            "node1": "61283",
+            "node2": "69067",
+            "type": "8",
+            "w": "31"
+        },
+        "34272832": {
+            "node1": "61283",
+            "node2": "111325",
+            "type": "8",
+            "w": "31"
+        },
+        "33820211": {
+            "node1": "61283",
+            "node2": "368089",
+            "type": "8",
+            "w": "31"
+        },
+        "33820159": {
+            "node1": "61283",
+            "node2": "368111",
+            "type": "8",
+            "w": "31"
+        },
+        "33799828": {
+            "node1": "61283",
+            "node2": "2324856",
+            "type": "8",
+            "w": "31"
+        },
+        "31692474": {
+            "node1": "61283",
+            "node2": "183498",
+            "type": "8",
+            "w": "31"
+        },
+        "31606266": {
+            "node1": "61283",
+            "node2": "1963200",
+            "type": "8",
+            "w": "31"
+        },
+        "31518997": {
+            "node1": "61283",
+            "node2": "368101",
+            "type": "8",
+            "w": "31"
+        },
+        "30999191": {
+            "node1": "61283",
+            "node2": "183497",
+            "type": "8",
+            "w": "31"
+        },
+        "375029144": {
+            "node1": "61283",
+            "node2": "14752962",
+            "type": "8",
+            "w": "30"
+        },
+        "34663549": {
+            "node1": "61283",
+            "node2": "2348341",
+            "type": "8",
+            "w": "30"
+        },
+        "33998851": {
+            "node1": "61283",
+            "node2": "437311",
+            "type": "8",
+            "w": "30"
+        },
+        "33820152": {
+            "node1": "61283",
+            "node2": "368088",
+            "type": "8",
+            "w": "30"
+        },
+        "33820012": {
+            "node1": "61283",
+            "node2": "368105",
+            "type": "8",
+            "w": "30"
+        },
+        "33819880": {
+            "node1": "61283",
+            "node2": "368112",
+            "type": "8",
+            "w": "30"
+        },
+        "33818959": {
+            "node1": "61283",
+            "node2": "368087",
+            "type": "8",
+            "w": "30"
+        },
+        "31775758": {
+            "node1": "61283",
+            "node2": "278323",
+            "type": "8",
+            "w": "30"
+        },
+        "31603501": {
+            "node1": "61283",
+            "node2": "224027",
+            "type": "8",
+            "w": "30"
+        },
+        "14062543": {
+            "node1": "61283",
+            "node2": "332559",
+            "type": "8",
+            "w": "30"
+        },
+        "12414557": {
+            "node1": "61283",
+            "node2": "122581",
+            "type": "8",
+            "w": "30"
+        },
+        "375029148": {
+            "node1": "61283",
+            "node2": "14752964",
+            "type": "8",
+            "w": "29"
+        },
+        "375029140": {
+            "node1": "61283",
+            "node2": "14752955",
+            "type": "8",
+            "w": "29"
+        },
+        "50328719": {
+            "node1": "61283",
+            "node2": "2363869",
+            "type": "8",
+            "w": "29"
+        },
+        "33820198": {
+            "node1": "61283",
+            "node2": "368108",
+            "type": "8",
+            "w": "29"
+        },
+        "33820187": {
+            "node1": "61283",
+            "node2": "368103",
+            "type": "8",
+            "w": "29"
+        },
+        "33820074": {
+            "node1": "61283",
+            "node2": "368095",
+            "type": "8",
+            "w": "29"
+        },
+        "33819958": {
+            "node1": "61283",
+            "node2": "368109",
+            "type": "8",
+            "w": "29"
+        },
+        "33819895": {
+            "node1": "61283",
+            "node2": "368100",
+            "type": "8",
+            "w": "29"
+        },
+        "33818791": {
+            "node1": "61283",
+            "node2": "368091",
+            "type": "8",
+            "w": "29"
+        },
+        "31741326": {
+            "node1": "61283",
+            "node2": "153047",
+            "type": "8",
+            "w": "29"
+        },
+        "26665046": {
+            "node1": "61283",
+            "node2": "1652883",
+            "type": "8",
+            "w": "29"
+        },
+        "14161923": {
+            "node1": "61283",
+            "node2": "204912",
+            "type": "8",
+            "w": "29"
+        },
+        "14118555": {
+            "node1": "61283",
+            "node2": "204928",
+            "type": "8",
+            "w": "29"
+        },
+        "13019262": {
+            "node1": "61283",
+            "node2": "265463",
+            "type": "8",
+            "w": "29"
+        },
+        "375029150": {
+            "node1": "61283",
+            "node2": "14752965",
+            "type": "8",
+            "w": "28"
+        },
+        "375029142": {
+            "node1": "61283",
+            "node2": "14752961",
+            "type": "8",
+            "w": "28"
+        },
+        "375029138": {
+            "node1": "61283",
+            "node2": "14752954",
+            "type": "8",
+            "w": "28"
+        },
+        "50476706": {
+            "node1": "61283",
+            "node2": "2365163",
+            "type": "8",
+            "w": "28"
+        },
+        "34784623": {
+            "node1": "61283",
+            "node2": "65846",
+            "type": "8",
+            "w": "28"
+        },
+        "34663587": {
+            "node1": "61283",
+            "node2": "2348356",
+            "type": "8",
+            "w": "28"
+        },
+        "33820160": {
+            "node1": "61283",
+            "node2": "368110",
+            "type": "8",
+            "w": "28"
+        },
+        "33820037": {
+            "node1": "61283",
+            "node2": "368107",
+            "type": "8",
+            "w": "28"
+        },
+        "15531125": {
+            "node1": "61283",
+            "node2": "437812",
+            "type": "8",
+            "w": "28"
+        },
+        "12460375": {
+            "node1": "61283",
+            "node2": "257797",
+            "type": "8",
+            "w": "28"
+        },
+        "375029146": {
+            "node1": "61283",
+            "node2": "14752963",
+            "type": "8",
+            "w": "27"
+        },
+        "34371553": {
+            "node1": "61283",
+            "node2": "263994",
+            "type": "8",
+            "w": "27"
+        },
+        "33820023": {
+            "node1": "61283",
+            "node2": "368082",
+            "type": "8",
+            "w": "27"
+        },
+        "31127858": {
+            "node1": "61283",
+            "node2": "7003",
+            "type": "8",
+            "w": "27"
+        },
+        "22500334": {
+            "node1": "61283",
+            "node2": "204916",
+            "type": "8",
+            "w": "27"
+        },
+        "243412834": {
+            "node1": "61283",
+            "node2": "1678560",
+            "type": "8",
+            "w": "26"
+        },
+        "243342913": {
+            "node1": "61283",
+            "node2": "3225649",
+            "type": "8",
+            "w": "26"
+        },
+        "243544325": {
+            "node1": "61283",
+            "node2": "3366113",
+            "type": "8",
+            "w": "26"
+        },
+        "34367987": {
+            "node1": "61283",
+            "node2": "215347",
+            "type": "8",
+            "w": "26"
+        },
+        "33998866": {
+            "node1": "61283",
+            "node2": "437310",
+            "type": "8",
+            "w": "26"
+        },
+        "33818730": {
+            "node1": "61283",
+            "node2": "368099",
+            "type": "8",
+            "w": "26"
+        },
+        "33818639": {
+            "node1": "61283",
+            "node2": "368102",
+            "type": "8",
+            "w": "26"
+        },
+        "31741328": {
+            "node1": "61283",
+            "node2": "241367",
+            "type": "8",
+            "w": "26"
+        },
+        "31637867": {
+            "node1": "61283",
+            "node2": "231735",
+            "type": "8",
+            "w": "26"
+        },
+        "22500332": {
+            "node1": "61283",
+            "node2": "204930",
+            "type": "8",
+            "w": "26"
+        },
+        "14041663": {
+            "node1": "61283",
+            "node2": "217035",
+            "type": "8",
+            "w": "26"
+        },
+        "13348942": {
+            "node1": "61283",
+            "node2": "393311",
+            "type": "8",
+            "w": "26"
+        },
+        "436401867": {
+            "node1": "61283",
+            "node2": "393310",
+            "type": "8",
+            "w": "25"
+        },
+        "404170505": {
+            "node1": "61283",
+            "node2": "8769158",
+            "type": "8",
+            "w": "25"
+        },
+        "404170498": {
+            "node1": "61283",
+            "node2": "15369242",
+            "type": "8",
+            "w": "25"
+        },
+        "391341599": {
+            "node1": "61283",
+            "node2": "14925183",
+            "type": "8",
+            "w": "25"
+        },
+        "383153814": {
+            "node1": "61283",
+            "node2": "5807566",
+            "type": "8",
+            "w": "25"
+        },
+        "383153812": {
+            "node1": "61283",
+            "node2": "5807565",
+            "type": "8",
+            "w": "25"
+        },
+        "380695116": {
+            "node1": "61283",
+            "node2": "9791562",
+            "type": "8",
+            "w": "25"
+        },
+        "380657670": {
+            "node1": "61283",
+            "node2": "7288132",
+            "type": "8",
+            "w": "25"
+        },
+        "380657415": {
+            "node1": "61283",
+            "node2": "8126395",
+            "type": "8",
+            "w": "25"
+        },
+        "380486937": {
+            "node1": "61283",
+            "node2": "5621597",
+            "type": "8",
+            "w": "25"
+        },
+        "379703944": {
+            "node1": "61283",
+            "node2": "3183461",
+            "type": "8",
+            "w": "25"
+        },
+        "379277621": {
+            "node1": "61283",
+            "node2": "131135",
+            "type": "8",
+            "w": "25"
+        },
+        "376416437": {
+            "node1": "61283",
+            "node2": "14159313",
+            "type": "8",
+            "w": "25"
+        },
+        "376414848": {
+            "node1": "61283",
+            "node2": "575",
+            "type": "8",
+            "w": "25"
+        },
+        "376346465": {
+            "node1": "61283",
+            "node2": "14252100",
+            "type": "8",
+            "w": "25"
+        },
+        "376301811": {
+            "node1": "61283",
+            "node2": "14363898",
+            "type": "8",
+            "w": "25"
+        },
+        "376283596": {
+            "node1": "61283",
+            "node2": "3297938",
+            "type": "8",
+            "w": "25"
+        },
+        "376283053": {
+            "node1": "61283",
+            "node2": "14389065",
+            "type": "8",
+            "w": "25"
+        },
+        "376239786": {
+            "node1": "61283",
+            "node2": "14486218",
+            "type": "8",
+            "w": "25"
+        },
+        "376236658": {
+            "node1": "61283",
+            "node2": "14510177",
+            "type": "8",
+            "w": "25"
+        },
+        "373520119": {
+            "node1": "61283",
+            "node2": "14529677",
+            "type": "8",
+            "w": "25"
+        },
+        "373496235": {
+            "node1": "61283",
+            "node2": "5799990",
+            "type": "8",
+            "w": "25"
+        },
+        "373473440": {
+            "node1": "61283",
+            "node2": "5622068",
+            "type": "8",
+            "w": "25"
+        },
+        "373397065": {
+            "node1": "61283",
+            "node2": "14604616",
+            "type": "8",
+            "w": "25"
+        },
+        "373354504": {
+            "node1": "61283",
+            "node2": "14638922",
+            "type": "8",
+            "w": "25"
+        },
+        "373353423": {
+            "node1": "61283",
+            "node2": "14653008",
+            "type": "8",
+            "w": "25"
+        },
+        "373352388": {
+            "node1": "61283",
+            "node2": "14654821",
+            "type": "8",
+            "w": "25"
+        },
+        "373349743": {
+            "node1": "61283",
+            "node2": "14665384",
+            "type": "8",
+            "w": "25"
+        },
+        "373348796": {
+            "node1": "61283",
+            "node2": "14670127",
+            "type": "8",
+            "w": "25"
+        },
+        "370642236": {
+            "node1": "61283",
+            "node2": "14585145",
+            "type": "8",
+            "w": "25"
+        },
+        "370058562": {
+            "node1": "61283",
+            "node2": "14563672",
+            "type": "8",
+            "w": "25"
+        },
+        "357687531": {
+            "node1": "61283",
+            "node2": "14121757",
+            "type": "8",
+            "w": "25"
+        },
+        "349766796": {
+            "node1": "61283",
+            "node2": "13426628",
+            "type": "8",
+            "w": "25"
+        },
+        "349766741": {
+            "node1": "61283",
+            "node2": "13426632",
+            "type": "8",
+            "w": "25"
+        },
+        "349766740": {
+            "node1": "61283",
+            "node2": "13426630",
+            "type": "8",
+            "w": "25"
+        },
+        "349766739": {
+            "node1": "61283",
+            "node2": "5621564",
+            "type": "8",
+            "w": "25"
+        },
+        "313018075": {
+            "node1": "61283",
+            "node2": "12009018",
+            "type": "8",
+            "w": "25"
+        },
+        "311819896": {
+            "node1": "61283",
+            "node2": "8126413",
+            "type": "8",
+            "w": "25"
+        },
+        "279318293": {
+            "node1": "61283",
+            "node2": "11027009",
+            "type": "8",
+            "w": "25"
+        },
+        "250421140": {
+            "node1": "61283",
+            "node2": "79954",
+            "type": "8",
+            "w": "25"
+        },
+        "250382271": {
+            "node1": "61283",
+            "node2": "4939328",
+            "type": "8",
+            "w": "25"
+        },
+        "248869179": {
+            "node1": "61283",
+            "node2": "94812",
+            "type": "8",
+            "w": "25"
+        },
+        "248791079": {
+            "node1": "61283",
+            "node2": "589543",
+            "type": "8",
+            "w": "25"
+        },
+        "248732282": {
+            "node1": "61283",
+            "node2": "2405506",
+            "type": "8",
+            "w": "25"
+        },
+        "248685541": {
+            "node1": "61283",
+            "node2": "2557599",
+            "type": "8",
+            "w": "25"
+        },
+        "248680371": {
+            "node1": "61283",
+            "node2": "9102157",
+            "type": "8",
+            "w": "25"
+        },
+        "248680171": {
+            "node1": "61283",
+            "node2": "9101861",
+            "type": "8",
+            "w": "25"
+        },
+        "248680086": {
+            "node1": "61283",
+            "node2": "9101798",
+            "type": "8",
+            "w": "25"
+        },
+        "248653508": {
+            "node1": "61283",
+            "node2": "2360696",
+            "type": "8",
+            "w": "25"
+        },
+        "248498899": {
+            "node1": "61283",
+            "node2": "5912136",
+            "type": "8",
+            "w": "25"
+        },
+        "248498803": {
+            "node1": "61283",
+            "node2": "5912833",
+            "type": "8",
+            "w": "25"
+        },
+        "248498802": {
+            "node1": "61283",
+            "node2": "5912835",
+            "type": "8",
+            "w": "25"
+        },
+        "248498665": {
+            "node1": "61283",
+            "node2": "5916579",
+            "type": "8",
+            "w": "25"
+        },
+        "248498663": {
+            "node1": "61283",
+            "node2": "5916581",
+            "type": "8",
+            "w": "25"
+        },
+        "248498660": {
+            "node1": "61283",
+            "node2": "5916585",
+            "type": "8",
+            "w": "25"
+        },
+        "248498658": {
+            "node1": "61283",
+            "node2": "5916587",
+            "type": "8",
+            "w": "25"
+        },
+        "248498654": {
+            "node1": "61283",
+            "node2": "5916596",
+            "type": "8",
+            "w": "25"
+        },
+        "248490324": {
+            "node1": "61283",
+            "node2": "5786856",
+            "type": "8",
+            "w": "25"
+        },
+        "248490226": {
+            "node1": "61283",
+            "node2": "5787577",
+            "type": "8",
+            "w": "25"
+        },
+        "248483065": {
+            "node1": "61283",
+            "node2": "5827979",
+            "type": "8",
+            "w": "25"
+        },
+        "248482960": {
+            "node1": "61283",
+            "node2": "5828623",
+            "type": "8",
+            "w": "25"
+        },
+        "248482416": {
+            "node1": "61283",
+            "node2": "5801038",
+            "type": "8",
+            "w": "25"
+        },
+        "248482309": {
+            "node1": "61283",
+            "node2": "5802331",
+            "type": "8",
+            "w": "25"
+        },
+        "248482307": {
+            "node1": "61283",
+            "node2": "5802334",
+            "type": "8",
+            "w": "25"
+        },
+        "248480860": {
+            "node1": "61283",
+            "node2": "5812050",
+            "type": "8",
+            "w": "25"
+        },
+        "248480852": {
+            "node1": "61283",
+            "node2": "5812094",
+            "type": "8",
+            "w": "25"
+        },
+        "248480851": {
+            "node1": "61283",
+            "node2": "5812097",
+            "type": "8",
+            "w": "25"
+        },
+        "248480849": {
+            "node1": "61283",
+            "node2": "5812099",
+            "type": "8",
+            "w": "25"
+        },
+        "248480841": {
+            "node1": "61283",
+            "node2": "5812112",
+            "type": "8",
+            "w": "25"
+        },
+        "248480833": {
+            "node1": "61283",
+            "node2": "5812163",
+            "type": "8",
+            "w": "25"
+        },
+        "248480821": {
+            "node1": "61283",
+            "node2": "5812189",
+            "type": "8",
+            "w": "25"
+        },
+        "248480814": {
+            "node1": "61283",
+            "node2": "5812204",
+            "type": "8",
+            "w": "25"
+        },
+        "248480813": {
+            "node1": "61283",
+            "node2": "5812209",
+            "type": "8",
+            "w": "25"
+        },
+        "248478347": {
+            "node1": "61283",
+            "node2": "5620351",
+            "type": "8",
+            "w": "25"
+        },
+        "248478173": {
+            "node1": "61283",
+            "node2": "5622069",
+            "type": "8",
+            "w": "25"
+        },
+        "248478172": {
+            "node1": "61283",
+            "node2": "5622070",
+            "type": "8",
+            "w": "25"
+        },
+        "247907239": {
+            "node1": "61283",
+            "node2": "156482",
+            "type": "8",
+            "w": "25"
+        },
+        "247903856": {
+            "node1": "61283",
+            "node2": "5501026",
+            "type": "8",
+            "w": "25"
+        },
+        "247901784": {
+            "node1": "61283",
+            "node2": "141883",
+            "type": "8",
+            "w": "25"
+        },
+        "247239163": {
+            "node1": "61283",
+            "node2": "5806188",
+            "type": "8",
+            "w": "25"
+        },
+        "247234538": {
+            "node1": "61283",
+            "node2": "5916590",
+            "type": "8",
+            "w": "25"
+        },
+        "247194769": {
+            "node1": "61283",
+            "node2": "5918827",
+            "type": "8",
+            "w": "25"
+        },
+        "247183567": {
+            "node1": "61283",
+            "node2": "5916577",
+            "type": "8",
+            "w": "25"
+        },
+        "247183565": {
+            "node1": "61283",
+            "node2": "5916575",
+            "type": "8",
+            "w": "25"
+        },
+        "247143691": {
+            "node1": "61283",
+            "node2": "76784",
+            "type": "8",
+            "w": "25"
+        },
+        "247142641": {
+            "node1": "61283",
+            "node2": "5801332",
+            "type": "8",
+            "w": "25"
+        },
+        "247055606": {
+            "node1": "61283",
+            "node2": "5801333",
+            "type": "8",
+            "w": "25"
+        },
+        "247047627": {
+            "node1": "61283",
+            "node2": "5812212",
+            "type": "8",
+            "w": "25"
+        },
+        "247047625": {
+            "node1": "61283",
+            "node2": "5812216",
+            "type": "8",
+            "w": "25"
+        },
+        "247047623": {
+            "node1": "61283",
+            "node2": "5812215",
+            "type": "8",
+            "w": "25"
+        },
+        "247047173": {
+            "node1": "61283",
+            "node2": "5812019",
+            "type": "8",
+            "w": "25"
+        },
+        "247047166": {
+            "node1": "61283",
+            "node2": "5812029",
+            "type": "8",
+            "w": "25"
+        },
+        "247047164": {
+            "node1": "61283",
+            "node2": "5812028",
+            "type": "8",
+            "w": "25"
+        },
+        "247047163": {
+            "node1": "61283",
+            "node2": "5812027",
+            "type": "8",
+            "w": "25"
+        },
+        "247047103": {
+            "node1": "61283",
+            "node2": "5812093",
+            "type": "8",
+            "w": "25"
+        },
+        "247047090": {
+            "node1": "61283",
+            "node2": "5812101",
+            "type": "8",
+            "w": "25"
+        },
+        "247047043": {
+            "node1": "61283",
+            "node2": "5812198",
+            "type": "8",
+            "w": "25"
+        },
+        "247042764": {
+            "node1": "61283",
+            "node2": "5806190",
+            "type": "8",
+            "w": "25"
+        },
+        "247042763": {
+            "node1": "61283",
+            "node2": "5806189",
+            "type": "8",
+            "w": "25"
+        },
+        "247042474": {
+            "node1": "61283",
+            "node2": "5805287",
+            "type": "8",
+            "w": "25"
+        },
+        "247038668": {
+            "node1": "61283",
+            "node2": "5801674",
+            "type": "8",
+            "w": "25"
+        },
+        "247038439": {
+            "node1": "61283",
+            "node2": "5801289",
+            "type": "8",
+            "w": "25"
+        },
+        "247038394": {
+            "node1": "61283",
+            "node2": "5801334",
+            "type": "8",
+            "w": "25"
+        },
+        "247038111": {
+            "node1": "61283",
+            "node2": "5800919",
+            "type": "8",
+            "w": "25"
+        },
+        "247038006": {
+            "node1": "61283",
+            "node2": "5801035",
+            "type": "8",
+            "w": "25"
+        },
+        "247034426": {
+            "node1": "61283",
+            "node2": "406083",
+            "type": "8",
+            "w": "25"
+        },
+        "247033096": {
+            "node1": "61283",
+            "node2": "2479599",
+            "type": "8",
+            "w": "25"
+        },
+        "247016789": {
+            "node1": "61283",
+            "node2": "5792466",
+            "type": "8",
+            "w": "25"
+        },
+        "247015171": {
+            "node1": "61283",
+            "node2": "420727",
+            "type": "8",
+            "w": "25"
+        },
+        "247014924": {
+            "node1": "61283",
+            "node2": "5787574",
+            "type": "8",
+            "w": "25"
+        },
+        "247014830": {
+            "node1": "61283",
+            "node2": "5787755",
+            "type": "8",
+            "w": "25"
+        },
+        "247014158": {
+            "node1": "61283",
+            "node2": "566847",
+            "type": "8",
+            "w": "25"
+        },
+        "247014156": {
+            "node1": "61283",
+            "node2": "5786240",
+            "type": "8",
+            "w": "25"
+        },
+        "247014052": {
+            "node1": "61283",
+            "node2": "5786458",
+            "type": "8",
+            "w": "25"
+        },
+        "246884909": {
+            "node1": "61283",
+            "node2": "5622585",
+            "type": "8",
+            "w": "25"
+        },
+        "246855778": {
+            "node1": "61283",
+            "node2": "5622584",
+            "type": "8",
+            "w": "25"
+        },
+        "246855707": {
+            "node1": "61283",
+            "node2": "5621513",
+            "type": "8",
+            "w": "25"
+        },
+        "246840221": {
+            "node1": "61283",
+            "node2": "5622490",
+            "type": "8",
+            "w": "25"
+        },
+        "246840171": {
+            "node1": "61283",
+            "node2": "5622572",
+            "type": "8",
+            "w": "25"
+        },
+        "246840064": {
+            "node1": "61283",
+            "node2": "5621980",
+            "type": "8",
+            "w": "25"
+        },
+        "246840063": {
+            "node1": "61283",
+            "node2": "5621981",
+            "type": "8",
+            "w": "25"
+        },
+        "246840060": {
+            "node1": "61283",
+            "node2": "5621982",
+            "type": "8",
+            "w": "25"
+        },
+        "246840043": {
+            "node1": "61283",
+            "node2": "5621992",
+            "type": "8",
+            "w": "25"
+        },
+        "246840022": {
+            "node1": "61283",
+            "node2": "5621997",
+            "type": "8",
+            "w": "25"
+        },
+        "246840018": {
+            "node1": "61283",
+            "node2": "5621999",
+            "type": "8",
+            "w": "25"
+        },
+        "246839996": {
+            "node1": "61283",
+            "node2": "5622020",
+            "type": "8",
+            "w": "25"
+        },
+        "246839989": {
+            "node1": "61283",
+            "node2": "5622026",
+            "type": "8",
+            "w": "25"
+        },
+        "246839986": {
+            "node1": "61283",
+            "node2": "5622025",
+            "type": "8",
+            "w": "25"
+        },
+        "246839903": {
+            "node1": "61283",
+            "node2": "5622071",
+            "type": "8",
+            "w": "25"
+        },
+        "246839703": {
+            "node1": "61283",
+            "node2": "5622466",
+            "type": "8",
+            "w": "25"
+        },
+        "246839501": {
+            "node1": "61283",
+            "node2": "5621421",
+            "type": "8",
+            "w": "25"
+        },
+        "246838040": {
+            "node1": "61283",
+            "node2": "5619906",
+            "type": "8",
+            "w": "25"
+        },
+        "246633750": {
+            "node1": "61283",
+            "node2": "3490555",
+            "type": "8",
+            "w": "25"
+        },
+        "246633745": {
+            "node1": "61283",
+            "node2": "244395",
+            "type": "8",
+            "w": "25"
+        },
+        "246625430": {
+            "node1": "61283",
+            "node2": "300136",
+            "type": "8",
+            "w": "25"
+        },
+        "246621229": {
+            "node1": "61283",
+            "node2": "2510683",
+            "type": "8",
+            "w": "25"
+        },
+        "246620156": {
+            "node1": "61283",
+            "node2": "2515807",
+            "type": "8",
+            "w": "25"
+        },
+        "246589851": {
+            "node1": "61283",
+            "node2": "2599309",
+            "type": "8",
+            "w": "25"
+        },
+        "246589848": {
+            "node1": "61283",
+            "node2": "2434320",
+            "type": "8",
+            "w": "25"
+        },
+        "246422983": {
+            "node1": "61283",
+            "node2": "13736",
+            "type": "8",
+            "w": "25"
+        },
+        "246419242": {
+            "node1": "61283",
+            "node2": "4337111",
+            "type": "8",
+            "w": "25"
+        },
+        "246290157": {
+            "node1": "61283",
+            "node2": "19773",
+            "type": "8",
+            "w": "25"
+        },
+        "246265356": {
+            "node1": "61283",
+            "node2": "137479",
+            "type": "8",
+            "w": "25"
+        },
+        "246263199": {
+            "node1": "61283",
+            "node2": "47459",
+            "type": "8",
+            "w": "25"
+        },
+        "246259884": {
+            "node1": "61283",
+            "node2": "37905",
+            "type": "8",
+            "w": "25"
+        },
+        "246257930": {
+            "node1": "61283",
+            "node2": "4312221",
+            "type": "8",
+            "w": "25"
+        },
+        "246252392": {
+            "node1": "61283",
+            "node2": "62524",
+            "type": "8",
+            "w": "25"
+        },
+        "246252212": {
+            "node1": "61283",
+            "node2": "2448",
+            "type": "8",
+            "w": "25"
+        },
+        "246229561": {
+            "node1": "61283",
+            "node2": "3939646",
+            "type": "8",
+            "w": "25"
+        },
+        "246224847": {
+            "node1": "61283",
+            "node2": "3746216",
+            "type": "8",
+            "w": "25"
+        },
+        "246215844": {
+            "node1": "61283",
+            "node2": "2366844",
+            "type": "8",
+            "w": "25"
+        },
+        "246146126": {
+            "node1": "61283",
+            "node2": "3746272",
+            "type": "8",
+            "w": "25"
+        },
+        "246144155": {
+            "node1": "61283",
+            "node2": "3753310",
+            "type": "8",
+            "w": "25"
+        },
+        "246141604": {
+            "node1": "61283",
+            "node2": "3755725",
+            "type": "8",
+            "w": "25"
+        },
+        "246140268": {
+            "node1": "61283",
+            "node2": "3756990",
+            "type": "8",
+            "w": "25"
+        },
+        "246140262": {
+            "node1": "61283",
+            "node2": "3756992",
+            "type": "8",
+            "w": "25"
+        },
+        "246139946": {
+            "node1": "61283",
+            "node2": "3757296",
+            "type": "8",
+            "w": "25"
+        },
+        "246139290": {
+            "node1": "61283",
+            "node2": "3757899",
+            "type": "8",
+            "w": "25"
+        },
+        "246139235": {
+            "node1": "61283",
+            "node2": "3757958",
+            "type": "8",
+            "w": "25"
+        },
+        "246139232": {
+            "node1": "61283",
+            "node2": "3757961",
+            "type": "8",
+            "w": "25"
+        },
+        "246138928": {
+            "node1": "61283",
+            "node2": "3758144",
+            "type": "8",
+            "w": "25"
+        },
+        "246138033": {
+            "node1": "61283",
+            "node2": "3758879",
+            "type": "8",
+            "w": "25"
+        },
+        "246137137": {
+            "node1": "61283",
+            "node2": "3751160",
+            "type": "8",
+            "w": "25"
+        },
+        "246136686": {
+            "node1": "61283",
+            "node2": "3745668",
+            "type": "8",
+            "w": "25"
+        },
+        "246136666": {
+            "node1": "61283",
+            "node2": "3745691",
+            "type": "8",
+            "w": "25"
+        },
+        "246136644": {
+            "node1": "61283",
+            "node2": "3745715",
+            "type": "8",
+            "w": "25"
+        },
+        "246136525": {
+            "node1": "61283",
+            "node2": "3745841",
+            "type": "8",
+            "w": "25"
+        },
+        "246136465": {
+            "node1": "61283",
+            "node2": "3745912",
+            "type": "8",
+            "w": "25"
+        },
+        "246136432": {
+            "node1": "61283",
+            "node2": "3745950",
+            "type": "8",
+            "w": "25"
+        },
+        "246136400": {
+            "node1": "61283",
+            "node2": "3745987",
+            "type": "8",
+            "w": "25"
+        },
+        "246136379": {
+            "node1": "61283",
+            "node2": "3746008",
+            "type": "8",
+            "w": "25"
+        },
+        "246136320": {
+            "node1": "61283",
+            "node2": "3746075",
+            "type": "8",
+            "w": "25"
+        },
+        "246136290": {
+            "node1": "61283",
+            "node2": "3746109",
+            "type": "8",
+            "w": "25"
+        },
+        "246136202": {
+            "node1": "61283",
+            "node2": "3746204",
+            "type": "8",
+            "w": "25"
+        },
+        "246136161": {
+            "node1": "61283",
+            "node2": "3746245",
+            "type": "8",
+            "w": "25"
+        },
+        "246135982": {
+            "node1": "61283",
+            "node2": "3746434",
+            "type": "8",
+            "w": "25"
+        },
+        "246135797": {
+            "node1": "61283",
+            "node2": "3746634",
+            "type": "8",
+            "w": "25"
+        },
+        "246135771": {
+            "node1": "61283",
+            "node2": "3746660",
+            "type": "8",
+            "w": "25"
+        },
+        "246135528": {
+            "node1": "61283",
+            "node2": "3746883",
+            "type": "8",
+            "w": "25"
+        },
+        "246135477": {
+            "node1": "61283",
+            "node2": "3745436",
+            "type": "8",
+            "w": "25"
+        },
+        "246135413": {
+            "node1": "61283",
+            "node2": "3745375",
+            "type": "8",
+            "w": "25"
+        },
+        "246135354": {
+            "node1": "61283",
+            "node2": "3745286",
+            "type": "8",
+            "w": "25"
+        },
+        "246135350": {
+            "node1": "61283",
+            "node2": "3745304",
+            "type": "8",
+            "w": "25"
+        },
+        "246135333": {
+            "node1": "61283",
+            "node2": "3745275",
+            "type": "8",
+            "w": "25"
+        },
+        "246135142": {
+            "node1": "61283",
+            "node2": "3745005",
+            "type": "8",
+            "w": "25"
+        },
+        "246135072": {
+            "node1": "61283",
+            "node2": "3744975",
+            "type": "8",
+            "w": "25"
+        },
+        "246135015": {
+            "node1": "61283",
+            "node2": "3744739",
+            "type": "8",
+            "w": "25"
+        },
+        "246134832": {
+            "node1": "61283",
+            "node2": "3744770",
+            "type": "8",
+            "w": "25"
+        },
+        "246134784": {
+            "node1": "61283",
+            "node2": "3744642",
+            "type": "8",
+            "w": "25"
+        },
+        "246134614": {
+            "node1": "61283",
+            "node2": "3744452",
+            "type": "8",
+            "w": "25"
+        },
+        "246134607": {
+            "node1": "61283",
+            "node2": "3744552",
+            "type": "8",
+            "w": "25"
+        },
+        "246134591": {
+            "node1": "61283",
+            "node2": "3744359",
+            "type": "8",
+            "w": "25"
+        },
+        "246134514": {
+            "node1": "61283",
+            "node2": "3744437",
+            "type": "8",
+            "w": "25"
+        },
+        "246134459": {
+            "node1": "61283",
+            "node2": "3744377",
+            "type": "8",
+            "w": "25"
+        },
+        "246134414": {
+            "node1": "61283",
+            "node2": "3744091",
+            "type": "8",
+            "w": "25"
+        },
+        "246134346": {
+            "node1": "61283",
+            "node2": "3744214",
+            "type": "8",
+            "w": "25"
+        },
+        "246134187": {
+            "node1": "61283",
+            "node2": "3743952",
+            "type": "8",
+            "w": "25"
+        },
+        "246134115": {
+            "node1": "61283",
+            "node2": "3744028",
+            "type": "8",
+            "w": "25"
+        },
+        "246134104": {
+            "node1": "61283",
+            "node2": "3743946",
+            "type": "8",
+            "w": "25"
+        },
+        "246134049": {
+            "node1": "61283",
+            "node2": "3743925",
+            "type": "8",
+            "w": "25"
+        },
+        "246133804": {
+            "node1": "61283",
+            "node2": "3743833",
+            "type": "8",
+            "w": "25"
+        },
+        "246133241": {
+            "node1": "61283",
+            "node2": "3759369",
+            "type": "8",
+            "w": "25"
+        },
+        "246126547": {
+            "node1": "61283",
+            "node2": "3763669",
+            "type": "8",
+            "w": "25"
+        },
+        "245178454": {
+            "node1": "61283",
+            "node2": "17761",
+            "type": "8",
+            "w": "25"
+        },
+        "245170238": {
+            "node1": "61283",
+            "node2": "3301257",
+            "type": "8",
+            "w": "25"
+        },
+        "245158151": {
+            "node1": "61283",
+            "node2": "232592",
+            "type": "8",
+            "w": "25"
+        },
+        "243780218": {
+            "node1": "61283",
+            "node2": "2499894",
+            "type": "8",
+            "w": "25"
+        },
+        "243613148": {
+            "node1": "61283",
+            "node2": "285382",
+            "type": "8",
+            "w": "25"
+        },
+        "243587012": {
+            "node1": "61283",
+            "node2": "223411",
+            "type": "8",
+            "w": "25"
+        },
+        "243586942": {
+            "node1": "61283",
+            "node2": "308165",
+            "type": "8",
+            "w": "25"
+        },
+        "243576236": {
+            "node1": "61283",
+            "node2": "3366092",
+            "type": "8",
+            "w": "25"
+        },
+        "243576208": {
+            "node1": "61283",
+            "node2": "3366075",
+            "type": "8",
+            "w": "25"
+        },
+        "243576191": {
+            "node1": "61283",
+            "node2": "3366093",
+            "type": "8",
+            "w": "25"
+        },
+        "243576179": {
+            "node1": "61283",
+            "node2": "3366091",
+            "type": "8",
+            "w": "25"
+        },
+        "243576172": {
+            "node1": "61283",
+            "node2": "3366089",
+            "type": "8",
+            "w": "25"
+        },
+        "243576135": {
+            "node1": "61283",
+            "node2": "3365993",
+            "type": "8",
+            "w": "25"
+        },
+        "243576129": {
+            "node1": "61283",
+            "node2": "3366069",
+            "type": "8",
+            "w": "25"
+        },
+        "243576109": {
+            "node1": "61283",
+            "node2": "3366082",
+            "type": "8",
+            "w": "25"
+        },
+        "243576105": {
+            "node1": "61283",
+            "node2": "3366000",
+            "type": "8",
+            "w": "25"
+        },
+        "243576084": {
+            "node1": "61283",
+            "node2": "3366090",
+            "type": "8",
+            "w": "25"
+        },
+        "243576078": {
+            "node1": "61283",
+            "node2": "3366051",
+            "type": "8",
+            "w": "25"
+        },
+        "243576074": {
+            "node1": "61283",
+            "node2": "3366070",
+            "type": "8",
+            "w": "25"
+        },
+        "243576070": {
+            "node1": "61283",
+            "node2": "3366098",
+            "type": "8",
+            "w": "25"
+        },
+        "243576064": {
+            "node1": "61283",
+            "node2": "3366061",
+            "type": "8",
+            "w": "25"
+        },
+        "243576060": {
+            "node1": "61283",
+            "node2": "3366099",
+            "type": "8",
+            "w": "25"
+        },
+        "243576058": {
+            "node1": "61283",
+            "node2": "3366047",
+            "type": "8",
+            "w": "25"
+        },
+        "243576052": {
+            "node1": "61283",
+            "node2": "3366071",
+            "type": "8",
+            "w": "25"
+        },
+        "243576048": {
+            "node1": "61283",
+            "node2": "3365995",
+            "type": "8",
+            "w": "25"
+        },
+        "243576041": {
+            "node1": "61283",
+            "node2": "3366085",
+            "type": "8",
+            "w": "25"
+        },
+        "243576038": {
+            "node1": "61283",
+            "node2": "3366049",
+            "type": "8",
+            "w": "25"
+        },
+        "243576029": {
+            "node1": "61283",
+            "node2": "3366046",
+            "type": "8",
+            "w": "25"
+        },
+        "243576020": {
+            "node1": "61283",
+            "node2": "3366068",
+            "type": "8",
+            "w": "25"
+        },
+        "243576013": {
+            "node1": "61283",
+            "node2": "3366087",
+            "type": "8",
+            "w": "25"
+        },
+        "243576010": {
+            "node1": "61283",
+            "node2": "3366095",
+            "type": "8",
+            "w": "25"
+        },
+        "243576005": {
+            "node1": "61283",
+            "node2": "3366084",
+            "type": "8",
+            "w": "25"
+        },
+        "243575990": {
+            "node1": "61283",
+            "node2": "3366012",
+            "type": "8",
+            "w": "25"
+        },
+        "243575985": {
+            "node1": "61283",
+            "node2": "3366083",
+            "type": "8",
+            "w": "25"
+        },
+        "243575980": {
+            "node1": "61283",
+            "node2": "3366097",
+            "type": "8",
+            "w": "25"
+        },
+        "243575977": {
+            "node1": "61283",
+            "node2": "3366088",
+            "type": "8",
+            "w": "25"
+        },
+        "243575972": {
+            "node1": "61283",
+            "node2": "3366094",
+            "type": "8",
+            "w": "25"
+        },
+        "243575968": {
+            "node1": "61283",
+            "node2": "3366072",
+            "type": "8",
+            "w": "25"
+        },
+        "243575962": {
+            "node1": "61283",
+            "node2": "3366050",
+            "type": "8",
+            "w": "25"
+        },
+        "243575956": {
+            "node1": "61283",
+            "node2": "3366081",
+            "type": "8",
+            "w": "25"
+        },
+        "243575948": {
+            "node1": "61283",
+            "node2": "3366054",
+            "type": "8",
+            "w": "25"
+        },
+        "243575943": {
+            "node1": "61283",
+            "node2": "3366086",
+            "type": "8",
+            "w": "25"
+        },
+        "243575933": {
+            "node1": "61283",
+            "node2": "3366002",
+            "type": "8",
+            "w": "25"
+        },
+        "243575929": {
+            "node1": "61283",
+            "node2": "3366020",
+            "type": "8",
+            "w": "25"
+        },
+        "243575923": {
+            "node1": "61283",
+            "node2": "3366056",
+            "type": "8",
+            "w": "25"
+        },
+        "243575919": {
+            "node1": "61283",
+            "node2": "3366055",
+            "type": "8",
+            "w": "25"
+        },
+        "243575913": {
+            "node1": "61283",
+            "node2": "3365999",
+            "type": "8",
+            "w": "25"
+        },
+        "243575906": {
+            "node1": "61283",
+            "node2": "3366045",
+            "type": "8",
+            "w": "25"
+        },
+        "243575901": {
+            "node1": "61283",
+            "node2": "3366048",
+            "type": "8",
+            "w": "25"
+        },
+        "243575896": {
+            "node1": "61283",
+            "node2": "3366052",
+            "type": "8",
+            "w": "25"
+        },
+        "243575880": {
+            "node1": "61283",
+            "node2": "3366021",
+            "type": "8",
+            "w": "25"
+        },
+        "243575731": {
+            "node1": "61283",
+            "node2": "3366001",
+            "type": "8",
+            "w": "25"
+        },
+        "243572043": {
+            "node1": "61283",
+            "node2": "9932235",
+            "type": "8",
+            "w": "25"
+        },
+        "243544396": {
+            "node1": "61283",
+            "node2": "3365991",
+            "type": "8",
+            "w": "25"
+        },
+        "243544395": {
+            "node1": "61283",
+            "node2": "3365992",
+            "type": "8",
+            "w": "25"
+        },
+        "243544394": {
+            "node1": "61283",
+            "node2": "3365994",
+            "type": "8",
+            "w": "25"
+        },
+        "243544393": {
+            "node1": "61283",
+            "node2": "3365996",
+            "type": "8",
+            "w": "25"
+        },
+        "243544392": {
+            "node1": "61283",
+            "node2": "3365997",
+            "type": "8",
+            "w": "25"
+        },
+        "243544391": {
+            "node1": "61283",
+            "node2": "3365998",
+            "type": "8",
+            "w": "25"
+        },
+        "243544390": {
+            "node1": "61283",
+            "node2": "3366003",
+            "type": "8",
+            "w": "25"
+        },
+        "243544389": {
+            "node1": "61283",
+            "node2": "3366004",
+            "type": "8",
+            "w": "25"
+        },
+        "243544388": {
+            "node1": "61283",
+            "node2": "3366005",
+            "type": "8",
+            "w": "25"
+        },
+        "243544387": {
+            "node1": "61283",
+            "node2": "3366006",
+            "type": "8",
+            "w": "25"
+        },
+        "243544386": {
+            "node1": "61283",
+            "node2": "3366007",
+            "type": "8",
+            "w": "25"
+        },
+        "243544385": {
+            "node1": "61283",
+            "node2": "3366008",
+            "type": "8",
+            "w": "25"
+        },
+        "243544384": {
+            "node1": "61283",
+            "node2": "3366009",
+            "type": "8",
+            "w": "25"
+        },
+        "243544383": {
+            "node1": "61283",
+            "node2": "3366010",
+            "type": "8",
+            "w": "25"
+        },
+        "243544382": {
+            "node1": "61283",
+            "node2": "3366011",
+            "type": "8",
+            "w": "25"
+        },
+        "243544381": {
+            "node1": "61283",
+            "node2": "3366013",
+            "type": "8",
+            "w": "25"
+        },
+        "243544380": {
+            "node1": "61283",
+            "node2": "3366014",
+            "type": "8",
+            "w": "25"
+        },
+        "243544379": {
+            "node1": "61283",
+            "node2": "3366015",
+            "type": "8",
+            "w": "25"
+        },
+        "243544378": {
+            "node1": "61283",
+            "node2": "3366016",
+            "type": "8",
+            "w": "25"
+        },
+        "243544377": {
+            "node1": "61283",
+            "node2": "3366017",
+            "type": "8",
+            "w": "25"
+        },
+        "243544376": {
+            "node1": "61283",
+            "node2": "3366018",
+            "type": "8",
+            "w": "25"
+        },
+        "243544375": {
+            "node1": "61283",
+            "node2": "3366019",
+            "type": "8",
+            "w": "25"
+        },
+        "243544374": {
+            "node1": "61283",
+            "node2": "3366022",
+            "type": "8",
+            "w": "25"
+        },
+        "243544373": {
+            "node1": "61283",
+            "node2": "3366023",
+            "type": "8",
+            "w": "25"
+        },
+        "243544372": {
+            "node1": "61283",
+            "node2": "3366024",
+            "type": "8",
+            "w": "25"
+        },
+        "243544371": {
+            "node1": "61283",
+            "node2": "3366025",
+            "type": "8",
+            "w": "25"
+        },
+        "243544370": {
+            "node1": "61283",
+            "node2": "3366026",
+            "type": "8",
+            "w": "25"
+        },
+        "243544369": {
+            "node1": "61283",
+            "node2": "3366027",
+            "type": "8",
+            "w": "25"
+        },
+        "243544368": {
+            "node1": "61283",
+            "node2": "3366028",
+            "type": "8",
+            "w": "25"
+        },
+        "243544367": {
+            "node1": "61283",
+            "node2": "3366029",
+            "type": "8",
+            "w": "25"
+        },
+        "243544366": {
+            "node1": "61283",
+            "node2": "3366030",
+            "type": "8",
+            "w": "25"
+        },
+        "243544365": {
+            "node1": "61283",
+            "node2": "3366031",
+            "type": "8",
+            "w": "25"
+        },
+        "243544364": {
+            "node1": "61283",
+            "node2": "3366032",
+            "type": "8",
+            "w": "25"
+        },
+        "243544363": {
+            "node1": "61283",
+            "node2": "3366033",
+            "type": "8",
+            "w": "25"
+        },
+        "243544362": {
+            "node1": "61283",
+            "node2": "3366034",
+            "type": "8",
+            "w": "25"
+        },
+        "243544361": {
+            "node1": "61283",
+            "node2": "3366035",
+            "type": "8",
+            "w": "25"
+        },
+        "243544360": {
+            "node1": "61283",
+            "node2": "3366037",
+            "type": "8",
+            "w": "25"
+        },
+        "243544359": {
+            "node1": "61283",
+            "node2": "3366038",
+            "type": "8",
+            "w": "25"
+        },
+        "243544358": {
+            "node1": "61283",
+            "node2": "3366039",
+            "type": "8",
+            "w": "25"
+        },
+        "243544357": {
+            "node1": "61283",
+            "node2": "3366040",
+            "type": "8",
+            "w": "25"
+        },
+        "243544356": {
+            "node1": "61283",
+            "node2": "3366042",
+            "type": "8",
+            "w": "25"
+        },
+        "243544355": {
+            "node1": "61283",
+            "node2": "3366043",
+            "type": "8",
+            "w": "25"
+        },
+        "243544354": {
+            "node1": "61283",
+            "node2": "3366044",
+            "type": "8",
+            "w": "25"
+        },
+        "243544352": {
+            "node1": "61283",
+            "node2": "3366057",
+            "type": "8",
+            "w": "25"
+        },
+        "243544351": {
+            "node1": "61283",
+            "node2": "3366058",
+            "type": "8",
+            "w": "25"
+        },
+        "243544350": {
+            "node1": "61283",
+            "node2": "3366059",
+            "type": "8",
+            "w": "25"
+        },
+        "243544349": {
+            "node1": "61283",
+            "node2": "3366060",
+            "type": "8",
+            "w": "25"
+        },
+        "243544348": {
+            "node1": "61283",
+            "node2": "3366062",
+            "type": "8",
+            "w": "25"
+        },
+        "243544347": {
+            "node1": "61283",
+            "node2": "3366063",
+            "type": "8",
+            "w": "25"
+        },
+        "243544346": {
+            "node1": "61283",
+            "node2": "3366064",
+            "type": "8",
+            "w": "25"
+        },
+        "243544345": {
+            "node1": "61283",
+            "node2": "3366065",
+            "type": "8",
+            "w": "25"
+        },
+        "243544344": {
+            "node1": "61283",
+            "node2": "3366066",
+            "type": "8",
+            "w": "25"
+        },
+        "243544343": {
+            "node1": "61283",
+            "node2": "3366067",
+            "type": "8",
+            "w": "25"
+        },
+        "243544342": {
+            "node1": "61283",
+            "node2": "3366073",
+            "type": "8",
+            "w": "25"
+        },
+        "243544341": {
+            "node1": "61283",
+            "node2": "3366074",
+            "type": "8",
+            "w": "25"
+        },
+        "243544340": {
+            "node1": "61283",
+            "node2": "3366077",
+            "type": "8",
+            "w": "25"
+        },
+        "243544339": {
+            "node1": "61283",
+            "node2": "3366078",
+            "type": "8",
+            "w": "25"
+        },
+        "243544338": {
+            "node1": "61283",
+            "node2": "3366080",
+            "type": "8",
+            "w": "25"
+        },
+        "243544337": {
+            "node1": "61283",
+            "node2": "3366100",
+            "type": "8",
+            "w": "25"
+        },
+        "243544336": {
+            "node1": "61283",
+            "node2": "3366102",
+            "type": "8",
+            "w": "25"
+        },
+        "243544335": {
+            "node1": "61283",
+            "node2": "3366103",
+            "type": "8",
+            "w": "25"
+        },
+        "243544334": {
+            "node1": "61283",
+            "node2": "3366104",
+            "type": "8",
+            "w": "25"
+        },
+        "243544323": {
+            "node1": "61283",
+            "node2": "3366114",
+            "type": "8",
+            "w": "25"
+        },
+        "243537713": {
+            "node1": "61283",
+            "node2": "3319109",
+            "type": "8",
+            "w": "25"
+        },
+        "243537712": {
+            "node1": "61283",
+            "node2": "3319110",
+            "type": "8",
+            "w": "25"
+        },
+        "243537523": {
+            "node1": "61283",
+            "node2": "3319555",
+            "type": "8",
+            "w": "25"
+        },
+        "243536758": {
+            "node1": "61283",
+            "node2": "3320992",
+            "type": "8",
+            "w": "25"
+        },
+        "243536757": {
+            "node1": "61283",
+            "node2": "3320993",
+            "type": "8",
+            "w": "25"
+        },
+        "243536613": {
+            "node1": "61283",
+            "node2": "3321157",
+            "type": "8",
+            "w": "25"
+        },
+        "243536099": {
+            "node1": "61283",
+            "node2": "3318826",
+            "type": "8",
+            "w": "25"
+        },
+        "243536026": {
+            "node1": "61283",
+            "node2": "3318785",
+            "type": "8",
+            "w": "25"
+        },
+        "243536024": {
+            "node1": "61283",
+            "node2": "3318758",
+            "type": "8",
+            "w": "25"
+        },
+        "243536016": {
+            "node1": "61283",
+            "node2": "3318691",
+            "type": "8",
+            "w": "25"
+        },
+        "243535495": {
+            "node1": "61283",
+            "node2": "3301349",
+            "type": "8",
+            "w": "25"
+        },
+        "243535493": {
+            "node1": "61283",
+            "node2": "3301348",
+            "type": "8",
+            "w": "25"
+        },
+        "243535049": {
+            "node1": "61283",
+            "node2": "37432",
+            "type": "8",
+            "w": "25"
+        },
+        "243532682": {
+            "node1": "61283",
+            "node2": "3322624",
+            "type": "8",
+            "w": "25"
+        },
+        "243516211": {
+            "node1": "61283",
+            "node2": "8103947",
+            "type": "8",
+            "w": "25"
+        },
+        "243516167": {
+            "node1": "61283",
+            "node2": "2531879",
+            "type": "8",
+            "w": "25"
+        },
+        "243511104": {
+            "node1": "61283",
+            "node2": "2475310",
+            "type": "8",
+            "w": "25"
+        },
+        "243508601": {
+            "node1": "61283",
+            "node2": "2609101",
+            "type": "8",
+            "w": "25"
+        },
+        "243505234": {
+            "node1": "61283",
+            "node2": "2434803",
+            "type": "8",
+            "w": "25"
+        },
+        "243504027": {
+            "node1": "61283",
+            "node2": "160930",
+            "type": "8",
+            "w": "25"
+        },
+        "243496404": {
+            "node1": "61283",
+            "node2": "204924",
+            "type": "8",
+            "w": "25"
+        },
+        "243495609": {
+            "node1": "61283",
+            "node2": "156579",
+            "type": "8",
+            "w": "25"
+        },
+        "243461398": {
+            "node1": "61283",
+            "node2": "73445",
+            "type": "8",
+            "w": "25"
+        },
+        "243449398": {
+            "node1": "61283",
+            "node2": "3225646",
+            "type": "8",
+            "w": "25"
+        },
+        "243447393": {
+            "node1": "61283",
+            "node2": "3301350",
+            "type": "8",
+            "w": "25"
+        },
+        "243439738": {
+            "node1": "61283",
+            "node2": "291137",
+            "type": "8",
+            "w": "25"
+        },
+        "243439736": {
+            "node1": "61283",
+            "node2": "291136",
+            "type": "8",
+            "w": "25"
+        },
+        "243436390": {
+            "node1": "61283",
+            "node2": "2491794",
+            "type": "8",
+            "w": "25"
+        },
+        "243412853": {
+            "node1": "61283",
+            "node2": "2512502",
+            "type": "8",
+            "w": "25"
+        },
+        "243412847": {
+            "node1": "61283",
+            "node2": "2484004",
+            "type": "8",
+            "w": "25"
+        },
+        "243412841": {
+            "node1": "61283",
+            "node2": "2409808",
+            "type": "8",
+            "w": "25"
+        },
+        "243412839": {
+            "node1": "61283",
+            "node2": "2490225",
+            "type": "8",
+            "w": "25"
+        },
+        "243412838": {
+            "node1": "61283",
+            "node2": "2436423",
+            "type": "8",
+            "w": "25"
+        },
+        "243412835": {
+            "node1": "61283",
+            "node2": "53713",
+            "type": "8",
+            "w": "25"
+        },
+        "243412831": {
+            "node1": "61283",
+            "node2": "2222708",
+            "type": "8",
+            "w": "25"
+        },
+        "243412827": {
+            "node1": "61283",
+            "node2": "3245649",
+            "type": "8",
+            "w": "25"
+        },
+        "243412824": {
+            "node1": "61283",
+            "node2": "2387535",
+            "type": "8",
+            "w": "25"
+        },
+        "243412823": {
+            "node1": "61283",
+            "node2": "2454596",
+            "type": "8",
+            "w": "25"
+        },
+        "243412816": {
+            "node1": "61283",
+            "node2": "204913",
+            "type": "8",
+            "w": "25"
+        },
+        "243412813": {
+            "node1": "61283",
+            "node2": "204919",
+            "type": "8",
+            "w": "25"
+        },
+        "243412811": {
+            "node1": "61283",
+            "node2": "2439977",
+            "type": "8",
+            "w": "25"
+        },
+        "243412809": {
+            "node1": "61283",
+            "node2": "2429262",
+            "type": "8",
+            "w": "25"
+        },
+        "243412808": {
+            "node1": "61283",
+            "node2": "255905",
+            "type": "8",
+            "w": "25"
+        },
+        "243412806": {
+            "node1": "61283",
+            "node2": "223459",
+            "type": "8",
+            "w": "25"
+        },
+        "243412804": {
+            "node1": "61283",
+            "node2": "289583",
+            "type": "8",
+            "w": "25"
+        },
+        "243412803": {
+            "node1": "61283",
+            "node2": "2367152",
+            "type": "8",
+            "w": "25"
+        },
+        "243412801": {
+            "node1": "61283",
+            "node2": "227591",
+            "type": "8",
+            "w": "25"
+        },
+        "243412799": {
+            "node1": "61283",
+            "node2": "146",
+            "type": "8",
+            "w": "25"
+        },
+        "243412798": {
+            "node1": "61283",
+            "node2": "76913",
+            "type": "8",
+            "w": "25"
+        },
+        "243412796": {
+            "node1": "61283",
+            "node2": "2953892",
+            "type": "8",
+            "w": "25"
+        },
+        "243412794": {
+            "node1": "61283",
+            "node2": "2363850",
+            "type": "8",
+            "w": "25"
+        },
+        "243412793": {
+            "node1": "61283",
+            "node2": "214789",
+            "type": "8",
+            "w": "25"
+        },
+        "243412790": {
+            "node1": "61283",
+            "node2": "5723",
+            "type": "8",
+            "w": "25"
+        },
+        "243388614": {
+            "node1": "61283",
+            "node2": "3246567",
+            "type": "8",
+            "w": "25"
+        },
+        "243342905": {
+            "node1": "61283",
+            "node2": "3225167",
+            "type": "8",
+            "w": "25"
+        },
+        "243342885": {
+            "node1": "61283",
+            "node2": "3225650",
+            "type": "8",
+            "w": "25"
+        },
+        "243340011": {
+            "node1": "61283",
+            "node2": "8103307",
+            "type": "8",
+            "w": "25"
+        },
+        "243275974": {
+            "node1": "61283",
+            "node2": "587837",
+            "type": "8",
+            "w": "25"
+        },
+        "243261334": {
+            "node1": "61283",
+            "node2": "216976",
+            "type": "8",
+            "w": "25"
+        },
+        "243261211": {
+            "node1": "61283",
+            "node2": "211446",
+            "type": "8",
+            "w": "25"
+        },
+        "243261208": {
+            "node1": "61283",
+            "node2": "211447",
+            "type": "8",
+            "w": "25"
+        },
+        "243261206": {
+            "node1": "61283",
+            "node2": "211448",
+            "type": "8",
+            "w": "25"
+        },
+        "243260139": {
+            "node1": "61283",
+            "node2": "204923",
+            "type": "8",
+            "w": "25"
+        },
+        "243260138": {
+            "node1": "61283",
+            "node2": "204921",
+            "type": "8",
+            "w": "25"
+        },
+        "243260137": {
+            "node1": "61283",
+            "node2": "204918",
+            "type": "8",
+            "w": "25"
+        },
+        "243260135": {
+            "node1": "61283",
+            "node2": "204926",
+            "type": "8",
+            "w": "25"
+        },
+        "243260134": {
+            "node1": "61283",
+            "node2": "204915",
+            "type": "8",
+            "w": "25"
+        },
+        "243260133": {
+            "node1": "61283",
+            "node2": "204922",
+            "type": "8",
+            "w": "25"
+        },
+        "243260132": {
+            "node1": "61283",
+            "node2": "204929",
+            "type": "8",
+            "w": "25"
+        },
+        "243260131": {
+            "node1": "61283",
+            "node2": "204925",
+            "type": "8",
+            "w": "25"
+        },
+        "243260130": {
+            "node1": "61283",
+            "node2": "204917",
+            "type": "8",
+            "w": "25"
+        },
+        "476493157": {
+            "node1": "61283",
+            "node2": "17453446",
+            "type": "8",
+            "w": "25"
+        },
+        "273566901": {
+            "node1": "61283",
+            "node2": "10895893",
+            "type": "8",
+            "w": "24"
+        },
+        "53696707": {
+            "node1": "61283",
+            "node2": "2403584",
+            "type": "8",
+            "w": "24"
+        },
+        "346623746": {
+            "node1": "61283",
+            "node2": "12989696",
+            "type": "8",
+            "w": "23"
+        },
+        "278507465": {
+            "node1": "61283",
+            "node2": "10962932",
+            "type": "8",
+            "w": "23"
+        },
+        "370072577": {
+            "node1": "61283",
+            "node2": "14557755",
+            "type": "8",
+            "w": "22"
+        },
+        "370072017": {
+            "node1": "61283",
+            "node2": "14558115",
+            "type": "8",
+            "w": "22"
+        },
+        "278495222": {
+            "node1": "61283",
+            "node2": "77801",
+            "type": "8",
+            "w": "21"
+        },
+        "290342887": {
+            "node1": "61283",
+            "node2": "11295704",
+            "type": "8",
+            "w": "19"
+        },
+        "293206475": {
+            "node1": "61283",
+            "node2": "11350438",
+            "type": "8",
+            "w": "16"
+        },
+        "346623744": {
+            "node1": "61283",
+            "node2": "12989697",
+            "type": "8",
+            "w": "15"
+        },
+        "346623745": {
+            "node1": "61283",
+            "node2": "12989698",
+            "type": "8",
+            "w": "14"
+        },
+        "290328480": {
+            "node1": "61283",
+            "node2": "2561598",
+            "type": "8",
+            "w": "14"
+        },
+        "399547558": {
+            "node1": "61283",
+            "node2": "15256106",
+            "type": "8",
+            "w": "12"
+        },
+        "285915994": {
+            "node1": "61283",
+            "node2": "2505223",
+            "type": "8",
+            "w": "11"
+        },
+        "403847409": {
+            "node1": "61283",
+            "node2": "14952632",
+            "type": "8",
+            "w": "8"
+        },
+        "403865963": {
+            "node1": "61283",
+            "node2": "15683428",
+            "type": "8",
+            "w": "6"
+        },
+        "403797015": {
+            "node1": "61283",
+            "node2": "15200530",
+            "type": "8",
+            "w": "6"
+        },
+        "399543460": {
+            "node1": "61283",
+            "node2": "7288136",
+            "type": "8",
+            "w": "6"
+        },
+        "346623694": {
+            "node1": "61283",
+            "node2": "13426629",
+            "type": "8",
+            "w": "6"
+        },
+        "419359089": {
+            "node1": "61283",
+            "node2": "15849075",
+            "type": "8",
+            "w": "5"
+        },
+        "419359088": {
+            "node1": "61283",
+            "node2": "15849074",
+            "type": "8",
+            "w": "5"
+        },
+        "419359086": {
+            "node1": "61283",
+            "node2": "15849080",
+            "type": "8",
+            "w": "5"
+        },
+        "419359082": {
+            "node1": "61283",
+            "node2": "15849077",
+            "type": "8",
+            "w": "5"
+        },
+        "419319005": {
+            "node1": "61283",
+            "node2": "8085274",
+            "type": "8",
+            "w": "5"
+        },
+        "419319002": {
+            "node1": "61283",
+            "node2": "15297209",
+            "type": "8",
+            "w": "5"
+        },
+        "270487212": {
+            "node1": "61283",
+            "node2": "10822405",
+            "type": "8",
+            "w": "4"
+        },
+        "420054861": {
+            "node1": "61283",
+            "node2": "14922631",
+            "type": "8",
+            "w": "3"
+        },
+        "420048306": {
+            "node1": "61283",
+            "node2": "15364559",
+            "type": "8",
+            "w": "3"
+        },
+        "420048305": {
+            "node1": "61283",
+            "node2": "15364558",
+            "type": "8",
+            "w": "3"
+        },
+        "420041616": {
+            "node1": "61283",
+            "node2": "7288116",
+            "type": "8",
+            "w": "3"
+        },
+        "420035284": {
+            "node1": "61283",
+            "node2": "14922634",
+            "type": "8",
+            "w": "3"
+        },
+        "403833077": {
+            "node1": "61283",
+            "node2": "15200531",
+            "type": "8",
+            "w": "3"
+        },
+        "430252075": {
+            "node1": "61283",
+            "node2": "16324120",
+            "type": "8",
+            "w": "2"
+        },
+        "427802924": {
+            "node1": "61283",
+            "node2": "14952626",
+            "type": "8",
+            "w": "2"
+        },
+        "370073005": {
+            "node1": "61283",
+            "node2": "14486215",
+            "type": "8",
+            "w": "2"
+        },
+        "370073004": {
+            "node1": "61283",
+            "node2": "14486287",
+            "type": "8",
+            "w": "2"
+        },
+        "370073003": {
+            "node1": "61283",
+            "node2": "14510690",
+            "type": "8",
+            "w": "2"
+        },
+        "313364109": {
+            "node1": "61283",
+            "node2": "2554047",
+            "type": "8",
+            "w": "2"
+        },
+        "435515342": {
+            "node1": "61283",
+            "node2": "15420027",
+            "type": "8",
+            "w": "1"
+        },
+        "435515197": {
+            "node1": "61283",
+            "node2": "15420028",
+            "type": "8",
+            "w": "1"
+        },
+        "435515186": {
+            "node1": "61283",
+            "node2": "15050785",
+            "type": "8",
+            "w": "1"
+        },
+        "435507858": {
+            "node1": "61283",
+            "node2": "15253575",
+            "type": "8",
+            "w": "1"
+        },
+        "435504974": {
+            "node1": "61283",
+            "node2": "15409352",
+            "type": "8",
+            "w": "1"
+        },
+        "434623361": {
+            "node1": "61283",
+            "node2": "16387279",
+            "type": "8",
+            "w": "1"
+        },
+        "403841623": {
+            "node1": "61283",
+            "node2": "15082490",
+            "type": "8",
+            "w": "1"
+        },
+        "376132790": {
+            "node1": "61283",
+            "node2": "14752811",
+            "type": "8",
+            "w": "1"
+        },
+        "376131482": {
+            "node1": "61283",
+            "node2": "14755251",
+            "type": "8",
+            "w": "1"
+        },
+        "366771110": {
+            "node1": "61283",
+            "node2": "14450971",
+            "type": "8",
+            "w": "1"
+        },
+        "346623743": {
+            "node1": "61283",
+            "node2": "12080387",
+            "type": "8",
+            "w": "1"
+        },
+        "346623742": {
+            "node1": "61283",
+            "node2": "12080388",
+            "type": "8",
+            "w": "1"
+        },
+        "313364320": {
+            "node1": "61283",
+            "node2": "3863755",
+            "type": "8",
+            "w": "1"
+        },
+        "399554703": {
+            "node1": "61283",
+            "node2": "15310900",
+            "type": "8",
+            "w": "1"
+        },
+        "385497912": {
+            "node1": "61283",
+            "node2": "86296",
+            "type": "8",
+            "w": "-25"
+        },
+        "385497748": {
+            "node1": "61283",
+            "node2": "218057",
+            "type": "8",
+            "w": "-25"
+        },
+        "333255526": {
+            "node1": "61283",
+            "node2": "216120",
+            "type": "8",
+            "w": "-25"
+        },
+        "250421100": {
+            "node1": "61283",
+            "node2": "1803620",
+            "type": "8",
+            "w": "-25"
+        },
+        "243412829": {
+            "node1": "61283",
+            "node2": "2073300",
+            "type": "8",
+            "w": "-25"
+        },
+        "34655672": {
+            "node1": "61283",
+            "node2": "19636",
+            "type": "8",
+            "w": "-30"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

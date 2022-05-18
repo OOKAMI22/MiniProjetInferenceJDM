@@ -1,0 +1,937 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        }
+    },
+    "e": {
+        "128828": {
+            "name": "'couper'",
+            "type": "1",
+            "w": "3429"
+        },
+        "198061": {
+            "name": "'couper en deux'",
+            "type": "1",
+            "w": "50"
+        },
+        "2581325": {
+            "name": "'::&gt;14:140377&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] beurre'"
+        },
+        "589240": {
+            "name": "'couper en fines lamelles'",
+            "type": "1",
+            "w": "0"
+        },
+        "313394": {
+            "name": "'couper \u00e0 ras'",
+            "type": "1",
+            "w": "50"
+        },
+        "395744": {
+            "name": "'couper en lani\u00e8res'",
+            "type": "1",
+            "w": "50"
+        },
+        "392003": {
+            "name": "'couper en petits morceaux'",
+            "type": "1",
+            "w": "8"
+        },
+        "1969834": {
+            "name": "'couper en tranches assez fines'",
+            "type": "1",
+            "w": "0"
+        },
+        "437643": {
+            "name": "'couper fin'",
+            "type": "1",
+            "w": "50"
+        },
+        "14880191": {
+            "name": "'::&gt;31:65066&gt;29:14324557'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] viande [endroit] planche \u00e0 d\u00e9couper'"
+        },
+        "14880186": {
+            "name": "'::&gt;31:65066&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [endroit] planche \u00e0 d\u00e9couper'"
+        },
+        "14851598": {
+            "name": "'::&gt;31:42092&gt;29:14389064'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] pain [endroit] planche \u00e0 pain'"
+        },
+        "14851593": {
+            "name": "'::&gt;31:42092&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [endroit] planche \u00e0 pain'"
+        },
+        "14324557": {
+            "name": "'::&gt;14:140100&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] viande'"
+        },
+        "14326154": {
+            "name": "'::&gt;13:12764&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] b\u00fbcheron'"
+        },
+        "14326156": {
+            "name": "'::&gt;16:142707&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] hache'"
+        },
+        "14326159": {
+            "name": "'::&gt;14:52255&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] arbre'"
+        },
+        "14326219": {
+            "name": "'::&gt;31:146632&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [endroit] for\u00eat'"
+        },
+        "14334036": {
+            "name": "'::&gt;13:16217&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] coiffeur'"
+        },
+        "14334038": {
+            "name": "'::&gt;14:51126&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] cheveux'"
+        },
+        "14334041": {
+            "name": "'::&gt;13:125719&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] coiffeuse'"
+        },
+        "14334478": {
+            "name": "'::&gt;13:68439&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] individu'"
+        },
+        "14334480": {
+            "name": "'::&gt;16:154026&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] couteau \u00e0 viande'"
+        },
+        "14347239": {
+            "name": "'::&gt;16:50104&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] ciseaux'"
+        },
+        "14350858": {
+            "name": "'::&gt;13:41599&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] guillotine'"
+        },
+        "14350860": {
+            "name": "'::&gt;14:144846&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] t\u00eate'"
+        },
+        "14350865": {
+            "name": "'::&gt;13:60337&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] bourreau'"
+        },
+        "10913728": {
+            "name": "'couper une t\u00eate'",
+            "type": "1",
+            "w": "0"
+        },
+        "14350876": {
+            "name": "'::&gt;16:22710&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] sabre'"
+        },
+        "14356606": {
+            "name": "'::&gt;13:143042&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] pilote'"
+        },
+        "14356608": {
+            "name": "'::&gt;14:332372&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] r\u00e9acteurs'"
+        },
+        "14364057": {
+            "name": "'::&gt;14:96256&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] bois'"
+        },
+        "14380716": {
+            "name": "'::&gt;31:16217&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [endroit] coiffeur'"
+        },
+        "14380721": {
+            "name": "'::&gt;31:16217&gt;29:14334038'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] cheveux [endroit] coiffeur'"
+        },
+        "14380722": {
+            "name": "'::&gt;31:89587&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [endroit] salon de coiffure'"
+        },
+        "14380726": {
+            "name": "'::&gt;31:89587&gt;29:14334038'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] cheveux [endroit] salon de coiffure'"
+        },
+        "14380777": {
+            "name": "'::&gt;13:216285&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] coiffeuse&gt;cheveux'"
+        },
+        "14380782": {
+            "name": "'::&gt;13:10497993&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] coiffeuse&gt;cheveux&gt;personne'"
+        },
+        "14389064": {
+            "name": "'::&gt;14:61283&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] pain'"
+        },
+        "14389066": {
+            "name": "'::&gt;16:153863&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] couteau \u00e0 pain'"
+        },
+        "14400446": {
+            "name": "'::&gt;14:141687&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] fromage'"
+        },
+        "14435488": {
+            "name": "'::&gt;13:197509&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] chef de famille'"
+        },
+        "14435490": {
+            "name": "'::&gt;14:19636&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] r\u00f4ti'"
+        },
+        "14470084": {
+            "name": "'::&gt;14:81934&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] main'"
+        },
+        "14470092": {
+            "name": "'::&gt;14:141795&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] membre'"
+        },
+        "14473343": {
+            "name": "'::&gt;13:39621&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] marin'"
+        },
+        "14473345": {
+            "name": "'::&gt;14:8595&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] corde'"
+        },
+        "14501091": {
+            "name": "'::&gt;13:75069&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] incisive'"
+        },
+        "14501093": {
+            "name": "'::&gt;14:20621&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] aliments'"
+        },
+        "14572841": {
+            "name": "'::&gt;13:116477&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] personne'"
+        },
+        "14572843": {
+            "name": "'::&gt;14:94975&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] portable'"
+        },
+        "1935091": {
+            "name": "'couper en lamelles'",
+            "type": "1",
+            "w": "0"
+        },
+        "8816744": {
+            "name": "'couper des barreaux'",
+            "type": "1",
+            "w": "0"
+        },
+        "14561166": {
+            "name": "'::&gt;14:28560&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] courge'"
+        },
+        "14540351": {
+            "name": "'::&gt;14:55572&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] steak'"
+        },
+        "14540364": {
+            "name": "'::&gt;14:160927&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] morceau de viande'"
+        },
+        "11558353": {
+            "name": "'::&gt;14:88759&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] escalope'"
+        },
+        "1747273": {
+            "name": "'couper en tranches'",
+            "type": "1",
+            "w": "0"
+        },
+        "16060137": {
+            "name": "'::&gt;14:41239&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] rondin'"
+        },
+        "14485281": {
+            "name": "'::&gt;13:225916&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] personne&gt;\u00eatre humain'"
+        },
+        "15686368": {
+            "name": "'::&gt;14:191721&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] filet mignon'"
+        },
+        "14324560": {
+            "name": "'::&gt;16:32610&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] couteau'"
+        },
+        "15789593": {
+            "name": "'::&gt;14:155220&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] fil de fer'"
+        },
+        "15789590": {
+            "name": "'::&gt;16:15295811&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [avec] pinces coupantes'"
+        },
+        "16311045": {
+            "name": "'::&gt;14:2392276&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] rosbeef'"
+        },
+        "14324555": {
+            "name": "'::&gt;13:45133&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] boucher'"
+        },
+        "14450960": {
+            "name": "'::&gt;31:64437&gt;29:14450953'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] morceaux de viande [endroit] boucherie'"
+        },
+        "16560393": {
+            "name": "'::&gt;14:123307&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] oignon'"
+        },
+        "16560398": {
+            "name": "'::&gt;14:120603&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] l\u00e9gume'"
+        },
+        "16530507": {
+            "name": "'::&gt;14:142086&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] jambe'"
+        },
+        "16324521": {
+            "name": "'::&gt;14:16324520&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] pointes de cheveux'"
+        },
+        "16324517": {
+            "name": "'::&gt;14:85167&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] pointes'"
+        },
+        "16165528": {
+            "name": "'::&gt;14:120728&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] planche'"
+        },
+        "16165526": {
+            "name": "'::&gt;13:4216&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [sujet] menuisier'"
+        },
+        "88315": {
+            "name": "'\u00e9mincer'",
+            "type": "1",
+            "w": "172"
+        },
+        "14450953": {
+            "name": "'::&gt;14:2845232&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [objet] morceaux de viande'"
+        },
+        "14450955": {
+            "name": "'::&gt;31:64437&gt;29:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'couper [endroit] boucherie'"
+        },
+        "95616": {
+            "name": "'canif'",
+            "type": "1",
+            "w": "302"
+        }
+    },
+    "r": {
+        "18500654": {
+            "node1": "128828",
+            "node2": "198061",
+            "type": "8",
+            "w": "39"
+        },
+        "53137879": {
+            "node1": "128828",
+            "node2": "2581325",
+            "type": "8",
+            "w": "38"
+        },
+        "23436393": {
+            "node1": "128828",
+            "node2": "589240",
+            "type": "8",
+            "w": "38"
+        },
+        "15746717": {
+            "node1": "128828",
+            "node2": "313394",
+            "type": "8",
+            "w": "35"
+        },
+        "14002373": {
+            "node1": "128828",
+            "node2": "395744",
+            "type": "8",
+            "w": "34"
+        },
+        "31789437": {
+            "node1": "128828",
+            "node2": "392003",
+            "type": "8",
+            "w": "32"
+        },
+        "31741156": {
+            "node1": "128828",
+            "node2": "1969834",
+            "type": "8",
+            "w": "28"
+        },
+        "15086571": {
+            "node1": "128828",
+            "node2": "437643",
+            "type": "8",
+            "w": "26"
+        },
+        "386020753": {
+            "node1": "128828",
+            "node2": "14880191",
+            "type": "8",
+            "w": "25"
+        },
+        "386020744": {
+            "node1": "128828",
+            "node2": "14880186",
+            "type": "8",
+            "w": "25"
+        },
+        "385198508": {
+            "node1": "128828",
+            "node2": "14851598",
+            "type": "8",
+            "w": "25"
+        },
+        "385198499": {
+            "node1": "128828",
+            "node2": "14851593",
+            "type": "8",
+            "w": "25"
+        },
+        "376329147": {
+            "node1": "128828",
+            "node2": "14324557",
+            "type": "8",
+            "w": "25"
+        },
+        "376328050": {
+            "node1": "128828",
+            "node2": "14326154",
+            "type": "8",
+            "w": "25"
+        },
+        "376328048": {
+            "node1": "128828",
+            "node2": "14326156",
+            "type": "8",
+            "w": "25"
+        },
+        "376328045": {
+            "node1": "128828",
+            "node2": "14326159",
+            "type": "8",
+            "w": "25"
+        },
+        "376328020": {
+            "node1": "128828",
+            "node2": "14326219",
+            "type": "8",
+            "w": "25"
+        },
+        "376318797": {
+            "node1": "128828",
+            "node2": "14334036",
+            "type": "8",
+            "w": "25"
+        },
+        "376318795": {
+            "node1": "128828",
+            "node2": "14334038",
+            "type": "8",
+            "w": "25"
+        },
+        "376318791": {
+            "node1": "128828",
+            "node2": "14334041",
+            "type": "8",
+            "w": "25"
+        },
+        "376318751": {
+            "node1": "128828",
+            "node2": "14334478",
+            "type": "8",
+            "w": "25"
+        },
+        "376318749": {
+            "node1": "128828",
+            "node2": "14334480",
+            "type": "8",
+            "w": "25"
+        },
+        "376311368": {
+            "node1": "128828",
+            "node2": "14347239",
+            "type": "8",
+            "w": "25"
+        },
+        "376310209": {
+            "node1": "128828",
+            "node2": "14350858",
+            "type": "8",
+            "w": "25"
+        },
+        "376310207": {
+            "node1": "128828",
+            "node2": "14350860",
+            "type": "8",
+            "w": "25"
+        },
+        "376310203": {
+            "node1": "128828",
+            "node2": "14350865",
+            "type": "8",
+            "w": "25"
+        },
+        "376310195": {
+            "node1": "128828",
+            "node2": "10913728",
+            "type": "8",
+            "w": "25"
+        },
+        "376310194": {
+            "node1": "128828",
+            "node2": "14350876",
+            "type": "8",
+            "w": "25"
+        },
+        "376302012": {
+            "node1": "128828",
+            "node2": "14356606",
+            "type": "8",
+            "w": "25"
+        },
+        "376302010": {
+            "node1": "128828",
+            "node2": "14356608",
+            "type": "8",
+            "w": "25"
+        },
+        "376292392": {
+            "node1": "128828",
+            "node2": "14364057",
+            "type": "8",
+            "w": "25"
+        },
+        "376287081": {
+            "node1": "128828",
+            "node2": "14380716",
+            "type": "8",
+            "w": "25"
+        },
+        "376287074": {
+            "node1": "128828",
+            "node2": "14380721",
+            "type": "8",
+            "w": "25"
+        },
+        "376287073": {
+            "node1": "128828",
+            "node2": "14380722",
+            "type": "8",
+            "w": "25"
+        },
+        "376287066": {
+            "node1": "128828",
+            "node2": "14380726",
+            "type": "8",
+            "w": "25"
+        },
+        "376287019": {
+            "node1": "128828",
+            "node2": "14380777",
+            "type": "8",
+            "w": "25"
+        },
+        "376287011": {
+            "node1": "128828",
+            "node2": "14380782",
+            "type": "8",
+            "w": "25"
+        },
+        "376283054": {
+            "node1": "128828",
+            "node2": "14389064",
+            "type": "8",
+            "w": "25"
+        },
+        "376283052": {
+            "node1": "128828",
+            "node2": "14389066",
+            "type": "8",
+            "w": "25"
+        },
+        "376278544": {
+            "node1": "128828",
+            "node2": "14400446",
+            "type": "8",
+            "w": "25"
+        },
+        "376263657": {
+            "node1": "128828",
+            "node2": "14435488",
+            "type": "8",
+            "w": "25"
+        },
+        "376263655": {
+            "node1": "128828",
+            "node2": "14435490",
+            "type": "8",
+            "w": "25"
+        },
+        "376252006": {
+            "node1": "128828",
+            "node2": "14470084",
+            "type": "8",
+            "w": "25"
+        },
+        "376252001": {
+            "node1": "128828",
+            "node2": "14470092",
+            "type": "8",
+            "w": "25"
+        },
+        "376248709": {
+            "node1": "128828",
+            "node2": "14473343",
+            "type": "8",
+            "w": "25"
+        },
+        "376248707": {
+            "node1": "128828",
+            "node2": "14473345",
+            "type": "8",
+            "w": "25"
+        },
+        "376237113": {
+            "node1": "128828",
+            "node2": "14501091",
+            "type": "8",
+            "w": "25"
+        },
+        "376237111": {
+            "node1": "128828",
+            "node2": "14501093",
+            "type": "8",
+            "w": "25"
+        },
+        "373435579": {
+            "node1": "128828",
+            "node2": "14572841",
+            "type": "8",
+            "w": "25"
+        },
+        "373435577": {
+            "node1": "128828",
+            "node2": "14572843",
+            "type": "8",
+            "w": "25"
+        },
+        "245156949": {
+            "node1": "128828",
+            "node2": "1935091",
+            "type": "8",
+            "w": "25"
+        },
+        "243499080": {
+            "node1": "128828",
+            "node2": "8816744",
+            "type": "8",
+            "w": "25"
+        },
+        "370069168": {
+            "node1": "128828",
+            "node2": "14561166",
+            "type": "8",
+            "w": "22"
+        },
+        "370084419": {
+            "node1": "128828",
+            "node2": "14540351",
+            "type": "8",
+            "w": "21"
+        },
+        "370084414": {
+            "node1": "128828",
+            "node2": "14540364",
+            "type": "8",
+            "w": "21"
+        },
+        "297336083": {
+            "node1": "128828",
+            "node2": "11558353",
+            "type": "8",
+            "w": "21"
+        },
+        "54550561": {
+            "node1": "128828",
+            "node2": "1747273",
+            "type": "8",
+            "w": "19"
+        },
+        "419171571": {
+            "node1": "128828",
+            "node2": "16060137",
+            "type": "8",
+            "w": "9"
+        },
+        "370069166": {
+            "node1": "128828",
+            "node2": "14485281",
+            "type": "8",
+            "w": "9"
+        },
+        "403812464": {
+            "node1": "128828",
+            "node2": "15686368",
+            "type": "8",
+            "w": "6"
+        },
+        "366771339": {
+            "node1": "128828",
+            "node2": "14324560",
+            "type": "8",
+            "w": "5"
+        },
+        "420066473": {
+            "node1": "128828",
+            "node2": "15789593",
+            "type": "8",
+            "w": "3"
+        },
+        "420066471": {
+            "node1": "128828",
+            "node2": "15789590",
+            "type": "8",
+            "w": "3"
+        },
+        "428610808": {
+            "node1": "128828",
+            "node2": "16311045",
+            "type": "8",
+            "w": "2"
+        },
+        "366771340": {
+            "node1": "128828",
+            "node2": "14324555",
+            "type": "8",
+            "w": "2"
+        },
+        "366771278": {
+            "node1": "128828",
+            "node2": "14450960",
+            "type": "8",
+            "w": "2"
+        },
+        "435538606": {
+            "node1": "128828",
+            "node2": "16560393",
+            "type": "8",
+            "w": "1"
+        },
+        "435538582": {
+            "node1": "128828",
+            "node2": "16560398",
+            "type": "8",
+            "w": "1"
+        },
+        "434622315": {
+            "node1": "128828",
+            "node2": "16530507",
+            "type": "8",
+            "w": "1"
+        },
+        "430247254": {
+            "node1": "128828",
+            "node2": "16324521",
+            "type": "8",
+            "w": "1"
+        },
+        "430246949": {
+            "node1": "128828",
+            "node2": "16324517",
+            "type": "8",
+            "w": "1"
+        },
+        "427923336": {
+            "node1": "128828",
+            "node2": "16165528",
+            "type": "8",
+            "w": "1"
+        },
+        "427923334": {
+            "node1": "128828",
+            "node2": "16165526",
+            "type": "8",
+            "w": "1"
+        },
+        "427911875": {
+            "node1": "128828",
+            "node2": "88315",
+            "type": "8",
+            "w": "1"
+        },
+        "366771342": {
+            "node1": "128828",
+            "node2": "14450953",
+            "type": "8",
+            "w": "1"
+        },
+        "366771327": {
+            "node1": "128828",
+            "node2": "14450955",
+            "type": "8",
+            "w": "1"
+        },
+        "243257322": {
+            "node1": "128828",
+            "node2": "95616",
+            "type": "8",
+            "w": "-25"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

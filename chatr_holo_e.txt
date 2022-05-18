@@ -1,0 +1,73 @@
+[<code>
+// DUMP pour le terme 'chat' (eid=150)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Le Chat domestique (Felis silvestris catus) est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés.
+</br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;150;'chat';1;5437
+e;175539;'Felidae';1;50
+e;120157;'règne animal';1;102
+e;45179;'maison';1;12578
+e;5814;'animalerie';1;162
+e;6913330;'en:felidae';1;0
+e;157132;'félins';1;68
+e;225316;'JDM';1;20
+e;142235;'Félidés';1;50
+e;71539;'animaux';1;3421
+e;81027;'félidés';1;128
+e;41476;'meute';1;166
+e;36886;'faune';1;2225
+e;364788;'monde animal';1;50
+e;15043900;'en:family Felidae';1;0
+e;233950;'famille&gt;233949';1;142;'famille&gt;enfants et parents'
+e;224361;'souris&gt;95245';1;10;'souris&gt;fille'
+e;74846;'corps';1;5240
+e;146105;'mer';1;9338
+e;15043901;'en:Felidae';1;0
+e;20713;'planète';1;3768
+e;9160330;'en:family felidae';1;0
+e;15080161;'en:animal kingdom';1;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 22 relations sortantes 
+
+r;213732126;150;175539;10;35
+r;2482072;150;120157;10;35
+r;2303636;150;45179;10;35
+r;2498505;150;5814;10;34
+r;207152906;150;6913330;10;33
+r;2303638;150;157132;10;32
+r;98290101;150;225316;10;29
+r;29451535;150;142235;10;28
+r;2482071;150;71539;10;28
+r;2303639;150;81027;10;28
+r;2303637;150;41476;10;28
+r;2498506;150;36886;10;27
+r;414014211;150;364788;10;25
+r;413360488;150;15043900;10;25
+r;374382116;150;233950;10;25
+r;308096418;150;224361;10;25
+r;287865844;150;74846;10;25
+r;97364681;150;146105;10;16
+r;413877024;150;15043901;10;15
+r;96698410;150;20713;10;15
+r;292759698;150;9160330;10;12
+r;413694185;150;15080161;10;10
+
+// END
+</code>]

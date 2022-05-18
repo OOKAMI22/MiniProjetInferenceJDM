@@ -1,0 +1,148 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        }
+    },
+    "e": {
+        "137391": {
+            "name": "'Afrique'",
+            "type": "1",
+            "w": "3638"
+        },
+        "252235": {
+            "name": "'Afrique \u00e9quatoriale'",
+            "type": "1",
+            "w": "2"
+        },
+        "2348201": {
+            "name": "'afrique du nord'",
+            "type": "1",
+            "w": "0"
+        },
+        "152873": {
+            "name": "'afrique du sud'",
+            "type": "1",
+            "w": "50"
+        },
+        "61414": {
+            "name": "'Afrique du Nord'",
+            "type": "1",
+            "w": "80"
+        },
+        "139395": {
+            "name": "'Afrique du Sud'",
+            "type": "1",
+            "w": "164"
+        },
+        "257433": {
+            "name": "'Afrique francophone'",
+            "type": "1",
+            "w": "50"
+        },
+        "14388728": {
+            "name": "'::&gt;66:137391&gt;30:78768'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'Afrique [lieu pour] chasser'"
+        },
+        "14453097": {
+            "name": "'afrique du Sud'",
+            "type": "1",
+            "w": "0"
+        },
+        "6417367": {
+            "name": "'afrique ouest'",
+            "type": "1",
+            "w": "0"
+        },
+        "6372728": {
+            "name": "'afrique australe portugaise'",
+            "type": "1",
+            "w": "0"
+        },
+        "11175094": {
+            "name": "'afrique sub saharienne'",
+            "type": "1",
+            "w": "0"
+        }
+    },
+    "r": {
+        "9754389": {
+            "node1": "137391",
+            "node2": "252235",
+            "type": "8",
+            "w": "53"
+        },
+        "34660573": {
+            "node1": "137391",
+            "node2": "2348201",
+            "type": "8",
+            "w": "35"
+        },
+        "34660571": {
+            "node1": "137391",
+            "node2": "152873",
+            "type": "8",
+            "w": "31"
+        },
+        "480169197": {
+            "node1": "137391",
+            "node2": "61414",
+            "type": "8",
+            "w": "30"
+        },
+        "480168994": {
+            "node1": "137391",
+            "node2": "139395",
+            "type": "8",
+            "w": "30"
+        },
+        "13990010": {
+            "node1": "137391",
+            "node2": "257433",
+            "type": "8",
+            "w": "26"
+        },
+        "376283267": {
+            "node1": "137391",
+            "node2": "14388728",
+            "type": "8",
+            "w": "25"
+        },
+        "370060189": {
+            "node1": "137391",
+            "node2": "14453097",
+            "type": "8",
+            "w": "25"
+        },
+        "306765683": {
+            "node1": "137391",
+            "node2": "6417367",
+            "type": "8",
+            "w": "25"
+        },
+        "304004822": {
+            "node1": "137391",
+            "node2": "6372728",
+            "type": "8",
+            "w": "25"
+        },
+        "286727436": {
+            "node1": "137391",
+            "node2": "11175094",
+            "type": "8",
+            "w": "25"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

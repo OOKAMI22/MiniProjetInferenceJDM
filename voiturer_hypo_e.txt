@@ -1,0 +1,1800 @@
+[<code>
+// DUMP pour le terme 'voiture' (eid=6890)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Véhicule consistant en une caisse montée sur des roues.<br> 
+ Rencontré Artaud [?] qui s'est pris le pied dans la roue de sa voiture, a cogné la tête dans le marchepied, et est retombé sur une botte de paille ; il aurait voulu le faire qu'il n'y serait jamais arrivé.    
+ (Jean Giraudoux, Retour d'Alsace - Août 1914, 1916)  <br> 
+ Quelquefois, lorsque j'arrive, je préviens qu'on envoie une voiture me chercher à la gare ; souvent je ne préviens pas.    
+ (Octave Mirbeau, Le Colporteur)  <br> 
+ Le goût de l'équitation, autrefois si prononcé en France, est aujourd'hui en partie perdu où tout le monde préfère monter en voiture ; aussi le cheval de selle est-il presque délaissé.    
+ (Jean Déhès, Essai sur l'amélioration des races chevalines de la France, École impériale vétérinaire de Toulouse, Thèse de médecine vétérinaire, 1868)  <br> 
+ Le 9 décembre 1776, sur les sept heures du soir, une voiture d'assez belle apparence, mais dans laquelle un observateur attentif pouvait reconnaître un carrosse de louage, traversa la cour de l'hôtel des finances.    
+ (Julie de Querangal, Philippe de Morvelle, Revue des Deux Mondes, tome 2, 4, 1833)  <br>
+2. Le terme populaire automobile (simplification historique de l'expression « voiture automobile ») désigne un véhicule à roues, motorisé et destiné au transport terrestre de personnes et de biens. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés.<br>
+3. Le terme populaire automobile (simplification historique de l'expression « voiture légère automobile ») désigne un véhicule à roues, motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés.<br>
+4. Une automobile (simplification historique de l'expression « voiture légère automobile ») est un véhicule à roues, motorisé et destiné au transport terrestre de quelques personnes et de leurs bagages. L'abréviation populaire « voiture » est assez courante, bien que ce terme désigne de nombreux types de véhicules qui ne sont pas tous motorisés.<br>
+5. Une voiture dite sans permis ou « voiturette » ou parfois micro-voiture ou rarement voiture-oeuf est un véhicule carrossé à moteur dont la réglementation est similaire ou dérivée de celle de la catégorie des cyclomoteurs notamment en ce qui concerne le permis de conduire. En fonction de la législation nationale, la conduite peut ne pas nécessiter de permis de conduire automobile obligatoire. Les caractéristiques techniques ne répondent pas au standard européen d'une voiture de tourisme ; en particulier pour les normes de sécurité : absence d'obligation d'ABS, d'airbag, d'ESP, de TPMS ou d'AEB ou de protection contre les chocs. Il s'agit le plus souvent d'un quadricycle à moteur, mais une voiturette peut être aussi un tricycle à moteur ou véhicule à trois roues.<br/>
+6. Une voiture hippomobile (parfois appelée simplement hippomobile, parfois désigné avec l'hyperonyme voiture) est un véhicule muni de deux ou quatre roues, dont la traction est assurée par un ou plusieurs chevaux, ou encore par d'autres équidés : poneys, ânes, mules et mulets. On peut ajouter les voitures qui peuvent être tirées par des bovins, ou tout autre animal. La voiture hippomobile est destinée à transporter des personnes ou des marchandises sur des distances plus ou moins longues. La voiture hippomobile existe depuis la Préhistoire et a énormément varié dans sa construction, ses formes et ses fonctions, selon le temps et les lieux.
+</br></br></br></br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;8;'n_chunk'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;6890;'voiture';1;11678
+e;28449;'coupé';1;1304
+e;114384;'décapotable';1;84
+e;59575;'cabriolet';1;64
+e;60569;'4x4';1;64
+e;54860;'Twingo';1;66
+e;92501;'berline';1;168
+e;134584;'break';1;2047
+e;16386;'monospace';1;72
+e;161561;'citadine';1;80
+e;6229;'roadster';1;58
+e;19679;'Ferrari';1;2622
+e;6755;'guimbarde';1;104
+e;122270;'calèche';1;60
+e;33396;'patache';1;58
+e;108380;'tacot';1;74
+e;39427;'tout-terrain';1;80
+e;219254;'berline&gt;95706';1;14;'berline&gt;automobile'
+e;225924;'Clio&gt;6890';1;6;'Clio&gt;voiture'
+e;49957;'Citroën';1;262
+e;7373;'clio';1;52
+e;243524;'voiture de police';1;36
+e;130880;'voiture de course';1;100
+e;231611;'207';1;50
+e;219353;'frégate&gt;95706';1;4;'frégate&gt;automobile'
+e;118709;'2 CV';1;56
+e;248046;'voiture d'enfant';1;52
+e;10949;'quatre-quatre';1;58
+e;245518;'voiture à cheval';1;80
+e;244597;'SIMCA';1;50
+e;219893;'Picasso&gt;95706';1;2;'Picasso&gt;automobile'
+e;155763;'peugeot';1;60
+e;326494;'voiture de camping';1;50
+e;228902;'limousine&gt;95706';1;50;'limousine&gt;automobile'
+e;96782;'limousine';1;70
+e;83065;'teuf-teuf';1;52
+e;316228;'Jaguar type C';1;50
+e;293296;'Ferrari Testarossa';777;50
+e;244012;'jaguar&gt;95706';1;4;'jaguar&gt;automobile'
+e;269834;'104';1;50
+e;55942;'voiture hippomobile';1;64
+e;254231;'voiture de société';1;78
+e;254230;'voiture d'entreprise';1;60
+e;209986;'voiture à bras';1;56
+e;59661;'voiture de place';1;50
+e;209989;'voiture de tourisme';1;72
+e;209987;'voiture de grande remise';1;50
+e;209990;'voiture miniature';1;52
+e;212168;'voiture d'enregistrement';1;50
+e;209991;'voiture postale';1;50
+e;259713;'voiture d'enfants';1;52
+e;231982;'voiture télécommandée';1;50
+e;164380;'voiture à pédales';1;50
+e;246582;'voiture de maître';1;30
+e;176870;'voiture balai';1;6
+e;212700;'voiture de patrouille';1;2
+e;187859;'voiture pilote';1;50
+e;254700;'voiture particulière';1;50
+e;219624;'voiture restaurant';1;50
+e;261084;'voiture sportive de luxe';1;50
+e;180141;'voiture tonneau';1;50
+e;212350;'voiture piégée';1;52
+e;261108;'voiture luxueuse';1;50
+e;271800;'voiture automobile';777;50
+e;260369;'voiture automotrice';1;50
+e;180140;'voiture cellulaire';1;50
+e;252386;'voiture climatisée';1;20
+e;322549;'voiture Corail';1;50
+e;320779;'voiture d'occasion';1;84
+e;322538;'voiture de chemin de fer';1;50
+e;261096;'voiture banalisée';1;52
+e;309829;'voiture de production';777;50
+e;254699;'voiture de service';1;50
+e;169879;'voiture amphibie';1;50
+e;271063;'Ferrari 288 GTO';666;50
+e;266390;'petite voiture&gt;123745';1;6;'petite voiture&gt;véhicule'
+e;252727;'voiture ancienne';1;2
+e;264916;'grande routière';1;50
+e;13712;'transport';1;3449
+e;232175;'Supercinq';1;50
+e;261085;'voiture sportive';1;50
+e;261086;'voiture de luxe';1;10
+e;221017;'voiture sans permis';1;14
+e;212902;'Testarossa';1;6
+e;231445;'petite voiture';1;116
+e;260095;'grosse voiture';1;50
+e;260096;'voiture familiale';1;54
+e;260074;'grosse bagnole';1;6
+e;247243;'::&gt;66:6890&gt;17:159034';8;50;'voiture [carac] accidentée'
+e;224095;'deux-chevaux';1;50
+e;249519;'voiture officielle';1;4
+e;248035;'voiture de location';1;66
+e;248034;'voiture avec chauffeur';1;62
+e;248047;'voiture décapotable';1;6
+e;235130;'voiture de fonction';1;52
+e;248044;'voiture diesel';1;6
+e;248043;'voiture de collection';1;8
+e;248045;'voiture à essence';1;8
+e;98919;'jaguar';1;236
+e;10966275;'Formule 1&gt;111939&gt;6890';1;0;'Formule 1&gt;sport automobile&gt;voiture'
+e;2951713;'voiture autonome';666;4
+e;47191;'Ford T';1;58
+e;1213781;'petite voiture rouge&gt;123745';1;0;'petite voiture rouge&gt;véhicule'
+e;216015;'DeLorean';666;54
+e;209988;'voiture de sport';1;106
+e;236372;'403';666;50
+e;235218;'Lamborghini Countach';1;50
+e;233987;'Citroën Méhari';1;50
+e;230749;'Xantia';1;50
+e;214782;'caravelle&gt;95706';1;50;'caravelle&gt;automobile'
+e;387489;'voiture à toit ouvrant';1;50
+e;82664;'voiture-lit';1;50
+e;84319;'frégate';1;372
+e;387469;'voiture de laitier';1;50
+e;1578369;'voiture de tourisme avec chauffeur';1;0
+e;187858;'voiture électrique';1;38
+e;1658244;'voiture kamikaze';1;0
+e;387480;'voiture neuve';1;80
+e;308392;'crossover';1;50
+e;16279476;'crossover coupé';1;0
+e;387502;'voiture survireuse';1;50
+e;387506;'voiture à viande';1;50
+e;387495;'voiture de série';1;50
+e;387470;'voiture de louage';1;50
+e;387504;'voiture ventouse';1;50
+e;1784904;'américaine&gt;95706';1;0;'américaine&gt;automobile'
+e;387484;'voiture sport';1;50
+e;34815;'grill-express';1;50
+e;11374435;'Bentley Speed 8';777;0
+e;10608421;'Bentley Continental Flying Spur';777;0
+e;11374427;'Bentley 6½ Litre';777;0
+e;387503;'voiture tractrice';1;50
+e;387492;'voiture de métro';1;50
+e;387472;'voiture de remise';1;50
+e;387478;'voiture militaire';1;50
+e;396699;'muscle car';1;50
+e;32843;'voiture-radio';1;50
+e;11374437;'Bentley EXP-8';777;0
+e;11374436;'Bentley EXP Speed 8';777;0
+e;10433974;'Bentley Continental';777;0
+e;11374468;'Bentley Serie R';777;0
+e;11374477;'Bentley Flying Spur';777;0
+e;11374431;'Bentley Arnage';777;0
+e;11374459;'Bentley 8 Litre';777;0
+e;11374457;'Bentley 4½ Litre';777;0
+e;11381948;'sportive de luxe';1;0
+e;387479;'voiture mixte';1;50
+e;387490;'voiture école';1;50
+e;387475;'voiture exposition';1;50
+e;718844;'voiture de transport avec chauffeur';777;0
+e;121850;'voiture-bar';1;50
+e;59381;'voiture-balai';1;50
+e;161326;'4X4';1;56
+e;393318;'Ford Thunderbird';1;50
+e;11374428;'Bentley Speed Six';777;0
+e;11374466;'Bentley Mark VI';777;0
+e;11374465;'Bentley Mark V';777;0
+e;11374475;'Bentley Brooklands';777;0
+e;11374464;'Bentley 4¼ Litre';777;0
+e;11374460;'Bentley 4 Litre';777;0
+e;387494;'voiture de rémouleur';1;50
+e;1374163;'voiture sans conducteur de Google';1;0
+e;387466;'voiture américaine';1;50
+e;387486;'voiture volée';1;32
+e;55663;'Peugeot';1;1946
+e;17053756;'Tesla Model 3';1;0
+e;13516288;'Volkswagen Touareg';1;0
+e;13516285;'Subaru Forester';1;0
+e;13516284;'SsangYong Actyon';1;0
+e;13516281;'koda Yéti';1;0
+e;11376574;'Renault Espace V';777;0
+e;13516278;'Porsche Cayenne';1;0
+e;13516277;'Peugeot 4008';1;0
+e;13294018;'Nissan Qashqai';1;0
+e;4312954;'Mercedes-Benz Classe GLA';1;0
+e;13516266;'Mazda CX-3';1;0
+e;10601757;'Range Rover Evoque';777;0
+e;13516260;'Infiniti FX';1;0
+e;13516257;'Infiniti QX30';1;0
+e;13516250;'Citroën C4 Aircross';1;0
+e;10844400;'Chevrolet Orlando';777;0
+e;11374432;'Bentley Mulsanne';777;0
+e;11374419;'Bentley Boys';777;0
+e;11374458;'Bentley Blower';777;0
+e;10423085;'Porsche 911';777;0
+e;10879695;'Mitsubishi Lancer WRC';777;0
+e;10461989;'Peugeot 3008';777;0
+e;61452;'caravelle';1;84
+e;387467;'voiture attelée';1;50
+e;387500;'voiture présidentielle';1;50
+e;387473;'voiture de train';1;50
+e;387487;'voiture à hayon';1;50
+e;387476;'voiture fermée';1;50
+e;348029;'dog cart';1;50
+e;160187;'C4';1;162
+e;13516286;'Toyota C-HR';1;0
+e;13516279;'Rayton Fissore Magnum';1;0
+e;10422526;'Peugeot 2008';777;2
+e;13516276;'Nissan Murano';1;0
+e;13516275;'Nissan Juke';1;0
+e;13516273;'Mini Countryman';1;0
+e;13516272;'Mercedes-Benz Classe R';1;0
+e;13516271;'Mercedes-Benz Classe GLE coupé';1;0
+e;13516270;'Mercedes-Benz Classe GLC';1;0
+e;13516269;'Mazda CX-9';1;0
+e;13516261;'Jaguar F-Pace';1;0
+e;13516258;'Infiniti EX';1;0
+e;13516256;'Honda CR-V';1;0
+e;13516253;'Fiat 500X';1;0
+e;10461992;'DS 5';777;0
+e;13516251;'Dodge Caliber';1;0
+e;13516249;'Citroën C4 Cactus';1;0
+e;13516247;'BMW X4';1;0
+e;11374474;'Bentley Turbo R';777;0
+e;11374476;'Bentley State Limousine';777;0
+e;11374467;'Bentley R Type';777;0
+e;11374430;'Bentley Azure';777;0
+e;11160788;'petite voiture familiale';1;0
+e;387493;'voiture de poste';1;50
+e;387471;'voiture de pompier';1;50
+e;387482;'voiture propre';1;54
+e;1213135;'::&gt;66:6890&gt;17:86356';8;0;'voiture [carac] rouge'
+e;356906;'grosse cylindrée';1;10
+e;252301;'4L';1;50
+e;13516282;'SsangYong Tivoli';1;0
+e;11376572;'Renault Kadjar';777;0
+e;13516280;'Renault Kaptur';1;0
+e;13516274;'Mini Paceman';1;0
+e;13516265;'Maserati Levante';1;0
+e;13516263;'Lamborghini Urus';1;0
+e;13516259;'Infiniti JX';1;0
+e;13516254;'Ford Edge';1;0
+e;13516292;'Dodge Journey';1;0
+e;13516291;'Fiat Freemont';1;0
+e;10889254;'Tubolare Zagato';777;0
+e;387483;'voiture publique';1;50
+e;387468;'voiture blindée';1;50
+e;387499;'voiture pie';1;50
+e;387505;'voiture à moteur';1;50
+e;153313;'tout terrain';1;68
+e;271166;'Challenger&gt;6890';1;50;'Challenger&gt;voiture'
+e;13516290;'Volvo XC90';1;0
+e;13516289;'Volvo XC60';1;0
+e;13516287;'Volkswagen Tiguan';1;0
+e;5815755;'Tesla Model X';777;0
+e;10425104;'Subaru Outback';777;0
+e;13516283;'SsangYong Rodius';1;0
+e;5061229;'Renault Captur';1;0
+e;5943927;'Renault Avantime';777;0
+e;1765145;'Porsche Macan';777;0
+e;10899590;'Opel Crossland X';777;0
+e;13516268;'Mazda CX-7';1;0
+e;13516267;'Mazda CX-5';1;0
+e;9733653;'Lexus RX';777;0
+e;13516264;'Lexus NX';1;0
+e;13516262;'Kia Niro';1;0
+e;13516255;'Honda HR-V';1;0
+e;13516248;'BMW X6';1;0
+e;13516246;'BMW X2';1;0
+e;10879060;'BMW E9';777;0
+e;10896293;'Le Mans Prototype';777;0
+e;387491;'voiture de forains';1;50
+e;387477;'voiture individuelle';1;50
+e;387497;'voiture directe';1;50
+e;308736;'voiture-pilote';777;50
+e;387501;'voiture sans chauffeur';1;50
+e;387481;'voiture personnelle';1;50
+e;213894;'R5';1;6
+e;215742;'lowrider';1;50
+e;230038;'porsche';666;50
+e;267402;'coupé&gt;6890';1;2;'coupé&gt;voiture'
+e;41351;'van';1;3149
+e;3169696;'Ferrari&gt;6890';1;0;'Ferrari&gt;voiture'
+e;106970;'caisse';1;1969
+e;387485;'voiture tournante';1;50
+e;387496;'voiture de tramway';1;50
+e;387498;'voiture motrice';1;50
+e;387488;'voiture à quatre portes';1;50
+e;387474;'voiture de trolleybus';1;50
+e;268542;'voiture d'enfant&gt;141009';1;52;'voiture d'enfant&gt;landau'
+e;268543;'voiture d'enfant&gt;164380';1;50;'voiture d'enfant&gt;voiture à pédales'
+e;1908;'dog-cart';1;50
+e;263013;'citadine&gt;6890';1;6;'citadine&gt;voiture'
+e;17592243;'::&gt;66:6890&gt;24:75807';8;0;'voiture [peut] circuler'
+e;17597186;'::&gt;66:6890&gt;24:17597176';8;0;'voiture [peut] s'encastrer [endroit] arbre'
+e;17592251;'::&gt;66:6890&gt;24:17592249';8;0;'voiture [peut] passer [endroit] rue&gt;voie de circulation'
+e;17563667;'::&gt;66:6890&gt;26:213856';8;0;'voiture [se faire] voler&gt;malhonnêteté'
+e;17562477;'::&gt;66:6890&gt;30:138507';8;0;'voiture [lieu pour] s'endormir'
+e;17548074;'::&gt;66:6890&gt;24:17548072';8;0;'voiture [peut] déraper [endroit] neige'
+e;17548117;'::&gt;66:6890&gt;24:17548075';8;0;'voiture [peut] faire un tête à queue'
+e;17548065;'::&gt;66:6890&gt;24:4461';8;0;'voiture [peut] glisser'
+e;17548068;'::&gt;66:6890&gt;24:201463';8;0;'voiture [peut] glisser sur'
+e;17545424;'::&gt;66:6890&gt;24:135929';8;0;'voiture [peut] avancer'
+e;17542268;'::&gt;66:6890&gt;24:17542263';8;0;'voiture [peut] se garer [endroit] place de stationnement'
+e;17542393;'::&gt;66:6890&gt;24:34519';8;0;'voiture [peut] contenir'
+e;17525743;'::&gt;66:6890&gt;26:75156';8;0;'voiture [se faire] brûler'
+e;17511571;'::&gt;66:6890&gt;26:42637';8;0;'voiture [se faire] immobiliser'
+e;17234334;'majorette&gt;231445';1;0;'majorette&gt;petite voiture'
+e;16780713;'Lamborghini Aventador LP 780-4 Ultimae';1;0
+e;15320693;'en:prison van';1;0
+e;4331731;'berline familiale';1;24
+e;153583;'gros cube';1;50
+e;15500971;'grosse bécane';1;0
+e;15209378;'en:taxi cab';1;0
+e;15376338;'en:town car';1;0
+e;15413797;'en:coupe de ville';1;0
+e;15573998;'en:hired limousine';1;0
+e;15017414;'::&gt;66:6890&gt;24:15017412';8;0;'voiture [peut] tomber dans [objet] rivière'
+e;15017411;'::&gt;66:6890&gt;24:101345';8;0;'voiture [peut] tomber dans'
+e;15017409;'::&gt;66:6890&gt;24:15017407';8;0;'voiture [peut] tomber [endroit] rivière'
+e;15017406;'::&gt;66:6890&gt;24:8661';8;0;'voiture [peut] tomber'
+e;15014934;'::&gt;66:6890&gt;24:231';8;0;'voiture [peut] rouler'
+e;14927424;'en:cart';1;0
+e;14908333;'::&gt;66:6890&gt;24:10910048';8;0;'voiture [peut] sortir de la route'
+e;14908331;'::&gt;66:6890&gt;24:14908329';8;0;'voiture [peut] sortir de [objet] route'
+e;14908328;'::&gt;66:6890&gt;24:34710';8;0;'voiture [peut] sortir de'
+e;14887865;'voiture de sport concept car';1;0
+e;14780235;'::&gt;66:6890&gt;24:73963';8;0;'voiture [peut] conduire'
+e;12980013;'voiture d'intervention rapide';1;0
+e;12081743;'voiture de tranche';1;0
+e;12067287;'Renault Floride';777;0
+e;12067665;'voiture à hydrogène';1;0
+e;12067308;'Renault Nervastella';777;0
+e;12067285;'Renault 21';777;0
+e;10601705;'Jaguar C-Type';777;0
+e;10601723;'Jaguar XJS';777;0
+e;10601722;'Jaguar XJ-S';777;0
+e;198225;'cycle-car';1;50
+e;117699;'cyclecar';1;50
+e;106090;'deuche';1;52
+e;249497;'désobligeante';1;24
+e;2449326;'voiture-couchettes';1;0
+e;3297752;'désobligeante&gt;245518';1;0;'désobligeante&gt;voiture à cheval'
+e;79376;'auto-tamponneuse';1;62
+e;3296465;'dormeuse&gt;6890';1;0;'dormeuse&gt;voiture'
+e;14231855;'voiture thermique';1;0
+e;10900140;'Bugatti Type 41';777;0
+e;10900141;'Bugatti Royale';777;0
+e;14302897;'Mazda Verisa';777;0
+e;14326139;'::&gt;66:6890&gt;26:73963';8;0;'voiture [se faire] conduire'
+e;14331250;'::&gt;66:6890&gt;24:63272';8;0;'voiture [peut] déraper'
+e;14331253;'::&gt;66:6890&gt;24:14331251';8;0;'voiture [peut] déraper [endroit] route'
+e;14347465;'::&gt;66:6890&gt;26:133117';8;0;'voiture [se faire] garer'
+e;14355242;'::&gt;66:6890&gt;26:143876';8;0;'voiture [se faire] laver'
+e;14355302;'::&gt;66:6890&gt;30:9993407';8;0;'voiture [lieu pour] être enfermé'
+e;14355309;'::&gt;66:6890&gt;30:84983';8;0;'voiture [lieu pour] enfermer'
+e;14363962;'::&gt;66:6890&gt;25:59303';8;0;'voiture [objet pour] se déplacer'
+e;14381087;'::&gt;66:6890&gt;30:85447';8;0;'voiture [lieu pour] sucer'
+e;14434268;'BMW 700';777;0
+e;14435578;'::&gt;66:6890&gt;24:144452';8;0;'voiture [peut] s'embourber'
+e;14435581;'::&gt;66:6890&gt;24:14435579';8;0;'voiture [peut] s'embourber [endroit] chemin boueux'
+e;14451960;'::&gt;66:6890&gt;24:5714';8;0;'voiture [peut] sortir'
+e;14451963;'::&gt;66:6890&gt;24:14451961';8;0;'voiture [peut] sortir [objet] route'
+e;14451965;'::&gt;66:6890&gt;24:31641';8;0;'voiture [peut] avoir'
+e;14451968;'::&gt;66:6890&gt;24:14451966';8;0;'voiture [peut] avoir [objet] clim'
+e;14464590;'::&gt;66:6890&gt;26:47850';8;0;'voiture [se faire] remorquer'
+e;14470978;'::&gt;66:6890&gt;30:55325';8;0;'voiture [lieu pour] téléphoner'
+e;14474302;'::&gt;66:6890&gt;30:121505';8;0;'voiture [lieu pour] écouter'
+e;14486033;'::&gt;66:6890&gt;26:86792';8;0;'voiture [se faire] doubler'
+e;14489568;'::&gt;66:6890&gt;30:100813';8;0;'voiture [lieu pour] attendre'
+e;14531262;'::&gt;66:6890&gt;26:85286';8;0;'voiture [se faire] nettoyer'
+e;14532707;'::&gt;66:6890&gt;25:222212';8;0;'voiture [objet pour] aller au travail'
+e;14535781;'::&gt;66:6890&gt;24:328526';8;0;'voiture [peut] renverser [objet] piéton'
+e;14535783;'::&gt;66:6890&gt;24:14026003';8;0;'voiture [peut] renverser un piéton'
+e;14536420;'::&gt;66:6890&gt;26:134753';8;0;'voiture [se faire] réviser'
+e;14566593;'voitures banalisées';1;0
+e;14572877;'::&gt;66:6890&gt;30:124223';8;0;'voiture [lieu pour] distribuer'
+e;14604796;'::&gt;66:6890&gt;24:10384867';8;0;'voiture [peut] faire une sortie de route'
+e;14626209;'véhicule monocorps';777;0
+e;2432048;'monovolume';1;0
+e;14630359;'::&gt;66:6890&gt;26:107029';8;0;'voiture [se faire] piloter'
+e;14637732;'voiture du peuple';777;0
+e;235115;'tricorps';1;50
+e;2548003;'deux pattes';1;0
+e;9800106;'Formule 1&gt;146881';1;0;'Formule 1&gt;Nom:Fem+SG'
+e;11500763;'Wolfrace Sonic';777;0
+e;11237682;'compact car';1;0
+e;11010850;'Mercedes-Benz Stromlinienwagen';777;0
+e;63953;'voiture-ventouse';1;50
+e;9775153;'Renault R26';777;0
+e;10968540;'Mercedes AMG F1 W03';777;0
+e;10968468;'Sauber C34';777;0
+e;10968463;'Marussia MR03';777;0
+e;10968311;'McLaren M2B';777;0
+e;10968430;'McLaren MP4-29';777;0
+e;10968428;'Red Bull RB10';777;0
+e;10966417;'Lotus 25';777;0
+e;10966660;'Ferrari 246P';777;0
+e;10966685;'Ferrari 312 T5';777;0
+e;10966684;'Alfa Romeo 185T';777;0
+e;10966712;'Ferrari F1-90';777;0
+e;10966740;'Ferrari SF16-H';777;0
+e;10966739;'Ferrari SF15-T';777;0
+e;10966757;'Cooper T23';777;0
+e;10968207;'Williams FW35';777;0
+e;10968242;'Eurobrun ER188';777;0
+e;10968308;'Forti FG01-95B';777;0
+e;10968426;'Mercedes AMG F1 W05';777;0
+e;10968199;'Caterham CT03';777;0
+e;10966699;'Ferrari F1-86';777;0
+e;10966707;'Ferrari 640';777;0
+e;10966738;'Ferrari F14 T';777;0
+e;10966730;'Ferrari F2005';777;0
+e;10968086;'Lotus 16';777;0
+e;10966409;'Cooper T43';777;0
+e;10966663;'Ferrari 158';777;0
+e;10966670;'Alfa Romeo 179C';777;0
+e;10966737;'Ferrari F138';777;0
+e;10966752;'Frazer Nash 421';777;0
+e;10968158;'Lotus E22';777;0
+e;10968201;'Marussia MR02';777;0
+e;10968206;'Toro Rosso STR8';777;0
+e;10966659;'Ferrari Dino 246';777;0
+e;10966697;'Ferrari 156-85';777;0
+e;10966708;'Ferrari F1-89';777;0
+e;10968205;'Sauber C32';777;0
+e;10966683;'Ferrari 312 T4';777;0
+e;10966696;'Talbot-Lago T26C';777;0
+e;10966720;'Ferrari 412 T2';777;0
+e;10966736;'Ferrari F2012';777;0
+e;10968151;'Lotus E21';777;0
+e;10966682;'Ferrari 312 T3';777;0
+e;10966735;'Ferrari 150° Italia';777;0
+e;10968204;'Red Bull RB9';777;0
+e;10968208;'Lotus E23 Hybrid';777;0
+e;10966681;'Ferrari 312T2';777;0
+e;10966667;'Ferrari 246';777;0
+e;10966727;'Ferrari F2001';777;0
+e;10966734;'Ferrari F60';777;0
+e;10966800;'Williams FW27';777;0
+e;10966748;'BMW Speciale';777;0
+e;10966729;'Ferrari F2003-GA';777;0
+e;10966733;'Ferrari F2008';777;0
+e;10966747;'BMW Heck';777;0
+e;10966746;'BMW Greifzu';777;0
+e;10966768;'Cooper T44';777;0
+e;10966745;'BMW Eigenbau';777;0
+e;10968103;'Red Bull RB6';777;0
+e;10966732;'Ferrari F2007';777;0
+e;10966716;'Ferrari 643';777;0
+e;10966679;'Alfa Romeo 184T';777;0
+e;10966662;'Ferrari 156';777;0
+e;10966408;'Ferrari D50/801';777;0
+e;10966694;'Ferrari 126 C4';777;0
+e;10966669;'Alfa Romeo 179B';777;0
+e;10966678;'Alfa Romeo 183T';777;0
+e;10966693;'Ferrari 126 C3';777;0
+e;10966719;'Ferrari 412 T1';777;0
+e;10966666;'Alfa Romeo 177';777;0
+e;10966704;'Ferrari F1-87';777;0
+e;10966713;'Ferrari 642';777;0
+e;10966723;'Ferrari F310B';777;0
+e;10966677;'Alfa Romeo 182';777;0
+e;10966326;'Alfa Romeo 159';777;0
+e;10966412;'Lotus 78';777;0
+e;10968292;'Prost AP03';777;0
+e;10968427;'Mercedes AMG F1 W05 Hybrid';777;0
+e;10968396;'Toro Rosso STR9';777;0
+e;10968394;'Toro Rosso STR7';777;0
+e;10968301;'Coloni C4B';777;0
+e;10968302;'Andrea Moda C4B';777;0
+e;10968467;'Red Bull RB11';777;0
+e;10968466;'Mercedes AMG F1 W06 Hybrid';777;0
+e;10968470;'Williams FW37';777;0
+e;10968465;'McLaren MP4-30';777;0
+e;10968102;'Red Bull RB5';777;0
+e;10966762;'Cooper T40';777;0
+e;10966690;'Ferrari 126 C2B';777;0
+e;10968469;'Toro Rosso STR10';777;0
+e;10968464;'MR03B';777;0
+e;10968101;'McLaren MP4-18A';777;0
+e;10966759;'Mercedes-Benz W196';777;0
+e;10966743;'Alta F2';777;0
+e;10966722;'Ferrari F310';777;0
+e;10966718;'Ferrari F93A';777;0
+e;10966714;'Ferrari F1-91';777;0
+e;10966689;'Ferrari 126 C2';777;0
+e;10966676;'Ferrari 312 T';777;0
+e;10966668;'Alfa Romeo 179';777;0
+e;10968462;'Force India VJM08';777;0
+e;10968690;'Force India VJM07';777;0
+e;10968244;'Forti FG01-95';777;0
+e;10966758;'Klenk Meteor';777;0
+e;10966728;'Ferrari F2002';777;0
+e;10966688;'Alta GP';777;0
+e;10966675;'Ferrari 312 B3';777;0
+e;10966421;'Tyrrell P34';777;0
+e;10968298;'Brabham BT49';777;0
+e;10966711;'Ferrari 641';777;0
+e;10966674;'Ferrari 312 B';777;0
+e;10966742;'AFM 6';777;0
+e;10968200;'Force India VJM06';777;0
+e;10968202;'McLaren MP4-28';777;0
+e;10968227;'Williams FW41';777;0
+e;10966413;'JPS Mk III';777;0
+e;10966658;'Ferrari 375 F1';777;0
+e;10968058;'Renault R29';777;0
+e;10335006;'Renault RS10';777;0
+e;10427039;'Toyota TF110';777;0
+e;10427034;'Toyota TF109';777;0
+e;10427023;'Toyota TF107';777;0
+e;10427022;'Toyota TF106';777;0
+e;10429212;'McLaren MP4-17D';777;0
+e;10429323;'McLaren MP4-21';777;0
+e;10429278;'Ferrari F2004';777;0
+e;10496726;'Lotus E20';777;0
+e;10822669;'Renault RE50';777;0
+e;10822666;'Renault RE40';777;0
+e;10822659;'Renault RE30';777;0
+e;10822657;'Renault RE20';777;0
+e;10829140;'Arrows A22';777;0
+e;10879614;'Ferrari SF70H';777;0
+e;10966731;'Ferrari 248 F1';777;0
+e;10966726;'Ferrari F1-2000';777;0
+e;10966687;'Ferrari 126 CK';777;0
+e;10966664;'Ferrari 1512';777;0
+e;10968243;'Eurobrun ER189B';777;0
+e;10968297;'Brabham BT46';777;0
+e;10898738;'Sauber C30';777;0
+e;10901138;'McLaren MP4-27';777;0
+e;10901135;'Red Bull RB8';777;0
+e;10908779;'Ferrari 312 B2';777;0
+e;10968296;'Brabham BT19';777;0
+e;10966407;'Lancia D50';777;0
+e;10966406;'Ferrari D50';777;0
+e;10966672;'Alfa Romeo 179D';777;0
+e;10966717;'Ferrari F92A';777;0
+e;10966741;'Ferrari SF71H';777;0
+e;10968203;'Mercedes AMG F1 W04';777;0
+e;10968907;'Spyker F8-VII';777;0
+e;10968908;'Spyker F8-VII-B';777;0
+e;10968906;'Force India VJM10';777;0
+e;10968905;'Force India VJM09';777;0
+e;10968904;'Force India VJM04';777;0
+e;10968903;'Force India VJM03';777;0
+e;10968902;'Force India VJM02';777;0
+e;10968901;'Force India VJM01';777;0
+e;10968900;'Williams FW36';777;0
+e;10968899;'Sauber C33';777;0
+e;10968898;'Caterham CT05';777;0
+e;10968689;'Force India VJM05';777;0
+e;5633578;'Arrows A23';777;0
+e;5685684;'Arrows A19';777;0
+e;5539018;'Sauber C18';777;0
+e;5540511;'McLaren M26';777;0
+e;5944170;'Matra MS120';777;0
+e;6527355;'Sauber C15';777;0
+e;6684459;'Sauber C17';777;0
+e;8872906;'Renault R25';777;0
+e;5671108;'Ferrari F10';777;0
+e;5944134;'Matra MS10';777;0
+e;5670192;'Renault R27';777;0
+e;5669365;'Renault R23';777;0
+e;5624297;'Sauber C20';777;0
+e;10896306;'voiture de sécurité';777;0
+e;10462297;'Peugeot 504 Coupé';777;0
+e;10462287;'Peugeot 106';777;0
+e;10462245;'Peugeot type 138 double phaéton';777;0
+e;10462244;'Peugeot type 126 double phaéton';777;0
+e;10462212;'Peugeot Lion V4C3';777;0
+e;10462155;'Peugeot type 116 double phaéton';777;0
+e;10457004;'Innocenti Mini Bertone';777;0
+e;10430169;'Mercedes-Benz type W111';777;0
+e;10426455;'Lancia Stratos';777;0
+e;10426456;'Lancia Stratos HF';777;0
+e;10426444;'Lancia Beta';777;0
+e;10428479;'::&gt;66:6890&gt;17:117977';8;0;'voiture [carac] vieille'
+e;10428481;'::&gt;66:6890&gt;17:19062';8;0;'voiture [carac] en panne'
+e;10428553;'Ford Sierra';777;0
+e;10427228;'Fiat 124 Sport Spider';777;0
+e;10427169;'Toyota Passo Sette';777;0
+e;10427156;'Morris Minor';777;0
+e;10427120;'Sienta';777;0
+e;10427102;'Toyota Ractis';777;0
+e;10427103;'Toyota Verso-S';777;0
+e;10427094;'Toyota Porte';777;0
+e;10427093;'Toyota Passo';777;0
+e;10427089;'Toyota Mark X Zio';777;0
+e;10427087;'Toyota Mark X';777;0
+e;10427077;'Toyota Isis';777;0
+e;10427061;'Toyota Corolla Rumion';777;0
+e;10426998;'Smart Fortwo';777;0
+e;10426994;'Peugeot 304';777;0
+e;10426991;'Peugeot 204';777;0
+e;10426889;'Hyundai Veloster';777;0
+e;10425126;'Subaru Lucra';777;0
+e;10425111;'Subaru 360';777;0
+e;10425051;'Subaru Leone';777;0
+e;5153817;'voiture enlisée';1;0
+e;5061368;'berlinette';1;0
+e;2464212;'teufteuf';1;2
+e;180122;'brougham';1;50
+e;10314799;'voiture historique du LEB';777;0
+e;150845;'tarantass';1;50
+e;149133;'microbus';1;50
+e;271062;'supercar';1;50
+e;3231988;'voiture hippomobile de promenade';1;0
+e;3230163;'voiture bélier';1;0
+e;2395457;'calésin';1;0
+e;2394686;'charrette de quatre-saisons';1;0
+e;2394339;'dodoche';1;0
+e;2566641;'vource';1;0
+e;2535701;'watture';1;0
+e;2533847;'Batmobile';1;0
+e;399987;'vago';1;50
+e;2360588;'birouche';1;0
+e;305055;'tarentass';777;50
+e;5855845;'voiture volante';777;0
+e;230357;'DS';1;10
+e;7773407;'Koenigsegg CC8S';1;0
+e;3175279;'voiture en feu';1;0
+e;6283441;'Ford Figo';777;0
+e;5981000;'Toyota Camry';777;0
+e;92736;'voiture-restaurant';1;50
+e;5815916;'BMW i3';777;0
+e;5815991;'Spark-Renault SRT 01E';777;0
+e;5815396;'Mitsubishi i';777;0
+e;5806536;'Fiat Turbina';777;0
+e;5636245;'Fiat Barchetta';777;0
+e;432492;'Bravo';1;50
+e;4874102;'voiture radar';1;0
+e;231609;'406';1;50
+e;2397727;'vagon';1;0
+e;280574;'concept-car';777;50
+e;3742292;'Deudeuche';777;0
+e;462078;'deux chevaux';777;50
+e;209992;'voiture-école';1;50
+e;2944726;'voiture solaire';1;0
+e;4342037;'voiture hybride';1;4
+e;4342000;'::&gt;66:6890&gt;17:118027';8;0;'voiture [carac] hybride'
+e;230356;'2CV';1;2
+e;4331726;'Simca Aronde';1;0
+e;2479814;'mylord';1;0
+e;87064;'dormeuse';1;130
+e;55468;'équipage';1;136
+e;1213214;'petite voiture rouge';1;0
+e;230671;'deudeuche';1;52
+e;223239;'Formule 1&gt;111939';1;8;'Formule 1&gt;sport automobile'
+e;235876;'Diablo&gt;34962';1;50;'Diablo&gt;Lamborghini'
+e;117420;'remise';1;2349
+e;83995;'vis-à-vis';1;2211
+e;2521117;'monocorps';1;0
+e;4874;'omnibus';1;62
+e;5897;'charrette';1;106
+e;18828;'coach';1;156
+e;2513000;'voiture-bélier';1;38
+e;2509035;'tas de boue';1;2
+e;3990;'voiturette';1;94
+e;2506598;'microvoiture';1;0
+e;280575;'voiture-concept';777;50
+e;5323548;'voiture de pompiers';1;0
+e;5816067;'voiture Apple';777;0
+e;5814989;'voiture de banlieue à deux niveaux';777;0
+e;5893585;'voiture à chien';777;0
+e;5526677;'voiture expérimentale';1;0
+e;5636256;'voiture spyder';1;0
+e;5610505;'voiture panoramique';777;0
+e;5815571;'voiture de sport électrique';1;0
+e;2408913;'millourt';1;0
+e;2360245;'3e classe';1;0
+e;2415556;'3ème classe';1;0
+e;136191;'banne';1;54
+e;61421;'tapecul';1;68
+e;11145;'statutaire';1;50
+e;2391661;'sédiole';1;0
+e;299581;'voiture-lits';777;50
+e;6845;'monoplace';1;138
+e;141556;'fiacre';1;50
+e;72596;'tandem';1;92
+e;1934;'automotrice';1;52
+e;3224452;'deudeuche&gt;118709';1;2;'deudeuche&gt;2 CV'
+e;115898;'phaéton';1;54
+e;280246;'Renault 4CV';777;52
+e;309481;'Renault 4';777;50
+e;104425;'limonière';1;50
+e;263602;'vieille voiture';1;58
+e;2461626;'voiture chameau';1;0
+e;135895;'torpédo';1;52
+e;77793;'chocotte';1;50
+e;96431;'chasse-marée';1;50
+e;43539;'milord';1;50
+e;35567;'Rolls';1;54
+e;2398372;'corricolo';1;0
+e;1763379;'équipage&gt;123745';1;2;'équipage&gt;véhicule'
+e;63872;'motrice';1;168
+e;2534352;'électromobile';1;0
+e;138264;'Formule 1';1;82
+e;2441118;'volks';1;0
+e;118958;'voiture-salon';1;50
+e;127666;'voiturin';1;50
+e;129836;'cylindrée';1;52
+e;34941;'wagon-restaurant';1;102
+e;9954983;'voiture magique';1;0
+e;2382220;'SUV';1;0
+e;33073;'sulky';1;52
+e;72044;'tonneau';1;300
+e;141945;'roulotte';1;128
+e;29902;'bahut';1;104
+e;147470;'balayeuse';1;52
+e;85973;'vespasienne';1;76
+e;132857;'chaise';1;2282
+e;59611;'victoria';1;50
+e;17023;'cage';1;958
+e;1987177;'aménage';2;0
+e;3290868;'véhicule métis';1;0
+e;147313;'américaine';1;3616
+e;10050549;'voiture standard européenne';777;0
+e;10050550;'voiture Eurofima';777;0
+e;179695;'auto tamponneuse';1;50
+e;10101550;'Toyota Corolla';777;0
+e;10101733;'Fiat 131 Abarth Rally';777;0
+e;10101697;'Ford Cortina';777;0
+e;9942570;'Porsche 356';777;0
+e;9903887;'Suzuki Ritz';777;0
+e;9903886;'Suzuki Splash';777;0
+e;9827649;'Cadillac Cimarron';777;0
+e;10186648;'voiture régionale Halberstadt';777;0
+e;17496991;'::&gt;66:6890&gt;30:10027191';8;0;'voiture [lieu pour] baiser une pute'
+e;17498272;'::&gt;66:6890&gt;26:3973';8;0;'voiture [se faire] assurer'
+e;17487665;'::&gt;66:6890&gt;26:99453';8;0;'voiture [se faire] piéger'
+e;17496982;'::&gt;66:6890&gt;30:3271715';8;0;'voiture [lieu pour] se faire sucer'
+e;17497491;'::&gt;66:6890&gt;24:1653512';8;0;'voiture [peut] consommer de l'essence'
+e;17498118;'::&gt;66:6890&gt;30:124550';8;0;'voiture [lieu pour] tirer'
+e;17497789;'::&gt;66:6890&gt;24:19226';8;0;'voiture [peut] foncer'
+e;17491443;'::&gt;66:6890&gt;26:73827';8;0;'voiture [se faire] voler'
+e;14388668;'Voiture standard européenne';777;0
+e;11828150;'Ariel Atom';777;0
+e;11383476;'voiture de compétition';1;0
+e;14053004;'Voiture présidentielle';777;0
+e;11533667;'Dodge Charger';777;0
+e;10996385;'Maserati Khamsin';777;0
+e;10889252;'Alfa Romeo Giulia TZ';777;0
+e;10902675;'Ford RS200';777;0
+e;14573342;'::&gt;66:6890&gt;24:14573273';8;0;'voiture [peut] refuser de démarrer'
+e;14581801;'voiture à la fourrière';1;54
+e;14581798;'voiture rayée';1;54
+e;14540030;'voiture en panne';1;8
+e;14540141;'voiture de rallye';1;8
+e;418592;'fiscaux';1;50
+e;10984919;'Alfasud';1;0
+e;13628694;'Kia Pride';777;0
+e;13628693;'Kia Avella';777;0
+e;13628692;'Ford Festiva';777;0
+e;13628695;'Ford Aspire';777;0
+e;13595714;'voiture de tourisme classe 1';777;0
+e;13641061;'Deux pattes';777;0
+e;10966519;'F.N.M. 2000 JK';777;0
+e;10966543;'Alfa Romeo RM';777;0
+e;10966526;'F.N.M. 2150';777;0
+e;10966528;'Alfa Romeo 2300';777;0
+e;10966509;'Alfetta GT';777;0
+e;10966749;'Cisitalia D46';777;0
+e;10966544;'Alfa Romeo P2';777;0
+e;10966536;'20-30 HP';777;0
+e;10966538;'Alfa Romeo Grand Prix';777;0
+e;10966524;'F.N.M. Onca';777;0
+e;10966534;'A.L.F.A. 15 HP';777;0
+e;10966518;'Alfa 164';777;0
+e;10966512;'L'Alfa Romeo Alfa 6';777;0
+e;10966502;'Giulia GT Junior';777;0
+e;10966484;'Alfa Romeo 166';777;0
+e;10889253;'Alfa Romeo TZ';777;0
+e;10900385;'Chevrolet Celta';777;0
+e;10900386;'Suzuki Fun';777;0
+e;10900366;'Suzuki Cultus';777;0
+e;10900368;'Oldsmobile Alero';777;0
+e;10900353;'Chevrolet Bel Air';777;0
+e;10900358;'Chevrolet Delray';777;0
+e;10900322;'Chevrolet Caprice';777;0
+e;10899586;'Opel Signum';777;0
+e;10899571;'Opel Agila';777;0
+e;240473;'concept car';1;50
+e;10897681;'Sebring';1;0
+e;310355;'TDI';777;50
+e;11080463;'Audi R10';777;0
+e;11695379;'Talbot-Lago T150C';777;0
+e;11695378;'Talbot T150C';777;0
+e;11415241;'Autobianchi Bianchina';777;0
+e;11415225;'Lancia Zeta 15 HP';777;0
+e;11415240;'Lancia 2000';777;0
+e;11415244;'Autobianchi Primula';777;0
+e;11415201;'Lancia Thema';777;0
+e;11415213;'Lancia Prisma';777;0
+e;11415195;'Lancia Y';777;0
+e;11415196;'Fiat 127';777;0
+e;11104993;'coupé de ville';777;0
+e;263197;'BMW&gt;95706';1;56;'BMW&gt;automobile'
+e;21233;'wagon';1;750
+e;146957;'cart';1;50
+e;11129139;'golfette';777;0
+e;11162571;'Fiat Cinquecento';777;0
+e;11129138;'voiturette de golf';777;0
+e;11129140;'cart de golf';777;0
+e;5997248;'Rancho';1;0
+e;11160786;'Austin A30';777;0
+e;16741417;'Vector W8';1;0
+e;16741420;'Cizeta-Moroder V16T';1;0
+e;16741419;'Sbarro Lola T70';1;0
+e;16741418;'Jaguar XKSS';1;0
+e;11363284;'John Parry-Thomas';777;0
+e;11373352;'Lancia Ypsilon';777;0
+e;11377738;'Lister Storm LMP';777;0
+e;11377396;'Porsche 911 GT3 R';777;0
+e;10426914;'Audi R8';777;0
+e;11376684;'Porsche RS Spyder';777;0
+e;11376380;'Austin Montego';777;0
+e;11381993;'LMP';1;0
+e;10617899;'voiture de sport de grand tourisme';1;0
+e;10622717;'voiture de type monoplace de compétition';1;0
+e;15785802;'::&gt;66:6890&gt;26:80350';8;0;'voiture [se faire] se trouver dans'
+e;15785797;'::&gt;66:6890&gt;30:37229';8;0;'voiture [lieu pour] se trouver'
+e;16029872;'::&gt;66:6890&gt;30:58725';8;0;'voiture [lieu pour] se suicider'
+e;16027178;'::&gt;66:6890&gt;30:43253';8;0;'voiture [lieu pour] dormir'
+e;15282610;'en:vintage car';1;0
+e;16053645;'en:Hackney carriage';1;0
+e;16076215;'voiture à chevaux';1;0
+e;254190;'véhicule de service';1;50
+e;16076515;'::&gt;66:6890&gt;26:62611';8;0;'voiture [se faire] utiliser'
+e;10430658;'voiture de tourisme classe 2';777;0
+e;10618034;'voiture légère';1;0
+e;10917068;'Audi R18';777;0
+e;10917067;'Audi R18 e-tron quattro';777;0
+e;16087588;'::&gt;66:6890&gt;24:113398';8;0;'voiture [peut] caler'
+e;14922107;'en:bumper car';1;0
+e;15686463;'voiture aquatique';1;0
+e;14535779;'::&gt;66:6890&gt;24:71325';8;0;'voiture [peut] renverser'
+e;14928816;'en:hog';1;0
+e;14535791;'::&gt;66:6890&gt;24:14535789';8;0;'voiture [peut] faire des appels de phare'
+e;14530312;'::&gt;66:6890&gt;30:137240';8;0;'voiture [lieu pour] s'engueuler'
+e;14530226;'::&gt;66:6890&gt;30:219380';8;0;'voiture [lieu pour] se parler'
+e;14529221;'::&gt;66:6890&gt;30:5692';8;0;'voiture [lieu pour] baiser'
+e;15239707;'char blindé';1;0
+e;258491;'véhicule électrique';1;58
+e;15064631;'en:police car';1;0
+e;337662;'automobile de course';1;50
+e;15102061;'en:club car';1;0
+e;15199281;'en:restaurant car';1;0
+e;14967231;'en:dining car';1;0
+e;14324985;'::&gt;66:6890&gt;26:98319';8;0;'voiture [se faire] réparer'
+e;47740;'vinaigrette';1;298
+e;15397709;'en:fastback';1;0
+e;15268389;'en:diesel car';1;0
+e;15414467;'voiture monoplace';1;0
+e;14967226;'en:company car';1;0
+e;15217702;'en:chauffeur-driven car';1;0
+e;10937842;'voiture de flics';1;0
+e;10828333;'Autobianchi A112';777;0
+e;16342876;'::&gt;66:6890&gt;24:16342874';8;0;'voiture [peut] doubler [objet] camion'
+e;16342873;'::&gt;66:6890&gt;24:86792';8;0;'voiture [peut] doubler'
+e;15143710;'en:sports car';1;0
+e;14386377;'::&gt;66:6890&gt;30:5979';8;0;'voiture [lieu pour] accoucher'
+e;15479052;'en:muscle car';1;0
+e;15325465;'en:standard car';1;0
+e;150951;'terraplane';1;50
+e;16318360;'voiture de petite remise';777;0
+e;16170004;'::&gt;66:6890&gt;26:247352';8;0;'voiture [se faire] acheter d'occasion'
+e;10427171;'Fiat 500e';777;0
+e;15774954;'Renault 4 CV';777;0
+e;15686107;'Chrysler E-Class';777;0
+e;15083061;'en:passenger car';1;0
+e;15195808;'en:mailcoach';1;0
+e;14726200;'voiture légère automobile';777;0
+e;14725687;'voiture brûlée';1;0
+e;5815634;'Tesla Model S';777;0
+e;14471987;'::&gt;66:6890&gt;26:29926';8;0;'voiture [se faire] acheter'
+e;5526396;'Mercedes-Benz Classe C Type 202';777;0
+e;12788792;'A40 Countryman';777;0
+e;12954480;'voiture royale';777;0
+e;12302332;'Lotus 24';777;0
+e;12302327;'Lotus 21';777;0
+e;15241;'tire';1;2836
+e;40380;'car';1;3815
+e;4658;'moteur';1;3467
+e;27120;'train';1;3922
+e;43839;'roue';1;2591
+e;123745;'véhicule';1;3113
+e;84632;'camion';1;2604
+e;76583;'volant';1;1789
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 877 relations sortantes 
+
+r;129026;6890;28449;8;201
+r;116234;6890;114384;8;171
+r;152582;6890;59575;8;131
+r;123729;6890;60569;8;131
+r;246323;6890;54860;8;123
+r;116872;6890;92501;8;123
+r;124076;6890;134584;8;103
+r;116878;6890;16386;8;103
+r;274985;6890;161561;8;101
+r;266248;6890;6229;8;101
+r;116881;6890;19679;8;101
+r;8867184;6890;6755;8;91
+r;8867182;6890;122270;8;91
+r;8867181;6890;33396;8;91
+r;8867180;6890;108380;8;91
+r;2175298;6890;39427;8;86
+r;2175285;6890;219254;8;86
+r;2175274;6890;225924;8;86
+r;2175268;6890;49957;8;86
+r;2148262;6890;7373;8;86
+r;2175277;6890;243524;8;85
+r;2175280;6890;130880;8;81
+r;2148273;6890;231611;8;79
+r;2175295;6890;219353;8;78
+r;2175271;6890;118709;8;78
+r;2318806;6890;248046;8;76
+r;2175297;6890;10949;8;76
+r;2175279;6890;245518;8;76
+r;2175276;6890;244597;8;76
+r;2175273;6890;219893;8;76
+r;197160;6890;155763;8;75
+r;11495552;6890;326494;8;71
+r;2175289;6890;228902;8;68
+r;2175270;6890;96782;8;68
+r;3224516;6890;83065;8;66
+r;9870027;6890;316228;8;65
+r;9868484;6890;293296;8;65
+r;9857817;6890;244012;8;63
+r;9857686;6890;269834;8;63
+r;11641143;6890;55942;8;62
+r;11641142;6890;254231;8;62
+r;11641141;6890;254230;8;62
+r;11641140;6890;209986;8;62
+r;11641139;6890;59661;8;62
+r;11641138;6890;209989;8;62
+r;11641137;6890;209987;8;62
+r;11641136;6890;209990;8;62
+r;11641135;6890;212168;8;62
+r;11641134;6890;209991;8;62
+r;11641133;6890;259713;8;62
+r;11641132;6890;231982;8;62
+r;11641131;6890;164380;8;62
+r;11641130;6890;246582;8;62
+r;11641129;6890;176870;8;62
+r;11641128;6890;212700;8;62
+r;11641127;6890;187859;8;62
+r;11641126;6890;254700;8;62
+r;11641125;6890;219624;8;62
+r;11641124;6890;261084;8;62
+r;11641123;6890;180141;8;62
+r;11641122;6890;212350;8;62
+r;11641121;6890;261108;8;62
+r;11641120;6890;271800;8;62
+r;11641119;6890;260369;8;62
+r;11641118;6890;180140;8;62
+r;11641117;6890;252386;8;62
+r;11641116;6890;322549;8;62
+r;11641115;6890;320779;8;62
+r;11641114;6890;322538;8;62
+r;11641113;6890;261096;8;62
+r;11641112;6890;309829;8;62
+r;11641111;6890;254699;8;62
+r;11641110;6890;169879;8;62
+r;9860122;6890;271063;8;62
+r;9850995;6890;266390;8;60
+r;9845511;6890;252727;8;60
+r;9826020;6890;264916;8;58
+r;102144346;6890;13712;8;56
+r;9772160;6890;232175;8;55
+r;9770521;6890;261085;8;54
+r;9770518;6890;261086;8;54
+r;9769939;6890;221017;8;54
+r;9769891;6890;212902;8;54
+r;9769791;6890;231445;8;54
+r;9769787;6890;260095;8;54
+r;9769769;6890;260096;8;54
+r;9769688;6890;260074;8;54
+r;9743369;6890;247243;8;54
+r;9760444;6890;224095;8;53
+r;9757449;6890;249519;8;53
+r;9756146;6890;248035;8;53
+r;9756145;6890;248034;8;53
+r;9756138;6890;248047;8;53
+r;9755794;6890;235130;8;53
+r;9755627;6890;248044;8;53
+r;9755396;6890;248043;8;53
+r;9755181;6890;248045;8;53
+r;9700015;6890;98919;8;52
+r;276821227;6890;10966275;8;50
+r;243400580;6890;2951713;8;50
+r;9689144;6890;47191;8;45
+r;29349496;6890;1213781;8;44
+r;9688358;6890;216015;8;44
+r;9688355;6890;209988;8;44
+r;9687182;6890;236372;8;43
+r;9686367;6890;235218;8;43
+r;9685712;6890;233987;8;43
+r;9683502;6890;230749;8;43
+r;9663893;6890;214782;8;42
+r;14030959;6890;387489;8;40
+r;30549490;6890;82664;8;38
+r;2175296;6890;84319;8;38
+r;33909730;6890;387469;8;37
+r;30732437;6890;1578369;8;37
+r;9665234;6890;187858;8;37
+r;34499554;6890;1658244;8;36
+r;33910293;6890;387480;8;36
+r;427041271;6890;308392;8;35
+r;427041269;6890;16279476;8;35
+r;33910383;6890;387502;8;35
+r;33910334;6890;387506;8;35
+r;33910329;6890;387495;8;35
+r;33910149;6890;387470;8;35
+r;33910123;6890;387504;8;35
+r;29310006;6890;1784904;8;35
+r;14065941;6890;387484;8;35
+r;9667592;6890;34815;8;35
+r;291984655;6890;11374435;8;34
+r;291984637;6890;10608421;8;34
+r;291984621;6890;11374427;8;34
+r;33910399;6890;387503;8;34
+r;33910199;6890;387492;8;34
+r;33910194;6890;387472;8;34
+r;33910146;6890;387478;8;34
+r;14195539;6890;396699;8;34
+r;14161900;6890;32843;8;34
+r;291984641;6890;11374437;8;33
+r;291984639;6890;11374436;8;33
+r;291984635;6890;10433974;8;33
+r;291984653;6890;11374468;8;32
+r;291984643;6890;11374477;8;32
+r;291984625;6890;11374431;8;32
+r;291984623;6890;11374459;8;32
+r;291984619;6890;11374457;8;32
+r;291984609;6890;11381948;8;32
+r;33910261;6890;387479;8;32
+r;33910162;6890;387490;8;32
+r;33910125;6890;387475;8;32
+r;30806072;6890;718844;8;32
+r;25391589;6890;121850;8;32
+r;13578779;6890;59381;8;32
+r;13578696;6890;161326;8;32
+r;13360953;6890;393318;8;32
+r;291984657;6890;11374428;8;31
+r;291984647;6890;11374466;8;31
+r;291984645;6890;11374465;8;31
+r;291984633;6890;11374475;8;31
+r;291984617;6890;11374464;8;31
+r;291984615;6890;11374460;8;31
+r;33910323;6890;387494;8;31
+r;30596877;6890;1374163;8;31
+r;19281972;6890;387466;8;31
+r;13058688;6890;387486;8;31
+r;479687107;6890;55663;8;30
+r;453864274;6890;17053756;8;30
+r;342231801;6890;13516288;8;30
+r;342231791;6890;13516285;8;30
+r;342231789;6890;13516284;8;30
+r;342231783;6890;13516281;8;30
+r;342231781;6890;11376574;8;30
+r;342231769;6890;13516278;8;30
+r;342231765;6890;13516277;8;30
+r;342231757;6890;13294018;8;30
+r;342231743;6890;4312954;8;30
+r;342231735;6890;13516266;8;30
+r;342231727;6890;10601757;8;30
+r;342231719;6890;13516260;8;30
+r;342231713;6890;13516257;8;30
+r;342231695;6890;13516250;8;30
+r;342231691;6890;10844400;8;30
+r;291984649;6890;11374432;8;30
+r;291984631;6890;11374419;8;30
+r;291984629;6890;11374458;8;30
+r;288407860;6890;10423085;8;30
+r;273567083;6890;10879695;8;30
+r;262322695;6890;10461989;8;30
+r;246268650;6890;61452;8;30
+r;33910183;6890;387467;8;30
+r;33910071;6890;387500;8;30
+r;33910067;6890;387473;8;30
+r;33910004;6890;387487;8;30
+r;33909758;6890;387476;8;30
+r;13034789;6890;348029;8;30
+r;9663813;6890;160187;8;30
+r;342231797;6890;13516286;8;29
+r;342231771;6890;13516279;8;29
+r;342231763;6890;10422526;8;29
+r;342231759;6890;13516276;8;29
+r;342231755;6890;13516275;8;29
+r;342231751;6890;13516273;8;29
+r;342231749;6890;13516272;8;29
+r;342231747;6890;13516271;8;29
+r;342231745;6890;13516270;8;29
+r;342231741;6890;13516269;8;29
+r;342231721;6890;13516261;8;29
+r;342231715;6890;13516258;8;29
+r;342231711;6890;13516256;8;29
+r;342231705;6890;13516253;8;29
+r;342231699;6890;10461992;8;29
+r;342231697;6890;13516251;8;29
+r;342231693;6890;13516249;8;29
+r;342231687;6890;13516247;8;29
+r;291984661;6890;11374474;8;29
+r;291984659;6890;11374476;8;29
+r;291984651;6890;11374467;8;29
+r;291984627;6890;11374430;8;29
+r;285998094;6890;11160788;8;29
+r;33910228;6890;387493;8;29
+r;33909861;6890;387471;8;29
+r;23854232;6890;387482;8;29
+r;22402829;6890;1213135;8;29
+r;14067461;6890;356906;8;29
+r;12053381;6890;252301;8;29
+r;342231785;6890;13516282;8;28
+r;342231779;6890;11376572;8;28
+r;342231777;6890;13516280;8;28
+r;342231753;6890;13516274;8;28
+r;342231733;6890;13516265;8;28
+r;342231725;6890;13516263;8;28
+r;342231717;6890;13516259;8;28
+r;342231707;6890;13516254;8;28
+r;342231703;6890;13516292;8;28
+r;342231701;6890;13516291;8;28
+r;273567309;6890;10889254;8;28
+r;33910279;6890;387483;8;28
+r;33910229;6890;387468;8;28
+r;33910201;6890;387499;8;28
+r;33910132;6890;387505;8;28
+r;13578334;6890;153313;8;28
+r;13062262;6890;271166;8;28
+r;342231805;6890;13516290;8;27
+r;342231803;6890;13516289;8;27
+r;342231799;6890;13516287;8;27
+r;342231795;6890;5815755;8;27
+r;342231793;6890;10425104;8;27
+r;342231787;6890;13516283;8;27
+r;342231775;6890;5061229;8;27
+r;342231773;6890;5943927;8;27
+r;342231767;6890;1765145;8;27
+r;342231761;6890;10899590;8;27
+r;342231739;6890;13516268;8;27
+r;342231737;6890;13516267;8;27
+r;342231731;6890;9733653;8;27
+r;342231729;6890;13516264;8;27
+r;342231723;6890;13516262;8;27
+r;342231709;6890;13516255;8;27
+r;342231689;6890;13516248;8;27
+r;342231685;6890;13516246;8;27
+r;273569168;6890;10879060;8;27
+r;273564782;6890;10896293;8;27
+r;33910342;6890;387491;8;27
+r;33910298;6890;387477;8;27
+r;33909991;6890;387497;8;27
+r;23865691;6890;308736;8;27
+r;14169406;6890;387501;8;27
+r;14058684;6890;387481;8;27
+r;9662778;6890;213894;8;27
+r;293188243;6890;215742;8;26
+r;246635617;6890;230038;8;26
+r;245134221;6890;267402;8;26
+r;245095228;6890;41351;8;26
+r;243451877;6890;3169696;8;26
+r;243395178;6890;106970;8;26
+r;33910314;6890;387485;8;26
+r;33910297;6890;387496;8;26
+r;33910287;6890;387498;8;26
+r;33910246;6890;387488;8;26
+r;33910207;6890;387474;8;26
+r;31680162;6890;268542;8;26
+r;31680161;6890;268543;8;26
+r;13506271;6890;1908;8;26
+r;12021029;6890;263013;8;26
+r;479982394;6890;17592243;8;25
+r;479978423;6890;17597186;8;25
+r;479935095;6890;17592251;8;25
+r;478693557;6890;17563667;8;25
+r;478604257;6890;17562477;8;25
+r;478412896;6890;17548074;8;25
+r;478412446;6890;17548117;8;25
+r;478398012;6890;17548065;8;25
+r;478389755;6890;17548068;8;25
+r;478344689;6890;17545424;8;25
+r;478334099;6890;17542268;8;25
+r;478312899;6890;17542393;8;25
+r;478165864;6890;17525743;8;25
+r;477999450;6890;17511571;8;25
+r;465332283;6890;17234334;8;25
+r;441669713;6890;16780713;8;25
+r;435370335;6890;15320693;8;25
+r;432026424;6890;4331731;8;25
+r;404208113;6890;153583;8;25
+r;404208078;6890;15500971;8;25
+r;404195002;6890;15209378;8;25
+r;404170064;6890;15376338;8;25
+r;404170055;6890;15413797;8;25
+r;404162965;6890;15573998;8;25
+r;392273863;6890;15017414;8;25
+r;392273860;6890;15017411;8;25
+r;392273858;6890;15017409;8;25
+r;392273855;6890;15017406;8;25
+r;392273232;6890;15014934;8;25
+r;391339864;6890;14927424;8;25
+r;390015335;6890;14908333;8;25
+r;390015332;6890;14908331;8;25
+r;390015329;6890;14908328;8;25
+r;387866921;6890;14887865;8;25
+r;383561002;6890;14780235;8;25
+r;382817863;6890;12980013;8;25
+r;382272687;6890;12081743;8;25
+r;381902323;6890;12067287;8;25
+r;381898977;6890;12067665;8;25
+r;381898708;6890;12067308;8;25
+r;381898704;6890;12067285;8;25
+r;381141539;6890;10601705;8;25
+r;381141531;6890;10601723;8;25
+r;381141530;6890;10601722;8;25
+r;381114732;6890;198225;8;25
+r;381114731;6890;117699;8;25
+r;380238612;6890;106090;8;25
+r;380033310;6890;249497;8;25
+r;379092198;6890;2449326;8;25
+r;379092194;6890;3297752;8;25
+r;379092192;6890;79376;8;25
+r;379037428;6890;3296465;8;25
+r;376349623;6890;14231855;8;25
+r;376347052;6890;10900140;8;25
+r;376347051;6890;10900141;8;25
+r;376337281;6890;14302897;8;25
+r;376328062;6890;14326139;8;25
+r;376323073;6890;14331250;8;25
+r;376323070;6890;14331253;8;25
+r;376311299;6890;14347465;8;25
+r;376305071;6890;14355242;8;25
+r;376305022;6890;14355302;8;25
+r;376305017;6890;14355309;8;25
+r;376292766;6890;14363962;8;25
+r;376286681;6890;14381087;8;25
+r;376263957;6890;14434268;8;25
+r;376263607;6890;14435578;8;25
+r;376263604;6890;14435581;8;25
+r;376259802;6890;14451960;8;25
+r;376259799;6890;14451963;8;25
+r;376259796;6890;14451965;8;25
+r;376259793;6890;14451968;8;25
+r;376255451;6890;14464590;8;25
+r;376251033;6890;14470978;8;25
+r;376246358;6890;14474302;8;25
+r;376239925;6890;14486033;8;25
+r;376238966;6890;14489568;8;25
+r;373518692;6890;14531262;8;25
+r;373517849;6890;14532707;8;25
+r;373516813;6890;14535781;8;25
+r;373516810;6890;14535783;8;25
+r;373516306;6890;14536420;8;25
+r;373437830;6890;14566593;8;25
+r;373435536;6890;14572877;8;25
+r;373396934;6890;14604796;8;25
+r;373359980;6890;14626209;8;25
+r;373359893;6890;2432048;8;25
+r;373358838;6890;14630359;8;25
+r;373354830;6890;14637732;8;25
+r;373351919;6890;235115;8;25
+r;349595628;6890;2548003;8;25
+r;311968738;6890;9800106;8;25
+r;295408330;6890;11500763;8;25
+r;287980220;6890;11237682;8;25
+r;279289772;6890;11010850;8;25
+r;279282046;6890;63953;8;25
+r;278418224;6890;9775153;8;25
+r;278418222;6890;10968540;8;25
+r;278418220;6890;10968468;8;25
+r;278418218;6890;10968463;8;25
+r;278418216;6890;10968311;8;25
+r;278418214;6890;10968430;8;25
+r;278418212;6890;10968428;8;25
+r;278418210;6890;10966417;8;25
+r;278418208;6890;10966660;8;25
+r;278418206;6890;10966685;8;25
+r;278418204;6890;10966684;8;25
+r;278418202;6890;10966712;8;25
+r;278418200;6890;10966740;8;25
+r;278418198;6890;10966739;8;25
+r;278418196;6890;10966757;8;25
+r;278418194;6890;10968207;8;25
+r;278418192;6890;10968242;8;25
+r;278418190;6890;10968308;8;25
+r;278418188;6890;10968426;8;25
+r;278418186;6890;10968199;8;25
+r;278418184;6890;10966699;8;25
+r;278418182;6890;10966707;8;25
+r;278418180;6890;10966738;8;25
+r;278418178;6890;10966730;8;25
+r;278418176;6890;10968086;8;25
+r;278418174;6890;10966409;8;25
+r;278418172;6890;10966663;8;25
+r;278418170;6890;10966670;8;25
+r;278418168;6890;10966737;8;25
+r;278418166;6890;10966752;8;25
+r;278418164;6890;10968158;8;25
+r;278418162;6890;10968201;8;25
+r;278418160;6890;10968206;8;25
+r;278418158;6890;10966659;8;25
+r;278418156;6890;10966697;8;25
+r;278418154;6890;10966708;8;25
+r;278418152;6890;10968205;8;25
+r;278418150;6890;10966683;8;25
+r;278418148;6890;10966696;8;25
+r;278418146;6890;10966720;8;25
+r;278418144;6890;10966736;8;25
+r;278418142;6890;10968151;8;25
+r;278418140;6890;10966682;8;25
+r;278418138;6890;10966735;8;25
+r;278418136;6890;10968204;8;25
+r;278418134;6890;10968208;8;25
+r;278418132;6890;10966681;8;25
+r;278418130;6890;10966667;8;25
+r;278418128;6890;10966727;8;25
+r;278418126;6890;10966734;8;25
+r;278418124;6890;10966800;8;25
+r;278418122;6890;10966748;8;25
+r;278418120;6890;10966729;8;25
+r;278418118;6890;10966733;8;25
+r;278418116;6890;10966747;8;25
+r;278418114;6890;10966746;8;25
+r;278418112;6890;10966768;8;25
+r;278418110;6890;10966745;8;25
+r;278418108;6890;10968103;8;25
+r;278418106;6890;10966732;8;25
+r;278418104;6890;10966716;8;25
+r;278418102;6890;10966679;8;25
+r;278418100;6890;10966662;8;25
+r;278418098;6890;10966408;8;25
+r;278418096;6890;10966694;8;25
+r;278418094;6890;10966669;8;25
+r;278418092;6890;10966678;8;25
+r;278418090;6890;10966693;8;25
+r;278418088;6890;10966719;8;25
+r;278418086;6890;10966666;8;25
+r;278418084;6890;10966704;8;25
+r;278418082;6890;10966713;8;25
+r;278418080;6890;10966723;8;25
+r;278418078;6890;10966677;8;25
+r;278418076;6890;10966326;8;25
+r;278418074;6890;10966412;8;25
+r;278418072;6890;10968292;8;25
+r;278418070;6890;10968427;8;25
+r;278418068;6890;10968396;8;25
+r;278418066;6890;10968394;8;25
+r;278418064;6890;10968301;8;25
+r;278418062;6890;10968302;8;25
+r;278418060;6890;10968467;8;25
+r;278418058;6890;10968466;8;25
+r;278418056;6890;10968470;8;25
+r;278418054;6890;10968465;8;25
+r;278418052;6890;10968102;8;25
+r;278418050;6890;10966762;8;25
+r;278418048;6890;10966690;8;25
+r;278418046;6890;10968469;8;25
+r;278418044;6890;10968464;8;25
+r;278418042;6890;10968101;8;25
+r;278418040;6890;10966759;8;25
+r;278418038;6890;10966743;8;25
+r;278418036;6890;10966722;8;25
+r;278418034;6890;10966718;8;25
+r;278418032;6890;10966714;8;25
+r;278418030;6890;10966689;8;25
+r;278418028;6890;10966676;8;25
+r;278418026;6890;10966668;8;25
+r;278418024;6890;10968462;8;25
+r;278418022;6890;10968690;8;25
+r;278418020;6890;10968244;8;25
+r;278418018;6890;10966758;8;25
+r;278418016;6890;10966728;8;25
+r;278418014;6890;10966688;8;25
+r;278418012;6890;10966675;8;25
+r;278418010;6890;10966421;8;25
+r;278418008;6890;10968298;8;25
+r;278418006;6890;10966711;8;25
+r;278418004;6890;10966674;8;25
+r;278418002;6890;10966742;8;25
+r;278418000;6890;10968200;8;25
+r;278417998;6890;10968202;8;25
+r;278417996;6890;10968227;8;25
+r;278417994;6890;10966413;8;25
+r;278417992;6890;10966658;8;25
+r;278417990;6890;10968058;8;25
+r;278417988;6890;10335006;8;25
+r;278417986;6890;10427039;8;25
+r;278417984;6890;10427034;8;25
+r;278417982;6890;10427023;8;25
+r;278417980;6890;10427022;8;25
+r;278417978;6890;10429212;8;25
+r;278417976;6890;10429323;8;25
+r;278417974;6890;10429278;8;25
+r;278417972;6890;10496726;8;25
+r;278417970;6890;10822669;8;25
+r;278417968;6890;10822666;8;25
+r;278417966;6890;10822659;8;25
+r;278417964;6890;10822657;8;25
+r;278417962;6890;10829140;8;25
+r;278417960;6890;10879614;8;25
+r;278417958;6890;10966731;8;25
+r;278417956;6890;10966726;8;25
+r;278417954;6890;10966687;8;25
+r;278417952;6890;10966664;8;25
+r;278417950;6890;10968243;8;25
+r;278417948;6890;10968297;8;25
+r;278417946;6890;10898738;8;25
+r;278417944;6890;10901138;8;25
+r;278417942;6890;10901135;8;25
+r;278417940;6890;10908779;8;25
+r;278417938;6890;10968296;8;25
+r;278417936;6890;10966407;8;25
+r;278417934;6890;10966406;8;25
+r;278417932;6890;10966672;8;25
+r;278417930;6890;10966717;8;25
+r;278417928;6890;10966741;8;25
+r;278417926;6890;10968203;8;25
+r;278417924;6890;10968907;8;25
+r;278417922;6890;10968908;8;25
+r;278417920;6890;10968906;8;25
+r;278417918;6890;10968905;8;25
+r;278417916;6890;10968904;8;25
+r;278417914;6890;10968903;8;25
+r;278417912;6890;10968902;8;25
+r;278417910;6890;10968901;8;25
+r;278417908;6890;10968900;8;25
+r;278417906;6890;10968899;8;25
+r;278417904;6890;10968898;8;25
+r;278417902;6890;10968689;8;25
+r;278417900;6890;5633578;8;25
+r;278417898;6890;5685684;8;25
+r;278417896;6890;5539018;8;25
+r;278417894;6890;5540511;8;25
+r;278417892;6890;5944170;8;25
+r;278417890;6890;6527355;8;25
+r;278417888;6890;6684459;8;25
+r;278417886;6890;8872906;8;25
+r;278417884;6890;5671108;8;25
+r;278417882;6890;5944134;8;25
+r;278417880;6890;5670192;8;25
+r;278417878;6890;5669365;8;25
+r;278417876;6890;5624297;8;25
+r;273563007;6890;10896306;8;25
+r;262323448;6890;10462297;8;25
+r;262323437;6890;10462287;8;25
+r;262323401;6890;10462245;8;25
+r;262323400;6890;10462244;8;25
+r;262323342;6890;10462212;8;25
+r;262323154;6890;10462155;8;25
+r;262342792;6890;10457004;8;25
+r;255956314;6890;10430169;8;25
+r;255899397;6890;10426455;8;25
+r;255899396;6890;10426456;8;25
+r;255899384;6890;10426444;8;25
+r;255893495;6890;10428479;8;25
+r;255893494;6890;10428481;8;25
+r;255892088;6890;10428553;8;25
+r;255891109;6890;10427228;8;25
+r;255891070;6890;10427169;8;25
+r;255891060;6890;10427156;8;25
+r;255891032;6890;10427120;8;25
+r;255891023;6890;10427102;8;25
+r;255891022;6890;10427103;8;25
+r;255891019;6890;10427094;8;25
+r;255891018;6890;10427093;8;25
+r;255891015;6890;10427089;8;25
+r;255891014;6890;10427087;8;25
+r;255891008;6890;10427077;8;25
+r;255890995;6890;10427061;8;25
+r;255890953;6890;10426998;8;25
+r;255890950;6890;10426994;8;25
+r;255890949;6890;10426991;8;25
+r;255890893;6890;10426889;8;25
+r;255554219;6890;10425126;8;25
+r;255554205;6890;10425111;8;25
+r;255411752;6890;10425051;8;25
+r;251982483;6890;5153817;8;25
+r;251628613;6890;5061368;8;25
+r;250410300;6890;2464212;8;25
+r;250335818;6890;180122;8;25
+r;252690747;6890;10314799;8;25
+r;248943320;6890;150845;8;25
+r;248943191;6890;149133;8;25
+r;248943077;6890;271062;8;25
+r;248787374;6890;3231988;8;25
+r;248768538;6890;3230163;8;25
+r;248707070;6890;2395457;8;25
+r;248704966;6890;2394686;8;25
+r;248704861;6890;2394339;8;25
+r;248695353;6890;2566641;8;25
+r;248661518;6890;2535701;8;25
+r;248661084;6890;2533847;8;25
+r;248643798;6890;399987;8;25
+r;248641001;6890;2360588;8;25
+r;248336313;6890;305055;8;25
+r;248193714;6890;5855845;8;25
+r;248166378;6890;230357;8;25
+r;247961980;6890;7773407;8;25
+r;247725243;6890;3175279;8;25
+r;247423930;6890;6283441;8;25
+r;247289504;6890;5981000;8;25
+r;247165693;6890;92736;8;25
+r;247048349;6890;5815916;8;25
+r;247048302;6890;5815991;8;25
+r;247047745;6890;5815396;8;25
+r;247043761;6890;5806536;8;25
+r;246846377;6890;5636245;8;25
+r;246797363;6890;432492;8;25
+r;246754147;6890;4874102;8;25
+r;246723299;6890;231609;8;25
+r;246696212;6890;2397727;8;25
+r;248230997;6890;280574;8;25
+r;246613553;6890;3742292;8;25
+r;246613551;6890;462078;8;25
+r;246532038;6890;209992;8;25
+r;246513600;6890;2944726;8;25
+r;246502651;6890;4342037;8;25
+r;246459280;6890;4342000;8;25
+r;246374021;6890;230356;8;25
+r;246348700;6890;4331726;8;25
+r;246334862;6890;2479814;8;25
+r;246299691;6890;87064;8;25
+r;246266291;6890;55468;8;25
+r;246263169;6890;1213214;8;25
+r;246257614;6890;230671;8;25
+r;278422678;6890;223239;8;25
+r;245417835;6890;235876;8;25
+r;245148779;6890;117420;8;25
+r;245086905;6890;83995;8;25
+r;245019834;6890;2521117;8;25
+r;244984712;6890;4874;8;25
+r;244960969;6890;5897;8;25
+r;244956235;6890;18828;8;25
+r;244938823;6890;2513000;8;25
+r;244807888;6890;2509035;8;25
+r;244801784;6890;3990;8;25
+r;244801763;6890;2506598;8;25
+r;248233274;6890;280575;8;25
+r;248265473;6890;5323548;8;25
+r;248265474;6890;5816067;8;25
+r;248265475;6890;5814989;8;25
+r;248265476;6890;5893585;8;25
+r;248265471;6890;5526677;8;25
+r;248265470;6890;5636256;8;25
+r;248265469;6890;5610505;8;25
+r;248265468;6890;5815571;8;25
+r;243891627;6890;2408913;8;25
+r;243861218;6890;2360245;8;25
+r;243857353;6890;2415556;8;25
+r;243779717;6890;136191;8;25
+r;243769349;6890;61421;8;25
+r;243737671;6890;11145;8;25
+r;243677452;6890;2391661;8;25
+r;243675280;6890;299581;8;25
+r;243657574;6890;6845;8;25
+r;243654873;6890;141556;8;25
+r;243652855;6890;72596;8;25
+r;243652616;6890;1934;8;25
+r;243639450;6890;3224452;8;25
+r;243619239;6890;115898;8;25
+r;243601645;6890;280246;8;25
+r;243600045;6890;309481;8;25
+r;243587976;6890;104425;8;25
+r;243578745;6890;263602;8;25
+r;243507798;6890;2461626;8;25
+r;243503406;6890;135895;8;25
+r;243487828;6890;77793;8;25
+r;243487231;6890;96431;8;25
+r;243486817;6890;43539;8;25
+r;243481278;6890;35567;8;25
+r;243476714;6890;2398372;8;25
+r;243474437;6890;1763379;8;25
+r;243472659;6890;63872;8;25
+r;243463480;6890;2534352;8;25
+r;243463454;6890;138264;8;25
+r;243451777;6890;2441118;8;25
+r;243445875;6890;118958;8;25
+r;243432023;6890;127666;8;25
+r;243424278;6890;129836;8;25
+r;243423153;6890;34941;8;25
+r;243400001;6890;9954983;8;25
+r;243395193;6890;2382220;8;25
+r;243395190;6890;33073;8;25
+r;243395188;6890;72044;8;25
+r;243395187;6890;141945;8;25
+r;243395185;6890;29902;8;25
+r;243395184;6890;147470;8;25
+r;243395182;6890;85973;8;25
+r;243395180;6890;132857;8;25
+r;243395176;6890;59611;8;25
+r;243395174;6890;17023;8;25
+r;243395173;6890;1987177;8;25
+r;243344670;6890;3290868;8;25
+r;243280419;6890;147313;8;25
+r;243227849;6890;10050549;8;25
+r;243208124;6890;10050550;8;25
+r;242994967;6890;179695;8;25
+r;242832623;6890;10101550;8;25
+r;242827932;6890;10101733;8;25
+r;242827823;6890;10101697;8;25
+r;242779103;6890;9942570;8;25
+r;242777251;6890;9903887;8;25
+r;242777250;6890;9903886;8;25
+r;242776542;6890;9827649;8;25
+r;242563914;6890;10186648;8;25
+r;477640677;6890;17496991;8;25
+r;477671481;6890;17498272;8;25
+r;477472180;6890;17487665;8;25
+r;477652292;6890;17496982;8;25
+r;477648725;6890;17497491;8;25
+r;477671483;6890;17498118;8;25
+r;477651901;6890;17497789;8;25
+r;477611200;6890;17491443;8;25
+r;370064108;6890;14388668;8;23
+r;307894075;6890;11828150;8;23
+r;293106992;6890;11383476;8;23
+r;359330995;6890;14053004;8;22
+r;296742012;6890;11533667;8;22
+r;278455889;6890;10996385;8;22
+r;273567305;6890;10889252;8;22
+r;273538365;6890;10902675;8;22
+r;370655721;6890;14573342;8;21
+r;370655156;6890;14581801;8;21
+r;370655155;6890;14581798;8;21
+r;370084765;6890;14540030;8;21
+r;370084649;6890;14540141;8;21
+r;346536697;6890;418592;8;21
+r;346521561;6890;10984919;8;21
+r;346512320;6890;13628694;8;21
+r;346512318;6890;13628693;8;21
+r;346512316;6890;13628692;8;21
+r;346512283;6890;13628695;8;21
+r;346504703;6890;13595714;8;21
+r;346489884;6890;13641061;8;21
+r;278502637;6890;10966519;8;21
+r;278502583;6890;10966543;8;21
+r;278502581;6890;10966526;8;21
+r;278502535;6890;10966528;8;21
+r;278502474;6890;10966509;8;21
+r;278502240;6890;10966749;8;21
+r;278501893;6890;10966544;8;21
+r;278501891;6890;10966536;8;21
+r;278501889;6890;10966538;8;21
+r;278501885;6890;10966524;8;21
+r;278501879;6890;10966534;8;21
+r;278501871;6890;10966518;8;21
+r;278501865;6890;10966512;8;21
+r;278501857;6890;10966502;8;21
+r;278501812;6890;10966484;8;21
+r;273567307;6890;10889253;8;21
+r;273550381;6890;10900385;8;21
+r;273550365;6890;10900386;8;21
+r;273550357;6890;10900366;8;21
+r;273550353;6890;10900368;8;21
+r;273550315;6890;10900353;8;21
+r;273550307;6890;10900358;8;21
+r;273550261;6890;10900322;8;21
+r;273549634;6890;10899586;8;21
+r;273549580;6890;10899571;8;21
+r;429995469;6890;240473;8;20
+r;281633075;6890;10897681;8;19
+r;281635164;6890;310355;8;18
+r;281635162;6890;11080463;8;18
+r;300301632;6890;11695379;8;17
+r;300301630;6890;11695378;8;17
+r;294774334;6890;11415241;8;17
+r;294774297;6890;11415225;8;17
+r;294770924;6890;11415240;8;17
+r;294770918;6890;11415244;8;17
+r;294770895;6890;11415201;8;17
+r;294770880;6890;11415213;8;17
+r;294770875;6890;11415195;8;17
+r;294770873;6890;11415196;8;17
+r;281822558;6890;11104993;8;17
+r;96701187;6890;263197;8;17
+r;9624815;6890;21233;8;14
+r;282774617;6890;146957;8;13
+r;282685683;6890;11129139;8;13
+r;285900122;6890;11162571;8;12
+r;282774621;6890;11129138;8;12
+r;282774619;6890;11129140;8;12
+r;285915674;6890;5997248;8;11
+r;285906643;6890;11160786;8;11
+r;473922808;6890;16741417;8;10
+r;473922806;6890;16741420;8;10
+r;473922805;6890;16741419;8;10
+r;473922804;6890;16741418;8;10
+r;293183024;6890;11363284;8;10
+r;293178296;6890;11373352;8;10
+r;293173985;6890;11377738;8;10
+r;293173548;6890;11377396;8;10
+r;293173261;6890;10426914;8;10
+r;293173243;6890;11376684;8;10
+r;293172883;6890;11376380;8;10
+r;293164748;6890;11381993;8;10
+r;271266411;6890;10617899;8;10
+r;271265381;6890;10622717;8;10
+r;419476290;6890;15785802;8;9
+r;419476237;6890;15785797;8;9
+r;419173163;6890;16029872;8;9
+r;419168496;6890;16027178;8;9
+r;419161002;6890;15282610;8;9
+r;419160251;6890;16053645;8;9
+r;419159580;6890;16076215;8;9
+r;419147002;6890;254190;8;9
+r;419146766;6890;16076515;8;9
+r;274993722;6890;10430658;8;9
+r;274993721;6890;10618034;8;9
+r;274547912;6890;10917068;8;9
+r;274547910;6890;10917067;8;9
+r;419893572;6890;16087588;8;7
+r;419243526;6890;14922107;8;7
+r;403812444;6890;15686463;8;7
+r;370642488;6890;14535779;8;7
+r;403846332;6890;14928816;8;6
+r;370654435;6890;14535791;8;6
+r;370096633;6890;14530312;8;6
+r;370096406;6890;14530226;8;6
+r;370085340;6890;14529221;8;6
+r;419430023;6890;15239707;8;5
+r;419350167;6890;258491;8;5
+r;419339627;6890;15064631;8;5
+r;419334658;6890;337662;8;5
+r;419320577;6890;15102061;8;5
+r;419320572;6890;15199281;8;5
+r;419320569;6890;14967231;8;5
+r;376156802;6890;14324985;8;5
+r;328367737;6890;47740;8;5
+r;435488586;6890;15397709;8;4
+r;403847023;6890;15268389;8;4
+r;427786155;6890;15414467;8;3
+r;399545757;6890;14967226;8;3
+r;399544979;6890;15217702;8;3
+r;275409037;6890;10937842;8;3
+r;270489772;6890;10828333;8;3
+r;434637823;6890;16342876;8;2
+r;434618081;6890;16342873;8;2
+r;427807609;6890;15143710;8;2
+r;374116834;6890;14386377;8;2
+r;435505351;6890;15479052;8;1
+r;430324901;6890;15325465;8;1
+r;430321248;6890;150951;8;1
+r;430320649;6890;16318360;8;1
+r;427911928;6890;16170004;8;1
+r;427884117;6890;10427171;8;1
+r;427873534;6890;15774954;8;1
+r;427868783;6890;15686107;8;1
+r;403839361;6890;15083061;8;1
+r;399545829;6890;15195808;8;1
+r;376157050;6890;14726200;8;1
+r;376157049;6890;14725687;8;1
+r;376111555;6890;5815634;8;1
+r;367336617;6890;14471987;8;1
+r;351358940;6890;5526396;8;1
+r;332548224;6890;12788792;8;1
+r;332169598;6890;12954480;8;1
+r;328929277;6890;12302332;8;1
+r;328928799;6890;12302327;8;1
+r;11719659;6890;15241;8;-5
+r;2581539;6890;40380;8;-25
+r;362675;6890;4658;8;-50
+r;147163;6890;27120;8;-50
+r;118415;6890;43839;8;-50
+r;118414;6890;123745;8;-60
+r;2208676;6890;84632;8;-85
+r;118418;6890;76583;8;-101
+
+// END
+</code>]

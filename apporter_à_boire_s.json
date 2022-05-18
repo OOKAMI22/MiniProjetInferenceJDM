@@ -1,0 +1,247 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        }
+    },
+    "e": {
+        "16319092": {
+            "name": "'apporter \u00e0 boire'",
+            "type": "1",
+            "w": "0"
+        },
+        "16319093": {
+            "name": "'::&gt;13:16059&gt;29:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'apporter \u00e0 boire [sujet] serveuse'"
+        },
+        "16059": {
+            "name": "'serveuse'",
+            "type": "1",
+            "w": "396"
+        },
+        "16319094": {
+            "name": "'::&gt;66:16059&gt;24:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter \u00e0 boire'"
+        },
+        "17459764": {
+            "name": "'::&gt;13:159891&gt;29:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'apporter \u00e0 boire [sujet] h\u00f4tesse de l'air'"
+        },
+        "159891": {
+            "name": "'h\u00f4tesse de l'air'",
+            "type": "1",
+            "w": "142"
+        },
+        "17459765": {
+            "name": "'::&gt;66:159891&gt;24:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'h\u00f4tesse de l'air [peut] apporter \u00e0 boire'"
+        },
+        "47918": {
+            "name": "'boire'",
+            "type": "1",
+            "w": "4568"
+        },
+        "14724461": {
+            "name": "'apporter \u00e0'",
+            "type": "1",
+            "w": "0"
+        },
+        "49739": {
+            "name": "'apporter'",
+            "type": "1",
+            "w": "1730"
+        },
+        "15209341": {
+            "name": "'machine r\u00e9seau'",
+            "type": "1",
+            "w": "0"
+        },
+        "7437597": {
+            "name": "'en:server'",
+            "type": "1",
+            "w": "0"
+        },
+        "11130959": {
+            "name": "'servir des clients'",
+            "type": "1",
+            "w": "0"
+        },
+        "253706": {
+            "name": "'serveur informatique'",
+            "type": "1",
+            "w": "54"
+        }
+    },
+    "r": {
+        "428892286": {
+            "node1": "16319093",
+            "node2": "16319092",
+            "type": "0",
+            "w": "94"
+        },
+        "428892057": {
+            "node1": "16059",
+            "node2": "16319092",
+            "type": "24",
+            "w": "69"
+        },
+        "428892297": {
+            "node1": "16319094",
+            "node2": "16319092",
+            "type": "24",
+            "w": "60"
+        },
+        "476878961": {
+            "node1": "17459764",
+            "node2": "16319092",
+            "type": "0",
+            "w": "51"
+        },
+        "476878962": {
+            "node1": "159891",
+            "node2": "16319092",
+            "type": "24",
+            "w": "51"
+        },
+        "476878965": {
+            "node1": "17459765",
+            "node2": "16319092",
+            "type": "24",
+            "w": "51"
+        },
+        "434371420": {
+            "node1": "47918",
+            "node2": "16319092",
+            "type": "11",
+            "w": "50"
+        },
+        "434371418": {
+            "node1": "14724461",
+            "node2": "16319092",
+            "type": "11",
+            "w": "50"
+        },
+        "434371416": {
+            "node1": "49739",
+            "node2": "16319092",
+            "type": "11",
+            "w": "50"
+        },
+        "435822470": {
+            "node1": "15209341",
+            "node2": "16319092",
+            "type": "24",
+            "w": "30"
+        },
+        "431442463": {
+            "node1": "7437597",
+            "node2": "16319092",
+            "type": "24",
+            "w": "30"
+        },
+        "428892314": {
+            "node1": "16319094",
+            "node2": "16319092",
+            "type": "0",
+            "w": "25"
+        },
+        "428892291": {
+            "node1": "16059",
+            "node2": "16319092",
+            "type": "0",
+            "w": "25"
+        },
+        "428892267": {
+            "node1": "16319093",
+            "node2": "16319092",
+            "type": "6",
+            "w": "25"
+        },
+        "479567608": {
+            "node1": "11130959",
+            "node2": "16319092",
+            "type": "41",
+            "w": "25"
+        },
+        "476878969": {
+            "node1": "17459765",
+            "node2": "16319092",
+            "type": "0",
+            "w": "25"
+        },
+        "476878963": {
+            "node1": "159891",
+            "node2": "16319092",
+            "type": "0",
+            "w": "25"
+        },
+        "476878956": {
+            "node1": "17459764",
+            "node2": "16319092",
+            "type": "6",
+            "w": "25"
+        },
+        "435822219": {
+            "node1": "15209341",
+            "node2": "16319092",
+            "type": "0",
+            "w": "20"
+        },
+        "431442444": {
+            "node1": "7437597",
+            "node2": "16319092",
+            "type": "0",
+            "w": "20"
+        },
+        "432862623": {
+            "node1": "253706",
+            "node2": "16319092",
+            "type": "24",
+            "w": "10"
+        },
+        "432862604": {
+            "node1": "253706",
+            "node2": "16319092",
+            "type": "0",
+            "w": "10"
+        }
+    },
+    "rt": {
+        "0": {
+            "trname": "'r_associated'",
+            "trgpname": "'id\u00e9e associ\u00e9e'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer les termes les plus \u00e9troitement associ\u00e9s au mot cible... Ce mot vous fait penser \u00e0 quoi ?"
+        },
+        "6": {
+            "trname": "'r_isa'",
+            "trgpname": "'g\u00e9n\u00e9rique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammif\u00e8re' sont des g\u00e9n\u00e9riques de 'chat'."
+        },
+        "11": {
+            "trname": "'r_locution'",
+            "trgpname": "'locution'",
+            "rthelp": "A partir d'un terme, il est demand\u00e9 d'\u00e9num\u00e9rer les locutions, expression ou mots compos\u00e9s en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin \u00e0 vent', 'moulin \u00e0 eau', 'moulin \u00e0 caf\u00e9'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tu\u00e9', 'vendre \u00e0 perte', etc.."
+        },
+        "24": {
+            "trname": "'r_agent-1'",
+            "trgpname": "'agent typique-1'",
+            "rthelp": "Que peut faire ce SUJET ? (par exemple chat =&gt"
+        },
+        "41": {
+            "trname": "'r_conseq'",
+            "trgpname": "'cons\u00e9quence'",
+            "rthelp": "B (que vous devez donner) est une CONSEQUENCE possible de A. A et B sont des verbes ou des noms.  Exemples : tomber -&gt"
+        }
+    }
+}

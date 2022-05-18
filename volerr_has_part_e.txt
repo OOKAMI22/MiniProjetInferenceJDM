@@ -1,0 +1,71 @@
+[<code>
+// DUMP pour le terme 'voler' (eid=73827)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. (Fauconnerie) Poursuivre en volant, chasser d'autres oiseaux ou du gibier.<br> 
+ Cet oiseau vole la pie, vole le héron, vole la perdrix.   <br> 
+ Le faucon, l'autour, le lanier apprennent facilement à voler d'autres oiseaux.  <br>
+2. Prendre à l'improviste, sans que la personne concernée donne son consentement à l'action effectuée.<br> 
+ Voler des baisers, baisers volés.  <br>
+3. Plagier.<br>
+4. Se mouvoir dans l'air avec une grande vitesse.<br> 
+ La bourrasque faisait voler la poussière.   <br> 
+ Le vent faisait voler les tuiles.   <br> 
+ Les flèches volaient.  <br>
+5. Envoyer en l'air.<br> 
+ Faire voler la tête de quelqu'un : La lui abattre d'un seul coup.  <br>
+6. (Par extension) Courir avec une grande vitesse.<br> 
+ (En particulier) Sa renommée volait partout.   <br> 
+ (En particulier) Le bruit de ses hauts faits vole par toute la terre.   <br> 
+ (Figuré) Le temps vole.   <br> 
+ Voyant les attaques dont Marie était la victime, Pierre décida de voler à son secours.   <br/> 
+ Il ne court pas, il vole.  <br/>
+7. S'approprier le bien d'autrui ; prendre quelque chose à quelqu'un sans son accord ; dérober.<br/> 
+ La politique du Japon rappelle le caractère de ses habitants : aimable et pleine de sollicitude à la face du monde, elle opprime, vole et massacre de l'autre côté du décor.    
+ (Albert Gervais, Æsculape dans la Chine en révolte, Gallimard, 1953, p. 14)  <br/> 
+ Surprenant un homme qui volait la ration d'un camarade, il l'invectiva et le frappa à la face.    
+ (H. G. Wells, La Guerre dans les airs, 1908, traduction d'Henry-D. Davray et B. Kozakiewicz, Mercure de France, Paris, 1910, p. 272 de l'éd. de 1921)  <br/>
+8. Ne pas mériter un désagrément qui survient, une sanction infligée ou, au contraire, une récompense reçue. Généralement en négation.<br/> 
+ Je commence à croire que nous n'avons pas volé le châtiment que le Sauveur nous inflige.    
+ (Joris-Karl Huysmans, L'Oblat, t. 2, 1903, p. 210)  <br/> 
+ On conçoit que Voltaire soit immortel ; il ne l'a certes pas volé !    
+ (Charles-Augustin Sainte-Beuve, Nouveaux Lundis, tome X, 1866, p. 403)  <br/> 
+ Ne pas l'avoir volé.  <br/>
+9. (Commerce) Léser sciemment une personne dans ses intérêts pécuniaires, en prenant un bénéfice excessif ou en ne lui donnant pas tout ce qui lui est dû, escroquer, gruger, tondre.<br/> 
+ Cette idée d'avoir de la marchandise à perte fouettait en elles l'âpreté de la femme, dont la jouissance d'acheteuse est doublée, quand elle croit voler le marchand.    
+ (Émile Zola, Au Bonheur des Dames, 1883, p. 465)  <br/>
+10. Action de se maintenir dans les airs en battant des ailes.<br/> 
+ Il est vrai que les hannetons et les chauves-souris, par exemple, ont une façon de voler qui nous semble déraisonnable ; mais elle ne le semble ainsi qu'à nous autres dont ce n'est pas la fonction de voler.    
+ (Franc-Nohain [Maurice Étienne Legrand], Guide du bon sens, Éditions des Portiques, 1932)  <br/>
+11. Action de se mouvoir dans l'air, en parlant des aéronefs.<br/> 
+ Ils virent d'étranges aéronats qui volaient vers l'est, dans la direction des Açores.    
+ (H. G. Wells, La Guerre dans les airs, 1908, traduction d'Henry-D. Davray et B. Kozakiewicz, Mercure de France, Paris, 1910, p. 419 de l'éd. de 1921)  <br/>
+12. (Aviation) Piloter un avion.<br/> 
+ Cet aviateur a volé près de deux cents heures.   <br/> 
+ Tout était oublié : nous volions et seule la marche du moteur m'intéressait. [?] Notre existence d'aviateur est ainsi faite.    
+ (Dieudonné Costes &amp; Maurice Bellonte, Paris-New-York, 1930)  <br/> 
+ On volait certes, et dans des machines plus lourdes que l'air, mais il y avait aussi les chutes où parfois le moteur se brisait et parfois l'aéronaute, souvent les deux à la fois.    
+ (H. G. Wells, La Guerre dans les airs, 1908, traduction d'Henry-D. Davray et B. Kozakiewicz, Mercure de France, Paris, 1910, p. 17 de l'éd. de 1921)  
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;73827;'voler';1;3095
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 0 relations sortantes 
+
+
+// END
+</code>]

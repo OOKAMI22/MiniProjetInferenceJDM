@@ -1,0 +1,4113 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "2": {
+            "ntname": "'n_form'"
+        },
+        "666": {
+            "ntname": "'n_AKI'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "140962": {
+            "name": "'piston'",
+            "type": "1",
+            "w": "128"
+        },
+        "7053874": {
+            "name": "'en:recommendation'",
+            "type": "1",
+            "w": "0"
+        },
+        "127846": {
+            "name": "'recommandation'",
+            "type": "1",
+            "w": "128"
+        },
+        "15206846": {
+            "name": "'en:service area'",
+            "type": "1",
+            "w": "0"
+        },
+        "214495": {
+            "name": "'aire de service'",
+            "type": "1",
+            "w": "50"
+        },
+        "7997550": {
+            "name": "'en:services'",
+            "type": "1",
+            "w": "0"
+        },
+        "15206848": {
+            "name": "'en:motorway service station'",
+            "type": "1",
+            "w": "0"
+        },
+        "15206847": {
+            "name": "'en:motorway services'",
+            "type": "1",
+            "w": "0"
+        },
+        "214494": {
+            "name": "'aire d'autoroute'",
+            "type": "1",
+            "w": "34"
+        },
+        "86976": {
+            "name": "'appui'",
+            "type": "1",
+            "w": "104"
+        },
+        "15206849": {
+            "name": "'en:service plaza'",
+            "type": "1",
+            "w": "0"
+        },
+        "33701": {
+            "name": "'soutien'",
+            "type": "1",
+            "w": "3139"
+        },
+        "216211": {
+            "name": "'cornet \u00e0 piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "241124": {
+            "name": "'cafeti\u00e8re \u00e0 piston'",
+            "type": "1",
+            "w": "6"
+        },
+        "267514": {
+            "name": "'mont\u00e9 comme un piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "179197": {
+            "name": "'coup de piston'",
+            "type": "1",
+            "w": "60"
+        },
+        "41994": {
+            "name": "'intervention'",
+            "type": "1",
+            "w": "2156"
+        },
+        "367219": {
+            "name": "'offre de service'",
+            "type": "1",
+            "w": "50"
+        },
+        "241621": {
+            "name": "'moteur en \u00e9toile'",
+            "type": "1",
+            "w": "2"
+        },
+        "15393731": {
+            "name": "'en:radial engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "15444181": {
+            "name": "'en:services offered'",
+            "type": "1",
+            "w": "0"
+        },
+        "63471": {
+            "name": "'protection'",
+            "type": "1",
+            "w": "3475"
+        },
+        "24247": {
+            "name": "'service'",
+            "type": "1",
+            "w": "3715"
+        },
+        "74572": {
+            "name": "'patronage'",
+            "type": "1",
+            "w": "52"
+        },
+        "365139": {
+            "name": "'moteur \u00e0 piston'",
+            "type": "1",
+            "w": "108"
+        },
+        "356835": {
+            "name": "'grippage de piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "15193401": {
+            "name": "'en:piston engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "370602": {
+            "name": "'piston de pompe'",
+            "type": "1",
+            "w": "50"
+        },
+        "334516": {
+            "name": "'aiguille \u00e0 piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "365140": {
+            "name": "'moteur \u00e0 piston rotatif'",
+            "type": "1",
+            "w": "50"
+        },
+        "379133": {
+            "name": "'segment de piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "370601": {
+            "name": "'piston de seringue'",
+            "type": "1",
+            "w": "50"
+        },
+        "385522": {
+            "name": "'t\u00eate de piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "360483": {
+            "name": "'jupe de piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "345380": {
+            "name": "'crosse de piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "355616": {
+            "name": "'fusil \u00e0 piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "371809": {
+            "name": "'pompe \u00e0 piston tournant'",
+            "type": "1",
+            "w": "50"
+        },
+        "49450": {
+            "name": "'aide'",
+            "type": "1",
+            "w": "2945"
+        },
+        "53888": {
+            "name": "'bloc-cylindres'",
+            "type": "1",
+            "w": "50"
+        },
+        "15048882": {
+            "name": "'en:crosshead'",
+            "type": "1",
+            "w": "0"
+        },
+        "14924289": {
+            "name": "'en:cylinder block'",
+            "type": "1",
+            "w": "0"
+        },
+        "21780": {
+            "name": "'bloc-moteur'",
+            "type": "1",
+            "w": "50"
+        },
+        "4658": {
+            "name": "'moteur'",
+            "type": "1",
+            "w": "3467"
+        },
+        "122978": {
+            "name": "'faveur'",
+            "type": "1",
+            "w": "3137"
+        },
+        "246742": {
+            "name": "'moteur \u00e0 pistons'",
+            "type": "1",
+            "w": "50"
+        },
+        "256309": {
+            "name": "'essoreuse \u00e0 salade'",
+            "type": "1",
+            "w": "18"
+        },
+        "236146": {
+            "name": "'cycle de Beau de Rochas'",
+            "type": "1",
+            "w": "10"
+        },
+        "15207600": {
+            "name": "'en:salad spinner'",
+            "type": "1",
+            "w": "0"
+        },
+        "9401": {
+            "name": "'parrainage'",
+            "type": "1",
+            "w": "64"
+        },
+        "81662": {
+            "name": "'accointance'",
+            "type": "1",
+            "w": "52"
+        },
+        "254024": {
+            "name": "'r\u00e9seautage'",
+            "type": "1",
+            "w": "8"
+        },
+        "231457": {
+            "name": "'recommendation'",
+            "type": "1",
+            "w": "50"
+        },
+        "14960732": {
+            "name": "'en:piston ring'",
+            "type": "1",
+            "w": "0"
+        },
+        "57957": {
+            "name": "'coup de pouce'",
+            "type": "1",
+            "w": "98"
+        },
+        "3384557": {
+            "name": "'Coup de pouce'",
+            "type": "777",
+            "w": "0"
+        },
+        "141534": {
+            "name": "'combine'",
+            "type": "1",
+            "w": "64"
+        },
+        "93100": {
+            "name": "'capitaine'",
+            "type": "1",
+            "w": "3078"
+        },
+        "183968": {
+            "name": "'rampe commune \u00e0 haute pression'",
+            "type": "1",
+            "w": "50"
+        },
+        "101793": {
+            "name": "'d\u00e9placer'",
+            "type": "1",
+            "w": "2220"
+        },
+        "254017": {
+            "name": "'faire du r\u00e9seau'",
+            "type": "1",
+            "w": "8"
+        },
+        "254018": {
+            "name": "'r\u00e9seauter'",
+            "type": "1",
+            "w": "12"
+        },
+        "225215": {
+            "name": "'moteur&gt;5425'",
+            "type": "1",
+            "w": "140",
+            "formated name": "'moteur&gt;machine'"
+        },
+        "155305": {
+            "name": "'locomotive \u00e0 vapeur'",
+            "type": "1",
+            "w": "84"
+        },
+        "36071": {
+            "name": "'relation'",
+            "type": "1",
+            "w": "3497"
+        },
+        "56405": {
+            "name": "'capiston'",
+            "type": "1",
+            "w": "50"
+        },
+        "71659": {
+            "name": "'pistonner'",
+            "type": "1",
+            "w": "78"
+        },
+        "135594": {
+            "name": "'trompette'",
+            "type": "1",
+            "w": "713"
+        },
+        "74182": {
+            "name": "'pitaine'",
+            "type": "1",
+            "w": "50"
+        },
+        "8994": {
+            "name": "'piste'",
+            "type": "1",
+            "w": "2625"
+        },
+        "14954993": {
+            "name": "'en:piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "246870": {
+            "name": "'objet&gt;109527'",
+            "type": "1",
+            "w": "200",
+            "formated name": "'objet&gt;chose'"
+        },
+        "97701": {
+            "name": "'locomotive'",
+            "type": "1",
+            "w": "506"
+        },
+        "400042": {
+            "name": "'pistons'",
+            "type": "1",
+            "w": "50"
+        },
+        "237": {
+            "name": "'objet'",
+            "type": "1",
+            "w": "3470"
+        },
+        "234276": {
+            "name": "'faire une piq\u00fbre'",
+            "type": "1",
+            "w": "64"
+        },
+        "10425586": {
+            "name": "'obtenir un avantage'",
+            "type": "1",
+            "w": "0"
+        },
+        "15538356": {
+            "name": "'zone de service'",
+            "type": "1",
+            "w": "0"
+        },
+        "236144": {
+            "name": "'moteur \u00e0 deux temps'",
+            "type": "666",
+            "w": "10"
+        },
+        "15340465": {
+            "name": "'en:two-stroke engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "261731": {
+            "name": "'locomotive&gt;5425'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'locomotive&gt;machine'"
+        },
+        "259860": {
+            "name": "'piston&gt;70527'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'piston&gt;musique'"
+        },
+        "259858": {
+            "name": "'piston&gt;127846'",
+            "type": "1",
+            "w": "62",
+            "formated name": "'piston&gt;recommandation'"
+        },
+        "9115679": {
+            "name": "'en:combine'",
+            "type": "1",
+            "w": "0"
+        },
+        "259859": {
+            "name": "'piston&gt;216183'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'piston&gt;pi\u00e8ce m\u00e9canique'"
+        },
+        "259861": {
+            "name": "'piston&gt;93100'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'piston&gt;capitaine'"
+        },
+        "1876487": {
+            "name": "'solliciter&gt;116477'",
+            "type": "1",
+            "w": "8",
+            "formated name": "'solliciter&gt;personne'"
+        },
+        "232127": {
+            "name": "'pistolet \u00e0 air comprim\u00e9'",
+            "type": "1",
+            "w": "62"
+        },
+        "44241": {
+            "name": "'favoritisme'",
+            "type": "1",
+            "w": "82"
+        },
+        "14916755": {
+            "name": "'en:valve'",
+            "type": "1",
+            "w": "0"
+        },
+        "15349340": {
+            "name": "'en:air pistol'",
+            "type": "1",
+            "w": "0"
+        },
+        "15472463": {
+            "name": "'en:two-stroke cycle engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "15472462": {
+            "name": "'en:two-cycle engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "14602952": {
+            "name": "'moteur deux temps'",
+            "type": "1",
+            "w": "0"
+        },
+        "15356197": {
+            "name": "'claquement du piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "129036": {
+            "name": "'centralien'",
+            "type": "1",
+            "w": "50"
+        },
+        "144032": {
+            "name": "'cylindre'",
+            "type": "1",
+            "w": "1305"
+        },
+        "37731": {
+            "name": "'injustice'",
+            "type": "1",
+            "w": "520"
+        },
+        "124166": {
+            "name": "'services'",
+            "type": "1",
+            "w": "3553"
+        },
+        "593999": {
+            "name": "'entrer dans la vie active'",
+            "type": "1",
+            "w": "10"
+        },
+        "325213": {
+            "name": "'rentrer dans la vie active'",
+            "type": "1",
+            "w": "64"
+        },
+        "584110": {
+            "name": "'centralien&gt;171870'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'centralien&gt;Nom:'"
+        },
+        "584111": {
+            "name": "'centralien&gt;171869'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'centralien&gt;Adj:'"
+        },
+        "202357": {
+            "name": "'joint de culasse'",
+            "type": "1",
+            "w": "52"
+        },
+        "15193404": {
+            "name": "'en:string-pulling'",
+            "type": "1",
+            "w": "0"
+        },
+        "254014": {
+            "name": "'faire marcher son r\u00e9seau'",
+            "type": "1",
+            "w": "14"
+        },
+        "70527": {
+            "name": "'musique'",
+            "type": "1",
+            "w": "9940"
+        },
+        "79255": {
+            "name": "'enseignement'",
+            "type": "1",
+            "w": "1991"
+        },
+        "114109": {
+            "name": "'culasse'",
+            "type": "1",
+            "w": "62"
+        },
+        "15106535": {
+            "name": "'en:poppet'",
+            "type": "1",
+            "w": "0"
+        },
+        "236160": {
+            "name": "'syst\u00e8me pneumatique'",
+            "type": "1",
+            "w": "50"
+        },
+        "76827": {
+            "name": "'accointances'",
+            "type": "1",
+            "w": "50"
+        },
+        "84491": {
+            "name": "'solliciter'",
+            "type": "1",
+            "w": "124"
+        },
+        "15193400": {
+            "name": "'en:piston motor'",
+            "type": "1",
+            "w": "0"
+        },
+        "165514": {
+            "name": "'recommandations'",
+            "type": "1",
+            "w": "58"
+        },
+        "79324": {
+            "name": "'cuivres'",
+            "type": "1",
+            "w": "86"
+        },
+        "14944897": {
+            "name": "'en:cylinder head gasket'",
+            "type": "1",
+            "w": "0"
+        },
+        "14276270": {
+            "name": "'rechercher&gt;14275186'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'rechercher&gt;chercher \u00e0 obtenir'"
+        },
+        "130196": {
+            "name": "'rechercher'",
+            "type": "1",
+            "w": "1654"
+        },
+        "247812": {
+            "name": "'non vivant'",
+            "type": "1",
+            "w": "58"
+        },
+        "153591": {
+            "name": "'lubrifi\u00e9'",
+            "type": "1",
+            "w": "76"
+        },
+        "146050": {
+            "name": "'militaire'",
+            "type": "1",
+            "w": "3686"
+        },
+        "7187002": {
+            "name": "'en:music'",
+            "type": "1",
+            "w": "0"
+        },
+        "221180": {
+            "name": "'course&gt;42109'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'course&gt;mouvement'"
+        },
+        "696867": {
+            "name": "'moteur \u00e0 boule chaude'",
+            "type": "777",
+            "w": "0"
+        },
+        "8568752": {
+            "name": "'moteur \u00e0 pistons alternatifs'",
+            "type": "1",
+            "w": "0"
+        },
+        "93370": {
+            "name": "'client\u00e9lisme'",
+            "type": "1",
+            "w": "54"
+        },
+        "139388": {
+            "name": "'mobile'",
+            "type": "1",
+            "w": "2520"
+        },
+        "134886": {
+            "name": "'plomberie'",
+            "type": "1",
+            "w": "364"
+        },
+        "2245405": {
+            "name": "'pistonne'",
+            "type": "2",
+            "w": "0"
+        },
+        "14931818": {
+            "name": "'en:plunger'",
+            "type": "1",
+            "w": "0"
+        },
+        "226033": {
+            "name": "'bugle&gt;152866'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'bugle&gt;instrument \u00e0 vent'"
+        },
+        "113679": {
+            "name": "'instruments'",
+            "type": "1",
+            "w": "3083"
+        },
+        "1765738": {
+            "name": "'appui&gt;63471'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'appui&gt;protection'"
+        },
+        "6890": {
+            "name": "'voiture'",
+            "type": "1",
+            "w": "11678"
+        },
+        "14285": {
+            "name": "'reli\u00e9'",
+            "type": "1",
+            "w": "1394"
+        },
+        "119838": {
+            "name": "'solidaire'",
+            "type": "1",
+            "w": "108"
+        },
+        "15318148": {
+            "name": "'en:cylindriform'",
+            "type": "1",
+            "w": "0"
+        },
+        "15462750": {
+            "name": "'en:student of/at the Ecole Centrale'",
+            "type": "1",
+            "w": "0"
+        },
+        "12765632": {
+            "name": "'piston \u00e0 simple effet'",
+            "type": "1",
+            "w": "0"
+        },
+        "12765633": {
+            "name": "'piston \u00e0 double effet'",
+            "type": "1",
+            "w": "0"
+        },
+        "316416": {
+            "name": "'music'",
+            "type": "777",
+            "w": "664"
+        },
+        "14222339": {
+            "name": "'protection&gt;34933&gt;116477'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'protection&gt;moyen&gt;personne'"
+        },
+        "14225326": {
+            "name": "'\u00eatre pistonn\u00e9'",
+            "type": "1",
+            "w": "2"
+        },
+        "14273019": {
+            "name": "'admission&gt;204066'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'admission&gt;moteur \u00e0 explosion'"
+        },
+        "236145": {
+            "name": "'moteur \u00e0 quatre temps'",
+            "type": "666",
+            "w": "22"
+        },
+        "14954994": {
+            "name": "'en:piston valve'",
+            "type": "1",
+            "w": "0"
+        },
+        "14954992": {
+            "name": "'en:Perinet valve'",
+            "type": "1",
+            "w": "0"
+        },
+        "6876635": {
+            "name": "'en:influence'",
+            "type": "1",
+            "w": "0"
+        },
+        "103405": {
+            "name": "'indiff\u00e9rence'",
+            "type": "1",
+            "w": "612"
+        },
+        "67368": {
+            "name": "'m\u00e9canique'",
+            "type": "1",
+            "w": "3334"
+        },
+        "42774": {
+            "name": "'armement'",
+            "type": "1",
+            "w": "232"
+        },
+        "144850": {
+            "name": "'arm\u00e9e'",
+            "type": "1",
+            "w": "3547"
+        },
+        "95706": {
+            "name": "'automobile'",
+            "type": "1",
+            "w": "3276"
+        },
+        "16085474": {
+            "name": "'mouvement ascendant du piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "216183": {
+            "name": "'pi\u00e8ce m\u00e9canique'",
+            "type": "1",
+            "w": "10"
+        },
+        "29433": {
+            "name": "'Piston'",
+            "type": "1",
+            "w": "50"
+        },
+        "136461": {
+            "name": "'cylindrique'",
+            "type": "1",
+            "w": "116"
+        },
+        "197117": {
+            "name": "'bout de chou'",
+            "type": "1",
+            "w": "50"
+        },
+        "15490895": {
+            "name": "'en:piece of cabbage'",
+            "type": "1",
+            "w": "0"
+        },
+        "15215796": {
+            "name": "'en:little kid'",
+            "type": "1",
+            "w": "0"
+        },
+        "14949114": {
+            "name": "'en:cutie'",
+            "type": "1",
+            "w": "0"
+        },
+        "15226269": {
+            "name": "'en:little tot'",
+            "type": "1",
+            "w": "0"
+        },
+        "348692": {
+            "name": "'d\u00e9bouchoir \u00e0 ventouse'",
+            "type": "1",
+            "w": "50"
+        },
+        "17039817": {
+            "name": "'prestations de services'",
+            "type": "1",
+            "w": "0"
+        },
+        "15426083": {
+            "name": "'en:four-cycle engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "15523988": {
+            "name": "'en:four stroke engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "15419003": {
+            "name": "'en:four-stroke'",
+            "type": "1",
+            "w": "0"
+        },
+        "15662904": {
+            "name": "'en:four-stroke cycle engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "5537516": {
+            "name": "'architecture des moteurs \u00e0 piston'",
+            "type": "777",
+            "w": "0"
+        },
+        "12790759": {
+            "name": "'pipette \u00e0 piston'",
+            "type": "777",
+            "w": "0"
+        },
+        "590974": {
+            "name": "'bugle&gt;146885'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'bugle&gt;Nom:Mas+SG'"
+        },
+        "16036959": {
+            "name": "'vis-piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "50731": {
+            "name": "'bugle'",
+            "type": "1",
+            "w": "52"
+        },
+        "130808": {
+            "name": "'course'",
+            "type": "1",
+            "w": "3350"
+        },
+        "14222315": {
+            "name": "'protection&gt;34933'",
+            "type": "1",
+            "w": "54",
+            "formated name": "'protection&gt;moyen'"
+        },
+        "20595": {
+            "name": "'admission'",
+            "type": "1",
+            "w": "80"
+        },
+        "2477665": {
+            "name": "'compresseur \u00e0 piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "11341281": {
+            "name": "'piston triangulaire'",
+            "type": "1",
+            "w": "0"
+        },
+        "129836": {
+            "name": "'cylindr\u00e9e'",
+            "type": "1",
+            "w": "52"
+        },
+        "15306643": {
+            "name": "'accumulateur \u00e0 piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "11341279": {
+            "name": "'piston rotatif'",
+            "type": "1",
+            "w": "0"
+        },
+        "222101": {
+            "name": "'ma\u00eetre-cylindre'",
+            "type": "1",
+            "w": "50"
+        },
+        "16032102": {
+            "name": "'servov\u00e9rin'",
+            "type": "1",
+            "w": "0"
+        },
+        "168824": {
+            "name": "'cornet \u00e0 pistons'",
+            "type": "1",
+            "w": "2"
+        },
+        "31704": {
+            "name": "'pistonnage'",
+            "type": "1",
+            "w": "50"
+        },
+        "48851": {
+            "name": "'vilebrequin'",
+            "type": "1",
+            "w": "62"
+        },
+        "68907": {
+            "name": "'saxhorn'",
+            "type": "1",
+            "w": "50"
+        },
+        "97756": {
+            "name": "'avion'",
+            "type": "1",
+            "w": "5821"
+        },
+        "87987": {
+            "name": "'France'",
+            "type": "1",
+            "w": "4535"
+        },
+        "20795": {
+            "name": "'tuba'",
+            "type": "1",
+            "w": "158"
+        },
+        "14916954": {
+            "name": "'en:acquaintance'",
+            "type": "1",
+            "w": "0"
+        },
+        "15193402": {
+            "name": "'al\u00e9sage de piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "15242346": {
+            "name": "'en:plunger coffee maker'",
+            "type": "1",
+            "w": "0"
+        },
+        "15242345": {
+            "name": "'en:press pot'",
+            "type": "1",
+            "w": "0"
+        },
+        "15242344": {
+            "name": "'en:coffee press'",
+            "type": "1",
+            "w": "0"
+        },
+        "15242343": {
+            "name": "'en:French coffee maker'",
+            "type": "1",
+            "w": "0"
+        },
+        "15242342": {
+            "name": "'en:French press'",
+            "type": "1",
+            "w": "0"
+        },
+        "15242341": {
+            "name": "'en:cafetiere'",
+            "type": "1",
+            "w": "0"
+        },
+        "15378713": {
+            "name": "'en:a little kid'",
+            "type": "1",
+            "w": "0"
+        },
+        "184508": {
+            "name": "'t\u00eate blonde'",
+            "type": "1",
+            "w": "50"
+        },
+        "14930153": {
+            "name": "'en:cronyism'",
+            "type": "1",
+            "w": "0"
+        },
+        "15402629": {
+            "name": "'en:brass instruments'",
+            "type": "1",
+            "w": "0"
+        },
+        "15109119": {
+            "name": "'en:steam locomotive'",
+            "type": "1",
+            "w": "0"
+        },
+        "14946733": {
+            "name": "'en:steam engine'",
+            "type": "1",
+            "w": "0"
+        },
+        "15142693": {
+            "name": "'en:head gasket'",
+            "type": "1",
+            "w": "0"
+        },
+        "15086723": {
+            "name": "'en:terete'",
+            "type": "1",
+            "w": "0"
+        },
+        "230745": {
+            "name": "'bougie de pr\u00e9chauffage'",
+            "type": "666",
+            "w": "50"
+        },
+        "263952": {
+            "name": "'cycle \u00e0 quatre temps'",
+            "type": "1",
+            "w": "60"
+        },
+        "12918": {
+            "name": "'tourillon'",
+            "type": "1",
+            "w": "56"
+        },
+        "273943": {
+            "name": "'batterie d'accumulateurs'",
+            "type": "777",
+            "w": "50"
+        },
+        "4245": {
+            "name": "'batterie'",
+            "type": "1",
+            "w": "2943"
+        },
+        "103057": {
+            "name": "'cellule'",
+            "type": "1",
+            "w": "2923"
+        },
+        "228085": {
+            "name": "'batterie \u00e9lectrique'",
+            "type": "1",
+            "w": "50"
+        },
+        "76860": {
+            "name": "'tubiste'",
+            "type": "1",
+            "w": "50"
+        },
+        "37544": {
+            "name": "'hydraulique'",
+            "type": "1",
+            "w": "66"
+        },
+        "60421": {
+            "name": "'clairon'",
+            "type": "1",
+            "w": "64"
+        },
+        "140602": {
+            "name": "'Clairon'",
+            "type": "1",
+            "w": "50"
+        },
+        "145373": {
+            "name": "'pompe'",
+            "type": "1",
+            "w": "868"
+        },
+        "68553": {
+            "name": "'pomper'",
+            "type": "1",
+            "w": "162"
+        },
+        "648": {
+            "name": "'morse'",
+            "type": "1",
+            "w": "100"
+        },
+        "3931": {
+            "name": "'Odobenus rosmarus'",
+            "type": "1",
+            "w": "50"
+        },
+        "278848": {
+            "name": "'Ct\u00e9sibios d'Alexandrie'",
+            "type": "777",
+            "w": "50"
+        },
+        "81063": {
+            "name": "'Ct\u00e9sibios'",
+            "type": "1",
+            "w": "50"
+        },
+        "9317": {
+            "name": "'chromage'",
+            "type": "1",
+            "w": "50"
+        },
+        "278992": {
+            "name": "'chromage d\u00e9coratif'",
+            "type": "777",
+            "w": "50"
+        },
+        "278993": {
+            "name": "'chromage dur'",
+            "type": "777",
+            "w": "50"
+        },
+        "94750": {
+            "name": "'motorisation'",
+            "type": "1",
+            "w": "188"
+        },
+        "88135": {
+            "name": "'Joseph Bramah'",
+            "type": "1",
+            "w": "50"
+        },
+        "282900": {
+            "name": "'Holt Forest'",
+            "type": "777",
+            "w": "50"
+        },
+        "283670": {
+            "name": "'Soci\u00e9t\u00e9 des Moteurs Gnome et Rh\u00f4ne'",
+            "type": "777",
+            "w": "50"
+        },
+        "283671": {
+            "name": "'Le Rh\u00f4ne'",
+            "type": "777",
+            "w": "50"
+        },
+        "30678": {
+            "name": "'briquet'",
+            "type": "1",
+            "w": "808"
+        },
+        "173824": {
+            "name": "'point mort'",
+            "type": "1",
+            "w": "50"
+        },
+        "132689": {
+            "name": "'propulsion'",
+            "type": "1",
+            "w": "913"
+        },
+        "270556": {
+            "name": "'moteur arri\u00e8re'",
+            "type": "1",
+            "w": "50"
+        },
+        "284925": {
+            "name": "'locomotives \u00e0'",
+            "type": "777",
+            "w": "50"
+        },
+        "50913": {
+            "name": "'thermodynamique'",
+            "type": "1",
+            "w": "1403"
+        },
+        "52297": {
+            "name": "'mitrailleuse'",
+            "type": "1",
+            "w": "106"
+        },
+        "64318": {
+            "name": "'seringue'",
+            "type": "1",
+            "w": "348"
+        },
+        "286333": {
+            "name": "'rotule \u00e0 doigt'",
+            "type": "777",
+            "w": "50"
+        },
+        "74260": {
+            "name": "'liaison'",
+            "type": "1",
+            "w": "3059"
+        },
+        "80943": {
+            "name": "'pivot'",
+            "type": "1",
+            "w": "92"
+        },
+        "81867": {
+            "name": "'marteau-pilon'",
+            "type": "1",
+            "w": "54"
+        },
+        "290787": {
+            "name": "'saxhorns'",
+            "type": "777",
+            "w": "50"
+        },
+        "13288": {
+            "name": "'copinage'",
+            "type": "1",
+            "w": "66"
+        },
+        "93532": {
+            "name": "'attelle'",
+            "type": "1",
+            "w": "96"
+        },
+        "26125": {
+            "name": "'trombone'",
+            "type": "1",
+            "w": "74"
+        },
+        "169358": {
+            "name": "'trombone \u00e0 coulisse'",
+            "type": "1",
+            "w": "50"
+        },
+        "169359": {
+            "name": "'trombone \u00e0 pistons'",
+            "type": "1",
+            "w": "50"
+        },
+        "103464": {
+            "name": "'tromboniste'",
+            "type": "1",
+            "w": "50"
+        },
+        "303792": {
+            "name": "'processus isochore'",
+            "type": "777",
+            "w": "50"
+        },
+        "129414": {
+            "name": "'isochore'",
+            "type": "1",
+            "w": "50"
+        },
+        "134443": {
+            "name": "'Thomas Savery'",
+            "type": "1",
+            "w": "50"
+        },
+        "168814": {
+            "name": "'cor d'harmonie'",
+            "type": "1",
+            "w": "4"
+        },
+        "305209": {
+            "name": "'sons bouch\u00e9s'",
+            "type": "777",
+            "w": "50"
+        },
+        "168815": {
+            "name": "'cor moderne'",
+            "type": "1",
+            "w": "50"
+        },
+        "364515": {
+            "name": "'mitrailleuse l\u00e9g\u00e8re'",
+            "type": "1",
+            "w": "50"
+        },
+        "364514": {
+            "name": "'mitrailleuse lourde'",
+            "type": "1",
+            "w": "50"
+        },
+        "399239": {
+            "name": "'mitrailleuses'",
+            "type": "1",
+            "w": "50"
+        },
+        "404354": {
+            "name": "'Briquet'",
+            "type": "1",
+            "w": "50"
+        },
+        "123523": {
+            "name": "'mitraillage'",
+            "type": "1",
+            "w": "52"
+        },
+        "24410": {
+            "name": "'calage'",
+            "type": "1",
+            "w": "50"
+        },
+        "696868": {
+            "name": "'\u00e0 bulbe chaud'",
+            "type": "777",
+            "w": "0"
+        },
+        "64178": {
+            "name": "'semi-diesel'",
+            "type": "1",
+            "w": "50"
+        },
+        "168819": {
+            "name": "'cor naturel'",
+            "type": "1",
+            "w": "50"
+        },
+        "398865": {
+            "name": "'trompettes'",
+            "type": "1",
+            "w": "50"
+        },
+        "5982736": {
+            "name": "'syst\u00e8me bielle-manivelle'",
+            "type": "777",
+            "w": "0"
+        },
+        "9614679": {
+            "name": "'liaison m\u00e9canique'",
+            "type": "777",
+            "w": "2"
+        },
+        "11119742": {
+            "name": "'Joseph Piston'",
+            "type": "777",
+            "w": "0"
+        },
+        "188362": {
+            "name": "'George Walker Bush'",
+            "type": "1",
+            "w": "50"
+        },
+        "169460": {
+            "name": "'George W. Bush'",
+            "type": "1",
+            "w": "70"
+        },
+        "48171": {
+            "name": "'buccin'",
+            "type": "1",
+            "w": "54"
+        },
+        "55448": {
+            "name": "'distributeur'",
+            "type": "1",
+            "w": "174"
+        },
+        "139985": {
+            "name": "'octave'",
+            "type": "1",
+            "w": "66"
+        },
+        "16239202": {
+            "name": "'alternances de parties coniques et de parties cylindriques'",
+            "type": "777",
+            "w": "0"
+        },
+        "111751": {
+            "name": "'cor'",
+            "type": "1",
+            "w": "106"
+        },
+        "344391": {
+            "name": "'contact direct'",
+            "type": "1",
+            "w": "50"
+        },
+        "16780570": {
+            "name": "'points de contact'",
+            "type": "777",
+            "w": "0"
+        },
+        "16780571": {
+            "name": "'normale de contact'",
+            "type": "777",
+            "w": "0"
+        },
+        "16780572": {
+            "name": "'liaisons \u00e9l\u00e9mentaires'",
+            "type": "777",
+            "w": "0"
+        },
+        "16780573": {
+            "name": "'direction de la liaison'",
+            "type": "777",
+            "w": "0"
+        },
+        "14712008": {
+            "name": "'anti-rotation'",
+            "type": "1",
+            "w": "0"
+        },
+        "63722": {
+            "name": "'gnome'",
+            "type": "1",
+            "w": "114"
+        },
+        "15193394": {
+            "name": "'axe de piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "264242": {
+            "name": "'Axe'",
+            "type": "666",
+            "w": "50"
+        },
+        "15327955": {
+            "name": "'jouer du piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "5574039": {
+            "name": "'moteur \u00e0 piston camless'",
+            "type": "777",
+            "w": "0"
+        },
+        "13701": {
+            "name": "'technique'",
+            "type": "1",
+            "w": "3729"
+        },
+        "13538416": {
+            "name": "'d\u00f4me en piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "427561": {
+            "name": "'dente'",
+            "type": "1",
+            "w": "50"
+        },
+        "14225356": {
+            "name": "'avoir du piston'",
+            "type": "1",
+            "w": "2"
+        },
+        "59282": {
+            "name": "'soupape'",
+            "type": "1",
+            "w": "70"
+        },
+        "14012441": {
+            "name": "'piston racleur'",
+            "type": "777",
+            "w": "0"
+        },
+        "130885": {
+            "name": "'volume'",
+            "type": "1",
+            "w": "3405"
+        },
+        "2212": {
+            "name": "'bimoteur'",
+            "type": "1",
+            "w": "134"
+        },
+        "27572": {
+            "name": "'hormis'",
+            "type": "1",
+            "w": "88"
+        },
+        "99767": {
+            "name": "'maneton'",
+            "type": "1",
+            "w": "58"
+        },
+        "136100": {
+            "name": "'transvasement'",
+            "type": "1",
+            "w": "50"
+        },
+        "60312": {
+            "name": "'combustion'",
+            "type": "1",
+            "w": "1963"
+        },
+        "2476227": {
+            "name": "'PMB'",
+            "type": "1",
+            "w": "0"
+        },
+        "6331718": {
+            "name": "'signe du piston'",
+            "type": "1",
+            "w": "0"
+        },
+        "16980587": {
+            "name": "'twin parall\u00e8le'",
+            "type": "777",
+            "w": "0"
+        },
+        "311505": {
+            "name": "'rapport volum\u00e9trique'",
+            "type": "777",
+            "w": "50"
+        },
+        "85339": {
+            "name": "'amorce'",
+            "type": "1",
+            "w": "126"
+        },
+        "13264": {
+            "name": "'bielle'",
+            "type": "1",
+            "w": "68"
+        }
+    },
+    "r": {
+        "211429207": {
+            "node1": "7053874",
+            "node2": "140962",
+            "type": "5",
+            "w": "940"
+        },
+        "728923": {
+            "node1": "127846",
+            "node2": "140962",
+            "type": "5",
+            "w": "509"
+        },
+        "211429178": {
+            "node1": "7053874",
+            "node2": "140962",
+            "type": "0",
+            "w": "469"
+        },
+        "2484821": {
+            "node1": "127846",
+            "node2": "140962",
+            "type": "0",
+            "w": "468"
+        },
+        "399710406": {
+            "node1": "15206846",
+            "node2": "140962",
+            "type": "5",
+            "w": "205"
+        },
+        "401965028": {
+            "node1": "214495",
+            "node2": "140962",
+            "type": "5",
+            "w": "205"
+        },
+        "211909300": {
+            "node1": "7997550",
+            "node2": "140962",
+            "type": "5",
+            "w": "201"
+        },
+        "399517594": {
+            "node1": "15206848",
+            "node2": "140962",
+            "type": "5",
+            "w": "200"
+        },
+        "399517311": {
+            "node1": "15206847",
+            "node2": "140962",
+            "type": "5",
+            "w": "200"
+        },
+        "398988409": {
+            "node1": "214494",
+            "node2": "140962",
+            "type": "5",
+            "w": "200"
+        },
+        "399710240": {
+            "node1": "15206846",
+            "node2": "140962",
+            "type": "0",
+            "w": "190"
+        },
+        "401964843": {
+            "node1": "214495",
+            "node2": "140962",
+            "type": "0",
+            "w": "190"
+        },
+        "211909210": {
+            "node1": "7997550",
+            "node2": "140962",
+            "type": "0",
+            "w": "189"
+        },
+        "399517145": {
+            "node1": "15206847",
+            "node2": "140962",
+            "type": "0",
+            "w": "185"
+        },
+        "399517428": {
+            "node1": "15206848",
+            "node2": "140962",
+            "type": "0",
+            "w": "185"
+        },
+        "398988318": {
+            "node1": "214494",
+            "node2": "140962",
+            "type": "0",
+            "w": "185"
+        },
+        "53585305": {
+            "node1": "86976",
+            "node2": "140962",
+            "type": "5",
+            "w": "174"
+        },
+        "399517885": {
+            "node1": "15206849",
+            "node2": "140962",
+            "type": "5",
+            "w": "170"
+        },
+        "399517719": {
+            "node1": "15206849",
+            "node2": "140962",
+            "type": "0",
+            "w": "155"
+        },
+        "53683244": {
+            "node1": "33701",
+            "node2": "140962",
+            "type": "5",
+            "w": "149"
+        },
+        "9504565": {
+            "node1": "216211",
+            "node2": "140962",
+            "type": "0",
+            "w": "147"
+        },
+        "9519930": {
+            "node1": "241124",
+            "node2": "140962",
+            "type": "0",
+            "w": "147"
+        },
+        "9548030": {
+            "node1": "267514",
+            "node2": "140962",
+            "type": "0",
+            "w": "147"
+        },
+        "9446765": {
+            "node1": "179197",
+            "node2": "140962",
+            "type": "0",
+            "w": "146"
+        },
+        "53607218": {
+            "node1": "41994",
+            "node2": "140962",
+            "type": "5",
+            "w": "144"
+        },
+        "405926005": {
+            "node1": "367219",
+            "node2": "140962",
+            "type": "0",
+            "w": "130"
+        },
+        "405926006": {
+            "node1": "367219",
+            "node2": "140962",
+            "type": "5",
+            "w": "130"
+        },
+        "2439433": {
+            "node1": "241621",
+            "node2": "140962",
+            "type": "0",
+            "w": "123"
+        },
+        "398555965": {
+            "node1": "15393731",
+            "node2": "140962",
+            "type": "0",
+            "w": "120"
+        },
+        "406658580": {
+            "node1": "15444181",
+            "node2": "140962",
+            "type": "0",
+            "w": "120"
+        },
+        "406658581": {
+            "node1": "15444181",
+            "node2": "140962",
+            "type": "5",
+            "w": "120"
+        },
+        "54669320": {
+            "node1": "63471",
+            "node2": "140962",
+            "type": "5",
+            "w": "118"
+        },
+        "54714405": {
+            "node1": "24247",
+            "node2": "140962",
+            "type": "5",
+            "w": "118"
+        },
+        "54852478": {
+            "node1": "74572",
+            "node2": "140962",
+            "type": "5",
+            "w": "113"
+        },
+        "12641714": {
+            "node1": "365139",
+            "node2": "140962",
+            "type": "0",
+            "w": "112"
+        },
+        "12675622": {
+            "node1": "356835",
+            "node2": "140962",
+            "type": "0",
+            "w": "110"
+        },
+        "398010497": {
+            "node1": "15193401",
+            "node2": "140962",
+            "type": "0",
+            "w": "110"
+        },
+        "12620030": {
+            "node1": "370602",
+            "node2": "140962",
+            "type": "0",
+            "w": "109"
+        },
+        "12767616": {
+            "node1": "334516",
+            "node2": "140962",
+            "type": "0",
+            "w": "109"
+        },
+        "12641704": {
+            "node1": "365140",
+            "node2": "140962",
+            "type": "0",
+            "w": "108"
+        },
+        "1983101": {
+            "node1": "241621",
+            "node2": "140962",
+            "type": "9",
+            "w": "108"
+        },
+        "12585060": {
+            "node1": "379133",
+            "node2": "140962",
+            "type": "0",
+            "w": "106"
+        },
+        "12620034": {
+            "node1": "370601",
+            "node2": "140962",
+            "type": "0",
+            "w": "105"
+        },
+        "398555953": {
+            "node1": "15393731",
+            "node2": "140962",
+            "type": "9",
+            "w": "105"
+        },
+        "12559236": {
+            "node1": "385522",
+            "node2": "140962",
+            "type": "0",
+            "w": "104"
+        },
+        "12660794": {
+            "node1": "360483",
+            "node2": "140962",
+            "type": "0",
+            "w": "104"
+        },
+        "12722944": {
+            "node1": "345380",
+            "node2": "140962",
+            "type": "0",
+            "w": "104"
+        },
+        "12680690": {
+            "node1": "355616",
+            "node2": "140962",
+            "type": "0",
+            "w": "103"
+        },
+        "12614942": {
+            "node1": "371809",
+            "node2": "140962",
+            "type": "0",
+            "w": "102"
+        },
+        "54796816": {
+            "node1": "49450",
+            "node2": "140962",
+            "type": "5",
+            "w": "102"
+        },
+        "2306601": {
+            "node1": "53888",
+            "node2": "140962",
+            "type": "0",
+            "w": "101"
+        },
+        "399400272": {
+            "node1": "15048882",
+            "node2": "140962",
+            "type": "0",
+            "w": "100"
+        },
+        "402978433": {
+            "node1": "14924289",
+            "node2": "140962",
+            "type": "0",
+            "w": "100"
+        },
+        "423720088": {
+            "node1": "21780",
+            "node2": "140962",
+            "type": "0",
+            "w": "99"
+        },
+        "106635": {
+            "node1": "4658",
+            "node2": "140962",
+            "type": "9",
+            "w": "98"
+        },
+        "53601908": {
+            "node1": "122978",
+            "node2": "140962",
+            "type": "5",
+            "w": "97"
+        },
+        "14699099": {
+            "node1": "246742",
+            "node2": "140962",
+            "type": "0",
+            "w": "93"
+        },
+        "2392878": {
+            "node1": "256309",
+            "node2": "140962",
+            "type": "9",
+            "w": "92"
+        },
+        "11361136": {
+            "node1": "236146",
+            "node2": "140962",
+            "type": "0",
+            "w": "91"
+        },
+        "395681173": {
+            "node1": "15207600",
+            "node2": "140962",
+            "type": "9",
+            "w": "90"
+        },
+        "382572955": {
+            "node1": "365139",
+            "node2": "140962",
+            "type": "9",
+            "w": "81"
+        },
+        "398010487": {
+            "node1": "15193401",
+            "node2": "140962",
+            "type": "9",
+            "w": "80"
+        },
+        "54778787": {
+            "node1": "9401",
+            "node2": "140962",
+            "type": "5",
+            "w": "79"
+        },
+        "55182899": {
+            "node1": "81662",
+            "node2": "140962",
+            "type": "5",
+            "w": "78"
+        },
+        "14676271": {
+            "node1": "246742",
+            "node2": "140962",
+            "type": "9",
+            "w": "75"
+        },
+        "2565349": {
+            "node1": "254024",
+            "node2": "140962",
+            "type": "0",
+            "w": "70"
+        },
+        "211937962": {
+            "node1": "231457",
+            "node2": "140962",
+            "type": "0",
+            "w": "70"
+        },
+        "398981339": {
+            "node1": "14960732",
+            "node2": "140962",
+            "type": "0",
+            "w": "70"
+        },
+        "211937963": {
+            "node1": "231457",
+            "node2": "140962",
+            "type": "5",
+            "w": "70"
+        },
+        "1895772": {
+            "node1": "57957",
+            "node2": "140962",
+            "type": "20",
+            "w": "70"
+        },
+        "87025064": {
+            "node1": "3384557",
+            "node2": "140962",
+            "type": "20",
+            "w": "70"
+        },
+        "54648722": {
+            "node1": "141534",
+            "node2": "140962",
+            "type": "5",
+            "w": "68"
+        },
+        "53589488": {
+            "node1": "93100",
+            "node2": "140962",
+            "type": "5",
+            "w": "66"
+        },
+        "107390681": {
+            "node1": "183968",
+            "node2": "140962",
+            "type": "0",
+            "w": "61"
+        },
+        "373978543": {
+            "node1": "101793",
+            "node2": "140962",
+            "type": "14",
+            "w": "61"
+        },
+        "2485246": {
+            "node1": "254017",
+            "node2": "140962",
+            "type": "0",
+            "w": "60"
+        },
+        "2518303": {
+            "node1": "254018",
+            "node2": "140962",
+            "type": "0",
+            "w": "60"
+        },
+        "1722365": {
+            "node1": "225215",
+            "node2": "140962",
+            "type": "9",
+            "w": "60"
+        },
+        "1994676": {
+            "node1": "155305",
+            "node2": "140962",
+            "type": "9",
+            "w": "60"
+        },
+        "323999": {
+            "node1": "140962",
+            "node2": "140962",
+            "type": "19",
+            "w": "60"
+        },
+        "54790433": {
+            "node1": "36071",
+            "node2": "140962",
+            "type": "5",
+            "w": "59"
+        },
+        "55136221": {
+            "node1": "56405",
+            "node2": "140962",
+            "type": "5",
+            "w": "59"
+        },
+        "1066203": {
+            "node1": "71659",
+            "node2": "140962",
+            "type": "39",
+            "w": "59"
+        },
+        "54925108": {
+            "node1": "57957",
+            "node2": "140962",
+            "type": "5",
+            "w": "58"
+        },
+        "1716059": {
+            "node1": "135594",
+            "node2": "140962",
+            "type": "0",
+            "w": "57"
+        },
+        "55136234": {
+            "node1": "74182",
+            "node2": "140962",
+            "type": "5",
+            "w": "57"
+        },
+        "1744391": {
+            "node1": "8994",
+            "node2": "140962",
+            "type": "22",
+            "w": "57"
+        },
+        "390413148": {
+            "node1": "14954993",
+            "node2": "140962",
+            "type": "333",
+            "w": "57"
+        },
+        "10876154": {
+            "node1": "246870",
+            "node2": "140962",
+            "type": "0",
+            "w": "56"
+        },
+        "2491734": {
+            "node1": "97701",
+            "node2": "140962",
+            "type": "9",
+            "w": "55"
+        },
+        "14359565": {
+            "node1": "400042",
+            "node2": "140962",
+            "type": "19",
+            "w": "55"
+        },
+        "10876153": {
+            "node1": "237",
+            "node2": "140962",
+            "type": "0",
+            "w": "54"
+        },
+        "3125351": {
+            "node1": "234276",
+            "node2": "140962",
+            "type": "0",
+            "w": "53"
+        },
+        "87025058": {
+            "node1": "3384557",
+            "node2": "140962",
+            "type": "5",
+            "w": "52"
+        },
+        "28685041": {
+            "node1": "57957",
+            "node2": "140962",
+            "type": "0",
+            "w": "51"
+        },
+        "87025047": {
+            "node1": "3384557",
+            "node2": "140962",
+            "type": "0",
+            "w": "51"
+        },
+        "369515902": {
+            "node1": "10425586",
+            "node2": "140962",
+            "type": "0",
+            "w": "51"
+        },
+        "412235020": {
+            "node1": "15538356",
+            "node2": "140962",
+            "type": "0",
+            "w": "50"
+        },
+        "426915558": {
+            "node1": "236144",
+            "node2": "140962",
+            "type": "0",
+            "w": "50"
+        },
+        "435809305": {
+            "node1": "15340465",
+            "node2": "140962",
+            "type": "0",
+            "w": "50"
+        },
+        "412235123": {
+            "node1": "15538356",
+            "node2": "140962",
+            "type": "5",
+            "w": "50"
+        },
+        "2983033": {
+            "node1": "261731",
+            "node2": "140962",
+            "type": "9",
+            "w": "47"
+        },
+        "289391368": {
+            "node1": "259860",
+            "node2": "140962",
+            "type": "2000",
+            "w": "46"
+        },
+        "289391370": {
+            "node1": "259858",
+            "node2": "140962",
+            "type": "2000",
+            "w": "46"
+        },
+        "212516250": {
+            "node1": "9115679",
+            "node2": "140962",
+            "type": "5",
+            "w": "45"
+        },
+        "289391369": {
+            "node1": "259859",
+            "node2": "140962",
+            "type": "2000",
+            "w": "45"
+        },
+        "289391367": {
+            "node1": "259861",
+            "node2": "140962",
+            "type": "2000",
+            "w": "44"
+        },
+        "30351571": {
+            "node1": "1876487",
+            "node2": "140962",
+            "type": "0",
+            "w": "43"
+        },
+        "2155530": {
+            "node1": "232127",
+            "node2": "140962",
+            "type": "0",
+            "w": "42"
+        },
+        "434926164": {
+            "node1": "44241",
+            "node2": "140962",
+            "type": "5",
+            "w": "42"
+        },
+        "212516189": {
+            "node1": "9115679",
+            "node2": "140962",
+            "type": "0",
+            "w": "41"
+        },
+        "394801563": {
+            "node1": "14916755",
+            "node2": "140962",
+            "type": "333",
+            "w": "41"
+        },
+        "444138936": {
+            "node1": "15349340",
+            "node2": "140962",
+            "type": "0",
+            "w": "40"
+        },
+        "444175452": {
+            "node1": "15472463",
+            "node2": "140962",
+            "type": "0",
+            "w": "40"
+        },
+        "444175513": {
+            "node1": "15472462",
+            "node2": "140962",
+            "type": "0",
+            "w": "40"
+        },
+        "447730682": {
+            "node1": "14602952",
+            "node2": "140962",
+            "type": "0",
+            "w": "40"
+        },
+        "54703825": {
+            "node1": "141534",
+            "node2": "140962",
+            "type": "0",
+            "w": "39"
+        },
+        "419712075": {
+            "node1": "15356197",
+            "node2": "140962",
+            "type": "0",
+            "w": "39"
+        },
+        "85634068": {
+            "node1": "129036",
+            "node2": "140962",
+            "type": "5",
+            "w": "39"
+        },
+        "1530365": {
+            "node1": "144032",
+            "node2": "140962",
+            "type": "0",
+            "w": "36"
+        },
+        "908834": {
+            "node1": "41994",
+            "node2": "140962",
+            "type": "0",
+            "w": "35"
+        },
+        "11985881": {
+            "node1": "71659",
+            "node2": "140962",
+            "type": "0",
+            "w": "35"
+        },
+        "21144934": {
+            "node1": "37731",
+            "node2": "140962",
+            "type": "0",
+            "w": "35"
+        },
+        "85640642": {
+            "node1": "124166",
+            "node2": "140962",
+            "type": "0",
+            "w": "34"
+        },
+        "18912396": {
+            "node1": "593999",
+            "node2": "140962",
+            "type": "16",
+            "w": "34"
+        },
+        "18935266": {
+            "node1": "325213",
+            "node2": "140962",
+            "type": "16",
+            "w": "34"
+        },
+        "309277464": {
+            "node1": "584110",
+            "node2": "140962",
+            "type": "5",
+            "w": "33"
+        },
+        "309277465": {
+            "node1": "584111",
+            "node2": "140962",
+            "type": "5",
+            "w": "33"
+        },
+        "149284558": {
+            "node1": "202357",
+            "node2": "140962",
+            "type": "10",
+            "w": "33"
+        },
+        "394040227": {
+            "node1": "15193404",
+            "node2": "140962",
+            "type": "333",
+            "w": "33"
+        },
+        "2397704": {
+            "node1": "254014",
+            "node2": "140962",
+            "type": "0",
+            "w": "31"
+        },
+        "15412960": {
+            "node1": "70527",
+            "node2": "140962",
+            "type": "0",
+            "w": "31"
+        },
+        "21121744": {
+            "node1": "79255",
+            "node2": "140962",
+            "type": "0",
+            "w": "31"
+        },
+        "149284553": {
+            "node1": "114109",
+            "node2": "140962",
+            "type": "10",
+            "w": "31"
+        },
+        "394040224": {
+            "node1": "15106535",
+            "node2": "140962",
+            "type": "333",
+            "w": "31"
+        },
+        "1877508": {
+            "node1": "236160",
+            "node2": "140962",
+            "type": "0",
+            "w": "30"
+        },
+        "53717481": {
+            "node1": "33701",
+            "node2": "140962",
+            "type": "0",
+            "w": "30"
+        },
+        "85855316": {
+            "node1": "76827",
+            "node2": "140962",
+            "type": "0",
+            "w": "30"
+        },
+        "97445800": {
+            "node1": "84491",
+            "node2": "140962",
+            "type": "0",
+            "w": "30"
+        },
+        "310138196": {
+            "node1": "584111",
+            "node2": "140962",
+            "type": "0",
+            "w": "30"
+        },
+        "397921275": {
+            "node1": "15193400",
+            "node2": "140962",
+            "type": "0",
+            "w": "30"
+        },
+        "85618003": {
+            "node1": "165514",
+            "node2": "140962",
+            "type": "5",
+            "w": "30"
+        },
+        "114182378": {
+            "node1": "79324",
+            "node2": "140962",
+            "type": "9",
+            "w": "30"
+        },
+        "397921265": {
+            "node1": "15193400",
+            "node2": "140962",
+            "type": "9",
+            "w": "30"
+        },
+        "403873204": {
+            "node1": "14944897",
+            "node2": "140962",
+            "type": "10",
+            "w": "30"
+        },
+        "364095687": {
+            "node1": "14276270",
+            "node2": "140962",
+            "type": "14",
+            "w": "30"
+        },
+        "364424565": {
+            "node1": "130196",
+            "node2": "140962",
+            "type": "14",
+            "w": "30"
+        },
+        "79964226": {
+            "node1": "247812",
+            "node2": "140962",
+            "type": "23",
+            "w": "30"
+        },
+        "98427716": {
+            "node1": "153591",
+            "node2": "140962",
+            "type": "23",
+            "w": "30"
+        },
+        "15188113": {
+            "node1": "146050",
+            "node2": "140962",
+            "type": "27",
+            "w": "30"
+        },
+        "321645374": {
+            "node1": "7187002",
+            "node2": "140962",
+            "type": "27",
+            "w": "30"
+        },
+        "2039891": {
+            "node1": "221180",
+            "node2": "140962",
+            "type": "0",
+            "w": "29"
+        },
+        "27799120": {
+            "node1": "696867",
+            "node2": "140962",
+            "type": "0",
+            "w": "29"
+        },
+        "85925559": {
+            "node1": "129036",
+            "node2": "140962",
+            "type": "0",
+            "w": "29"
+        },
+        "27795673": {
+            "node1": "696867",
+            "node2": "140962",
+            "type": "9",
+            "w": "29"
+        },
+        "149284545": {
+            "node1": "8568752",
+            "node2": "140962",
+            "type": "9",
+            "w": "29"
+        },
+        "11117257": {
+            "node1": "261731",
+            "node2": "140962",
+            "type": "0",
+            "w": "28"
+        },
+        "321656889": {
+            "node1": "7187002",
+            "node2": "140962",
+            "type": "0",
+            "w": "28"
+        },
+        "85844082": {
+            "node1": "76827",
+            "node2": "140962",
+            "type": "5",
+            "w": "28"
+        },
+        "435001744": {
+            "node1": "93370",
+            "node2": "140962",
+            "type": "5",
+            "w": "28"
+        },
+        "97865836": {
+            "node1": "139388",
+            "node2": "140962",
+            "type": "23",
+            "w": "28"
+        },
+        "15394182": {
+            "node1": "146050",
+            "node2": "140962",
+            "type": "0",
+            "w": "27"
+        },
+        "21155600": {
+            "node1": "134886",
+            "node2": "140962",
+            "type": "0",
+            "w": "27"
+        },
+        "59239442": {
+            "node1": "81662",
+            "node2": "140962",
+            "type": "0",
+            "w": "27"
+        },
+        "59258810": {
+            "node1": "56405",
+            "node2": "140962",
+            "type": "0",
+            "w": "27"
+        },
+        "81978233": {
+            "node1": "2245405",
+            "node2": "140962",
+            "type": "0",
+            "w": "27"
+        },
+        "87497084": {
+            "node1": "400042",
+            "node2": "140962",
+            "type": "0",
+            "w": "27"
+        },
+        "390413160": {
+            "node1": "14931818",
+            "node2": "140962",
+            "type": "333",
+            "w": "27"
+        },
+        "763091": {
+            "node1": "86976",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "1718306": {
+            "node1": "226033",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "10001334": {
+            "node1": "256309",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "21152543": {
+            "node1": "113679",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "29038163": {
+            "node1": "1765738",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "59258807": {
+            "node1": "74182",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "413257339": {
+            "node1": "15207600",
+            "node2": "140962",
+            "type": "0",
+            "w": "26"
+        },
+        "2429967": {
+            "node1": "6890",
+            "node2": "140962",
+            "type": "9",
+            "w": "26"
+        },
+        "376076240": {
+            "node1": "14285",
+            "node2": "140962",
+            "type": "23",
+            "w": "26"
+        },
+        "376076260": {
+            "node1": "119838",
+            "node2": "140962",
+            "type": "23",
+            "w": "26"
+        },
+        "397663097": {
+            "node1": "15318148",
+            "node2": "140962",
+            "type": "23",
+            "w": "26"
+        },
+        "395544364": {
+            "node1": "15462750",
+            "node2": "140962",
+            "type": "333",
+            "w": "26"
+        },
+        "327545528": {
+            "node1": "12765632",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "327546160": {
+            "node1": "12765633",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "332823547": {
+            "node1": "316416",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "361057923": {
+            "node1": "14222339",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "361093973": {
+            "node1": "14225326",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "363818794": {
+            "node1": "14273019",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "364095686": {
+            "node1": "14276270",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "433484422": {
+            "node1": "236145",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "415411899": {
+            "node1": "15462750",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "415633068": {
+            "node1": "14916755",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "415969979": {
+            "node1": "15193404",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "415969981": {
+            "node1": "15106535",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "416014927": {
+            "node1": "14931818",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "416014929": {
+            "node1": "14954994",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "416014931": {
+            "node1": "14954992",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "416014933": {
+            "node1": "6876635",
+            "node2": "140962",
+            "type": "0",
+            "w": "25"
+        },
+        "390945344": {
+            "node1": "14954993",
+            "node2": "140962",
+            "type": "5",
+            "w": "25"
+        },
+        "390413153": {
+            "node1": "14954993",
+            "node2": "140962",
+            "type": "72",
+            "w": "25"
+        },
+        "385298306": {
+            "node1": "103405",
+            "node2": "140962",
+            "type": "115",
+            "w": "25"
+        },
+        "475869675": {
+            "node1": "400042",
+            "node2": "140962",
+            "type": "170",
+            "w": "25"
+        },
+        "390413139": {
+            "node1": "6876635",
+            "node2": "140962",
+            "type": "333",
+            "w": "25"
+        },
+        "390413143": {
+            "node1": "14954992",
+            "node2": "140962",
+            "type": "333",
+            "w": "25"
+        },
+        "390413156": {
+            "node1": "14954994",
+            "node2": "140962",
+            "type": "333",
+            "w": "25"
+        },
+        "53762223": {
+            "node1": "93100",
+            "node2": "140962",
+            "type": "0",
+            "w": "24"
+        },
+        "332823548": {
+            "node1": "316416",
+            "node2": "140962",
+            "type": "27",
+            "w": "24"
+        },
+        "85636769": {
+            "node1": "165514",
+            "node2": "140962",
+            "type": "0",
+            "w": "23"
+        },
+        "15168243": {
+            "node1": "67368",
+            "node2": "140962",
+            "type": "27",
+            "w": "23"
+        },
+        "15207235": {
+            "node1": "42774",
+            "node2": "140962",
+            "type": "27",
+            "w": "23"
+        },
+        "15207609": {
+            "node1": "144850",
+            "node2": "140962",
+            "type": "27",
+            "w": "23"
+        },
+        "752899": {
+            "node1": "49450",
+            "node2": "140962",
+            "type": "0",
+            "w": "22"
+        },
+        "952230": {
+            "node1": "9401",
+            "node2": "140962",
+            "type": "0",
+            "w": "22"
+        },
+        "971017": {
+            "node1": "63471",
+            "node2": "140962",
+            "type": "0",
+            "w": "22"
+        },
+        "15279658": {
+            "node1": "95706",
+            "node2": "140962",
+            "type": "0",
+            "w": "22"
+        },
+        "54813588": {
+            "node1": "36071",
+            "node2": "140962",
+            "type": "0",
+            "w": "22"
+        },
+        "472753068": {
+            "node1": "16085474",
+            "node2": "140962",
+            "type": "0",
+            "w": "22"
+        },
+        "15146216": {
+            "node1": "95706",
+            "node2": "140962",
+            "type": "27",
+            "w": "22"
+        },
+        "9923258": {
+            "node1": "216183",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "14485979": {
+            "node1": "29433",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "15298587": {
+            "node1": "67368",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "15423506": {
+            "node1": "42774",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "15424241": {
+            "node1": "144850",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "53750588": {
+            "node1": "122978",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "54856578": {
+            "node1": "74572",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "59522745": {
+            "node1": "24247",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "310138194": {
+            "node1": "584110",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "390945343": {
+            "node1": "14954993",
+            "node2": "140962",
+            "type": "0",
+            "w": "21"
+        },
+        "97866626": {
+            "node1": "136461",
+            "node2": "140962",
+            "type": "23",
+            "w": "21"
+        },
+        "15201294": {
+            "node1": "70527",
+            "node2": "140962",
+            "type": "27",
+            "w": "21"
+        },
+        "418862216": {
+            "node1": "197117",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "428210469": {
+            "node1": "15490895",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "428210531": {
+            "node1": "15215796",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "428210532": {
+            "node1": "14949114",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "428210701": {
+            "node1": "15226269",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "449287276": {
+            "node1": "348692",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "456816808": {
+            "node1": "17039817",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "467657449": {
+            "node1": "15426083",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "467657484": {
+            "node1": "15523988",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "467657519": {
+            "node1": "15419003",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "467657554": {
+            "node1": "15662904",
+            "node2": "140962",
+            "type": "0",
+            "w": "20"
+        },
+        "456816844": {
+            "node1": "17039817",
+            "node2": "140962",
+            "type": "5",
+            "w": "20"
+        },
+        "109663416": {
+            "node1": "5537516",
+            "node2": "140962",
+            "type": "0",
+            "w": "17"
+        },
+        "328232402": {
+            "node1": "12790759",
+            "node2": "140962",
+            "type": "0",
+            "w": "17"
+        },
+        "97437639": {
+            "node1": "590974",
+            "node2": "140962",
+            "type": "0",
+            "w": "16"
+        },
+        "473272096": {
+            "node1": "16036959",
+            "node2": "140962",
+            "type": "0",
+            "w": "16"
+        },
+        "97319125": {
+            "node1": "50731",
+            "node2": "140962",
+            "type": "0",
+            "w": "15"
+        },
+        "98291475": {
+            "node1": "130808",
+            "node2": "140962",
+            "type": "0",
+            "w": "15"
+        },
+        "361058070": {
+            "node1": "14222315",
+            "node2": "140962",
+            "type": "0",
+            "w": "15"
+        },
+        "363819389": {
+            "node1": "20595",
+            "node2": "140962",
+            "type": "0",
+            "w": "15"
+        },
+        "364424540": {
+            "node1": "130196",
+            "node2": "140962",
+            "type": "0",
+            "w": "15"
+        },
+        "10006720": {
+            "node1": "97701",
+            "node2": "140962",
+            "type": "0",
+            "w": "14"
+        },
+        "58809494": {
+            "node1": "2477665",
+            "node2": "140962",
+            "type": "0",
+            "w": "14"
+        },
+        "290517493": {
+            "node1": "11341281",
+            "node2": "140962",
+            "type": "0",
+            "w": "14"
+        },
+        "417873608": {
+            "node1": "129836",
+            "node2": "140962",
+            "type": "0",
+            "w": "14"
+        },
+        "419571180": {
+            "node1": "15306643",
+            "node2": "140962",
+            "type": "0",
+            "w": "14"
+        },
+        "290513600": {
+            "node1": "11341279",
+            "node2": "140962",
+            "type": "0",
+            "w": "13"
+        },
+        "417515929": {
+            "node1": "222101",
+            "node2": "140962",
+            "type": "0",
+            "w": "13"
+        },
+        "417741113": {
+            "node1": "16032102",
+            "node2": "140962",
+            "type": "0",
+            "w": "13"
+        },
+        "418029288": {
+            "node1": "168824",
+            "node2": "140962",
+            "type": "0",
+            "w": "13"
+        },
+        "417878117": {
+            "node1": "31704",
+            "node2": "140962",
+            "type": "0",
+            "w": "12"
+        },
+        "417881400": {
+            "node1": "48851",
+            "node2": "140962",
+            "type": "0",
+            "w": "12"
+        },
+        "418320515": {
+            "node1": "68907",
+            "node2": "140962",
+            "type": "0",
+            "w": "12"
+        },
+        "72786108": {
+            "node1": "97756",
+            "node2": "140962",
+            "type": "0",
+            "w": "11"
+        },
+        "191853406": {
+            "node1": "87987",
+            "node2": "140962",
+            "type": "0",
+            "w": "11"
+        },
+        "418368690": {
+            "node1": "20795",
+            "node2": "140962",
+            "type": "0",
+            "w": "11"
+        },
+        "191853405": {
+            "node1": "87987",
+            "node2": "140962",
+            "type": "27",
+            "w": "11"
+        },
+        "390037005": {
+            "node1": "14916954",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "419590562": {
+            "node1": "15193402",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "426272458": {
+            "node1": "15242346",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "426272480": {
+            "node1": "15242345",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "426272501": {
+            "node1": "15242344",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "426272522": {
+            "node1": "15242343",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "426272548": {
+            "node1": "15242342",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "426272575": {
+            "node1": "15242341",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "430896247": {
+            "node1": "15378713",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "432293976": {
+            "node1": "184508",
+            "node2": "140962",
+            "type": "0",
+            "w": "10"
+        },
+        "390037021": {
+            "node1": "14916954",
+            "node2": "140962",
+            "type": "5",
+            "w": "10"
+        },
+        "439792644": {
+            "node1": "14930153",
+            "node2": "140962",
+            "type": "5",
+            "w": "10"
+        },
+        "398184418": {
+            "node1": "15402629",
+            "node2": "140962",
+            "type": "9",
+            "w": "10"
+        },
+        "399656602": {
+            "node1": "15109119",
+            "node2": "140962",
+            "type": "9",
+            "w": "10"
+        },
+        "399656697": {
+            "node1": "14946733",
+            "node2": "140962",
+            "type": "9",
+            "w": "10"
+        },
+        "403873184": {
+            "node1": "15142693",
+            "node2": "140962",
+            "type": "10",
+            "w": "10"
+        },
+        "397663190": {
+            "node1": "15086723",
+            "node2": "140962",
+            "type": "23",
+            "w": "10"
+        },
+        "3416043": {
+            "node1": "230745",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3543850": {
+            "node1": "236146",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3543852": {
+            "node1": "263952",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3595562": {
+            "node1": "236144",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3636085": {
+            "node1": "12918",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3672177": {
+            "node1": "273943",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3672179": {
+            "node1": "4245",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3672181": {
+            "node1": "103057",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3672183": {
+            "node1": "228085",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3732549": {
+            "node1": "20795",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3732551": {
+            "node1": "76860",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3751421": {
+            "node1": "236145",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3910029": {
+            "node1": "37544",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4015600": {
+            "node1": "60421",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4015619": {
+            "node1": "140602",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4113105": {
+            "node1": "145373",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4113107": {
+            "node1": "68553",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4189923": {
+            "node1": "648",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4189925": {
+            "node1": "3931",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4335589": {
+            "node1": "278848",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4335592": {
+            "node1": "81063",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4349896": {
+            "node1": "9317",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4349898": {
+            "node1": "278992",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4349900": {
+            "node1": "278993",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4470038": {
+            "node1": "94750",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4706170": {
+            "node1": "21780",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4837509": {
+            "node1": "88135",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4837511": {
+            "node1": "282900",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4934212": {
+            "node1": "283670",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4934234": {
+            "node1": "283671",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "4995702": {
+            "node1": "30678",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5014866": {
+            "node1": "173824",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5063057": {
+            "node1": "132689",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5063059": {
+            "node1": "270556",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5111332": {
+            "node1": "284925",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5111338": {
+            "node1": "155305",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5117989": {
+            "node1": "50913",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5149865": {
+            "node1": "52297",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5195792": {
+            "node1": "64318",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5367598": {
+            "node1": "286333",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5367594": {
+            "node1": "74260",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "5367605": {
+            "node1": "80943",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "6357253": {
+            "node1": "81867",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "6359434": {
+            "node1": "290787",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "6359436": {
+            "node1": "68907",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "6377834": {
+            "node1": "79324",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "6659261": {
+            "node1": "13288",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "6808031": {
+            "node1": "29433",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7335284": {
+            "node1": "93532",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7417905": {
+            "node1": "26125",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7417909": {
+            "node1": "169358",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7417911": {
+            "node1": "169359",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7417913": {
+            "node1": "103464",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7688898": {
+            "node1": "303792",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7688900": {
+            "node1": "129414",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7750215": {
+            "node1": "134443",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7873837": {
+            "node1": "168814",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7873839": {
+            "node1": "305209",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "7873840": {
+            "node1": "168815",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "8478602": {
+            "node1": "222101",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "17076420": {
+            "node1": "364515",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "17076594": {
+            "node1": "364514",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "17270093": {
+            "node1": "399239",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "17278415": {
+            "node1": "400042",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "17321963": {
+            "node1": "404354",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "18301598": {
+            "node1": "123523",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "18921907": {
+            "node1": "24410",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "19398488": {
+            "node1": "696867",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "19398498": {
+            "node1": "696868",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "19398501": {
+            "node1": "64178",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "19505921": {
+            "node1": "168819",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "34318318": {
+            "node1": "44241",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "76196896": {
+            "node1": "398865",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "117086400": {
+            "node1": "5982736",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "216666136": {
+            "node1": "9614679",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "282306414": {
+            "node1": "11119742",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "366943041": {
+            "node1": "188362",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "366943043": {
+            "node1": "169460",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "369591554": {
+            "node1": "48171",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "395358114": {
+            "node1": "55448",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "425949833": {
+            "node1": "139985",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "425949834": {
+            "node1": "16239202",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "425950262": {
+            "node1": "111751",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "441642173": {
+            "node1": "344391",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "441642175": {
+            "node1": "16780570",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "441642177": {
+            "node1": "16780571",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "441642179": {
+            "node1": "16780572",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "441642181": {
+            "node1": "16780573",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "441642183": {
+            "node1": "14712008",
+            "node2": "140962",
+            "type": "777",
+            "w": "10"
+        },
+        "3866707": {
+            "node1": "4658",
+            "node2": "140962",
+            "type": "777",
+            "w": "9"
+        },
+        "4934227": {
+            "node1": "63722",
+            "node2": "140962",
+            "type": "777",
+            "w": "9"
+        },
+        "419639949": {
+            "node1": "15193394",
+            "node2": "140962",
+            "type": "0",
+            "w": "8"
+        },
+        "9976989": {
+            "node1": "4658",
+            "node2": "140962",
+            "type": "0",
+            "w": "7"
+        },
+        "438817960": {
+            "node1": "230745",
+            "node2": "140962",
+            "type": "0",
+            "w": "7"
+        },
+        "446456958": {
+            "node1": "264242",
+            "node2": "140962",
+            "type": "0",
+            "w": "7"
+        },
+        "471349478": {
+            "node1": "15327955",
+            "node2": "140962",
+            "type": "0",
+            "w": "7"
+        },
+        "110586054": {
+            "node1": "5574039",
+            "node2": "140962",
+            "type": "0",
+            "w": "6"
+        },
+        "195488977": {
+            "node1": "13701",
+            "node2": "140962",
+            "type": "0",
+            "w": "5"
+        },
+        "195488976": {
+            "node1": "13701",
+            "node2": "140962",
+            "type": "27",
+            "w": "5"
+        },
+        "10002898": {
+            "node1": "6890",
+            "node2": "140962",
+            "type": "0",
+            "w": "4"
+        },
+        "9994857": {
+            "node1": "155305",
+            "node2": "140962",
+            "type": "0",
+            "w": "4"
+        },
+        "9989488": {
+            "node1": "225215",
+            "node2": "140962",
+            "type": "0",
+            "w": "4"
+        },
+        "343034338": {
+            "node1": "13538416",
+            "node2": "140962",
+            "type": "0",
+            "w": "4"
+        },
+        "92604964": {
+            "node1": "87987",
+            "node2": "140962",
+            "type": "28",
+            "w": "4"
+        },
+        "471976591": {
+            "node1": "303792",
+            "node2": "140962",
+            "type": "0",
+            "w": "3"
+        },
+        "476892293": {
+            "node1": "427561",
+            "node2": "140962",
+            "type": "0",
+            "w": "2"
+        },
+        "361093744": {
+            "node1": "14225356",
+            "node2": "140962",
+            "type": "0",
+            "w": "2"
+        },
+        "374986508": {
+            "node1": "59282",
+            "node2": "140962",
+            "type": "0",
+            "w": "2"
+        },
+        "353747093": {
+            "node1": "14012441",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "421663919": {
+            "node1": "130885",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "422947138": {
+            "node1": "2212",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "423845700": {
+            "node1": "27572",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "427737081": {
+            "node1": "99767",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "428738809": {
+            "node1": "136100",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "434918803": {
+            "node1": "60312",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "438884793": {
+            "node1": "2476227",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "444074906": {
+            "node1": "6331718",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "452061154": {
+            "node1": "16980587",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "472162623": {
+            "node1": "311505",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "477799003": {
+            "node1": "85339",
+            "node2": "140962",
+            "type": "0",
+            "w": "1"
+        },
+        "1771631": {
+            "node1": "135594",
+            "node2": "140962",
+            "type": "666",
+            "w": "1"
+        },
+        "1787959": {
+            "node1": "26125",
+            "node2": "140962",
+            "type": "666",
+            "w": "1"
+        },
+        "1824370": {
+            "node1": "13264",
+            "node2": "140962",
+            "type": "666",
+            "w": "1"
+        },
+        "72786107": {
+            "node1": "97756",
+            "node2": "140962",
+            "type": "666",
+            "w": "1"
+        },
+        "374986507": {
+            "node1": "59282",
+            "node2": "140962",
+            "type": "666",
+            "w": "1"
+        },
+        "85612760": {
+            "node1": "124166",
+            "node2": "140962",
+            "type": "5",
+            "w": "-64"
+        }
+    },
+    "rt": {
+        "0": {
+            "trname": "'r_associated'",
+            "trgpname": "'id\u00e9e associ\u00e9e'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer les termes les plus \u00e9troitement associ\u00e9s au mot cible... Ce mot vous fait penser \u00e0 quoi ?"
+        },
+        "5": {
+            "trname": "'r_syn'",
+            "trgpname": "'synonyme'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer les synonymes ou quasi-synonymes de ce terme."
+        },
+        "9": {
+            "trname": "'r_has_part'",
+            "trgpname": "'partie'",
+            "rthelp": "Il faut donner des PARTIES/constituants/\u00e9l\u00e9ments (a pour m\u00e9ronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ..."
+        },
+        "10": {
+            "trname": "'r_holo'",
+            "trgpname": "'tout'",
+            "rthelp": "Il est d\u00e9mand\u00e9 d'\u00e9num\u00e9rer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour '\u00e9l\u00e8ve'."
+        },
+        "14": {
+            "trname": "'r_patient'",
+            "trgpname": "'action&gt;patient'",
+            "rthelp": "Le patient (qu'on appelle aussi l'objet) est l'entit\u00e9 qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent \u00eatre 'viande', 'l\u00e9gume', 'pain', ... (manger r_patient pain)"
+        },
+        "16": {
+            "trname": "'r_instr'",
+            "trgpname": "'action&gt;instrument'",
+            "rthelp": "L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. Des instruments typiques de 'tuer' peuvent \u00eatre 'arme', 'pistolet', 'poison', ... (couper r_instr couteau)"
+        },
+        "19": {
+            "trname": "'r_lemma'",
+            "trgpname": "'r_lemma'",
+            "rthelp": "Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir')."
+        },
+        "20": {
+            "trname": "'r_has_magn'",
+            "trgpname": "'magn'",
+            "rthelp": "La magnification ou amplification, par exemple - forte fi\u00e8vre - ou - fi\u00e8vre de cheval - pour fi\u00e8vre. Ou encore - amour fou - pour amour, - peur bleue - pour peur."
+        },
+        "22": {
+            "trname": "'r_family'",
+            "trgpname": "'famille'",
+            "rthelp": "Des mots de la m\u00eame famille lexicale sont demand\u00e9s (d\u00e9rivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc."
+        },
+        "23": {
+            "trname": "'r_carac-1'",
+            "trgpname": "'caract\u00e9ristique-1'",
+            "rthelp": "Quels sont les objets (des noms) poss\u00e9dant typiquement/possiblement la caract\u00e9risque suivante ? Par exemple, 'soleil', 'feu', pour 'chaud'."
+        },
+        "27": {
+            "trname": "'r_domain-1'",
+            "trgpname": "'domaine-1'",
+            "rthelp": "inverse de r_domain : \u00e0 un domaine, on associe des termes"
+        },
+        "28": {
+            "trname": "'r_lieu-1'",
+            "trgpname": "'lieu&gt;chose'",
+            "rthelp": "A partir d'un lieu, il est demand\u00e9 d'\u00e9num\u00e9rer ce qui peut typiquement s'y trouver. Par exemple : Paris r_lieu-1 tour Eiffel"
+        },
+        "39": {
+            "trname": "'r_verbe-action'",
+            "trgpname": "'verbe&gt;action'",
+            "rthelp": "du verbe vers l'action. Par exemple, construire -&gt; construction , jardiner -&gt; jardinage . C'est un terme directement d\u00e9riv\u00e9 (ayant la m\u00eame racine). Applicable que pour un verbe et inverse de la relation 40 (action vers verbe)."
+        },
+        "72": {
+            "trname": "'r_syn_strict'",
+            "trgpname": "'r_syn_strict'",
+            "rthelp": "Termes strictement substituables, pour des termes hors du domaine g\u00e9n\u00e9ral, et pour la plupart des noms (exemple : endom\u00e9triose intra-ut\u00e9rine --&gt"
+        },
+        "115": {
+            "trname": "'r_sentiment-1'",
+            "trgpname": "'sentiment-1'",
+            "rthelp": "Pour un SENTIMENT ou EMOTION donn\u00e9, il est demand\u00e9 d\u0092\u00e9num\u00e9rer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc."
+        },
+        "170": {
+            "trname": "'r_sing_form'",
+            "trgpname": "'r_sing_from'",
+            "rthelp": "La forme au singulier d'un terme. Exemple : chevaux r_sing_from cheval (pas de relation inverse)"
+        },
+        "333": {
+            "trname": "'r_translation'",
+            "trgpname": "'r_translation'",
+            "rthelp": "Traduction vers une autre langue."
+        },
+        "666": {
+            "trname": "'r_aki'",
+            "trgpname": "'r_aki'",
+            "rthelp": "(TOTAKI) equivalent pour TOTAKI de l'association libre"
+        },
+        "777": {
+            "trname": "'r_wiki'",
+            "trgpname": "'r_wiki'",
+            "rthelp": "Associations issues de wikipedia..."
+        },
+        "2000": {
+            "trname": "'r_raff_sem-1'",
+            "trgpname": "'r_raff_sem-1'",
+            "rthelp": "Inverse de r_raff_sem (automatique)"
+        }
+    }
+}

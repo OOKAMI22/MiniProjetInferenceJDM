@@ -1,0 +1,63 @@
+[<code>
+// DUMP pour le terme 'apporter Ã  boire' (eid=16319092)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;4;'n_pos'
+nt;8;'n_chunk'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;16319092;'apporter à boire';1;0
+e;16319093;'::&gt;13:16059&gt;29:16319092';8;0;'apporter à boire [sujet] serveuse'
+e;16059;'serveuse';1;396
+e;159891;'hôtesse de l'air';1;142
+e;16319094;'::&gt;66:16059&gt;24:16319092';8;0;'serveuse [peut] apporter à boire'
+e;47918;'boire';1;4568
+e;14724461;'apporter à';1;0
+e;49739;'apporter';1;1730
+e;17459765;'::&gt;66:159891&gt;24:16319092';8;0;'hôtesse de l'air [peut] apporter à boire'
+e;7437597;'en:server';1;0
+e;15209341;'machine réseau';1;0
+e;17459764;'::&gt;13:159891&gt;29:16319092';8;0;'apporter à boire [sujet] hôtesse de l'air'
+e;212235;'Ver:';4;50
+e;146882;'Ver:Inf';4;50
+e;11130959;'servir des clients';1;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;13;'r_agent';'action&gt;agent';L'agent (qu'on appelle aussi le sujet) est l'entité qui effectue l'action, OU la subit pour des formes passives ou des verbes d'état. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent être 'sportif', 'enfant',... (manger r_agent chat)
+rt;29;'r_chunk_pred';'predicat';(interne) d'un prédicat quel chunk ?
+rt;42;'r_causatif';'cause';B (que vous devez donner) est une CAUSE possible de A. A et B sont des verbes ou des noms.  Exemples : se blesser -&gt; tomber ; vol -&gt; pauvreté ; incendie -&gt; négligence ; mort --&gt; maladie ; etc.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 16 relations sortantes 
+
+r;431492677;16319092;16319093;29;100
+r;428892058;16319092;16059;13;69
+r;476878954;16319092;159891;13;51
+r;471844282;16319092;16319094;13;45
+r;434371421;16319092;47918;0;41
+r;434371419;16319092;14724461;0;41
+r;434371417;16319092;49739;0;41
+r;476943129;16319092;17459765;13;30
+r;471818247;16319092;7437597;13;27
+r;471795381;16319092;15209341;13;27
+r;476943130;16319092;17459764;29;26
+r;428892259;16319092;16059;0;25
+r;428892062;16319092;212235;4;25
+r;428892060;16319092;146882;4;25
+r;479567609;16319092;11130959;42;25
+r;476878955;16319092;159891;0;25
+
+// END
+</code>]

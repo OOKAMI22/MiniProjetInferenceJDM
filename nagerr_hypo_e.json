@@ -1,0 +1,309 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "20911": {
+            "name": "'nager'",
+            "type": "1",
+            "w": "1388"
+        },
+        "254642": {
+            "name": "'faire des longueurs'",
+            "type": "1",
+            "w": "4"
+        },
+        "256933": {
+            "name": "'nager le crawl'",
+            "type": "1",
+            "w": "50"
+        },
+        "256934": {
+            "name": "'nager la brasse'",
+            "type": "1",
+            "w": "52"
+        },
+        "14355220": {
+            "name": "'::&gt;13:237687&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] nageurs'"
+        },
+        "14355222": {
+            "name": "'::&gt;31:146105&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] mer'"
+        },
+        "14355225": {
+            "name": "'::&gt;31:33976&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] lac'"
+        },
+        "14355228": {
+            "name": "'::&gt;31:49154&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] rivi\u00e8re'"
+        },
+        "14386123": {
+            "name": "'::&gt;13:68439&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] individu'"
+        },
+        "14386141": {
+            "name": "'::&gt;13:244993&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] coll\u00e9giens'"
+        },
+        "14386143": {
+            "name": "'::&gt;31:158024&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] piscine municipale'"
+        },
+        "14386146": {
+            "name": "'::&gt;13:219800&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] \u00e9coliers'"
+        },
+        "14388683": {
+            "name": "'::&gt;13:61490&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] femme'"
+        },
+        "14388688": {
+            "name": "'::&gt;31:9664&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] oc\u00e9an'"
+        },
+        "14388691": {
+            "name": "'::&gt;31:69943&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] fleuve'"
+        },
+        "14400770": {
+            "name": "'::&gt;13:68467&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] poisson'"
+        },
+        "14549224": {
+            "name": "'::&gt;13:124094&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] enfant'"
+        },
+        "15207807": {
+            "name": "'en:do the crawl'",
+            "type": "1",
+            "w": "0"
+        },
+        "15207789": {
+            "name": "'en:to do the breaststroke'",
+            "type": "1",
+            "w": "0"
+        },
+        "15229501": {
+            "name": "'en:swim breast-stroke'",
+            "type": "1",
+            "w": "0"
+        },
+        "15563976": {
+            "name": "'en:do the breaststroke'",
+            "type": "1",
+            "w": "0"
+        },
+        "15806487": {
+            "name": "'::&gt;13:136624&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] alligator'"
+        },
+        "14386125": {
+            "name": "'::&gt;31:134474&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [endroit] piscine'"
+        },
+        "16559845": {
+            "name": "'::&gt;13:34527&gt;29:20911'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'nager [sujet] enfants'"
+        },
+        "5635158": {
+            "name": "'In culo alla balena'",
+            "type": "777",
+            "w": "0"
+        }
+    },
+    "r": {
+        "9769845": {
+            "node1": "20911",
+            "node2": "254642",
+            "type": "8",
+            "w": "54"
+        },
+        "13180392": {
+            "node1": "20911",
+            "node2": "256933",
+            "type": "8",
+            "w": "35"
+        },
+        "14041416": {
+            "node1": "20911",
+            "node2": "256934",
+            "type": "8",
+            "w": "32"
+        },
+        "376305095": {
+            "node1": "20911",
+            "node2": "14355220",
+            "type": "8",
+            "w": "25"
+        },
+        "376305093": {
+            "node1": "20911",
+            "node2": "14355222",
+            "type": "8",
+            "w": "25"
+        },
+        "376305090": {
+            "node1": "20911",
+            "node2": "14355225",
+            "type": "8",
+            "w": "25"
+        },
+        "376305087": {
+            "node1": "20911",
+            "node2": "14355228",
+            "type": "8",
+            "w": "25"
+        },
+        "376284682": {
+            "node1": "20911",
+            "node2": "14386123",
+            "type": "8",
+            "w": "25"
+        },
+        "376284674": {
+            "node1": "20911",
+            "node2": "14386141",
+            "type": "8",
+            "w": "25"
+        },
+        "376284672": {
+            "node1": "20911",
+            "node2": "14386143",
+            "type": "8",
+            "w": "25"
+        },
+        "376284669": {
+            "node1": "20911",
+            "node2": "14386146",
+            "type": "8",
+            "w": "25"
+        },
+        "376283291": {
+            "node1": "20911",
+            "node2": "14388683",
+            "type": "8",
+            "w": "25"
+        },
+        "376283290": {
+            "node1": "20911",
+            "node2": "14388688",
+            "type": "8",
+            "w": "25"
+        },
+        "376283287": {
+            "node1": "20911",
+            "node2": "14388691",
+            "type": "8",
+            "w": "25"
+        },
+        "376278385": {
+            "node1": "20911",
+            "node2": "14400770",
+            "type": "8",
+            "w": "25"
+        },
+        "370074268": {
+            "node1": "20911",
+            "node2": "14549224",
+            "type": "8",
+            "w": "23"
+        },
+        "419356257": {
+            "node1": "20911",
+            "node2": "15207807",
+            "type": "8",
+            "w": "5"
+        },
+        "419326836": {
+            "node1": "20911",
+            "node2": "15207789",
+            "type": "8",
+            "w": "5"
+        },
+        "419326835": {
+            "node1": "20911",
+            "node2": "15229501",
+            "type": "8",
+            "w": "5"
+        },
+        "419326834": {
+            "node1": "20911",
+            "node2": "15563976",
+            "type": "8",
+            "w": "5"
+        },
+        "420053540": {
+            "node1": "20911",
+            "node2": "15806487",
+            "type": "8",
+            "w": "3"
+        },
+        "370074272": {
+            "node1": "20911",
+            "node2": "14386125",
+            "type": "8",
+            "w": "3"
+        },
+        "435539727": {
+            "node1": "20911",
+            "node2": "16559845",
+            "type": "8",
+            "w": "1"
+        },
+        "262782555": {
+            "node1": "20911",
+            "node2": "5635158",
+            "type": "8",
+            "w": "-25"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

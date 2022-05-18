@@ -1,0 +1,503 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "16059": {
+            "name": "'serveuse'",
+            "type": "1",
+            "w": "396"
+        },
+        "15049580": {
+            "name": "'en:carhop'",
+            "type": "1",
+            "w": "0"
+        },
+        "15078973": {
+            "name": "'en:counterperson'",
+            "type": "1",
+            "w": "0"
+        },
+        "8040039": {
+            "name": "'en:wine waiter'",
+            "type": "1",
+            "w": "0"
+        },
+        "14961874": {
+            "name": "'en:sommelier'",
+            "type": "1",
+            "w": "0"
+        },
+        "15078975": {
+            "name": "'en:counterwoman'",
+            "type": "1",
+            "w": "0"
+        },
+        "15093471": {
+            "name": "'en:wine steward'",
+            "type": "1",
+            "w": "0"
+        },
+        "14884158": {
+            "name": "'::&gt;66:16059&gt;26:118441'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [se faire] peloter'"
+        },
+        "14884153": {
+            "name": "'::&gt;66:16059&gt;24:14884151'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] caf\u00e9'"
+        },
+        "14327162": {
+            "name": "'::&gt;66:16059&gt;24:7888'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir'"
+        },
+        "14327165": {
+            "name": "'::&gt;66:16059&gt;24:14327163'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [endroit] restaurant'"
+        },
+        "14327166": {
+            "name": "'::&gt;66:16059&gt;24:14324527'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] plats'"
+        },
+        "14327167": {
+            "name": "'::&gt;66:14327166&gt;15:79954'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] plats [lieu] restaurant'"
+        },
+        "14331203": {
+            "name": "'::&gt;66:16059&gt;24:14330346'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] plat'"
+        },
+        "14331204": {
+            "name": "'::&gt;66:14331203&gt;15:79954'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] plat [lieu] restaurant'"
+        },
+        "14381181": {
+            "name": "'::&gt;66:16059&gt;24:14381179'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] verre de vin'"
+        },
+        "14381183": {
+            "name": "'::&gt;66:16059&gt;24:49739'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter'"
+        },
+        "14381186": {
+            "name": "'::&gt;66:16059&gt;24:14381184'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter [objet] bi\u00e8re'"
+        },
+        "14381189": {
+            "name": "'::&gt;66:16059&gt;24:14381187'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] servir [objet] boissons'"
+        },
+        "14381192": {
+            "name": "'::&gt;66:16059&gt;24:14381190'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter [objet] boisson'"
+        },
+        "14381196": {
+            "name": "'::&gt;66:16059&gt;26:38749'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [se faire] tripoter'"
+        },
+        "14381298": {
+            "name": "'::&gt;66:16059&gt;24:71325'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] renverser'"
+        },
+        "14381301": {
+            "name": "'::&gt;66:16059&gt;24:14381299'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] renverser [objet] plateau'"
+        },
+        "14510901": {
+            "name": "'::&gt;66:16059&gt;26:5692'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [se faire] baiser'"
+        },
+        "295521": {
+            "name": "'Playboy Bunny'",
+            "type": "777",
+            "w": "50"
+        },
+        "231224": {
+            "name": "'bunny girl'",
+            "type": "1",
+            "w": "2"
+        },
+        "8040070": {
+            "name": "'en:barmaid'",
+            "type": "1",
+            "w": "0"
+        },
+        "133083": {
+            "name": "'barmaid'",
+            "type": "1",
+            "w": "76"
+        },
+        "4113534": {
+            "name": "'serveur Web'",
+            "type": "1",
+            "w": "0"
+        },
+        "271428": {
+            "name": "'serveur web'",
+            "type": "1",
+            "w": "26"
+        },
+        "14425037": {
+            "name": "'Real Private Server'",
+            "type": "777",
+            "w": "0"
+        },
+        "5778221": {
+            "name": "'serveur de courriel anonyme'",
+            "type": "777",
+            "w": "0"
+        },
+        "5778218": {
+            "name": "'serveur autonome'",
+            "type": "777",
+            "w": "0"
+        },
+        "5778215": {
+            "name": "'serveur autog\u00e9r\u00e9'",
+            "type": "777",
+            "w": "0"
+        },
+        "5670413": {
+            "name": "'serveur d\u00e9di\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "2531704": {
+            "name": "'seedbox'",
+            "type": "1",
+            "w": "0"
+        },
+        "16277725": {
+            "name": "'::&gt;66:16059&gt;24:8729978'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] sucer son patron'"
+        },
+        "16277722": {
+            "name": "'::&gt;66:16059&gt;24:85447'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] sucer'"
+        },
+        "16277723": {
+            "name": "'::&gt;66:16059&gt;24:14381084'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] sucer [objet] patron'"
+        },
+        "16319090": {
+            "name": "'::&gt;66:16059&gt;24:16319085'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter [objet] nourriture'"
+        },
+        "16534284": {
+            "name": "'::&gt;66:16059&gt;24:16534280'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter [objet] plats'"
+        },
+        "16319094": {
+            "name": "'::&gt;66:16059&gt;24:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter \u00e0 boire'"
+        }
+    },
+    "r": {
+        "414666743": {
+            "node1": "16059",
+            "node2": "15049580",
+            "type": "8",
+            "w": "25"
+        },
+        "414666742": {
+            "node1": "16059",
+            "node2": "15078973",
+            "type": "8",
+            "w": "25"
+        },
+        "414666741": {
+            "node1": "16059",
+            "node2": "8040039",
+            "type": "8",
+            "w": "25"
+        },
+        "414666740": {
+            "node1": "16059",
+            "node2": "14961874",
+            "type": "8",
+            "w": "25"
+        },
+        "414666739": {
+            "node1": "16059",
+            "node2": "15078975",
+            "type": "8",
+            "w": "25"
+        },
+        "414666738": {
+            "node1": "16059",
+            "node2": "15093471",
+            "type": "8",
+            "w": "25"
+        },
+        "386064286": {
+            "node1": "16059",
+            "node2": "14884158",
+            "type": "8",
+            "w": "25"
+        },
+        "386064281": {
+            "node1": "16059",
+            "node2": "14884153",
+            "type": "8",
+            "w": "25"
+        },
+        "376323163": {
+            "node1": "16059",
+            "node2": "14327162",
+            "type": "8",
+            "w": "25"
+        },
+        "376323160": {
+            "node1": "16059",
+            "node2": "14327165",
+            "type": "8",
+            "w": "25"
+        },
+        "376323159": {
+            "node1": "16059",
+            "node2": "14327166",
+            "type": "8",
+            "w": "25"
+        },
+        "376323155": {
+            "node1": "16059",
+            "node2": "14327167",
+            "type": "8",
+            "w": "25"
+        },
+        "376323129": {
+            "node1": "16059",
+            "node2": "14331203",
+            "type": "8",
+            "w": "25"
+        },
+        "376323126": {
+            "node1": "16059",
+            "node2": "14331204",
+            "type": "8",
+            "w": "25"
+        },
+        "376286585": {
+            "node1": "16059",
+            "node2": "14381181",
+            "type": "8",
+            "w": "25"
+        },
+        "376286582": {
+            "node1": "16059",
+            "node2": "14381183",
+            "type": "8",
+            "w": "25"
+        },
+        "376286579": {
+            "node1": "16059",
+            "node2": "14381186",
+            "type": "8",
+            "w": "25"
+        },
+        "376286575": {
+            "node1": "16059",
+            "node2": "14381189",
+            "type": "8",
+            "w": "25"
+        },
+        "376286571": {
+            "node1": "16059",
+            "node2": "14381192",
+            "type": "8",
+            "w": "25"
+        },
+        "376286566": {
+            "node1": "16059",
+            "node2": "14381196",
+            "type": "8",
+            "w": "25"
+        },
+        "376286453": {
+            "node1": "16059",
+            "node2": "14381298",
+            "type": "8",
+            "w": "25"
+        },
+        "376286450": {
+            "node1": "16059",
+            "node2": "14381301",
+            "type": "8",
+            "w": "25"
+        },
+        "376229866": {
+            "node1": "16059",
+            "node2": "14510901",
+            "type": "8",
+            "w": "25"
+        },
+        "247206849": {
+            "node1": "16059",
+            "node2": "295521",
+            "type": "8",
+            "w": "25"
+        },
+        "243597069": {
+            "node1": "16059",
+            "node2": "231224",
+            "type": "8",
+            "w": "25"
+        },
+        "243342481": {
+            "node1": "16059",
+            "node2": "8040070",
+            "type": "8",
+            "w": "25"
+        },
+        "243342436": {
+            "node1": "16059",
+            "node2": "133083",
+            "type": "8",
+            "w": "25"
+        },
+        "432862582": {
+            "node1": "16059",
+            "node2": "4113534",
+            "type": "8",
+            "w": "10"
+        },
+        "432862581": {
+            "node1": "16059",
+            "node2": "271428",
+            "type": "8",
+            "w": "10"
+        },
+        "432862580": {
+            "node1": "16059",
+            "node2": "14425037",
+            "type": "8",
+            "w": "10"
+        },
+        "432862579": {
+            "node1": "16059",
+            "node2": "5778221",
+            "type": "8",
+            "w": "10"
+        },
+        "432862578": {
+            "node1": "16059",
+            "node2": "5778218",
+            "type": "8",
+            "w": "10"
+        },
+        "432862577": {
+            "node1": "16059",
+            "node2": "5778215",
+            "type": "8",
+            "w": "10"
+        },
+        "432862576": {
+            "node1": "16059",
+            "node2": "5670413",
+            "type": "8",
+            "w": "10"
+        },
+        "432862575": {
+            "node1": "16059",
+            "node2": "2531704",
+            "type": "8",
+            "w": "10"
+        },
+        "427786275": {
+            "node1": "16059",
+            "node2": "16277725",
+            "type": "8",
+            "w": "3"
+        },
+        "427786274": {
+            "node1": "16059",
+            "node2": "16277722",
+            "type": "8",
+            "w": "3"
+        },
+        "427761182": {
+            "node1": "16059",
+            "node2": "16277723",
+            "type": "8",
+            "w": "3"
+        },
+        "430318558": {
+            "node1": "16059",
+            "node2": "16319090",
+            "type": "8",
+            "w": "2"
+        },
+        "435539939": {
+            "node1": "16059",
+            "node2": "16534284",
+            "type": "8",
+            "w": "1"
+        },
+        "430318647": {
+            "node1": "16059",
+            "node2": "16319094",
+            "type": "8",
+            "w": "1"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}

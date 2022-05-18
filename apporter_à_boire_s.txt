@@ -1,0 +1,67 @@
+[<code>
+// DUMP pour le terme 'apporter Ã  boire' (eid=16319092)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;16319092;'apporter à boire';1;0
+e;16319093;'::&gt;13:16059&gt;29:16319092';8;0;'apporter à boire [sujet] serveuse'
+e;16059;'serveuse';1;396
+e;16319094;'::&gt;66:16059&gt;24:16319092';8;0;'serveuse [peut] apporter à boire'
+e;17459764;'::&gt;13:159891&gt;29:16319092';8;0;'apporter à boire [sujet] hôtesse de l'air'
+e;159891;'hôtesse de l'air';1;142
+e;17459765;'::&gt;66:159891&gt;24:16319092';8;0;'hôtesse de l'air [peut] apporter à boire'
+e;47918;'boire';1;4568
+e;14724461;'apporter à';1;0
+e;49739;'apporter';1;1730
+e;15209341;'machine réseau';1;0
+e;7437597;'en:server';1;0
+e;11130959;'servir des clients';1;0
+e;253706;'serveur informatique';1;54
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat =&gt; miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;41;'r_conseq';'conséquence';B (que vous devez donner) est une CONSEQUENCE possible de A. A et B sont des verbes ou des noms.  Exemples : tomber -&gt; se blesser ; faim -&gt; voler ; allumer -&gt; incendie ; négligence --&gt; accident ; etc.
+
+// les relations entrantes : r;rid;node1;node2;type;w 
+// 22 relations entrantes 
+
+r;428892286;16319093;16319092;0;94
+r;428892057;16059;16319092;24;69
+r;428892297;16319094;16319092;24;60
+r;476878961;17459764;16319092;0;51
+r;476878962;159891;16319092;24;51
+r;476878965;17459765;16319092;24;51
+r;434371420;47918;16319092;11;50
+r;434371418;14724461;16319092;11;50
+r;434371416;49739;16319092;11;50
+r;435822470;15209341;16319092;24;30
+r;431442463;7437597;16319092;24;30
+r;428892314;16319094;16319092;0;25
+r;428892291;16059;16319092;0;25
+r;428892267;16319093;16319092;6;25
+r;479567608;11130959;16319092;41;25
+r;476878969;17459765;16319092;0;25
+r;476878963;159891;16319092;0;25
+r;476878956;17459764;16319092;6;25
+r;435822219;15209341;16319092;0;20
+r;431442444;7437597;16319092;0;20
+r;432862623;253706;16319092;24;10
+r;432862604;253706;16319092;0;10
+
+// END
+</code>]

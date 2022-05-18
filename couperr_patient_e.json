@@ -1,0 +1,4687 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "128828": {
+            "name": "'couper'",
+            "type": "1",
+            "w": "3429"
+        },
+        "217168": {
+            "name": "'lardons'",
+            "type": "1",
+            "w": "224"
+        },
+        "132347": {
+            "name": "'sapin'",
+            "type": "1",
+            "w": "834"
+        },
+        "41894": {
+            "name": "'brique'",
+            "type": "1",
+            "w": "442"
+        },
+        "164797": {
+            "name": "'c\u00f4te de boeuf'",
+            "type": "1",
+            "w": "258"
+        },
+        "140100": {
+            "name": "'viande'",
+            "type": "1",
+            "w": "5110"
+        },
+        "124771": {
+            "name": "'parole'",
+            "type": "1",
+            "w": "2658"
+        },
+        "213823": {
+            "name": "'bois&gt;29208'",
+            "type": "1",
+            "w": "300",
+            "formated name": "'bois&gt;mati\u00e8re'"
+        },
+        "56280": {
+            "name": "'oreille'",
+            "type": "1",
+            "w": "1895"
+        },
+        "16589544": {
+            "name": "'main&gt;146881'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'main&gt;Nom:Fem+SG'"
+        },
+        "61283": {
+            "name": "'pain'",
+            "type": "1",
+            "w": "3616"
+        },
+        "123307": {
+            "name": "'oignon'",
+            "type": "1",
+            "w": "586"
+        },
+        "120603": {
+            "name": "'l\u00e9gume'",
+            "type": "1",
+            "w": "2736"
+        },
+        "51126": {
+            "name": "'cheveux'",
+            "type": "1",
+            "w": "3421"
+        },
+        "155220": {
+            "name": "'fil de fer'",
+            "type": "1",
+            "w": "156"
+        },
+        "19636": {
+            "name": "'r\u00f4ti'",
+            "type": "1",
+            "w": "364"
+        },
+        "142086": {
+            "name": "'jambe'",
+            "type": "1",
+            "w": "3395"
+        },
+        "52255": {
+            "name": "'arbre'",
+            "type": "1",
+            "w": "5528"
+        },
+        "158591": {
+            "name": "'pommes de terre'",
+            "type": "1",
+            "w": "400"
+        },
+        "191721": {
+            "name": "'filet mignon'",
+            "type": "1",
+            "w": "34"
+        },
+        "16324520": {
+            "name": "'pointes de cheveux'",
+            "type": "1",
+            "w": "0"
+        },
+        "28560": {
+            "name": "'courge'",
+            "type": "1",
+            "w": "240"
+        },
+        "85167": {
+            "name": "'pointes'",
+            "type": "1",
+            "w": "62"
+        },
+        "2392276": {
+            "name": "'rosbeef'",
+            "type": "1",
+            "w": "0"
+        },
+        "120728": {
+            "name": "'planche'",
+            "type": "1",
+            "w": "1441"
+        },
+        "8595": {
+            "name": "'corde'",
+            "type": "1",
+            "w": "2503"
+        },
+        "41239": {
+            "name": "'rondin'",
+            "type": "1",
+            "w": "68"
+        },
+        "94975": {
+            "name": "'portable'",
+            "type": "1",
+            "w": "1329"
+        },
+        "20621": {
+            "name": "'aliments'",
+            "type": "1",
+            "w": "2130"
+        },
+        "141687": {
+            "name": "'fromage'",
+            "type": "1",
+            "w": "3503"
+        },
+        "96256": {
+            "name": "'bois'",
+            "type": "1",
+            "w": "5220"
+        },
+        "81934": {
+            "name": "'main'",
+            "type": "1",
+            "w": "6788"
+        },
+        "160927": {
+            "name": "'morceau de viande'",
+            "type": "1",
+            "w": "150"
+        },
+        "141795": {
+            "name": "'membre'",
+            "type": "1",
+            "w": "3754"
+        },
+        "2845232": {
+            "name": "'morceaux de viande'",
+            "type": "1",
+            "w": "0"
+        },
+        "332372": {
+            "name": "'r\u00e9acteurs'",
+            "type": "1",
+            "w": "54"
+        },
+        "10788263": {
+            "name": "'saucisson&gt;6938'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'saucisson&gt;charcuterie'"
+        },
+        "88759": {
+            "name": "'escalope'",
+            "type": "1",
+            "w": "270"
+        },
+        "55572": {
+            "name": "'steak'",
+            "type": "1",
+            "w": "576"
+        },
+        "436831": {
+            "name": "'champignon frais'",
+            "type": "1",
+            "w": "50"
+        },
+        "140377": {
+            "name": "'beurre'",
+            "type": "1",
+            "w": "2563"
+        },
+        "144846": {
+            "name": "'t\u00eate'",
+            "type": "1",
+            "w": "5937"
+        },
+        "408218": {
+            "name": "'ch\u00e2taignes'",
+            "type": "1",
+            "w": "78"
+        },
+        "267817": {
+            "name": "'fanes'",
+            "type": "1",
+            "w": "50"
+        },
+        "436804": {
+            "name": "'calamars'",
+            "type": "1",
+            "w": "50"
+        },
+        "7769": {
+            "name": "'canard'",
+            "type": "1",
+            "w": "1485"
+        },
+        "320632": {
+            "name": "'noix de Saint-Jacques'",
+            "type": "1",
+            "w": "56"
+        },
+        "146261": {
+            "name": "'poulet'",
+            "type": "1",
+            "w": "1900"
+        },
+        "1975008": {
+            "name": "'\u00e9pis de ma\u00efs'",
+            "type": "1",
+            "w": "0"
+        },
+        "115827": {
+            "name": "'ananas'",
+            "type": "1",
+            "w": "318"
+        },
+        "62706": {
+            "name": "'doigt'",
+            "type": "1",
+            "w": "2870"
+        },
+        "1972576": {
+            "name": "'pommes de terres'",
+            "type": "1",
+            "w": "0"
+        },
+        "437496": {
+            "name": "'tomates cerises'",
+            "type": "1",
+            "w": "52"
+        },
+        "165569": {
+            "name": "'fruits rouges'",
+            "type": "1",
+            "w": "116"
+        },
+        "14731": {
+            "name": "'aubergine'",
+            "type": "1",
+            "w": "352"
+        },
+        "130303": {
+            "name": "'poireau'",
+            "type": "1",
+            "w": "236"
+        },
+        "94536": {
+            "name": "'ficelle'",
+            "type": "1",
+            "w": "538"
+        },
+        "401316": {
+            "name": "'bouts'",
+            "type": "1",
+            "w": "52"
+        },
+        "168368": {
+            "name": "'gousse de vanille'",
+            "type": "1",
+            "w": "12"
+        },
+        "151940": {
+            "name": "'tomate cerise'",
+            "type": "1",
+            "w": "50"
+        },
+        "102505": {
+            "name": "'cailles'",
+            "type": "1",
+            "w": "62"
+        },
+        "223459": {
+            "name": "'petit pain'",
+            "type": "1",
+            "w": "66"
+        },
+        "141883": {
+            "name": "'boule'",
+            "type": "1",
+            "w": "2059"
+        },
+        "87937": {
+            "name": "'brocolis'",
+            "type": "1",
+            "w": "60"
+        },
+        "3473": {
+            "name": "'potiron'",
+            "type": "1",
+            "w": "176"
+        },
+        "46889": {
+            "name": "'poitrine'",
+            "type": "1",
+            "w": "1672"
+        },
+        "120576": {
+            "name": "'mozzarella'",
+            "type": "1",
+            "w": "138"
+        },
+        "7347": {
+            "name": "'espadon'",
+            "type": "1",
+            "w": "62"
+        },
+        "156482": {
+            "name": "'baguette de pain'",
+            "type": "1",
+            "w": "52"
+        },
+        "91026": {
+            "name": "'chou rouge'",
+            "type": "1",
+            "w": "72"
+        },
+        "59496": {
+            "name": "'tranche de lard'",
+            "type": "1",
+            "w": "56"
+        },
+        "1971800": {
+            "name": "'t\u00eates de champignons'",
+            "type": "1",
+            "w": "0"
+        },
+        "126363": {
+            "name": "'blanc de poulet'",
+            "type": "1",
+            "w": "130"
+        },
+        "157203": {
+            "name": "'avocat&gt;87286'",
+            "type": "1",
+            "w": "98",
+            "formated name": "'avocat&gt;fruit'"
+        },
+        "2708239": {
+            "name": "'alimentation \u00e9lectrique'",
+            "type": "1",
+            "w": "6"
+        },
+        "213432": {
+            "name": "'tissu&gt;94609'",
+            "type": "1",
+            "w": "190",
+            "formated name": "'tissu&gt;textile'"
+        },
+        "213560": {
+            "name": "'melon&gt;87286'",
+            "type": "1",
+            "w": "26",
+            "formated name": "'melon&gt;fruit'"
+        },
+        "225770": {
+            "name": "'organe&gt;112609'",
+            "type": "1",
+            "w": "94",
+            "formated name": "'organe&gt;anatomie'"
+        },
+        "125506": {
+            "name": "'\u00e9lectricit\u00e9'",
+            "type": "1",
+            "w": "2064"
+        },
+        "233049": {
+            "name": "'pain&gt;119014'",
+            "type": "1",
+            "w": "294",
+            "formated name": "'pain&gt;boulangerie'"
+        },
+        "218827": {
+            "name": "'magret de canard'",
+            "type": "1",
+            "w": "104"
+        },
+        "240897": {
+            "name": "'radiateur&gt;230089'",
+            "type": "1",
+            "w": "34",
+            "formated name": "'radiateur&gt;appareil de chauffage'"
+        },
+        "16783": {
+            "name": "'radiateur'",
+            "type": "1",
+            "w": "330"
+        },
+        "220521": {
+            "name": "'doigt&gt;112609'",
+            "type": "1",
+            "w": "272",
+            "formated name": "'doigt&gt;anatomie'"
+        },
+        "106182": {
+            "name": "'gigot'",
+            "type": "1",
+            "w": "150"
+        },
+        "213758": {
+            "name": "'baguette&gt;61283'",
+            "type": "1",
+            "w": "244",
+            "formated name": "'baguette&gt;pain'"
+        },
+        "103702": {
+            "name": "'palette'",
+            "type": "1",
+            "w": "156"
+        },
+        "136076": {
+            "name": "'plantes'",
+            "type": "1",
+            "w": "3592"
+        },
+        "11287398": {
+            "name": "'morceau de b\u00e9ton'",
+            "type": "1",
+            "w": "0"
+        },
+        "217015": {
+            "name": "'c\u00f4te \u00e0 l'os'",
+            "type": "1",
+            "w": "2"
+        },
+        "224034": {
+            "name": "'palette&gt;140100'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'palette&gt;viande'"
+        },
+        "34624": {
+            "name": "'ch\u00eane'",
+            "type": "1",
+            "w": "1321"
+        },
+        "213354": {
+            "name": "'sapin&gt;52255'",
+            "type": "1",
+            "w": "36",
+            "formated name": "'sapin&gt;arbre'"
+        },
+        "47417": {
+            "name": "'boeuf'",
+            "type": "1",
+            "w": "1470"
+        },
+        "145624": {
+            "name": "'p\u00eache'",
+            "type": "1",
+            "w": "2861"
+        },
+        "55511": {
+            "name": "'T-bone'",
+            "type": "1",
+            "w": "162"
+        },
+        "218648": {
+            "name": "'arbre&gt;136507'",
+            "type": "1",
+            "w": "388",
+            "formated name": "'arbre&gt;v\u00e9g\u00e9tal'"
+        },
+        "44335": {
+            "name": "'organe'",
+            "type": "1",
+            "w": "1960"
+        },
+        "160334": {
+            "name": "'saucisses'",
+            "type": "1",
+            "w": "122"
+        },
+        "155699": {
+            "name": "'tissus'",
+            "type": "1",
+            "w": "2278"
+        },
+        "63936": {
+            "name": "'tissu'",
+            "type": "1",
+            "w": "2520"
+        },
+        "3754560": {
+            "name": "'tomate en rondelles'",
+            "type": "1",
+            "w": "0"
+        },
+        "70209": {
+            "name": "'tomme'",
+            "type": "1",
+            "w": "92"
+        },
+        "141611": {
+            "name": "'pointe'",
+            "type": "1",
+            "w": "2847"
+        },
+        "76234": {
+            "name": "'carotte'",
+            "type": "1",
+            "w": "590"
+        },
+        "2353714": {
+            "name": "'tranches de jambon'",
+            "type": "1",
+            "w": "0"
+        },
+        "23411": {
+            "name": "'fines herbes'",
+            "type": "1",
+            "w": "98"
+        },
+        "146333": {
+            "name": "'fils'",
+            "type": "1",
+            "w": "3908"
+        },
+        "270851": {
+            "name": "'cordages'",
+            "type": "1",
+            "w": "50"
+        },
+        "154390": {
+            "name": "'fromage de brebis'",
+            "type": "1",
+            "w": "140"
+        },
+        "74897": {
+            "name": "'premi\u00e8re'",
+            "type": "1",
+            "w": "3954"
+        },
+        "20883": {
+            "name": "'herbes'",
+            "type": "1",
+            "w": "158"
+        },
+        "34296": {
+            "name": "'saucisson'",
+            "type": "1",
+            "w": "444"
+        },
+        "31080": {
+            "name": "'melon'",
+            "type": "1",
+            "w": "198"
+        },
+        "12905116": {
+            "name": "'bonne viande'",
+            "type": "1",
+            "w": "0"
+        },
+        "132961": {
+            "name": "'b\u00e9ton'",
+            "type": "1",
+            "w": "1896"
+        },
+        "159098": {
+            "name": "'pomme verte'",
+            "type": "1",
+            "w": "86"
+        },
+        "68467": {
+            "name": "'poisson'",
+            "type": "1",
+            "w": "7106"
+        },
+        "148459": {
+            "name": "'haschich'",
+            "type": "1",
+            "w": "80"
+        },
+        "34898": {
+            "name": "'pied'",
+            "type": "1",
+            "w": "4548"
+        },
+        "2558916": {
+            "name": "'t-bone'",
+            "type": "1",
+            "w": "0"
+        },
+        "3179891": {
+            "name": "'T-bone steak'",
+            "type": "1",
+            "w": "0"
+        },
+        "303010": {
+            "name": "'mozzarelle'",
+            "type": "777",
+            "w": "50"
+        },
+        "167850": {
+            "name": "'boudin blanc'",
+            "type": "1",
+            "w": "80"
+        },
+        "154472": {
+            "name": "'fruit de la passion'",
+            "type": "1",
+            "w": "116"
+        },
+        "1969989": {
+            "name": "'feuille de lasagne'",
+            "type": "1",
+            "w": "0"
+        },
+        "241034": {
+            "name": "'r\u00f4ti de porc'",
+            "type": "1",
+            "w": "62"
+        },
+        "2319561": {
+            "name": "'tomates cerise'",
+            "type": "1",
+            "w": "0"
+        },
+        "3343": {
+            "name": "'racine'",
+            "type": "1",
+            "w": "2990"
+        },
+        "267298": {
+            "name": "'gingembre frais'",
+            "type": "1",
+            "w": "50"
+        },
+        "168167": {
+            "name": "'saumonette'",
+            "type": "1",
+            "w": "50"
+        },
+        "436989": {
+            "name": "'escalope de poulet'",
+            "type": "1",
+            "w": "76"
+        },
+        "144832": {
+            "name": "'pain d'\u00e9pices'",
+            "type": "1",
+            "w": "130"
+        },
+        "18153": {
+            "name": "'nougat'",
+            "type": "1",
+            "w": "180"
+        },
+        "156108": {
+            "name": "'avocats'",
+            "type": "1",
+            "w": "56"
+        },
+        "26062": {
+            "name": "'branche'",
+            "type": "1",
+            "w": "3161"
+        },
+        "28985": {
+            "name": "'fleur'",
+            "type": "1",
+            "w": "4974"
+        },
+        "120353": {
+            "name": "'branches'",
+            "type": "1",
+            "w": "2627"
+        },
+        "3757833": {
+            "name": "'tranches de jambon cru'",
+            "type": "1",
+            "w": "0"
+        },
+        "3751952": {
+            "name": "'tranches de jambon blanc'",
+            "type": "1",
+            "w": "0"
+        },
+        "159167": {
+            "name": "'ronces'",
+            "type": "1",
+            "w": "64"
+        },
+        "15320195": {
+            "name": "'en:breast of chicken'",
+            "type": "1",
+            "w": "0"
+        },
+        "17219838": {
+            "name": "'::&gt;66:132347&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'sapin [se faire] couper'"
+        },
+        "17109797": {
+            "name": "'::&gt;66:124771&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'parole [se faire] couper'"
+        },
+        "17054656": {
+            "name": "'tranche de poisson'",
+            "type": "1",
+            "w": "0"
+        },
+        "17054655": {
+            "name": "'tranches de poisson'",
+            "type": "1",
+            "w": "0"
+        },
+        "16902995": {
+            "name": "'::&gt;66:41894&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'brique [se faire] couper'"
+        },
+        "147055": {
+            "name": "'clous'",
+            "type": "1",
+            "w": "80"
+        },
+        "233158": {
+            "name": "'brique&gt;158943'",
+            "type": "1",
+            "w": "16",
+            "formated name": "'brique&gt;mat\u00e9riau de construction'"
+        },
+        "16789292": {
+            "name": "'::&gt;66:164797&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'c\u00f4te de boeuf [se faire] couper'"
+        },
+        "15331515": {
+            "name": "'tourte \u00e0 la pomme'",
+            "type": "1",
+            "w": "0"
+        },
+        "15520959": {
+            "name": "'en:red kuri squash'",
+            "type": "1",
+            "w": "0"
+        },
+        "15762968": {
+            "name": "'tarte \u00e0 la pomme'",
+            "type": "1",
+            "w": "0"
+        },
+        "15103882": {
+            "name": "'en:mozzarella'",
+            "type": "1",
+            "w": "0"
+        },
+        "8061337": {
+            "name": "'en:roast pork'",
+            "type": "1",
+            "w": "0"
+        },
+        "15431700": {
+            "name": "'en:duck breast fillet'",
+            "type": "1",
+            "w": "0"
+        },
+        "15431699": {
+            "name": "'en:fillet of duck breast'",
+            "type": "1",
+            "w": "0"
+        },
+        "16560394": {
+            "name": "'::&gt;66:123307&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'oignon [se faire] couper'"
+        },
+        "16560399": {
+            "name": "'::&gt;66:120603&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'l\u00e9gume [se faire] couper'"
+        },
+        "16068394": {
+            "name": "'en:thick slice of salmon'",
+            "type": "1",
+            "w": "0"
+        },
+        "14938479": {
+            "name": "'en:herbs'",
+            "type": "1",
+            "w": "0"
+        },
+        "16606980": {
+            "name": "'::&gt;66:16589544&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'main&gt;Nom:Fem+SG [se faire] couper'"
+        },
+        "16607117": {
+            "name": "'::&gt;66:56280&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'oreille [se faire] couper'"
+        },
+        "16684621": {
+            "name": "'::&gt;66:213823&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'bois&gt;mati\u00e8re [se faire] couper'"
+        },
+        "16530508": {
+            "name": "'::&gt;66:142086&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'jambe [se faire] couper'"
+        },
+        "15218076": {
+            "name": "'en:bulb of garlic'",
+            "type": "1",
+            "w": "0"
+        },
+        "15058624": {
+            "name": "'en:garlic clove'",
+            "type": "1",
+            "w": "0"
+        },
+        "15218077": {
+            "name": "'en:head of garlic'",
+            "type": "1",
+            "w": "0"
+        },
+        "16324522": {
+            "name": "'::&gt;66:16324520&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pointes de cheveux [se faire] couper'"
+        },
+        "16324518": {
+            "name": "'::&gt;66:85167&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pointes [se faire] couper'"
+        },
+        "82414": {
+            "name": "'drap'",
+            "type": "1",
+            "w": "1278"
+        },
+        "15199998": {
+            "name": "'en:table apple'",
+            "type": "1",
+            "w": "0"
+        },
+        "16311046": {
+            "name": "'::&gt;66:2392276&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'rosbeef [se faire] couper'"
+        },
+        "392744": {
+            "name": "'voies ferr\u00e9es'",
+            "type": "777",
+            "w": "52"
+        },
+        "16165529": {
+            "name": "'::&gt;66:120728&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'planche [se faire] couper'"
+        },
+        "12054110": {
+            "name": "'noix de saint-jacques'",
+            "type": "1",
+            "w": "0"
+        },
+        "339285": {
+            "name": "'blanc de volaille'",
+            "type": "1",
+            "w": "44"
+        },
+        "15202175": {
+            "name": "'en:Blue cheese from Auvergne'",
+            "type": "1",
+            "w": "0"
+        },
+        "15284481": {
+            "name": "'en:blue cheese from Auvergne'",
+            "type": "1",
+            "w": "0"
+        },
+        "9076467": {
+            "name": "'manchon de poulet'",
+            "type": "1",
+            "w": "0"
+        },
+        "14964890": {
+            "name": "'en:cherry tomato'",
+            "type": "1",
+            "w": "0"
+        },
+        "15214403": {
+            "name": "'en:fresh mushroom'",
+            "type": "1",
+            "w": "0"
+        },
+        "6800256": {
+            "name": "'en:ear'",
+            "type": "1",
+            "w": "0"
+        },
+        "15237258": {
+            "name": "'en:botanical species'",
+            "type": "1",
+            "w": "0"
+        },
+        "21256": {
+            "name": "'verre \u00e0 pied'",
+            "type": "1",
+            "w": "118"
+        },
+        "15232596": {
+            "name": "'en:rasher of bacon'",
+            "type": "1",
+            "w": "0"
+        },
+        "1858814": {
+            "name": "'thorax en br\u00e9chet'",
+            "type": "777",
+            "w": "0"
+        },
+        "152886": {
+            "name": "'verre \u00e0 vin'",
+            "type": "1",
+            "w": "70"
+        },
+        "15421342": {
+            "name": "'en:sheep's milk cheese'",
+            "type": "1",
+            "w": "0"
+        },
+        "15220322": {
+            "name": "'en:sheep's cheese'",
+            "type": "1",
+            "w": "0"
+        },
+        "15220318": {
+            "name": "'en:ewe's milk cheese'",
+            "type": "1",
+            "w": "0"
+        },
+        "15196744": {
+            "name": "'en:ewe cheese'",
+            "type": "1",
+            "w": "0"
+        },
+        "15195162": {
+            "name": "'en:farmhouse bread'",
+            "type": "1",
+            "w": "0"
+        },
+        "14922631": {
+            "name": "'en:baguette'",
+            "type": "1",
+            "w": "0"
+        },
+        "15114210": {
+            "name": "'en:chicken wing'",
+            "type": "1",
+            "w": "0"
+        },
+        "2339404": {
+            "name": "'tranche de bacon'",
+            "type": "1",
+            "w": "0"
+        },
+        "15207610": {
+            "name": "'en:duck breast'",
+            "type": "1",
+            "w": "0"
+        },
+        "15250120": {
+            "name": "'en:carinate breast'",
+            "type": "1",
+            "w": "0"
+        },
+        "15200403": {
+            "name": "'en:stemmed glass'",
+            "type": "1",
+            "w": "0"
+        },
+        "15220317": {
+            "name": "'caill\u00e9 de brebis'",
+            "type": "1",
+            "w": "0"
+        },
+        "15789594": {
+            "name": "'::&gt;66:155220&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'fil de fer [se faire] couper'"
+        },
+        "14922634": {
+            "name": "'en:French stick'",
+            "type": "1",
+            "w": "0"
+        },
+        "14936366": {
+            "name": "'en:escalope'",
+            "type": "1",
+            "w": "0"
+        },
+        "15047673": {
+            "name": "'en:chicken breast'",
+            "type": "1",
+            "w": "0"
+        },
+        "14930475": {
+            "name": "'en:cutlet'",
+            "type": "1",
+            "w": "0"
+        },
+        "14935866": {
+            "name": "'en:rib steak'",
+            "type": "1",
+            "w": "0"
+        },
+        "15340415": {
+            "name": "'en:core samples'",
+            "type": "1",
+            "w": "0"
+        },
+        "15340416": {
+            "name": "'en:carrots'",
+            "type": "1",
+            "w": "0"
+        },
+        "15346113": {
+            "name": "'en:air inlet'",
+            "type": "1",
+            "w": "0"
+        },
+        "15203200": {
+            "name": "'en:lemon pie'",
+            "type": "1",
+            "w": "10"
+        },
+        "15686370": {
+            "name": "'::&gt;66:191721&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'filet mignon [se faire] couper'"
+        },
+        "14927522": {
+            "name": "'en:chestnut'",
+            "type": "1",
+            "w": "0"
+        },
+        "15132966": {
+            "name": "'en:apple pie'",
+            "type": "1",
+            "w": "0"
+        },
+        "8055005": {
+            "name": "'en:lamb'",
+            "type": "1",
+            "w": "0"
+        },
+        "15360536": {
+            "name": "'en:balloon glass'",
+            "type": "1",
+            "w": "0"
+        },
+        "15290043": {
+            "name": "'en:white sausage'",
+            "type": "1",
+            "w": "0"
+        },
+        "14930454": {
+            "name": "'en:pod'",
+            "type": "1",
+            "w": "0"
+        },
+        "15118584": {
+            "name": "'en:filet mignon'",
+            "type": "1",
+            "w": "0"
+        },
+        "15237240": {
+            "name": "'en:vanilla pod'",
+            "type": "1",
+            "w": "0"
+        },
+        "15218069": {
+            "name": "'en:clove of garlic'",
+            "type": "1",
+            "w": "0"
+        },
+        "14935513": {
+            "name": "'en:ail'",
+            "type": "1",
+            "w": "0"
+        },
+        "14941580": {
+            "name": "'en:hashish'",
+            "type": "1",
+            "w": "0"
+        },
+        "16060138": {
+            "name": "'::&gt;66:41239&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'rondin [se faire] couper'"
+        },
+        "15260326": {
+            "name": "'en:schitzel'",
+            "type": "1",
+            "w": "0"
+        },
+        "15082358": {
+            "name": "'en:wineglass'",
+            "type": "1",
+            "w": "0"
+        },
+        "15410628": {
+            "name": "'en:keeled chest'",
+            "type": "1",
+            "w": "0"
+        },
+        "252527": {
+            "name": "'fils&gt;128782'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'fils&gt;fil'"
+        },
+        "14722653": {
+            "name": "'drap&gt;140902'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'drap&gt;\u00e9toffe'"
+        },
+        "162090": {
+            "name": "'sapin de no\u00ebl'",
+            "type": "1",
+            "w": "58"
+        },
+        "142537": {
+            "name": "'cercle'",
+            "type": "1",
+            "w": "3113"
+        },
+        "14572844": {
+            "name": "'::&gt;66:94975&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'portable [se faire] couper'"
+        },
+        "14561167": {
+            "name": "'::&gt;66:28560&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'courge [se faire] couper'"
+        },
+        "1731868": {
+            "name": "'tomate roma'",
+            "type": "1",
+            "w": "0"
+        },
+        "14540352": {
+            "name": "'::&gt;66:55572&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'steak [se faire] couper'"
+        },
+        "14540365": {
+            "name": "'::&gt;66:160927&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'morceau de viande [se faire] couper'"
+        },
+        "14485851": {
+            "name": "'viande de boeuf grill\u00e9e'",
+            "type": "1",
+            "w": "0"
+        },
+        "14501094": {
+            "name": "'::&gt;66:20621&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'aliments [se faire] couper'"
+        },
+        "14470085": {
+            "name": "'::&gt;66:81934&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'main [se faire] couper'"
+        },
+        "14470093": {
+            "name": "'::&gt;66:141795&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'membre [se faire] couper'"
+        },
+        "14473346": {
+            "name": "'::&gt;66:8595&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'corde [se faire] couper'"
+        },
+        "14450954": {
+            "name": "'::&gt;66:2845232&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'morceaux de viande [se faire] couper'"
+        },
+        "14435491": {
+            "name": "'::&gt;66:19636&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'r\u00f4ti [se faire] couper'"
+        },
+        "14400447": {
+            "name": "'::&gt;66:141687&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'fromage [se faire] couper'"
+        },
+        "141917": {
+            "name": "'tome'",
+            "type": "1",
+            "w": "2509"
+        },
+        "14389065": {
+            "name": "'::&gt;66:61283&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pain [se faire] couper'"
+        },
+        "14350861": {
+            "name": "'::&gt;66:144846&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'t\u00eate [se faire] couper'"
+        },
+        "14356609": {
+            "name": "'::&gt;66:332372&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'r\u00e9acteurs [se faire] couper'"
+        },
+        "14364058": {
+            "name": "'::&gt;66:96256&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'bois [se faire] couper'"
+        },
+        "14334039": {
+            "name": "'::&gt;66:51126&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'cheveux [se faire] couper'"
+        },
+        "14326160": {
+            "name": "'::&gt;66:52255&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'arbre [se faire] couper'"
+        },
+        "14324558": {
+            "name": "'::&gt;66:140100&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'viande [se faire] couper'"
+        },
+        "14321733": {
+            "name": "'tome&gt;141687'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'tome&gt;fromage'"
+        },
+        "234390": {
+            "name": "'corne&gt;117095'",
+            "type": "1",
+            "w": "44",
+            "formated name": "'corne&gt;zoologie'"
+        },
+        "245011": {
+            "name": "'::&gt;66:37201&gt;17:166117'",
+            "type": "8",
+            "w": "50",
+            "formated name": "'pomme [carac] tal\u00e9e'"
+        },
+        "1780870": {
+            "name": "'finger'",
+            "type": "1",
+            "w": "0"
+        },
+        "2324883": {
+            "name": "'onions'",
+            "type": "1",
+            "w": "0"
+        },
+        "6803337": {
+            "name": "'en:finger'",
+            "type": "1",
+            "w": "0"
+        },
+        "11287397": {
+            "name": "'morceaux de b\u00e9ton'",
+            "type": "1",
+            "w": "0"
+        },
+        "218940": {
+            "name": "'poisson&gt;17559'",
+            "type": "1",
+            "w": "590",
+            "formated name": "'poisson&gt;animal'"
+        },
+        "218941": {
+            "name": "'poisson&gt;20965'",
+            "type": "1",
+            "w": "336",
+            "formated name": "'poisson&gt;nourriture'"
+        },
+        "107499": {
+            "name": "'bavette'",
+            "type": "1",
+            "w": "102"
+        },
+        "6824": {
+            "name": "'plant'",
+            "type": "1",
+            "w": "194"
+        },
+        "17501109": {
+            "name": "'::&gt;66:125506&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'\u00e9lectricit\u00e9 [se faire] couper'"
+        },
+        "7053108": {
+            "name": "'en:plant'",
+            "type": "1",
+            "w": "4"
+        },
+        "8125649": {
+            "name": "'en:pizza'",
+            "type": "1",
+            "w": "0"
+        },
+        "8126379": {
+            "name": "'en:muffin'",
+            "type": "1",
+            "w": "0"
+        },
+        "405965": {
+            "name": "'hair'",
+            "type": "1",
+            "w": "54"
+        },
+        "6912949": {
+            "name": "'en:hair'",
+            "type": "1",
+            "w": "0"
+        },
+        "148102": {
+            "name": "'extr\u00e9mit\u00e9s'",
+            "type": "1",
+            "w": "1651"
+        },
+        "9083861": {
+            "name": "'en:onions'",
+            "type": "1",
+            "w": "0"
+        },
+        "7030648": {
+            "name": "'en:beef'",
+            "type": "1",
+            "w": "0"
+        },
+        "15340501": {
+            "name": "'en:tomme cheese'",
+            "type": "1",
+            "w": "0"
+        },
+        "15349123": {
+            "name": "'en:wine glass'",
+            "type": "1",
+            "w": "0"
+        },
+        "2469301": {
+            "name": "'hashish'",
+            "type": "1",
+            "w": "2"
+        },
+        "2558207": {
+            "name": "'hachish'",
+            "type": "1",
+            "w": "0"
+        },
+        "25192": {
+            "name": "'hachisch'",
+            "type": "1",
+            "w": "50"
+        },
+        "97864": {
+            "name": "'haschisch'",
+            "type": "1",
+            "w": "78"
+        },
+        "2549497": {
+            "name": "'hachich'",
+            "type": "1",
+            "w": "0"
+        },
+        "25337": {
+            "name": "'tartine'",
+            "type": "1",
+            "w": "676"
+        },
+        "103389": {
+            "name": "'papier'",
+            "type": "1",
+            "w": "3174"
+        },
+        "112980": {
+            "name": "'m\u00e9l\u00e8ze'",
+            "type": "1",
+            "w": "56"
+        },
+        "150302": {
+            "name": "'rosac\u00e9e'",
+            "type": "1",
+            "w": "76"
+        },
+        "104789": {
+            "name": "'avocat'",
+            "type": "1",
+            "w": "2551"
+        },
+        "5531": {
+            "name": "'patate'",
+            "type": "1",
+            "w": "480"
+        },
+        "26732": {
+            "name": "'asperge'",
+            "type": "1",
+            "w": "96"
+        },
+        "146273": {
+            "name": "'caille'",
+            "type": "1",
+            "w": "246"
+        },
+        "168216": {
+            "name": "'b\u009cuf'",
+            "type": "1",
+            "w": "1065"
+        },
+        "219719": {
+            "name": "'oignon&gt;153580'",
+            "type": "1",
+            "w": "110",
+            "formated name": "'oignon&gt;plante potag\u00e8re'"
+        },
+        "279506": {
+            "name": "'C\u00f4te \u00e0 l'os'",
+            "type": "777",
+            "w": "50"
+        },
+        "237789": {
+            "name": "'T-bone steack'",
+            "type": "1",
+            "w": "2"
+        },
+        "161439": {
+            "name": "'verre ballon'",
+            "type": "1",
+            "w": "110"
+        },
+        "25484": {
+            "name": "'champignon'",
+            "type": "1",
+            "w": "1296"
+        },
+        "3186373": {
+            "name": "'Noire de Crim\u00e9e'",
+            "type": "777",
+            "w": "0"
+        },
+        "3180374": {
+            "name": "'Triple cr\u00e8me'",
+            "type": "777",
+            "w": "0"
+        },
+        "17464184": {
+            "name": "'::&gt;66:2708239&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'alimentation \u00e9lectrique [se faire] couper'"
+        },
+        "224623": {
+            "name": "'pomme dauphine'",
+            "type": "1",
+            "w": "14"
+        },
+        "214177": {
+            "name": "'pomme Dauphine'",
+            "type": "1",
+            "w": "50"
+        },
+        "417614": {
+            "name": "'mozza'",
+            "type": "1",
+            "w": "52"
+        },
+        "336466": {
+            "name": "'arriv\u00e9e d'air'",
+            "type": "1",
+            "w": "50"
+        },
+        "35798": {
+            "name": "'vin'",
+            "type": "1",
+            "w": "4620"
+        },
+        "1971744": {
+            "name": "'champignons de Paris'",
+            "type": "1",
+            "w": "0"
+        },
+        "195334": {
+            "name": "'carottes'",
+            "type": "1",
+            "w": "212"
+        },
+        "104000": {
+            "name": "'lotte'",
+            "type": "1",
+            "w": "96"
+        },
+        "1974102": {
+            "name": "'b\u00e2tonnets de surimi'",
+            "type": "1",
+            "w": "0"
+        },
+        "98184": {
+            "name": "'endive'",
+            "type": "1",
+            "w": "110"
+        },
+        "11017": {
+            "name": "'panais'",
+            "type": "1",
+            "w": "68"
+        },
+        "38340": {
+            "name": "'roquefort'",
+            "type": "1",
+            "w": "164"
+        },
+        "220974": {
+            "name": "'haricots verts'",
+            "type": "1",
+            "w": "68"
+        },
+        "75263": {
+            "name": "'muffin'",
+            "type": "1",
+            "w": "60"
+        },
+        "8485": {
+            "name": "'champignons'",
+            "type": "1",
+            "w": "2263"
+        },
+        "437029": {
+            "name": "'figues s\u00e9ch\u00e9es'",
+            "type": "1",
+            "w": "52"
+        },
+        "127874": {
+            "name": "'couenne'",
+            "type": "1",
+            "w": "94"
+        },
+        "420592": {
+            "name": "'cornichons'",
+            "type": "1",
+            "w": "54"
+        },
+        "190899": {
+            "name": "'bleu d'Auvergne'",
+            "type": "1",
+            "w": "60"
+        },
+        "1971256": {
+            "name": "'escalopes de poulet'",
+            "type": "1",
+            "w": "0"
+        },
+        "195151": {
+            "name": "'citrons'",
+            "type": "1",
+            "w": "52"
+        },
+        "1968665": {
+            "name": "'tranches de pain'",
+            "type": "1",
+            "w": "0"
+        },
+        "400394": {
+            "name": "'viandes'",
+            "type": "1",
+            "w": "122"
+        },
+        "37201": {
+            "name": "'pomme'",
+            "type": "1",
+            "w": "2551"
+        },
+        "163027": {
+            "name": "'pain de campagne'",
+            "type": "1",
+            "w": "104"
+        },
+        "2149": {
+            "name": "'g\u00e2teau'",
+            "type": "1",
+            "w": "3674"
+        },
+        "575": {
+            "name": "'tarte'",
+            "type": "1",
+            "w": "1126"
+        },
+        "57980": {
+            "name": "'jambon'",
+            "type": "1",
+            "w": "1024"
+        },
+        "117533": {
+            "name": "'fleurs'",
+            "type": "1",
+            "w": "3402"
+        },
+        "152432": {
+            "name": "'steack'",
+            "type": "1",
+            "w": "156"
+        },
+        "221412": {
+            "name": "'branche&gt;52255'",
+            "type": "1",
+            "w": "26",
+            "formated name": "'branche&gt;arbre'"
+        },
+        "165580": {
+            "name": "'potimarron'",
+            "type": "1",
+            "w": "64"
+        },
+        "26979": {
+            "name": "'ail'",
+            "type": "1",
+            "w": "774"
+        },
+        "286459": {
+            "name": "'pav\u00e9 de saumon'",
+            "type": "1",
+            "w": "52"
+        },
+        "147183": {
+            "name": "'pommes'",
+            "type": "1",
+            "w": "2136"
+        },
+        "399614": {
+            "name": "'artichauts'",
+            "type": "1",
+            "w": "54"
+        },
+        "95708": {
+            "name": "'oignons'",
+            "type": "1",
+            "w": "252"
+        },
+        "187568": {
+            "name": "'gousse d'ail'",
+            "type": "1",
+            "w": "26"
+        },
+        "217700": {
+            "name": "'cou d'oie farci'",
+            "type": "1",
+            "w": "50"
+        },
+        "1754475": {
+            "name": "'tomate Roma'",
+            "type": "1",
+            "w": "0"
+        },
+        "1754476": {
+            "name": "'tomate coeur-de-boeuf'",
+            "type": "1",
+            "w": "0"
+        },
+        "1731943": {
+            "name": "'tomate coeur de boeuf'",
+            "type": "1",
+            "w": "0"
+        },
+        "383986": {
+            "name": "'tomate verte'",
+            "type": "1",
+            "w": "50"
+        },
+        "1731870": {
+            "name": "'tomate ananas'",
+            "type": "1",
+            "w": "0"
+        },
+        "237068": {
+            "name": "'coeur de boeuf'",
+            "type": "1",
+            "w": "52"
+        },
+        "1731944": {
+            "name": "'noire de Crim\u00e9e'",
+            "type": "1",
+            "w": "0"
+        },
+        "101934": {
+            "name": "'past\u00e8que'",
+            "type": "1",
+            "w": "82"
+        },
+        "216022": {
+            "name": "'pied&gt;3674'",
+            "type": "1",
+            "w": "16",
+            "formated name": "'pied&gt;botanique'"
+        },
+        "1372780": {
+            "name": "'oignon&gt;153580&gt;16033'",
+            "type": "1",
+            "w": "10",
+            "formated name": "'oignon&gt;plante potag\u00e8re&gt;cuisine'"
+        },
+        "156302": {
+            "name": "'sapin de No\u00ebl'",
+            "type": "1",
+            "w": "166"
+        },
+        "215004": {
+            "name": "'pomme&gt;87286'",
+            "type": "1",
+            "w": "344",
+            "formated name": "'pomme&gt;fruit'"
+        },
+        "205852": {
+            "name": "'pomme \u00e0 couteau'",
+            "type": "1",
+            "w": "50"
+        },
+        "145941": {
+            "name": "'plante'",
+            "type": "1",
+            "w": "5551"
+        },
+        "165965": {
+            "name": "'poil pubien'",
+            "type": "1",
+            "w": "92"
+        },
+        "151599": {
+            "name": "'tarte au citron'",
+            "type": "1",
+            "w": "136"
+        },
+        "38257": {
+            "name": "'poivron'",
+            "type": "1",
+            "w": "256"
+        },
+        "144697": {
+            "name": "'comt\u00e9'",
+            "type": "1",
+            "w": "3760"
+        },
+        "244270": {
+            "name": "'poil de barbe'",
+            "type": "1",
+            "w": "4"
+        },
+        "214995": {
+            "name": "'main&gt;157827'",
+            "type": "1",
+            "w": "448",
+            "formated name": "'main&gt;partie du corps'"
+        },
+        "151759": {
+            "name": "'tarte aux pommes'",
+            "type": "1",
+            "w": "132"
+        },
+        "1277": {
+            "name": "'coing'",
+            "type": "1",
+            "w": "68"
+        },
+        "76046": {
+            "name": "'oreilles'",
+            "type": "1",
+            "w": "1663"
+        },
+        "15386": {
+            "name": "'citron'",
+            "type": "1",
+            "w": "1102"
+        },
+        "218065": {
+            "name": "'papier&gt;155546'",
+            "type": "1",
+            "w": "82",
+            "formated name": "'papier&gt;feuille de papier'"
+        },
+        "241788": {
+            "name": "'triple cr\u00e8me'",
+            "type": "1",
+            "w": "50"
+        },
+        "227845": {
+            "name": "'asperge&gt;153580'",
+            "type": "1",
+            "w": "4",
+            "formated name": "'asperge&gt;plante potag\u00e8re'"
+        },
+        "247071": {
+            "name": "'tartine&gt;228308'",
+            "type": "1",
+            "w": "112",
+            "formated name": "'tartine&gt;tranche de pain'"
+        },
+        "257883": {
+            "name": "'aile de poulet'",
+            "type": "1",
+            "w": "52"
+        },
+        "228897": {
+            "name": "'viande bovine'",
+            "type": "1",
+            "w": "160"
+        },
+        "250883": {
+            "name": "'drap de laine'",
+            "type": "1",
+            "w": "8"
+        },
+        "251158": {
+            "name": "'tranche de viande'",
+            "type": "1",
+            "w": "16"
+        },
+        "144497": {
+            "name": "'verre'",
+            "type": "1",
+            "w": "3892"
+        },
+        "213540": {
+            "name": "'p\u00eache&gt;87286'",
+            "type": "1",
+            "w": "82",
+            "formated name": "'p\u00eache&gt;fruit'"
+        },
+        "153902": {
+            "name": "'viande de boeuf'",
+            "type": "1",
+            "w": "380"
+        },
+        "262000": {
+            "name": "'caille&gt;140100'",
+            "type": "1",
+            "w": "60",
+            "formated name": "'caille&gt;viande'"
+        },
+        "230329": {
+            "name": "'panettone'",
+            "type": "1",
+            "w": "8"
+        },
+        "261134": {
+            "name": "'organe&gt;112609&gt;34503'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'organe&gt;anatomie&gt;p\u00e9nis'"
+        },
+        "251177": {
+            "name": "'viande d'agneau'",
+            "type": "1",
+            "w": "16"
+        },
+        "263044": {
+            "name": "'plaquette de chocolat'",
+            "type": "1",
+            "w": "2"
+        },
+        "251363": {
+            "name": "'morphine-base'",
+            "type": "1",
+            "w": "50"
+        },
+        "251436": {
+            "name": "'viande dure'",
+            "type": "1",
+            "w": "50"
+        },
+        "265071": {
+            "name": "'rosac\u00e9e&gt;145941'",
+            "type": "1",
+            "w": "2",
+            "formated name": "'rosac\u00e9e&gt;plante'"
+        },
+        "109533": {
+            "name": "'pizza'",
+            "type": "1",
+            "w": "602"
+        },
+        "252388": {
+            "name": "'clim r\u00e9versible'",
+            "type": "1",
+            "w": "68"
+        },
+        "220528": {
+            "name": "'patate&gt;132757'",
+            "type": "1",
+            "w": "62",
+            "formated name": "'patate&gt;pomme de terre'"
+        },
+        "170651": {
+            "name": "'peuplier noir'",
+            "type": "1",
+            "w": "2"
+        },
+        "151749": {
+            "name": "'plante verte'",
+            "type": "1",
+            "w": "128"
+        },
+        "215937": {
+            "name": "'plante&gt;3674'",
+            "type": "1",
+            "w": "812",
+            "formated name": "'plante&gt;botanique'"
+        },
+        "249571": {
+            "name": "'esp\u00e8ce v\u00e9g\u00e9tale'",
+            "type": "1",
+            "w": "46"
+        },
+        "109785": {
+            "name": "'peau'",
+            "type": "1",
+            "w": "3979"
+        },
+        "115155": {
+            "name": "'foie'",
+            "type": "1",
+            "w": "1393"
+        },
+        "228987": {
+            "name": "'l\u00e9gume&gt;113902'",
+            "type": "1",
+            "w": "176",
+            "formated name": "'l\u00e9gume&gt;alimentation'"
+        },
+        "215037": {
+            "name": "'boeuf&gt;140100'",
+            "type": "1",
+            "w": "454",
+            "formated name": "'boeuf&gt;viande'"
+        },
+        "314136": {
+            "name": "'b\u009cuf&gt;140100'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'b\u009cuf&gt;viande'"
+        },
+        "264651": {
+            "name": "'m\u00e9l\u00e8ze&gt;52255'",
+            "type": "1",
+            "w": "50",
+            "formated name": "'m\u00e9l\u00e8ze&gt;arbre'"
+        },
+        "128482": {
+            "name": "'baguette'",
+            "type": "1",
+            "w": "1932"
+        },
+        "152380": {
+            "name": "'cartes'",
+            "type": "1",
+            "w": "3212"
+        },
+        "48881": {
+            "name": "'couilles'",
+            "type": "1",
+            "w": "200"
+        },
+        "233140": {
+            "name": "'t\u00eate&gt;145953'",
+            "type": "1",
+            "w": "32",
+            "formated name": "'t\u00eate&gt;visage'"
+        },
+        "228350": {
+            "name": "'parole&gt;141880'",
+            "type": "1",
+            "w": "76",
+            "formated name": "'parole&gt;propos'"
+        },
+        "218741": {
+            "name": "'pointe&gt;123981'",
+            "type": "1",
+            "w": "26",
+            "formated name": "'pointe&gt;extr\u00e9mit\u00e9'"
+        },
+        "151922": {
+            "name": "'ongles'",
+            "type": "1",
+            "w": "402"
+        },
+        "145252": {
+            "name": "'souffle'",
+            "type": "1",
+            "w": "1857"
+        },
+        "121678": {
+            "name": "'route'",
+            "type": "1",
+            "w": "4574"
+        },
+        "227776": {
+            "name": "'souffle&gt;132952'",
+            "type": "1",
+            "w": "10",
+            "formated name": "'souffle&gt;respiration'"
+        },
+        "233346": {
+            "name": "'route&gt;215052'",
+            "type": "1",
+            "w": "206",
+            "formated name": "'route&gt;voie de circulation'"
+        },
+        "17543058": {
+            "name": "'::&gt;66:34624&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'ch\u00eane [se faire] couper'"
+        },
+        "17563001": {
+            "name": "'::&gt;66:159167&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'ronces [se faire] couper'"
+        },
+        "17563628": {
+            "name": "'::&gt;66:2353714&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'tranches de jambon [se faire] couper'"
+        },
+        "17563631": {
+            "name": "'::&gt;66:3751952&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'tranches de jambon blanc [se faire] couper'"
+        },
+        "17563634": {
+            "name": "'::&gt;66:3757833&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'tranches de jambon cru [se faire] couper'"
+        },
+        "17577710": {
+            "name": "'::&gt;66:217168&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'lardons [se faire] couper'"
+        },
+        "17579587": {
+            "name": "'::&gt;66:63936&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'tissu [se faire] couper'"
+        },
+        "17579590": {
+            "name": "'::&gt;66:155699&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'tissus [se faire] couper'"
+        },
+        "17586513": {
+            "name": "'::&gt;66:120353&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'branches [se faire] couper'"
+        },
+        "17588630": {
+            "name": "'::&gt;66:103702&gt;26:128828'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'palette [se faire] couper'"
+        },
+        "37993": {
+            "name": "'feuille'",
+            "type": "1",
+            "w": "2743"
+        },
+        "65364": {
+            "name": "'morceau'",
+            "type": "1",
+            "w": "2342"
+        },
+        "143123": {
+            "name": "'tranche'",
+            "type": "1",
+            "w": "618"
+        },
+        "50104": {
+            "name": "'ciseaux'",
+            "type": "1",
+            "w": "542"
+        },
+        "97845": {
+            "name": "'gazon'",
+            "type": "1",
+            "w": "572"
+        }
+    },
+    "r": {
+        "31878381": {
+            "node1": "128828",
+            "node2": "217168",
+            "type": "14",
+            "w": "100"
+        },
+        "103475515": {
+            "node1": "128828",
+            "node2": "132347",
+            "type": "14",
+            "w": "90"
+        },
+        "447584181": {
+            "node1": "128828",
+            "node2": "41894",
+            "type": "14",
+            "w": "78"
+        },
+        "442182632": {
+            "node1": "128828",
+            "node2": "164797",
+            "type": "14",
+            "w": "77"
+        },
+        "15084106": {
+            "node1": "128828",
+            "node2": "140100",
+            "type": "14",
+            "w": "77"
+        },
+        "2156382": {
+            "node1": "128828",
+            "node2": "124771",
+            "type": "14",
+            "w": "75"
+        },
+        "438946371": {
+            "node1": "128828",
+            "node2": "213823",
+            "type": "14",
+            "w": "74"
+        },
+        "437926528": {
+            "node1": "128828",
+            "node2": "56280",
+            "type": "14",
+            "w": "74"
+        },
+        "437924683": {
+            "node1": "128828",
+            "node2": "16589544",
+            "type": "14",
+            "w": "74"
+        },
+        "31770882": {
+            "node1": "128828",
+            "node2": "61283",
+            "type": "14",
+            "w": "71"
+        },
+        "31770866": {
+            "node1": "128828",
+            "node2": "123307",
+            "type": "14",
+            "w": "71"
+        },
+        "15079599": {
+            "node1": "128828",
+            "node2": "120603",
+            "type": "14",
+            "w": "71"
+        },
+        "2156379": {
+            "node1": "128828",
+            "node2": "51126",
+            "type": "14",
+            "w": "71"
+        },
+        "410429901": {
+            "node1": "128828",
+            "node2": "155220",
+            "type": "14",
+            "w": "68"
+        },
+        "344379929": {
+            "node1": "128828",
+            "node2": "19636",
+            "type": "14",
+            "w": "68"
+        },
+        "434575816": {
+            "node1": "128828",
+            "node2": "142086",
+            "type": "14",
+            "w": "67"
+        },
+        "2156380": {
+            "node1": "128828",
+            "node2": "52255",
+            "type": "14",
+            "w": "66"
+        },
+        "32053521": {
+            "node1": "128828",
+            "node2": "158591",
+            "type": "14",
+            "w": "65"
+        },
+        "31836588": {
+            "node1": "128828",
+            "node2": "191721",
+            "type": "14",
+            "w": "65"
+        },
+        "430245346": {
+            "node1": "128828",
+            "node2": "16324520",
+            "type": "14",
+            "w": "64"
+        },
+        "369967546": {
+            "node1": "128828",
+            "node2": "28560",
+            "type": "14",
+            "w": "64"
+        },
+        "2107437": {
+            "node1": "128828",
+            "node2": "85167",
+            "type": "14",
+            "w": "64"
+        },
+        "428402791": {
+            "node1": "128828",
+            "node2": "2392276",
+            "type": "14",
+            "w": "63"
+        },
+        "423714053": {
+            "node1": "128828",
+            "node2": "120728",
+            "type": "14",
+            "w": "63"
+        },
+        "367458708": {
+            "node1": "128828",
+            "node2": "8595",
+            "type": "14",
+            "w": "63"
+        },
+        "418385737": {
+            "node1": "128828",
+            "node2": "41239",
+            "type": "14",
+            "w": "62"
+        },
+        "370352480": {
+            "node1": "128828",
+            "node2": "94975",
+            "type": "14",
+            "w": "62"
+        },
+        "368315364": {
+            "node1": "128828",
+            "node2": "20621",
+            "type": "14",
+            "w": "62"
+        },
+        "365853940": {
+            "node1": "128828",
+            "node2": "141687",
+            "type": "14",
+            "w": "62"
+        },
+        "365001141": {
+            "node1": "128828",
+            "node2": "96256",
+            "type": "14",
+            "w": "62"
+        },
+        "76313962": {
+            "node1": "128828",
+            "node2": "81934",
+            "type": "14",
+            "w": "62"
+        },
+        "369574905": {
+            "node1": "128828",
+            "node2": "160927",
+            "type": "14",
+            "w": "61"
+        },
+        "367251692": {
+            "node1": "128828",
+            "node2": "141795",
+            "type": "14",
+            "w": "61"
+        },
+        "366720850": {
+            "node1": "128828",
+            "node2": "2845232",
+            "type": "14",
+            "w": "61"
+        },
+        "364927969": {
+            "node1": "128828",
+            "node2": "332372",
+            "type": "14",
+            "w": "61"
+        },
+        "352233782": {
+            "node1": "128828",
+            "node2": "10788263",
+            "type": "14",
+            "w": "61"
+        },
+        "96931075": {
+            "node1": "128828",
+            "node2": "88759",
+            "type": "14",
+            "w": "61"
+        },
+        "96424812": {
+            "node1": "128828",
+            "node2": "55572",
+            "type": "14",
+            "w": "61"
+        },
+        "32053131": {
+            "node1": "128828",
+            "node2": "436831",
+            "type": "14",
+            "w": "61"
+        },
+        "15086092": {
+            "node1": "128828",
+            "node2": "140377",
+            "type": "14",
+            "w": "61"
+        },
+        "2107473": {
+            "node1": "128828",
+            "node2": "144846",
+            "type": "14",
+            "w": "61"
+        },
+        "32053174": {
+            "node1": "128828",
+            "node2": "408218",
+            "type": "14",
+            "w": "60"
+        },
+        "32053099": {
+            "node1": "128828",
+            "node2": "267817",
+            "type": "14",
+            "w": "60"
+        },
+        "32053164": {
+            "node1": "128828",
+            "node2": "436804",
+            "type": "14",
+            "w": "59"
+        },
+        "32053079": {
+            "node1": "128828",
+            "node2": "7769",
+            "type": "14",
+            "w": "59"
+        },
+        "32053032": {
+            "node1": "128828",
+            "node2": "320632",
+            "type": "14",
+            "w": "59"
+        },
+        "31823943": {
+            "node1": "128828",
+            "node2": "146261",
+            "type": "14",
+            "w": "59"
+        },
+        "32053185": {
+            "node1": "128828",
+            "node2": "1975008",
+            "type": "14",
+            "w": "57"
+        },
+        "32053065": {
+            "node1": "128828",
+            "node2": "115827",
+            "type": "14",
+            "w": "57"
+        },
+        "1371112": {
+            "node1": "128828",
+            "node2": "62706",
+            "type": "14",
+            "w": "57"
+        },
+        "32053184": {
+            "node1": "128828",
+            "node2": "1972576",
+            "type": "14",
+            "w": "56"
+        },
+        "32053114": {
+            "node1": "128828",
+            "node2": "437496",
+            "type": "14",
+            "w": "56"
+        },
+        "32053074": {
+            "node1": "128828",
+            "node2": "165569",
+            "type": "14",
+            "w": "56"
+        },
+        "32053064": {
+            "node1": "128828",
+            "node2": "14731",
+            "type": "14",
+            "w": "56"
+        },
+        "32053050": {
+            "node1": "128828",
+            "node2": "130303",
+            "type": "14",
+            "w": "56"
+        },
+        "32053043": {
+            "node1": "128828",
+            "node2": "94536",
+            "type": "14",
+            "w": "56"
+        },
+        "32053038": {
+            "node1": "128828",
+            "node2": "401316",
+            "type": "14",
+            "w": "56"
+        },
+        "31821899": {
+            "node1": "128828",
+            "node2": "168368",
+            "type": "14",
+            "w": "56"
+        },
+        "32053179": {
+            "node1": "128828",
+            "node2": "151940",
+            "type": "14",
+            "w": "55"
+        },
+        "32053169": {
+            "node1": "128828",
+            "node2": "102505",
+            "type": "14",
+            "w": "55"
+        },
+        "32053104": {
+            "node1": "128828",
+            "node2": "223459",
+            "type": "14",
+            "w": "55"
+        },
+        "32053045": {
+            "node1": "128828",
+            "node2": "141883",
+            "type": "14",
+            "w": "55"
+        },
+        "32053037": {
+            "node1": "128828",
+            "node2": "87937",
+            "type": "14",
+            "w": "55"
+        },
+        "32053584": {
+            "node1": "128828",
+            "node2": "3473",
+            "type": "14",
+            "w": "54"
+        },
+        "32053067": {
+            "node1": "128828",
+            "node2": "46889",
+            "type": "14",
+            "w": "54"
+        },
+        "31821895": {
+            "node1": "128828",
+            "node2": "120576",
+            "type": "14",
+            "w": "54"
+        },
+        "32053027": {
+            "node1": "128828",
+            "node2": "7347",
+            "type": "14",
+            "w": "53"
+        },
+        "31821900": {
+            "node1": "128828",
+            "node2": "156482",
+            "type": "14",
+            "w": "53"
+        },
+        "32053126": {
+            "node1": "128828",
+            "node2": "91026",
+            "type": "14",
+            "w": "52"
+        },
+        "32053618": {
+            "node1": "128828",
+            "node2": "59496",
+            "type": "14",
+            "w": "51"
+        },
+        "32053613": {
+            "node1": "128828",
+            "node2": "1971800",
+            "type": "14",
+            "w": "51"
+        },
+        "32053109": {
+            "node1": "128828",
+            "node2": "126363",
+            "type": "14",
+            "w": "51"
+        },
+        "72231771": {
+            "node1": "128828",
+            "node2": "157203",
+            "type": "14",
+            "w": "49"
+        },
+        "477151023": {
+            "node1": "128828",
+            "node2": "2708239",
+            "type": "14",
+            "w": "48"
+        },
+        "344380056": {
+            "node1": "128828",
+            "node2": "213432",
+            "type": "14",
+            "w": "47"
+        },
+        "330748665": {
+            "node1": "128828",
+            "node2": "213560",
+            "type": "14",
+            "w": "46"
+        },
+        "97740050": {
+            "node1": "128828",
+            "node2": "225770",
+            "type": "14",
+            "w": "43"
+        },
+        "477684380": {
+            "node1": "128828",
+            "node2": "125506",
+            "type": "14",
+            "w": "41"
+        },
+        "359833503": {
+            "node1": "128828",
+            "node2": "233049",
+            "type": "14",
+            "w": "41"
+        },
+        "284016624": {
+            "node1": "128828",
+            "node2": "218827",
+            "type": "14",
+            "w": "41"
+        },
+        "283255500": {
+            "node1": "128828",
+            "node2": "240897",
+            "type": "14",
+            "w": "41"
+        },
+        "283255498": {
+            "node1": "128828",
+            "node2": "16783",
+            "type": "14",
+            "w": "41"
+        },
+        "287208640": {
+            "node1": "128828",
+            "node2": "220521",
+            "type": "14",
+            "w": "40"
+        },
+        "275029609": {
+            "node1": "128828",
+            "node2": "106182",
+            "type": "14",
+            "w": "40"
+        },
+        "80904067": {
+            "node1": "128828",
+            "node2": "213758",
+            "type": "14",
+            "w": "40"
+        },
+        "479657540": {
+            "node1": "128828",
+            "node2": "103702",
+            "type": "14",
+            "w": "38"
+        },
+        "315652320": {
+            "node1": "128828",
+            "node2": "136076",
+            "type": "14",
+            "w": "36"
+        },
+        "288797247": {
+            "node1": "128828",
+            "node2": "11287398",
+            "type": "14",
+            "w": "36"
+        },
+        "96931079": {
+            "node1": "128828",
+            "node2": "217015",
+            "type": "14",
+            "w": "36"
+        },
+        "479657631": {
+            "node1": "128828",
+            "node2": "224034",
+            "type": "14",
+            "w": "35"
+        },
+        "478305786": {
+            "node1": "128828",
+            "node2": "34624",
+            "type": "14",
+            "w": "35"
+        },
+        "464559363": {
+            "node1": "128828",
+            "node2": "213354",
+            "type": "14",
+            "w": "35"
+        },
+        "98317211": {
+            "node1": "128828",
+            "node2": "47417",
+            "type": "14",
+            "w": "35"
+        },
+        "98317094": {
+            "node1": "128828",
+            "node2": "145624",
+            "type": "14",
+            "w": "35"
+        },
+        "96931077": {
+            "node1": "128828",
+            "node2": "55511",
+            "type": "14",
+            "w": "35"
+        },
+        "2156385": {
+            "node1": "128828",
+            "node2": "218648",
+            "type": "14",
+            "w": "35"
+        },
+        "98700600": {
+            "node1": "128828",
+            "node2": "44335",
+            "type": "14",
+            "w": "34"
+        },
+        "100116445": {
+            "node1": "128828",
+            "node2": "160334",
+            "type": "14",
+            "w": "34"
+        },
+        "478825371": {
+            "node1": "128828",
+            "node2": "155699",
+            "type": "14",
+            "w": "33"
+        },
+        "431584255": {
+            "node1": "128828",
+            "node2": "63936",
+            "type": "14",
+            "w": "32"
+        },
+        "373014686": {
+            "node1": "128828",
+            "node2": "3754560",
+            "type": "14",
+            "w": "32"
+        },
+        "367965301": {
+            "node1": "128828",
+            "node2": "70209",
+            "type": "14",
+            "w": "32"
+        },
+        "97740432": {
+            "node1": "128828",
+            "node2": "141611",
+            "type": "14",
+            "w": "32"
+        },
+        "93436614": {
+            "node1": "128828",
+            "node2": "76234",
+            "type": "14",
+            "w": "32"
+        },
+        "478605511": {
+            "node1": "128828",
+            "node2": "2353714",
+            "type": "14",
+            "w": "31"
+        },
+        "443073859": {
+            "node1": "128828",
+            "node2": "23411",
+            "type": "14",
+            "w": "31"
+        },
+        "431583684": {
+            "node1": "128828",
+            "node2": "146333",
+            "type": "14",
+            "w": "31"
+        },
+        "428330101": {
+            "node1": "128828",
+            "node2": "270851",
+            "type": "14",
+            "w": "31"
+        },
+        "411745134": {
+            "node1": "128828",
+            "node2": "154390",
+            "type": "14",
+            "w": "31"
+        },
+        "373005164": {
+            "node1": "128828",
+            "node2": "74897",
+            "type": "14",
+            "w": "31"
+        },
+        "356573639": {
+            "node1": "128828",
+            "node2": "20883",
+            "type": "14",
+            "w": "31"
+        },
+        "352233770": {
+            "node1": "128828",
+            "node2": "34296",
+            "type": "14",
+            "w": "31"
+        },
+        "330748663": {
+            "node1": "128828",
+            "node2": "31080",
+            "type": "14",
+            "w": "31"
+        },
+        "331220046": {
+            "node1": "128828",
+            "node2": "12905116",
+            "type": "14",
+            "w": "31"
+        },
+        "288797233": {
+            "node1": "128828",
+            "node2": "132961",
+            "type": "14",
+            "w": "31"
+        },
+        "281193121": {
+            "node1": "128828",
+            "node2": "159098",
+            "type": "14",
+            "w": "31"
+        },
+        "274728632": {
+            "node1": "128828",
+            "node2": "68467",
+            "type": "14",
+            "w": "31"
+        },
+        "98736347": {
+            "node1": "128828",
+            "node2": "148459",
+            "type": "14",
+            "w": "31"
+        },
+        "97863008": {
+            "node1": "128828",
+            "node2": "34898",
+            "type": "14",
+            "w": "31"
+        },
+        "96931080": {
+            "node1": "128828",
+            "node2": "2558916",
+            "type": "14",
+            "w": "31"
+        },
+        "96931076": {
+            "node1": "128828",
+            "node2": "3179891",
+            "type": "14",
+            "w": "31"
+        },
+        "61451074": {
+            "node1": "128828",
+            "node2": "303010",
+            "type": "14",
+            "w": "31"
+        },
+        "34715152": {
+            "node1": "128828",
+            "node2": "167850",
+            "type": "14",
+            "w": "31"
+        },
+        "34293021": {
+            "node1": "128828",
+            "node2": "154472",
+            "type": "14",
+            "w": "31"
+        },
+        "34138085": {
+            "node1": "128828",
+            "node2": "1969989",
+            "type": "14",
+            "w": "31"
+        },
+        "33817259": {
+            "node1": "128828",
+            "node2": "241034",
+            "type": "14",
+            "w": "31"
+        },
+        "33272726": {
+            "node1": "128828",
+            "node2": "2319561",
+            "type": "14",
+            "w": "31"
+        },
+        "33194706": {
+            "node1": "128828",
+            "node2": "3343",
+            "type": "14",
+            "w": "31"
+        },
+        "33115115": {
+            "node1": "128828",
+            "node2": "267298",
+            "type": "14",
+            "w": "31"
+        },
+        "32033614": {
+            "node1": "128828",
+            "node2": "168167",
+            "type": "14",
+            "w": "31"
+        },
+        "32025982": {
+            "node1": "128828",
+            "node2": "436989",
+            "type": "14",
+            "w": "31"
+        },
+        "32025969": {
+            "node1": "128828",
+            "node2": "144832",
+            "type": "14",
+            "w": "31"
+        },
+        "32025965": {
+            "node1": "128828",
+            "node2": "18153",
+            "type": "14",
+            "w": "31"
+        },
+        "32025956": {
+            "node1": "128828",
+            "node2": "156108",
+            "type": "14",
+            "w": "31"
+        },
+        "15085705": {
+            "node1": "128828",
+            "node2": "26062",
+            "type": "14",
+            "w": "31"
+        },
+        "15082235": {
+            "node1": "128828",
+            "node2": "28985",
+            "type": "14",
+            "w": "31"
+        },
+        "479576421": {
+            "node1": "128828",
+            "node2": "120353",
+            "type": "14",
+            "w": "30"
+        },
+        "478605601": {
+            "node1": "128828",
+            "node2": "3757833",
+            "type": "14",
+            "w": "30"
+        },
+        "478605554": {
+            "node1": "128828",
+            "node2": "3751952",
+            "type": "14",
+            "w": "30"
+        },
+        "478599070": {
+            "node1": "128828",
+            "node2": "159167",
+            "type": "14",
+            "w": "30"
+        },
+        "468287889": {
+            "node1": "128828",
+            "node2": "15320195",
+            "type": "14",
+            "w": "30"
+        },
+        "464606734": {
+            "node1": "128828",
+            "node2": "17219838",
+            "type": "14",
+            "w": "30"
+        },
+        "457362078": {
+            "node1": "128828",
+            "node2": "17109797",
+            "type": "14",
+            "w": "30"
+        },
+        "453882173": {
+            "node1": "128828",
+            "node2": "17054656",
+            "type": "14",
+            "w": "30"
+        },
+        "453882171": {
+            "node1": "128828",
+            "node2": "17054655",
+            "type": "14",
+            "w": "30"
+        },
+        "448140383": {
+            "node1": "128828",
+            "node2": "16902995",
+            "type": "14",
+            "w": "30"
+        },
+        "447981705": {
+            "node1": "128828",
+            "node2": "147055",
+            "type": "14",
+            "w": "30"
+        },
+        "447584227": {
+            "node1": "128828",
+            "node2": "233158",
+            "type": "14",
+            "w": "30"
+        },
+        "443091048": {
+            "node1": "128828",
+            "node2": "16789292",
+            "type": "14",
+            "w": "30"
+        },
+        "443073941": {
+            "node1": "128828",
+            "node2": "15331515",
+            "type": "14",
+            "w": "30"
+        },
+        "443073892": {
+            "node1": "128828",
+            "node2": "15520959",
+            "type": "14",
+            "w": "30"
+        },
+        "443073880": {
+            "node1": "128828",
+            "node2": "15762968",
+            "type": "14",
+            "w": "30"
+        },
+        "443073827": {
+            "node1": "128828",
+            "node2": "15103882",
+            "type": "14",
+            "w": "30"
+        },
+        "443073785": {
+            "node1": "128828",
+            "node2": "8061337",
+            "type": "14",
+            "w": "30"
+        },
+        "443073533": {
+            "node1": "128828",
+            "node2": "15431700",
+            "type": "14",
+            "w": "30"
+        },
+        "443073523": {
+            "node1": "128828",
+            "node2": "15431699",
+            "type": "14",
+            "w": "30"
+        },
+        "439274068": {
+            "node1": "128828",
+            "node2": "16560394",
+            "type": "14",
+            "w": "30"
+        },
+        "439274067": {
+            "node1": "128828",
+            "node2": "16560399",
+            "type": "14",
+            "w": "30"
+        },
+        "439273567": {
+            "node1": "128828",
+            "node2": "16068394",
+            "type": "14",
+            "w": "30"
+        },
+        "439273008": {
+            "node1": "128828",
+            "node2": "14938479",
+            "type": "14",
+            "w": "30"
+        },
+        "439271775": {
+            "node1": "128828",
+            "node2": "16606980",
+            "type": "14",
+            "w": "30"
+        },
+        "439271753": {
+            "node1": "128828",
+            "node2": "16607117",
+            "type": "14",
+            "w": "30"
+        },
+        "439271536": {
+            "node1": "128828",
+            "node2": "16684621",
+            "type": "14",
+            "w": "30"
+        },
+        "434584804": {
+            "node1": "128828",
+            "node2": "16530508",
+            "type": "14",
+            "w": "30"
+        },
+        "432297018": {
+            "node1": "128828",
+            "node2": "15218076",
+            "type": "14",
+            "w": "30"
+        },
+        "432296999": {
+            "node1": "128828",
+            "node2": "15058624",
+            "type": "14",
+            "w": "30"
+        },
+        "432296975": {
+            "node1": "128828",
+            "node2": "15218077",
+            "type": "14",
+            "w": "30"
+        },
+        "431584202": {
+            "node1": "128828",
+            "node2": "16324522",
+            "type": "14",
+            "w": "30"
+        },
+        "431584196": {
+            "node1": "128828",
+            "node2": "16324518",
+            "type": "14",
+            "w": "30"
+        },
+        "431583717": {
+            "node1": "128828",
+            "node2": "82414",
+            "type": "14",
+            "w": "30"
+        },
+        "431489962": {
+            "node1": "128828",
+            "node2": "15199998",
+            "type": "14",
+            "w": "30"
+        },
+        "431928447": {
+            "node1": "128828",
+            "node2": "16311046",
+            "type": "14",
+            "w": "30"
+        },
+        "428592502": {
+            "node1": "128828",
+            "node2": "392744",
+            "type": "14",
+            "w": "30"
+        },
+        "425309551": {
+            "node1": "128828",
+            "node2": "16165529",
+            "type": "14",
+            "w": "30"
+        },
+        "418933971": {
+            "node1": "128828",
+            "node2": "12054110",
+            "type": "14",
+            "w": "30"
+        },
+        "413306767": {
+            "node1": "128828",
+            "node2": "339285",
+            "type": "14",
+            "w": "30"
+        },
+        "413306756": {
+            "node1": "128828",
+            "node2": "15202175",
+            "type": "14",
+            "w": "30"
+        },
+        "413306752": {
+            "node1": "128828",
+            "node2": "15284481",
+            "type": "14",
+            "w": "30"
+        },
+        "413306721": {
+            "node1": "128828",
+            "node2": "9076467",
+            "type": "14",
+            "w": "30"
+        },
+        "413306106": {
+            "node1": "128828",
+            "node2": "14964890",
+            "type": "14",
+            "w": "30"
+        },
+        "413305045": {
+            "node1": "128828",
+            "node2": "15214403",
+            "type": "14",
+            "w": "30"
+        },
+        "412526271": {
+            "node1": "128828",
+            "node2": "6800256",
+            "type": "14",
+            "w": "30"
+        },
+        "411744923": {
+            "node1": "128828",
+            "node2": "15237258",
+            "type": "14",
+            "w": "30"
+        },
+        "411744512": {
+            "node1": "128828",
+            "node2": "21256",
+            "type": "14",
+            "w": "30"
+        },
+        "411744459": {
+            "node1": "128828",
+            "node2": "15232596",
+            "type": "14",
+            "w": "30"
+        },
+        "411743472": {
+            "node1": "128828",
+            "node2": "1858814",
+            "type": "14",
+            "w": "30"
+        },
+        "411743216": {
+            "node1": "128828",
+            "node2": "152886",
+            "type": "14",
+            "w": "30"
+        },
+        "411743106": {
+            "node1": "128828",
+            "node2": "15421342",
+            "type": "14",
+            "w": "30"
+        },
+        "411743102": {
+            "node1": "128828",
+            "node2": "15220322",
+            "type": "14",
+            "w": "30"
+        },
+        "411743095": {
+            "node1": "128828",
+            "node2": "15220318",
+            "type": "14",
+            "w": "30"
+        },
+        "411743072": {
+            "node1": "128828",
+            "node2": "15196744",
+            "type": "14",
+            "w": "30"
+        },
+        "411588696": {
+            "node1": "128828",
+            "node2": "15195162",
+            "type": "14",
+            "w": "30"
+        },
+        "411588194": {
+            "node1": "128828",
+            "node2": "14922631",
+            "type": "14",
+            "w": "30"
+        },
+        "411586431": {
+            "node1": "128828",
+            "node2": "15114210",
+            "type": "14",
+            "w": "30"
+        },
+        "411585984": {
+            "node1": "128828",
+            "node2": "2339404",
+            "type": "14",
+            "w": "30"
+        },
+        "411585507": {
+            "node1": "128828",
+            "node2": "15207610",
+            "type": "14",
+            "w": "30"
+        },
+        "411585014": {
+            "node1": "128828",
+            "node2": "15250120",
+            "type": "14",
+            "w": "30"
+        },
+        "411584653": {
+            "node1": "128828",
+            "node2": "15200403",
+            "type": "14",
+            "w": "30"
+        },
+        "411583786": {
+            "node1": "128828",
+            "node2": "15220317",
+            "type": "14",
+            "w": "30"
+        },
+        "411583567": {
+            "node1": "128828",
+            "node2": "15789594",
+            "type": "14",
+            "w": "30"
+        },
+        "411582854": {
+            "node1": "128828",
+            "node2": "14922634",
+            "type": "14",
+            "w": "30"
+        },
+        "411582812": {
+            "node1": "128828",
+            "node2": "14936366",
+            "type": "14",
+            "w": "30"
+        },
+        "405569555": {
+            "node1": "128828",
+            "node2": "15047673",
+            "type": "14",
+            "w": "30"
+        },
+        "404803690": {
+            "node1": "128828",
+            "node2": "14930475",
+            "type": "14",
+            "w": "30"
+        },
+        "404803658": {
+            "node1": "128828",
+            "node2": "14935866",
+            "type": "14",
+            "w": "30"
+        },
+        "404803539": {
+            "node1": "128828",
+            "node2": "15340415",
+            "type": "14",
+            "w": "30"
+        },
+        "404803528": {
+            "node1": "128828",
+            "node2": "15340416",
+            "type": "14",
+            "w": "30"
+        },
+        "404803376": {
+            "node1": "128828",
+            "node2": "15346113",
+            "type": "14",
+            "w": "30"
+        },
+        "404803281": {
+            "node1": "128828",
+            "node2": "15203200",
+            "type": "14",
+            "w": "30"
+        },
+        "404802105": {
+            "node1": "128828",
+            "node2": "15686370",
+            "type": "14",
+            "w": "30"
+        },
+        "404801478": {
+            "node1": "128828",
+            "node2": "14927522",
+            "type": "14",
+            "w": "30"
+        },
+        "402593291": {
+            "node1": "128828",
+            "node2": "15132966",
+            "type": "14",
+            "w": "30"
+        },
+        "402593131": {
+            "node1": "128828",
+            "node2": "8055005",
+            "type": "14",
+            "w": "30"
+        },
+        "400707550": {
+            "node1": "128828",
+            "node2": "15360536",
+            "type": "14",
+            "w": "30"
+        },
+        "399658867": {
+            "node1": "128828",
+            "node2": "15290043",
+            "type": "14",
+            "w": "30"
+        },
+        "399487687": {
+            "node1": "128828",
+            "node2": "14930454",
+            "type": "14",
+            "w": "30"
+        },
+        "398501326": {
+            "node1": "128828",
+            "node2": "15118584",
+            "type": "14",
+            "w": "30"
+        },
+        "398500895": {
+            "node1": "128828",
+            "node2": "15237240",
+            "type": "14",
+            "w": "30"
+        },
+        "398500700": {
+            "node1": "128828",
+            "node2": "15218069",
+            "type": "14",
+            "w": "30"
+        },
+        "391280685": {
+            "node1": "128828",
+            "node2": "14935513",
+            "type": "14",
+            "w": "30"
+        },
+        "391280620": {
+            "node1": "128828",
+            "node2": "14941580",
+            "type": "14",
+            "w": "30"
+        },
+        "418420995": {
+            "node1": "128828",
+            "node2": "16060138",
+            "type": "14",
+            "w": "30"
+        },
+        "414748305": {
+            "node1": "128828",
+            "node2": "15260326",
+            "type": "14",
+            "w": "30"
+        },
+        "414747957": {
+            "node1": "128828",
+            "node2": "15082358",
+            "type": "14",
+            "w": "30"
+        },
+        "414747993": {
+            "node1": "128828",
+            "node2": "15410628",
+            "type": "14",
+            "w": "30"
+        },
+        "375165600": {
+            "node1": "128828",
+            "node2": "252527",
+            "type": "14",
+            "w": "30"
+        },
+        "374322858": {
+            "node1": "128828",
+            "node2": "14722653",
+            "type": "14",
+            "w": "30"
+        },
+        "373264106": {
+            "node1": "128828",
+            "node2": "162090",
+            "type": "14",
+            "w": "30"
+        },
+        "372651681": {
+            "node1": "128828",
+            "node2": "142537",
+            "type": "14",
+            "w": "30"
+        },
+        "370532248": {
+            "node1": "128828",
+            "node2": "14572844",
+            "type": "14",
+            "w": "30"
+        },
+        "369981609": {
+            "node1": "128828",
+            "node2": "14561167",
+            "type": "14",
+            "w": "30"
+        },
+        "369675924": {
+            "node1": "128828",
+            "node2": "1731868",
+            "type": "14",
+            "w": "30"
+        },
+        "369675724": {
+            "node1": "128828",
+            "node2": "14540352",
+            "type": "14",
+            "w": "30"
+        },
+        "369675723": {
+            "node1": "128828",
+            "node2": "14540365",
+            "type": "14",
+            "w": "30"
+        },
+        "368574694": {
+            "node1": "128828",
+            "node2": "14485851",
+            "type": "14",
+            "w": "30"
+        },
+        "368325963": {
+            "node1": "128828",
+            "node2": "14501094",
+            "type": "14",
+            "w": "30"
+        },
+        "367965587": {
+            "node1": "128828",
+            "node2": "14470085",
+            "type": "14",
+            "w": "30"
+        },
+        "367965586": {
+            "node1": "128828",
+            "node2": "14470093",
+            "type": "14",
+            "w": "30"
+        },
+        "367965429": {
+            "node1": "128828",
+            "node2": "14473346",
+            "type": "14",
+            "w": "30"
+        },
+        "366729494": {
+            "node1": "128828",
+            "node2": "14450954",
+            "type": "14",
+            "w": "30"
+        },
+        "366600121": {
+            "node1": "128828",
+            "node2": "14435491",
+            "type": "14",
+            "w": "30"
+        },
+        "365969415": {
+            "node1": "128828",
+            "node2": "14400447",
+            "type": "14",
+            "w": "30"
+        },
+        "365693570": {
+            "node1": "128828",
+            "node2": "141917",
+            "type": "14",
+            "w": "30"
+        },
+        "365693500": {
+            "node1": "128828",
+            "node2": "14389065",
+            "type": "14",
+            "w": "30"
+        },
+        "365001352": {
+            "node1": "128828",
+            "node2": "14350861",
+            "type": "14",
+            "w": "30"
+        },
+        "365001289": {
+            "node1": "128828",
+            "node2": "14356609",
+            "type": "14",
+            "w": "30"
+        },
+        "365001239": {
+            "node1": "128828",
+            "node2": "14364058",
+            "type": "14",
+            "w": "30"
+        },
+        "364677545": {
+            "node1": "128828",
+            "node2": "14334039",
+            "type": "14",
+            "w": "30"
+        },
+        "364582359": {
+            "node1": "128828",
+            "node2": "14326160",
+            "type": "14",
+            "w": "30"
+        },
+        "364537738": {
+            "node1": "128828",
+            "node2": "14324558",
+            "type": "14",
+            "w": "30"
+        },
+        "364489893": {
+            "node1": "128828",
+            "node2": "14321733",
+            "type": "14",
+            "w": "30"
+        },
+        "364095798": {
+            "node1": "128828",
+            "node2": "234390",
+            "type": "14",
+            "w": "30"
+        },
+        "352053833": {
+            "node1": "128828",
+            "node2": "245011",
+            "type": "14",
+            "w": "30"
+        },
+        "338238316": {
+            "node1": "128828",
+            "node2": "1780870",
+            "type": "14",
+            "w": "30"
+        },
+        "338238263": {
+            "node1": "128828",
+            "node2": "2324883",
+            "type": "14",
+            "w": "30"
+        },
+        "289867125": {
+            "node1": "128828",
+            "node2": "6803337",
+            "type": "14",
+            "w": "30"
+        },
+        "288797245": {
+            "node1": "128828",
+            "node2": "11287397",
+            "type": "14",
+            "w": "30"
+        },
+        "287208639": {
+            "node1": "128828",
+            "node2": "218940",
+            "type": "14",
+            "w": "30"
+        },
+        "287208638": {
+            "node1": "128828",
+            "node2": "218941",
+            "type": "14",
+            "w": "30"
+        },
+        "287208637": {
+            "node1": "128828",
+            "node2": "107499",
+            "type": "14",
+            "w": "30"
+        },
+        "255985419": {
+            "node1": "128828",
+            "node2": "6824",
+            "type": "14",
+            "w": "30"
+        },
+        "477687941": {
+            "node1": "128828",
+            "node2": "17501109",
+            "type": "14",
+            "w": "30"
+        },
+        "216671107": {
+            "node1": "128828",
+            "node2": "7053108",
+            "type": "14",
+            "w": "30"
+        },
+        "213747137": {
+            "node1": "128828",
+            "node2": "8125649",
+            "type": "14",
+            "w": "30"
+        },
+        "213747062": {
+            "node1": "128828",
+            "node2": "8126379",
+            "type": "14",
+            "w": "30"
+        },
+        "213485779": {
+            "node1": "128828",
+            "node2": "405965",
+            "type": "14",
+            "w": "30"
+        },
+        "196737841": {
+            "node1": "128828",
+            "node2": "6912949",
+            "type": "14",
+            "w": "30"
+        },
+        "195732798": {
+            "node1": "128828",
+            "node2": "148102",
+            "type": "14",
+            "w": "30"
+        },
+        "220273743": {
+            "node1": "128828",
+            "node2": "9083861",
+            "type": "14",
+            "w": "30"
+        },
+        "397136711": {
+            "node1": "128828",
+            "node2": "7030648",
+            "type": "14",
+            "w": "30"
+        },
+        "397136869": {
+            "node1": "128828",
+            "node2": "15340501",
+            "type": "14",
+            "w": "30"
+        },
+        "397137106": {
+            "node1": "128828",
+            "node2": "15349123",
+            "type": "14",
+            "w": "30"
+        },
+        "98830278": {
+            "node1": "128828",
+            "node2": "2469301",
+            "type": "14",
+            "w": "30"
+        },
+        "98798173": {
+            "node1": "128828",
+            "node2": "2558207",
+            "type": "14",
+            "w": "30"
+        },
+        "98829013": {
+            "node1": "128828",
+            "node2": "25192",
+            "type": "14",
+            "w": "30"
+        },
+        "98829014": {
+            "node1": "128828",
+            "node2": "97864",
+            "type": "14",
+            "w": "30"
+        },
+        "98829016": {
+            "node1": "128828",
+            "node2": "2549497",
+            "type": "14",
+            "w": "30"
+        },
+        "98317524": {
+            "node1": "128828",
+            "node2": "25337",
+            "type": "14",
+            "w": "30"
+        },
+        "98317378": {
+            "node1": "128828",
+            "node2": "103389",
+            "type": "14",
+            "w": "30"
+        },
+        "98317339": {
+            "node1": "128828",
+            "node2": "112980",
+            "type": "14",
+            "w": "30"
+        },
+        "97862736": {
+            "node1": "128828",
+            "node2": "150302",
+            "type": "14",
+            "w": "30"
+        },
+        "97862624": {
+            "node1": "128828",
+            "node2": "104789",
+            "type": "14",
+            "w": "30"
+        },
+        "97862101": {
+            "node1": "128828",
+            "node2": "5531",
+            "type": "14",
+            "w": "30"
+        },
+        "97740332": {
+            "node1": "128828",
+            "node2": "26732",
+            "type": "14",
+            "w": "30"
+        },
+        "97740045": {
+            "node1": "128828",
+            "node2": "146273",
+            "type": "14",
+            "w": "30"
+        },
+        "97739906": {
+            "node1": "128828",
+            "node2": "168216",
+            "type": "14",
+            "w": "30"
+        },
+        "97739838": {
+            "node1": "128828",
+            "node2": "219719",
+            "type": "14",
+            "w": "30"
+        },
+        "96931081": {
+            "node1": "128828",
+            "node2": "279506",
+            "type": "14",
+            "w": "30"
+        },
+        "96931078": {
+            "node1": "128828",
+            "node2": "237789",
+            "type": "14",
+            "w": "30"
+        },
+        "96931074": {
+            "node1": "128828",
+            "node2": "161439",
+            "type": "14",
+            "w": "30"
+        },
+        "93547215": {
+            "node1": "128828",
+            "node2": "25484",
+            "type": "14",
+            "w": "30"
+        },
+        "85063798": {
+            "node1": "128828",
+            "node2": "3186373",
+            "type": "14",
+            "w": "30"
+        },
+        "85063785": {
+            "node1": "128828",
+            "node2": "3180374",
+            "type": "14",
+            "w": "30"
+        },
+        "477173031": {
+            "node1": "128828",
+            "node2": "17464184",
+            "type": "14",
+            "w": "30"
+        },
+        "61850340": {
+            "node1": "128828",
+            "node2": "224623",
+            "type": "14",
+            "w": "30"
+        },
+        "59038446": {
+            "node1": "128828",
+            "node2": "214177",
+            "type": "14",
+            "w": "30"
+        },
+        "50467398": {
+            "node1": "128828",
+            "node2": "417614",
+            "type": "14",
+            "w": "30"
+        },
+        "34528098": {
+            "node1": "128828",
+            "node2": "336466",
+            "type": "14",
+            "w": "30"
+        },
+        "34528097": {
+            "node1": "128828",
+            "node2": "35798",
+            "type": "14",
+            "w": "30"
+        },
+        "32054251": {
+            "node1": "128828",
+            "node2": "1971744",
+            "type": "14",
+            "w": "30"
+        },
+        "31881978": {
+            "node1": "128828",
+            "node2": "195334",
+            "type": "14",
+            "w": "30"
+        },
+        "31881968": {
+            "node1": "128828",
+            "node2": "104000",
+            "type": "14",
+            "w": "30"
+        },
+        "31881961": {
+            "node1": "128828",
+            "node2": "1974102",
+            "type": "14",
+            "w": "30"
+        },
+        "31878384": {
+            "node1": "128828",
+            "node2": "98184",
+            "type": "14",
+            "w": "30"
+        },
+        "31874386": {
+            "node1": "128828",
+            "node2": "11017",
+            "type": "14",
+            "w": "30"
+        },
+        "31874384": {
+            "node1": "128828",
+            "node2": "38340",
+            "type": "14",
+            "w": "30"
+        },
+        "31874380": {
+            "node1": "128828",
+            "node2": "220974",
+            "type": "14",
+            "w": "30"
+        },
+        "31871205": {
+            "node1": "128828",
+            "node2": "75263",
+            "type": "14",
+            "w": "30"
+        },
+        "31867783": {
+            "node1": "128828",
+            "node2": "8485",
+            "type": "14",
+            "w": "30"
+        },
+        "31867780": {
+            "node1": "128828",
+            "node2": "437029",
+            "type": "14",
+            "w": "30"
+        },
+        "31867779": {
+            "node1": "128828",
+            "node2": "127874",
+            "type": "14",
+            "w": "30"
+        },
+        "31864529": {
+            "node1": "128828",
+            "node2": "420592",
+            "type": "14",
+            "w": "30"
+        },
+        "31864516": {
+            "node1": "128828",
+            "node2": "190899",
+            "type": "14",
+            "w": "30"
+        },
+        "31845122": {
+            "node1": "128828",
+            "node2": "1971256",
+            "type": "14",
+            "w": "30"
+        },
+        "31836589": {
+            "node1": "128828",
+            "node2": "195151",
+            "type": "14",
+            "w": "30"
+        },
+        "31836586": {
+            "node1": "128828",
+            "node2": "1968665",
+            "type": "14",
+            "w": "30"
+        },
+        "31836585": {
+            "node1": "128828",
+            "node2": "400394",
+            "type": "14",
+            "w": "30"
+        },
+        "31836584": {
+            "node1": "128828",
+            "node2": "37201",
+            "type": "14",
+            "w": "30"
+        },
+        "31787912": {
+            "node1": "128828",
+            "node2": "163027",
+            "type": "14",
+            "w": "30"
+        },
+        "31770893": {
+            "node1": "128828",
+            "node2": "2149",
+            "type": "14",
+            "w": "30"
+        },
+        "31770892": {
+            "node1": "128828",
+            "node2": "575",
+            "type": "14",
+            "w": "30"
+        },
+        "31770885": {
+            "node1": "128828",
+            "node2": "57980",
+            "type": "14",
+            "w": "30"
+        },
+        "31770881": {
+            "node1": "128828",
+            "node2": "117533",
+            "type": "14",
+            "w": "30"
+        },
+        "31770880": {
+            "node1": "128828",
+            "node2": "152432",
+            "type": "14",
+            "w": "30"
+        },
+        "31770867": {
+            "node1": "128828",
+            "node2": "221412",
+            "type": "14",
+            "w": "30"
+        },
+        "31770865": {
+            "node1": "128828",
+            "node2": "165580",
+            "type": "14",
+            "w": "30"
+        },
+        "31770864": {
+            "node1": "128828",
+            "node2": "26979",
+            "type": "14",
+            "w": "30"
+        },
+        "31770863": {
+            "node1": "128828",
+            "node2": "286459",
+            "type": "14",
+            "w": "30"
+        },
+        "31770862": {
+            "node1": "128828",
+            "node2": "147183",
+            "type": "14",
+            "w": "30"
+        },
+        "31770854": {
+            "node1": "128828",
+            "node2": "399614",
+            "type": "14",
+            "w": "30"
+        },
+        "31754585": {
+            "node1": "128828",
+            "node2": "95708",
+            "type": "14",
+            "w": "30"
+        },
+        "31465082": {
+            "node1": "128828",
+            "node2": "187568",
+            "type": "14",
+            "w": "30"
+        },
+        "31438548": {
+            "node1": "128828",
+            "node2": "217700",
+            "type": "14",
+            "w": "30"
+        },
+        "28870680": {
+            "node1": "128828",
+            "node2": "1754475",
+            "type": "14",
+            "w": "30"
+        },
+        "28870658": {
+            "node1": "128828",
+            "node2": "1754476",
+            "type": "14",
+            "w": "30"
+        },
+        "28870612": {
+            "node1": "128828",
+            "node2": "1731943",
+            "type": "14",
+            "w": "30"
+        },
+        "28870591": {
+            "node1": "128828",
+            "node2": "383986",
+            "type": "14",
+            "w": "30"
+        },
+        "28870546": {
+            "node1": "128828",
+            "node2": "1731870",
+            "type": "14",
+            "w": "30"
+        },
+        "28864138": {
+            "node1": "128828",
+            "node2": "237068",
+            "type": "14",
+            "w": "30"
+        },
+        "28864134": {
+            "node1": "128828",
+            "node2": "1731944",
+            "type": "14",
+            "w": "30"
+        },
+        "28687056": {
+            "node1": "128828",
+            "node2": "101934",
+            "type": "14",
+            "w": "30"
+        },
+        "27693685": {
+            "node1": "128828",
+            "node2": "216022",
+            "type": "14",
+            "w": "30"
+        },
+        "25676506": {
+            "node1": "128828",
+            "node2": "1372780",
+            "type": "14",
+            "w": "30"
+        },
+        "25676452": {
+            "node1": "128828",
+            "node2": "156302",
+            "type": "14",
+            "w": "30"
+        },
+        "25676224": {
+            "node1": "128828",
+            "node2": "215004",
+            "type": "14",
+            "w": "30"
+        },
+        "15086174": {
+            "node1": "128828",
+            "node2": "205852",
+            "type": "14",
+            "w": "30"
+        },
+        "15086083": {
+            "node1": "128828",
+            "node2": "145941",
+            "type": "14",
+            "w": "30"
+        },
+        "15086024": {
+            "node1": "128828",
+            "node2": "165965",
+            "type": "14",
+            "w": "30"
+        },
+        "15085905": {
+            "node1": "128828",
+            "node2": "151599",
+            "type": "14",
+            "w": "30"
+        },
+        "15085692": {
+            "node1": "128828",
+            "node2": "38257",
+            "type": "14",
+            "w": "30"
+        },
+        "15084976": {
+            "node1": "128828",
+            "node2": "144697",
+            "type": "14",
+            "w": "30"
+        },
+        "15084742": {
+            "node1": "128828",
+            "node2": "244270",
+            "type": "14",
+            "w": "30"
+        },
+        "15084516": {
+            "node1": "128828",
+            "node2": "214995",
+            "type": "14",
+            "w": "30"
+        },
+        "15084426": {
+            "node1": "128828",
+            "node2": "151759",
+            "type": "14",
+            "w": "30"
+        },
+        "15084264": {
+            "node1": "128828",
+            "node2": "1277",
+            "type": "14",
+            "w": "30"
+        },
+        "15084036": {
+            "node1": "128828",
+            "node2": "76046",
+            "type": "14",
+            "w": "30"
+        },
+        "15083963": {
+            "node1": "128828",
+            "node2": "15386",
+            "type": "14",
+            "w": "30"
+        },
+        "15083960": {
+            "node1": "128828",
+            "node2": "218065",
+            "type": "14",
+            "w": "30"
+        },
+        "15083925": {
+            "node1": "128828",
+            "node2": "241788",
+            "type": "14",
+            "w": "30"
+        },
+        "15083863": {
+            "node1": "128828",
+            "node2": "227845",
+            "type": "14",
+            "w": "30"
+        },
+        "15083318": {
+            "node1": "128828",
+            "node2": "247071",
+            "type": "14",
+            "w": "30"
+        },
+        "15083024": {
+            "node1": "128828",
+            "node2": "257883",
+            "type": "14",
+            "w": "30"
+        },
+        "15082903": {
+            "node1": "128828",
+            "node2": "228897",
+            "type": "14",
+            "w": "30"
+        },
+        "15082874": {
+            "node1": "128828",
+            "node2": "250883",
+            "type": "14",
+            "w": "30"
+        },
+        "15082657": {
+            "node1": "128828",
+            "node2": "251158",
+            "type": "14",
+            "w": "30"
+        },
+        "15082612": {
+            "node1": "128828",
+            "node2": "144497",
+            "type": "14",
+            "w": "30"
+        },
+        "15082120": {
+            "node1": "128828",
+            "node2": "213540",
+            "type": "14",
+            "w": "30"
+        },
+        "15082080": {
+            "node1": "128828",
+            "node2": "153902",
+            "type": "14",
+            "w": "30"
+        },
+        "15082031": {
+            "node1": "128828",
+            "node2": "262000",
+            "type": "14",
+            "w": "30"
+        },
+        "15082003": {
+            "node1": "128828",
+            "node2": "230329",
+            "type": "14",
+            "w": "30"
+        },
+        "15081928": {
+            "node1": "128828",
+            "node2": "261134",
+            "type": "14",
+            "w": "30"
+        },
+        "15081768": {
+            "node1": "128828",
+            "node2": "251177",
+            "type": "14",
+            "w": "30"
+        },
+        "15081753": {
+            "node1": "128828",
+            "node2": "263044",
+            "type": "14",
+            "w": "30"
+        },
+        "15081638": {
+            "node1": "128828",
+            "node2": "251363",
+            "type": "14",
+            "w": "30"
+        },
+        "15081478": {
+            "node1": "128828",
+            "node2": "251436",
+            "type": "14",
+            "w": "30"
+        },
+        "15081236": {
+            "node1": "128828",
+            "node2": "265071",
+            "type": "14",
+            "w": "30"
+        },
+        "15081132": {
+            "node1": "128828",
+            "node2": "109533",
+            "type": "14",
+            "w": "30"
+        },
+        "15079679": {
+            "node1": "128828",
+            "node2": "252388",
+            "type": "14",
+            "w": "30"
+        },
+        "15079669": {
+            "node1": "128828",
+            "node2": "220528",
+            "type": "14",
+            "w": "30"
+        },
+        "15079610": {
+            "node1": "128828",
+            "node2": "170651",
+            "type": "14",
+            "w": "30"
+        },
+        "15077220": {
+            "node1": "128828",
+            "node2": "151749",
+            "type": "14",
+            "w": "30"
+        },
+        "15077215": {
+            "node1": "128828",
+            "node2": "215937",
+            "type": "14",
+            "w": "30"
+        },
+        "15077201": {
+            "node1": "128828",
+            "node2": "249571",
+            "type": "14",
+            "w": "30"
+        },
+        "15076848": {
+            "node1": "128828",
+            "node2": "109785",
+            "type": "14",
+            "w": "30"
+        },
+        "15076504": {
+            "node1": "128828",
+            "node2": "115155",
+            "type": "14",
+            "w": "30"
+        },
+        "15076376": {
+            "node1": "128828",
+            "node2": "228987",
+            "type": "14",
+            "w": "30"
+        },
+        "15076096": {
+            "node1": "128828",
+            "node2": "215037",
+            "type": "14",
+            "w": "30"
+        },
+        "15076010": {
+            "node1": "128828",
+            "node2": "314136",
+            "type": "14",
+            "w": "30"
+        },
+        "15075731": {
+            "node1": "128828",
+            "node2": "264651",
+            "type": "14",
+            "w": "30"
+        },
+        "8911600": {
+            "node1": "128828",
+            "node2": "128482",
+            "type": "14",
+            "w": "30"
+        },
+        "2342603": {
+            "node1": "128828",
+            "node2": "152380",
+            "type": "14",
+            "w": "30"
+        },
+        "2296537": {
+            "node1": "128828",
+            "node2": "48881",
+            "type": "14",
+            "w": "30"
+        },
+        "2156388": {
+            "node1": "128828",
+            "node2": "233140",
+            "type": "14",
+            "w": "30"
+        },
+        "2156387": {
+            "node1": "128828",
+            "node2": "228350",
+            "type": "14",
+            "w": "30"
+        },
+        "2156386": {
+            "node1": "128828",
+            "node2": "218741",
+            "type": "14",
+            "w": "30"
+        },
+        "2156384": {
+            "node1": "128828",
+            "node2": "151922",
+            "type": "14",
+            "w": "30"
+        },
+        "2156383": {
+            "node1": "128828",
+            "node2": "145252",
+            "type": "14",
+            "w": "30"
+        },
+        "2156381": {
+            "node1": "128828",
+            "node2": "121678",
+            "type": "14",
+            "w": "30"
+        },
+        "2115167": {
+            "node1": "128828",
+            "node2": "227776",
+            "type": "14",
+            "w": "30"
+        },
+        "2107472": {
+            "node1": "128828",
+            "node2": "233346",
+            "type": "14",
+            "w": "30"
+        },
+        "478321258": {
+            "node1": "128828",
+            "node2": "17543058",
+            "type": "14",
+            "w": "29"
+        },
+        "478793179": {
+            "node1": "128828",
+            "node2": "17563001",
+            "type": "14",
+            "w": "25"
+        },
+        "478793164": {
+            "node1": "128828",
+            "node2": "17563628",
+            "type": "14",
+            "w": "25"
+        },
+        "478793163": {
+            "node1": "128828",
+            "node2": "17563631",
+            "type": "14",
+            "w": "25"
+        },
+        "478793162": {
+            "node1": "128828",
+            "node2": "17563634",
+            "type": "14",
+            "w": "25"
+        },
+        "478793011": {
+            "node1": "128828",
+            "node2": "17577710",
+            "type": "14",
+            "w": "25"
+        },
+        "479166858": {
+            "node1": "128828",
+            "node2": "17579587",
+            "type": "14",
+            "w": "21"
+        },
+        "479166857": {
+            "node1": "128828",
+            "node2": "17579590",
+            "type": "14",
+            "w": "21"
+        },
+        "479637818": {
+            "node1": "128828",
+            "node2": "17586513",
+            "type": "14",
+            "w": "11"
+        },
+        "479687226": {
+            "node1": "128828",
+            "node2": "17588630",
+            "type": "14",
+            "w": "10"
+        },
+        "8905022": {
+            "node1": "128828",
+            "node2": "37993",
+            "type": "14",
+            "w": "6"
+        },
+        "8801222": {
+            "node1": "128828",
+            "node2": "65364",
+            "type": "14",
+            "w": "5"
+        },
+        "8900685": {
+            "node1": "128828",
+            "node2": "143123",
+            "type": "14",
+            "w": "-2"
+        },
+        "32053044": {
+            "node1": "128828",
+            "node2": "50104",
+            "type": "14",
+            "w": "-5"
+        },
+        "8910440": {
+            "node1": "128828",
+            "node2": "97845",
+            "type": "14",
+            "w": "-7"
+        }
+    },
+    "rt": {
+        "14": {
+            "trname": "'r_patient'",
+            "trgpname": "'action&gt;patient'",
+            "rthelp": "Le patient (qu'on appelle aussi l'objet) est l'entit\u00e9 qui subit l'action. Par exemple dans - Le chat mange la souris -, le patient est la souris. Des patients typiques de manger peuvent \u00eatre 'viande', 'l\u00e9gume', 'pain', ... (manger r_patient pain)"
+        }
+    }
+}

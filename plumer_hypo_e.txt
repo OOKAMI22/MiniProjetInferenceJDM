@@ -1,0 +1,332 @@
+[<code>
+// DUMP pour le terme 'plume' (eid=62726)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. (Figuré) Écriture.<br> 
+ C'est là, nous le comprenons, une rude tâche à remplir, il faudrait une plume autrement exercée que la nôtre, pour dire tout ce qu'il y a d'irréfléchi, d'irrationnel et d'absurde dans un système trop absolu ; [?].    
+ (Jean Déhès, Essai sur l'amélioration des races chevalines de la France, École impériale vétérinaire de Toulouse, Thèse de médecine vétérinaire, 1868)  <br> 
+ Lui qui, d'habitude, d'une plume sûre, attaquait méthodiquement le papier, s'exténuait sur ses phrases. Il peinait, raturait, repoussait soudain une feuille avec violence [?].    
+ (Victor Méric, Les Compagnons de l'Escopette, Éditions de l'Épi, Paris, 1930, p. 54)  <br> 
+ Tu admets, ô Prospêtès, que, par le verbe et par la plume, je fasse profession d'amoralité. Que je me décrive comme un être ayant rompu avec la morale officielle ou la morale officieuse.    
+ (Émile Armand, ''Amoral'', dans Les réfractaires, n°2, février-mars 1914)  <br>
+2. La plume est un morceau de métal ou d'autre matière, taillé en bec, dont la forme permet de retenir une petite réserve d'encre par capillarité et qui, adapté à un porte-plume, sert à écrire ou à dessiner.<br>
+3. La plume est un instrument d'écriture de dessin constitué d'un corps rigide taillé en bec traversé par une fente qui achemine par capillarité de l'encre vers le support, papier, parchemin ou autre. À l'origine préparée à partir de plumes d'oiseau, elle est, depuis le XIXe siècle, fabriquée industriellement en acier et plus rarement dans d'autres matières.
+</br></br></br></br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;62726;'plume';1;2676
+e;152617;'plume d'oie';1;82
+e;144791;'duvet';1;452
+e;96505;'filoplume';1;50
+e;32982;'rémige';1;74
+e;55959;'tectrice';1;50
+e;64724;'rectrice';1;66
+e;24987;'penne';1;74
+e;252541;'plume de paon';1;52
+e;227590;'plume rectrice';1;52
+e;243697;'vibrisse&gt;62726';1;50;'vibrisse&gt;plume'
+e;45738;'vibrisse';1;62
+e;371233;'plume à vaccin';1;50
+e;371227;'plume alerte';1;50
+e;371232;'plume facile';1;50
+e;154493;'plume d'oiseau';1;52
+e;298158;'plume vaccinostyle';777;50
+e;2376451;'plume hardie';1;0
+e;371231;'plume de métal';1;50
+e;183731;'plume vénale';1;50
+e;371229;'plume d'encre';1;50
+e;371226;'plume acérée';1;50
+e;371228;'plume d'aigrette';1;50
+e;1655776;'plume sétiforme';1;0
+e;371230;'plume de dindon';1;50
+e;332217;'plume de contour';1;50
+e;217233;'duvet&gt;62726';1;14;'duvet&gt;plume'
+e;224982;'penne&gt;62726';1;2;'penne&gt;plume'
+e;249334;'plume calligraphique';1;50
+e;1655775;'plume sétacée';1;0
+e;14940641;'en:greater primary covert';1;0
+e;14938443;'en:filoplume';1;0
+e;14966286;'en:vaccinostyle';1;0
+e;14966285;'en:scarificator';1;0
+e;14958608;'en:bastard feather';1;0
+e;14954161;'en:lesser primary covert';1;0
+e;14950053;'en:median primary covert';1;0
+e;14034369;'Valérie Alma-Marie';777;0
+e;14029378;'Igor Vsevolodovitch Mojeïko';777;0
+e;13654862;'Mahmud Abdülbâkî';777;0
+e;12711377;'Doru Todericiu';777;0
+e;12711376;'Pierre Carnac';777;0
+e;12197517;'Fuzouli';777;0
+e;12061575;'Vincent Biétrix';777;0
+e;12061574;'Tancrède de Visan';777;0
+e;461946;'Bama';777;50
+e;11408444;'Raccoona Sheldon';777;0
+e;11408443;'Alice Bradley Sheldon';777;0
+e;11384109;'Suzanne Humbert-Droz';777;0
+e;11384108;'Clod'aria';777;0
+e;11063083;'Kaoru Kurimoto';777;0
+e;11063085;'Azusa Nakajima';777;0
+e;10662940;'Yórgos Seferiádis';777;0
+e;10662939;'Georges Séféris';777;0
+e;10604976;'Diego Camacho Escanez';777;0
+e;10596799;'Marc Elder';777;0
+e;10596800;'Marcel Tendron';777;0
+e;14131065;'Michel Bonhommet';777;0
+e;14301160;'Alexeï Silytch Novikov-Priboï';777;0
+e;14301161;'Alekseï Silantievitch Novikov';777;0
+e;14568069;'Nathanael West';777;0
+e;14568070;'Nathan Wallenstein Weinstein';777;0
+e;13730356;'Myriam et Gaston de Béarn';777;0
+e;8964760;'plume Sergent Major';1;0
+e;422516;'rectrices';1;50
+e;87419;'plumet';1;72
+e;103702;'palette';1;156
+e;58450;'sergent-major';1;56
+e;2475429;'plume-couteau';1;0
+e;2474061;'bailloque';1;0
+e;254159;'plumet&gt;92632';1;50;'plumet&gt;ornement'
+e;66922;'barbue';1;98
+e;65884;'vaccinostyle';1;50
+e;1655756;'petite tectrice';1;0
+e;1655690;'moyenne couverture';1;0
+e;1655691;'moyenne tectrice';1;0
+e;1655837;'rémige bâtarde';1;0
+e;1655607;'grande couverture';1;0
+e;1655608;'grande tectrice';1;0
+e;1655755;'petite couverture';1;0
+e;224040;'palette&gt;36482';1;50;'palette&gt;ornithologie'
+e;114607;'scapulaire';1;50
+e;213546;'plume&gt;54234';1;54;'plume&gt;écriture'
+e;205699;'plume polaire';1;50
+e;10133178;'Lars Kepler';777;0
+e;10105665;'Sheila Rodgers';777;0
+e;10105664;'Rachel Abbott';777;0
+e;9982537;'Kenneth Robeson';777;0
+e;10903768;'Jacques Charrière';777;0
+e;10903767;'Jean Valbert';777;0
+e;10436880;'Mik Fondal';777;0
+e;10903724;'Henri Malans';777;0
+e;10903723;'Charles Vaudémont';777;0
+e;10903722;'Pierre Lamoureux';777;0
+e;11825628;'Hedde d'Entremont';777;0
+e;11825627;'Arnaud-Aaron Upinsky';777;0
+e;5950059;'Saint-Marcoux';1;0
+e;13595285;'Armand Patrick Gbaka-Brédé';777;0
+e;13590194;'Henri Hedde d'Entremont';777;0
+e;13628973;'M. Lothaire';777;0
+e;13641829;'Hirotaka Adachi';777;0
+e;11518425;'Jeanne Saint-Marcoux';777;0
+e;5382183;'plume Sergent-Major';1;0
+e;10872573;'Laurence Lefèvre';777;0
+e;10872572;'Laurence Korb';777;0
+e;10872571;'Liliane Korb';777;0
+e;10872570;'Claude Izner';777;0
+e;10838811;'Colonel Durruti';777;0
+e;11287938;'Ethel Florence Lindesay Richardson';777;0
+e;11287937;'Henry Handel Richardson';777;0
+e;11329621;'Rudolf Wilhelm Adolf Ditzen';777;0
+e;11255093;'Frédéric Van Ermengem';777;0
+e;11255092;'Franz Hellens';777;0
+e;11341860;'Isabel Miller';777;0
+e;11341861;'Alma Routsong';777;0
+e;11354726;'Carolyn Janice Cherry';777;0
+e;11354725;'C. J. Cherryh';777;0
+e;11359518;'Jun Takami';777;0
+e;15195602;'en:goose quill';1;0
+e;11981276;'Laurent Mabesoone';777;0
+e;15776700;'Higuchi Natsu';777;0
+e;12080757;'plume cachée';1;0
+e;10823156;'Jeanne Louise Marie Ichard';777;0
+e;10823155;'Jean Rosmer';777;0
+e;10385176;'Andrew Garve';777;0
+e;10385177;'Paul Winterton';777;0
+e;10385178;'Roger Bax';777;0
+e;9494677;'Camille Emmanuelle';777;0
+e;5946498;'Jean Renart';777;0
+e;5809897;'F.D.C. Willard';777;0
+e;5725737;'Eric Frisch';777;0
+e;5725736;'E. E. Knight';777;0
+e;287487;'rémiges';777;54
+e;5678444;'Paul Myron Anthony Linebarger';777;0
+e;5678443;'Cordwainer Smith';777;0
+e;1756523;'Fritz Zorn';1;0
+e;215156;'Louis Dirn';1;50
+e;1756524;'Fritz Angst';777;0
+e;298898;'Alfred Wight';777;50
+e;461886;'James Herriot';777;50
+e;293859;'Anna Andreïevna Gorenko';777;50
+e;579454;'Anna Akhmatova';777;0
+e;294059;'Rudolf Ditzen';777;50
+e;294058;'Hans Fallada';777;50
+e;293267;'Li Yaotang';777;50
+e;293266;'Li Feigan';777;50
+e;16818;'Ba Jin';1;50
+e;121688;'Delly';1;50
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 147 relations sortantes 
+
+r;112334;62726;152617;8;121
+r;199388;62726;144791;8;101
+r;3197776;62726;96505;8;79
+r;3197777;62726;32982;8;66
+r;3197775;62726;55959;8;66
+r;3197774;62726;64724;8;66
+r;3197773;62726;24987;8;66
+r;9766351;62726;252541;8;54
+r;9755346;62726;227590;8;53
+r;96930651;62726;243697;8;40
+r;96930650;62726;45738;8;40
+r;33835025;62726;371233;8;35
+r;33835218;62726;371227;8;34
+r;33835061;62726;371232;8;34
+r;34263159;62726;154493;8;34
+r;14002986;62726;298158;8;34
+r;52685608;62726;2376451;8;32
+r;33841346;62726;371231;8;32
+r;30999002;62726;183731;8;32
+r;33835146;62726;371229;8;30
+r;33835191;62726;371226;8;29
+r;33835106;62726;371228;8;29
+r;34330484;62726;1655776;8;27
+r;33835344;62726;371230;8;27
+r;12128188;62726;332217;8;27
+r;243495973;62726;217233;8;26
+r;243495509;62726;224982;8;26
+r;34367822;62726;249334;8;26
+r;34330481;62726;1655775;8;26
+r;393760156;62726;14940641;8;25
+r;393760155;62726;14938443;8;25
+r;393760153;62726;14966286;8;25
+r;393760151;62726;14966285;8;25
+r;393760149;62726;14958608;8;25
+r;393760148;62726;14954161;8;25
+r;393760147;62726;14950053;8;25
+r;383202502;62726;14034369;8;25
+r;383182953;62726;14029378;8;25
+r;383055405;62726;13654862;8;25
+r;382539665;62726;12711377;8;25
+r;382539662;62726;12711376;8;25
+r;382303468;62726;12197517;8;25
+r;381898443;62726;12061575;8;25
+r;381898442;62726;12061574;8;25
+r;381410456;62726;461946;8;25
+r;381396245;62726;11408444;8;25
+r;381396244;62726;11408443;8;25
+r;381386353;62726;11384109;8;25
+r;381386352;62726;11384108;8;25
+r;381324264;62726;11063083;8;25
+r;381324129;62726;11063085;8;25
+r;381150867;62726;10662940;8;25
+r;381150866;62726;10662939;8;25
+r;381144783;62726;10604976;8;25
+r;381134707;62726;10596799;8;25
+r;381079327;62726;10596800;8;25
+r;376537713;62726;14131065;8;25
+r;376338979;62726;14301160;8;25
+r;376337234;62726;14301161;8;25
+r;373436388;62726;14568069;8;25
+r;373436387;62726;14568070;8;25
+r;349585449;62726;13730356;8;25
+r;248655842;62726;8964760;8;25
+r;246882426;62726;422516;8;25
+r;246273657;62726;87419;8;25
+r;246265418;62726;103702;8;25
+r;246216238;62726;58450;8;25
+r;245343145;62726;2475429;8;25
+r;243410924;62726;2474061;8;25
+r;243410921;62726;254159;8;25
+r;243410919;62726;66922;8;25
+r;243410916;62726;65884;8;25
+r;243410913;62726;1655756;8;25
+r;243410911;62726;1655690;8;25
+r;243410908;62726;1655691;8;25
+r;243410905;62726;1655837;8;25
+r;243410903;62726;1655607;8;25
+r;243410900;62726;1655608;8;25
+r;243410897;62726;1655755;8;25
+r;243410894;62726;224040;8;25
+r;243410893;62726;114607;8;25
+r;243410889;62726;213546;8;25
+r;243260256;62726;205699;8;25
+r;242830202;62726;10133178;8;25
+r;242828227;62726;10105665;8;25
+r;242828226;62726;10105664;8;25
+r;242800070;62726;9982537;8;25
+r;273863612;62726;10903768;8;24
+r;273863608;62726;10903767;8;24
+r;273863578;62726;10436880;8;24
+r;273863576;62726;10903724;8;24
+r;273863556;62726;10903723;8;24
+r;273863554;62726;10903722;8;24
+r;307904534;62726;11825628;8;23
+r;307904532;62726;11825627;8;23
+r;296832953;62726;5950059;8;22
+r;346537900;62726;13595285;8;21
+r;346537043;62726;13590194;8;21
+r;346511378;62726;13628973;8;21
+r;346489306;62726;13641829;8;21
+r;295917145;62726;11518425;8;18
+r;293076269;62726;5382183;8;18
+r;273598128;62726;10872573;8;17
+r;273598126;62726;10872572;8;17
+r;273598124;62726;10872571;8;17
+r;273598122;62726;10872570;8;17
+r;271111758;62726;10838811;8;16
+r;288855147;62726;11287938;8;13
+r;288855145;62726;11287937;8;13
+r;290320019;62726;11329621;8;12
+r;288605406;62726;11255093;8;11
+r;288605404;62726;11255092;8;11
+r;293221755;62726;11341860;8;10
+r;293220480;62726;11341861;8;10
+r;293194875;62726;11354726;8;10
+r;293194873;62726;11354725;8;10
+r;293191045;62726;11359518;8;10
+r;403818528;62726;15195602;8;6
+r;312535145;62726;11981276;8;2
+r;427874227;62726;15776700;8;1
+r;332540663;62726;12080757;8;1
+r;275966068;62726;10823156;8;1
+r;275966072;62726;10823155;8;1
+r;255380764;62726;10385176;8;-25
+r;255380763;62726;10385177;8;-25
+r;255380762;62726;10385178;8;-25
+r;248833246;62726;9494677;8;-25
+r;247238373;62726;5946498;8;-25
+r;247046068;62726;5809897;8;-25
+r;246965182;62726;5725737;8;-25
+r;246965181;62726;5725736;8;-25
+r;246943197;62726;287487;8;-25
+r;246885147;62726;5678444;8;-25
+r;246864011;62726;5678443;8;-25
+r;246857719;62726;1756523;8;-25
+r;246855855;62726;215156;8;-25
+r;246841758;62726;1756524;8;-25
+r;246841723;62726;298898;8;-25
+r;246841722;62726;461886;8;-25
+r;246841602;62726;293859;8;-25
+r;246841599;62726;579454;8;-25
+r;246841589;62726;294059;8;-25
+r;246841586;62726;294058;8;-25
+r;246841580;62726;293267;8;-25
+r;246841577;62726;293266;8;-25
+r;246841574;62726;16818;8;-25
+r;246841297;62726;121688;8;-25
+
+// END
+</code>]

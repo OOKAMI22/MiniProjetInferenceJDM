@@ -1,0 +1,1643 @@
+[<code>
+// DUMP pour le terme 'serveuse' (eid=16059)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Un serveur (ou une serveuse au féminin) est un employé qualifié dans les cafés, les restaurants ou tout autre établissement de restauration. Son nom indique qu'il est au service des clients ; il a en conséquence plusieurs rôles, complémentaires à ceux du maître d'hôtel.<br>
+2. (Québec) (Anglicisme) Serveuse.<br>
+3. Serveuse.
+</br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;4;'n_pos'
+nt;8;'n_chunk'
+nt;9;'n_question'
+nt;10;'n_relation'
+nt;18;'n_data'
+nt;36;'n_data_pot'
+nt;444;'n_link'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;16059;'serveuse';1;396
+e;239128;'_COM';36;50
+e;2983124;'_SW';36;50
+e;223173;'_POL-POS';36;50
+e;136736;'jolie';1;544
+e;171870;'Nom:';4;50
+e;16328020;':r398731313';10;0
+e;8854639;'se faire tripoter par le patron';1;0
+e;4480953;':r98107759';10;0
+e;15935115;':r196007248';10;0
+e;15935133;':r74377065';10;0
+e;15935134;':r74377105';10;0
+e;15935135;':r74377097';10;0
+e;241794;'_POL-NEUTRE';36;50
+e;4592902;':r75996776';10;0
+e;4593098;':r74377081';10;0
+e;4593106;':r74377611';10;0
+e;4760302;':r80461041';10;0
+e;15935116;':r74377687';10;0
+e;15935117;':r74377667';10;0
+e;15935118;':r74377649';10;0
+e;15935119;':r74377631';10;0
+e;15935120;':r74377593';10;0
+e;15935121;':r74377575';10;0
+e;15935122;':r74377129';10;0
+e;15935123;':r74377121';10;0
+e;15935124;':r74377113';10;0
+e;15935125;':r74377089';10;0
+e;15935126;':r74377073';10;0
+e;15935127;':r74377057';10;0
+e;15935128;':r74377049';10;0
+e;15935129;':r74377041';10;0
+e;15935130;':r74377029';10;0
+e;15935131;':r74377021';10;0
+e;15935132;':r76404738';10;0
+e;16060743;':r406064921';10;0
+e;7888;'servir';1;3136
+e;14331203;'::&gt;66:16059&gt;24:14330346';8;0;'serveuse [peut] servir [objet] plat'
+e;14327166;'::&gt;66:16059&gt;24:14324527';8;0;'serveuse [peut] servir [objet] plats'
+e;14327165;'::&gt;66:16059&gt;24:14327163';8;0;'serveuse [peut] servir [endroit] restaurant'
+e;14327162;'::&gt;66:16059&gt;24:7888';8;0;'serveuse [peut] servir'
+e;14381181;'::&gt;66:16059&gt;24:14381179';8;0;'serveuse [peut] servir [objet] verre de vin'
+e;14381183;'::&gt;66:16059&gt;24:49739';8;0;'serveuse [peut] apporter'
+e;14381186;'::&gt;66:16059&gt;24:14381184';8;0;'serveuse [peut] apporter [objet] bière'
+e;14381189;'::&gt;66:16059&gt;24:14381187';8;0;'serveuse [peut] servir [objet] boissons'
+e;14381192;'::&gt;66:16059&gt;24:14381190';8;0;'serveuse [peut] apporter [objet] boisson'
+e;14381196;'::&gt;66:16059&gt;26:38749';8;0;'serveuse [se faire] tripoter'
+e;14381298;'::&gt;66:16059&gt;24:71325';8;0;'serveuse [peut] renverser'
+e;14381301;'::&gt;66:16059&gt;24:14381299';8;0;'serveuse [peut] renverser [objet] plateau'
+e;14510901;'::&gt;66:16059&gt;26:5692';8;0;'serveuse [se faire] baiser'
+e;14884158;'::&gt;66:16059&gt;26:118441';8;0;'serveuse [se faire] peloter'
+e;14884153;'::&gt;66:16059&gt;24:14884151';8;0;'serveuse [peut] servir [objet] café'
+e;16277725;'::&gt;66:16059&gt;24:8729978';8;0;'serveuse [peut] sucer son patron'
+e;16277723;'::&gt;66:16059&gt;24:14381084';8;0;'serveuse [peut] sucer [objet] patron'
+e;16277722;'::&gt;66:16059&gt;24:85447';8;0;'serveuse [peut] sucer'
+e;16319094;'::&gt;66:16059&gt;24:16319092';8;0;'serveuse [peut] apporter à boire'
+e;16319090;'::&gt;66:16059&gt;24:16319085';8;0;'serveuse [peut] apporter [objet] nourriture'
+e;14330;'satisfaction';1;626
+e;224777;'prendre une commande';1;60
+e;11094864;'nettoyer une table';1;0
+e;16597663;'::&gt;66:16059&gt;24:16597661';8;0;'serveuse [peut] servir des clients [endroit] café&gt;débit de boissons'
+e;16597660;'::&gt;66:16059&gt;24:11130959';8;0;'serveuse [peut] servir des clients'
+e;16597656;'::&gt;66:16059&gt;24:16597651';8;0;'serveuse [peut] servir [objet] clients'
+e;16597655;'::&gt;66:16059&gt;24:16597653';8;0;'serveuse [peut] servir [endroit] café&gt;débit de boissons'
+e;16597650;'::&gt;66:16059&gt;24:16597648';8;0;'serveuse [peut] travailler dans [objet] café&gt;débit de boissons'
+e;16597647;'::&gt;66:16059&gt;24:16597645';8;0;'serveuse [peut] travailler [endroit] café&gt;débit de boissons'
+e;16597644;'::&gt;66:16059&gt;24:16597642';8;0;'serveuse [peut] travailler dans [objet] café'
+e;16597641;'::&gt;66:16059&gt;24:265611';8;0;'serveuse [peut] travailler dans'
+e;16597639;'::&gt;66:16059&gt;24:16597637';8;0;'serveuse [peut] travailler [endroit] café'
+e;16597636;'::&gt;66:16059&gt;24:69550';8;0;'serveuse [peut] travailler'
+e;16597445;'::&gt;66:16059&gt;24:3298163';8;0;'serveuse [peut] proposer un café'
+e;16597443;'::&gt;66:16059&gt;24:16597441';8;0;'serveuse [peut] proposer [objet] café'
+e;16597432;'::&gt;66:16059&gt;24:16597430';8;0;'serveuse [peut] proposer [objet] café&gt;boisson'
+e;16597429;'::&gt;66:16059&gt;24:8066';8;0;'serveuse [peut] proposer'
+e;16597425;'::&gt;66:16059&gt;24:16597423';8;0;'serveuse [peut] verser [objet] café&gt;boisson'
+e;16597421;'::&gt;66:16059&gt;24:14594270';8;0;'serveuse [peut] verser [objet] café'
+e;16597420;'::&gt;66:16059&gt;24:14486089';8;0;'serveuse [peut] verser [endroit] mug'
+e;16597419;'::&gt;66:16059&gt;24:104506';8;0;'serveuse [peut] verser'
+e;16605108;'::&gt;66:16059&gt;24:16605106';8;0;'serveuse [peut] apporter [endroit] restaurant'
+e;16605105;'::&gt;66:16059&gt;24:16605103';8;0;'serveuse [peut] apporter [objet] commande'
+e;16534284;'::&gt;66:16059&gt;24:16534280';8;0;'serveuse [peut] apporter [objet] plats'
+e;16603271;'::&gt;66:16059&gt;24:16603269';8;0;'serveuse [peut] essuyer [endroit] restaurant'
+e;16603266;'::&gt;66:16059&gt;24:16603264';8;0;'serveuse [peut] essuyer [endroit] bar'
+e;16603263;'::&gt;66:16059&gt;24:329207';8;0;'serveuse [peut] essuyer [objet] table'
+e;16603262;'::&gt;66:16059&gt;24:6973';8;0;'serveuse [peut] essuyer'
+e;4409822;':r73876170';10;0
+e;93927;'fesses';1;624
+e;16597645;'::&gt;31:213348&gt;29:69550';8;0;'travailler [endroit] café&gt;débit de boissons'
+e;16608705;'::&gt;66:16059&gt;24:16603891';8;0;'serveuse [peut] servir [endroit] bar'
+e;28453;'bonheur';1;2804
+e;91691;'surprise';1;2394
+e;14884151;'::&gt;14:66324&gt;29:7888';8;0;'servir [objet] café'
+e;95208;'servante';1;224
+e;28466;'jeune';1;3734
+e;17112047;'::&gt;14:83544&gt;29:125855';8;0;'espérer [objet] pourboire'
+e;254609;'prendre les commandes';1;50
+e;16534280;'::&gt;14:158577&gt;29:49739';8;0;'apporter [objet] plats'
+e;125855;'espérer';1;394
+e;16603891;'::&gt;31:19654&gt;29:7888';8;0;'servir [endroit] bar'
+e;6973;'essuyer';1;342
+e;329207;'::&gt;14:89591&gt;29:6973';8;50;'essuyer [objet] table'
+e;16603264;'::&gt;31:19654&gt;29:6973';8;0;'essuyer [endroit] bar'
+e;16603269;'::&gt;31:79954&gt;29:6973';8;0;'essuyer [endroit] restaurant'
+e;16605103;'::&gt;14:52934&gt;29:49739';8;0;'apporter [objet] commande'
+e;16605106;'::&gt;31:79954&gt;29:49739';8;0;'apporter [endroit] restaurant'
+e;104506;'verser';1;560
+e;14594270;'::&gt;14:66324&gt;29:104506';8;0;'verser [objet] café'
+e;14486089;'::&gt;31:158856&gt;29:104506';8;0;'verser [endroit] mug'
+e;16597423;'::&gt;14:213349&gt;29:104506';8;0;'verser [objet] café&gt;boisson'
+e;8066;'proposer';1;2058
+e;16597430;'::&gt;14:213349&gt;29:8066';8;0;'proposer [objet] café&gt;boisson'
+e;16597441;'::&gt;14:66324&gt;29:8066';8;0;'proposer [objet] café'
+e;3298163;'proposer un café';1;0
+e;69550;'travailler';1;3574
+e;16597637;'::&gt;31:66324&gt;29:69550';8;0;'travailler [endroit] café'
+e;265611;'travailler dans';1;50
+e;16597642;'::&gt;14:66324&gt;29:265611';8;0;'travailler dans [objet] café'
+e;16597648;'::&gt;14:213348&gt;29:265611';8;0;'travailler dans [objet] café&gt;débit de boissons'
+e;16597651;'::&gt;14:163493&gt;29:7888';8;0;'servir [objet] clients'
+e;16597653;'::&gt;31:213348&gt;29:7888';8;0;'servir [endroit] café&gt;débit de boissons'
+e;11130959;'servir des clients';1;0
+e;16597661;'::&gt;31:213348&gt;29:11130959';8;0;'servir des clients [endroit] café&gt;débit de boissons'
+e;154980;'souriante';1;122
+e;425602;'étourdie';1;62
+e;112165;'désagréable';1;426
+e;141683;'petite';1;3735
+e;151711;'grande';1;3893
+e;215312;'expérimentée';1;56
+e;736;'débutante';1;88
+e;87702;'mince';1;428
+e;5851;'mignonne';1;242
+e;3247;'sympa';1;252
+e;50733;'serveur';1;2869
+e;79954;'restaurant';1;5348
+e;8729978;'sucer son patron';1;0
+e;16319085;'::&gt;14:20965&gt;29:49739';8;0;'apporter [objet] nourriture'
+e;254876;'_POL-POS_PC';36;50
+e;16319092;'apporter à boire';1;0
+e;146357;'envie';1;1666
+e;8854607;'obligée de coucher';1;0
+e;220013;'femme&gt;4333487';1;776;'femme&gt;être humain de sexe féminin'
+e;21737;'accorte';1;62
+e;5692;'baiser';1;2724
+e;118140;'sommelière';1;54
+e;110732;'rapide';1;3402
+e;19654;'bar';1;2694
+e;7184;'maritorne';1;56
+e;85447;'sucer';1;586
+e;14381084;'::&gt;14:35238&gt;29:85447';8;0;'sucer [objet] patron'
+e;118441;'peloter';1;134
+e;14884157;'::&gt;14:16059&gt;29:118441';8;0;'peloter [objet] serveuse'
+e;8854651;'se faire prendre par le patron';1;0
+e;135587;'aimable';1;450
+e;7766;'austère';1;169
+e;2584429;'habile&gt;76160';1;10;'habile&gt;adroit'
+e;22806;'affable';1;118
+e;153308;'charmante';1;158
+e;253513;'plantureuse';1;56
+e;88010;'hargneuse';1;64
+e;399813;'vindicative';1;10
+e;119572;'habile';1;254
+e;26635;'vive';1;1955
+e;103997;'empotée';1;64
+e;55135;'blonde';1;1426
+e;2973454;'court vêtue';1;50
+e;262095;'servir à manger';1;50
+e;11094863;'se faire pincer les fesses';1;0
+e;14324527;'::&gt;14:158577&gt;29:7888';8;0;'servir [objet] plats'
+e;14327163;'::&gt;31:79954&gt;29:7888';8;0;'servir [endroit] restaurant'
+e;14330346;'::&gt;14:36327&gt;29:7888';8;0;'servir [objet] plat'
+e;14381179;'::&gt;14:166312&gt;29:7888';8;0;'servir [objet] verre de vin'
+e;49739;'apporter';1;1730
+e;14381184;'::&gt;14:106797&gt;29:49739';8;0;'apporter [objet] bière'
+e;14381187;'::&gt;14:14269&gt;29:7888';8;0;'servir [objet] boissons'
+e;14381190;'::&gt;14:113547&gt;29:49739';8;0;'apporter [objet] boisson'
+e;71325;'renverser';1;198
+e;14381299;'::&gt;14:90516&gt;29:71325';8;0;'renverser [objet] plateau'
+e;38749;'tripoter';1;228
+e;14381195;'::&gt;14:16059&gt;29:38749';8;0;'tripoter [objet] serveuse'
+e;14510900;'::&gt;14:16059&gt;29:5692';8;0;'baiser [objet] serveuse'
+e;15985264;':r411573332';10;0
+e;77208;'verseuse';1;64
+e;24247;'service';1;3715
+e;133083;'barmaid';1;76
+e;267412;'mal payer';1;54
+e;72599;'draguer';1;598
+e;2585996;'_INFO-CNRTL-YES';36;50
+e;258029;'mettre la main au cul';1;40
+e;66324;'café';1;3927
+e;215428;'service&gt;79954';1;124;'service&gt;restaurant'
+e;220078;'servir à boire';1;52
+e;14327168;'::&gt;31:79954&gt;29:14324527';8;0;'servir [objet] plats [endroit] restaurant'
+e;83544;'pourboire';1;218
+e;146881;'Nom:Fem+SG';4;50
+e;17112049;'::&gt;66:16059&gt;24:17112047';8;0;'serveuse [peut] espérer [objet] pourboire'
+e;17112046;'::&gt;66:16059&gt;24:125855';8;0;'serveuse [peut] espérer'
+e;50869;'seins';1;658
+e;8854672;'faire des heures supplémentaires';1;2
+e;262096;'faire le service';1;78
+e;219011;'serveur&gt;11575';1;144;'serveur&gt;restauration'
+e;2107507;'stylée';2;2
+e;2020448;'dégourdie';2;2
+e;1999567;'débordée';2;2
+e;242689;'apporter l'addition';1;58
+e;52934;'commande';1;3053
+e;114327;'acide désoxyribonucléique';1;140
+e;15237928;'Elle travaillait au noir comme serveuse pour compléter ses ressources.';1;0
+e;15237924;'J'ai travaillé comme serveuse cet été.';1;0
+e;16386246;':r74377581';10;0
+e;16386247;':r196070419';10;0
+e;216102;'bar restaurant';1;50
+e;34608;'renvoyer';1;226
+e;107953;'embaucher';1;100
+e;17585878;'::&gt;14:147082&gt;29:86306';8;0;'prendre [objet] commandes'
+e;17459766;'apporter à manger';1;0
+e;2586628;'Gender:Fem';4;0
+e;2586629;'Number:Sing';4;0
+e;228289;'sexe&gt;218086';1;282;'sexe&gt;organe sexuel'
+e;124758;'serviable';1;138
+e;15615981;':r400370934';10;0
+e;81934;'main';1;6788
+e;144846;'tête';1;5937
+e;140715;'jambes';1;1549
+e;1384;'vivant';1;3307
+e;68439;'individu';1;6130
+e;396247;'individu&gt;24956';1;134;'individu&gt;être humain'
+e;16580606;'serveuse féminin';777;0
+e;57221;'joie';1;3928
+e;16007331;':r411576284';10;0
+e;26363;'bras';1;4155
+e;139779;'ADN';1;1254
+e;16110;'bouche';1;4340
+e;223172;'_POL-NEG';36;50
+e;225916;'personne&gt;24956';1;720;'personne&gt;être humain'
+e;95422;'cou';1;1944
+e;225934;'oeil&gt;330323';1;224;'oeil&gt;organe de la vue'
+e;8854581;'apporter les plats';1;0
+e;8854584;'apporter de l'eau';1;0
+e;99126;'se changer';1;148
+e;8854591;'tout foutre par terre';1;0
+e;161163;'dresser le couvert';1;58
+e;8854585;'tripoter par le patron';1;0
+e;8854586;'tripoter par un client';1;0
+e;8854588;'pincer les fesses';1;0
+e;61490;'femme';1;30614
+e;51126;'cheveux';1;3421
+e;221019;'bouche&gt;112609';1;214;'bouche&gt;anatomie'
+e;34898;'pied';1;4548
+e;145953;'visage';1;3047
+e;231389;'restaurant&gt;77864';1;280;'restaurant&gt;établissement'
+e;250117;'_INFO-SEM-PERS-FEM';36;50
+e;191669;'_INFO-SEM-LIVING-BEING';36;160
+e;162761;'_INFO-SEM-PERS';36;732
+e;15992986;':r406362620';10;0
+e;116477;'personne';1;10307
+e;240720;'squelette&gt;112609';1;152;'squelette&gt;anatomie'
+e;77008;'yeux';1;4539
+e;166262;'resto';1;198
+e;114738;'belle';1;3080
+e;11381762;'apporter du café';1;0
+e;243797;'restaurant gastronomique';666;84
+e;160518;'restaurant chinois';1;388
+e;33217;'cantine';1;1532
+e;119014;'boulangerie';1;1438
+e;10622141;'restaurant&gt;77864&gt;82794';1;18;'restaurant&gt;établissement&gt;commercial'
+e;8854589;'sucer le patron';1;0
+e;24975;'être de mauvaise humeur';1;212
+e;74846;'corps';1;5240
+e;107477;'nez';1;2903
+e;77424;'oeil';1;3278
+e;15237926;'application serveuse';1;0
+e;16599078;'::&gt;31:66324&gt;29:7888';8;0;'servir [endroit] café'
+e;439320;'servante&gt;171870';1;50;'servante&gt;Nom:'
+e;234036;'être vivant&gt;123933';1;258;'être vivant&gt;entité'
+e;142086;'jambe';1;3395
+e;96211;'coeur';1;2342
+e;1636805;'oeil&gt;44335';1;50;'oeil&gt;organe'
+e;16747;'adn';1;164
+e;253814;'bandante';1;34
+e;43253;'dormir';1;6578
+e;8854582;'apporter un plat';1;0
+e;8854583;'apporter du pain';1;0
+e;15980404;':r406366261';10;0
+e;11575;'restauration';1;2467
+e;16597417;'::&gt;31:158856&gt;29:14594270';8;0;'verser [objet] café [endroit] mug'
+e;17109668;'::&gt;14:66324&gt;29:49739';8;0;'apporter [objet] café'
+e;16066555;':r416890136';10;0
+e;7430;'sein';1;3594
+e;24956;'être humain';1;818
+e;126724;'métier';1;2809
+e;19356;'sexe';1;5772
+e;14917526;'en:deoxyribonucleic acid';1;0
+e;150219;'restau';1;176
+e;244620;'être humain&gt;74860';1;146;'être humain&gt;homme'
+e;316850;'entité physique';1;50
+e;5885;'vulgaire';1;432
+e;155262;'impolie';1;114
+e;408559;'small';1;3837
+e;258271;'se faire remonter les bretelles';1;126
+e;16169231;'::&gt;16:87841&gt;29:6973';8;0;'essuyer [avec] torchon'
+e;8040070;'en:barmaid';1;0
+e;6912949;'en:hair';1;0
+e;238908;'belle&gt;108166';1;116;'belle&gt;beau'
+e;93285;'grosse';1;2245
+e;78214;'inefficace';1;138
+e;258465;'distraite';1;72
+e;127269;'de mauvaise humeur';1;50
+e;3576104;'Morpho:nospace';18;50
+e;65081;'organisme vivant';1;146
+e;225847;'organisme&gt;71624';1;98;'organisme&gt;être vivant'
+e;436570;'entité biologique';1;50
+e;1803620;'restaurant&gt;146885';1;0;'restaurant&gt;Nom:Mas+SG'
+e;155195;'polie';1;156
+e;227183;'enrobée';1;52
+e;212630;'maladroite';666;12
+e;6875520;'en:small';1;0
+e;4048;'vertige';1;154
+e;8854592;'tout renverser';1;0
+e;3706335;'casser un verre';1;6
+e;14330632;'::&gt;31:79954&gt;29:14330346';8;0;'servir [objet] plat [endroit] restaurant'
+e;14324530;'servir des plats';1;0
+e;12051590;'servir des boissons';1;0
+e;16603273;'::&gt;31:79954&gt;29:329207';8;0;'essuyer [objet] table [endroit] restaurant'
+e;17610132;'::&gt;31:81444&gt;29:69550';8;0;'travailler [endroit] bistrot'
+e;14939670;'en:waiter';1;0
+e;8040042;'en:waitress';1;0
+e;7437597;'en:server';1;0
+e;219067;'pourboire&gt;18264';1;2;'pourboire&gt;gratification'
+e;3406810;'server';1;0
+e;9191075;'en:server (computer)';1;0
+e;225792;'métier&gt;103465';1;162;'métier&gt;profession'
+e;2947301;'occupée&gt;53688';1;0;'occupée&gt;activité'
+e;186157;'se faire appeler Arthur';1;58
+e;268592;'se faire pourrir';1;210
+e;186277;'se faire taper sur les doigts';1;154
+e;155213;'se faire jeter';1;146
+e;393644;'se faire jeter&gt;225797';1;54;'se faire jeter&gt;se faire engueuler'
+e;393474;'se faire enguirlander';1;152
+e;261456;'se faire souffler dans les bronches';1;86
+e;225798;'se faire gronder';1;280
+e;327537;'::&gt;14:130949&gt;29:117283';8;50;'rincer [objet] vaisselle'
+e;159483;'::&gt;14:130949&gt;29:117283&gt;13';9;50;'Qui pourrait rincer une vaisselle ?'
+e;327033;'::&gt;14:128482&gt;29:131654';8;50;'tartiner [objet] baguette'
+e;167509;'::&gt;14:128482&gt;29:131654&gt;13';9;50;'Qui pourrait tartiner une baguette ?'
+e;328645;'::&gt;14:62735&gt;29:6973';8;50;'essuyer [objet] assiette'
+e;327837;'::&gt;14:117423&gt;29:68460';8;50;'vider [objet] bouteille'
+e;243640;'avoir les pieds en compote';1;8
+e;248620;'servir&gt;16033';1;68;'servir&gt;cuisine'
+e;225797;'se faire engueuler';1;344
+e;160968;'::&gt;14:117423&gt;29:68460&gt;13';9;50;'Qui pourrait vider une bouteille ?'
+e;230116;'::&gt;14:62735&gt;29:6973&gt;13';9;50;'Qui pourrait essuyer une assiette ?'
+e;2503314;'se faire appeler Joseph';1;0
+e;222212;'aller au travail';1;106
+e;251694;'mourir&gt;126720';1;238;'mourir&gt;cesser de vivre'
+e;2442;'vivre';1;3276
+e;124600;'mourir';1;2755
+e;140318;'parler';1;4469
+e;259820;'vivre&gt;160251';1;78;'vivre&gt;être en vie'
+e;43601;'se reproduire';1;502
+e;258468;'aller bosser';1;148
+e;153956;'aller au boulot';1;84
+e;254122;'aller travailler';1;66
+e;105814;'regarder';1;3658
+e;14327161;'::&gt;13:16059&gt;29:7888';8;0;'servir [sujet] serveuse'
+e;14381297;'::&gt;13:16059&gt;29:71325';8;0;'renverser [sujet] serveuse'
+e;14381182;'::&gt;13:16059&gt;29:49739';8;0;'apporter [sujet] serveuse'
+e;16277724;'::&gt;13:16059&gt;29:8729978';8;0;'sucer son patron [sujet] serveuse'
+e;16277721;'::&gt;13:16059&gt;29:85447';8;0;'sucer [sujet] serveuse'
+e;86306;'prendre';1;3669
+e;17585873;'::&gt;14:52934&gt;29:86306';8;0;'prendre [objet] commande'
+e;15251994;'en:get a dressing-down';1;0
+e;4466421;'se prendre une volée de bois vert';1;22
+e;15241607;'en:get chewed out';1;0
+e;15224947;'en:go to work';1;0
+e;15103393;'en:take control';1;0
+e;15340420;'aller à son travail';1;0
+e;15274950;'en:be reprimanded';1;0
+e;15274949;'en:be scolded';1;0
+e;15274948;'en:pull up your socks';1;0
+e;13016050;'en:commute';1;0
+e;15417138;'en:travel to work';1;0
+e;185479;'aller au turbin';1;60
+e;2515610;'se faire tirer les oreilles';1;4
+e;15583634;'en:be told to pull up one's socks';1;0
+e;15583633;'en:get the rough side of someone's tongue';1;0
+e;15343069;'en:get told off';1;0
+e;15417354;'en:get an earbashing';1;0
+e;15251996;'se faire morigéner';1;0
+e;15251995;'recevoir des remontrances';1;0
+e;15714646;'donner la préférence à';1;0
+e;15714643;'donner la préférence à quelqu'un';1;0
+e;15714640;'en:give preference to somebody';1;0
+e;15435772;'donner la préférence à [qqn]';1;0
+e;15436037;'servir [qqn]';1;0
+e;15436038;'servir [qch]';1;0
+e;15712488;'en:be of assistance to somebody';1;0
+e;15712486;'en:be of help to somebody';1;0
+e;14918599;'en:assist';1;0
+e;14938022;'en:favor';1;0
+e;15436039;'en:be on your side';1;0
+e;15712478;'servir quelque chose';1;0
+e;15712476;'servir quelqu'un';1;0
+e;15712523;'en:deal to somebody';1;0
+e;15444164;'au service de [qch]';1;0
+e;15769949;'au service de quelque chose';1;0
+e;15769947;'en:at something's service';1;0
+e;15769948;'en:at the service of something';1;0
+e;14933041;'en:serve';1;0
+e;15045715;'en:dish up';1;0
+e;15269597;'en:to get told off';1;0
+e;15269596;'en:to get a telling-off';1;0
+e;162143;'porter secours';1;138
+e;15456930;'en:get back to the daily grind';1;0
+e;15456929;'en:get back to the grindstone';1;0
+e;15424630;'en:get ticked off';1;0
+e;15430551;'en:get your knuckles rapped';1;0
+e;15430550;'en:have your knuckles rapped';1;0
+e;15430549;'en:get your wrist slapped';1;0
+e;15430548;'en:have your wrist slapped';1;0
+e;15459051;'reprendre les rênes de';1;0
+e;15234726;'en:be in a bad mood';1;0
+e;199953;'être de mauvais poil';1;214
+e;15298511;'en:provide assistance';1;0
+e;14956554;'en:lend a hand';1;0
+e;15198531;'en:to go to work';1;0
+e;16319093;'::&gt;13:16059&gt;29:16319092';8;0;'apporter à boire [sujet] serveuse'
+e;200063;'être mal luné';1;76
+e;15759895;'en:get a tongue-lashing';1;0
+e;15298510;'fournir de l'aide';1;0
+e;15294503;'en:be rapped over the knuckles';1;0
+e;15294504;'en:get reprimanded';1;0
+e;4466423;'se prendre un savon';1;18
+e;15421788;'en:be moody';1;0
+e;15415072;'en:be grumpy';1;0
+e;16597427;'::&gt;31:158856&gt;29:16597423';8;0;'verser [objet] café&gt;boisson [endroit] mug'
+e;16597658;'::&gt;31:213348&gt;29:16597651';8;0;'servir [objet] clients [endroit] café&gt;débit de boissons'
+e;16603268;'::&gt;31:19654&gt;29:329207';8;0;'essuyer [objet] table [endroit] bar'
+e;16605110;'::&gt;31:79954&gt;29:16605103';8;0;'apporter [objet] commande [endroit] restaurant'
+e;16608707;'::&gt;31:19654&gt;29:16597651';8;0;'servir [objet] clients [endroit] bar'
+e;16608709;'::&gt;31:79954&gt;29:16597651';8;0;'servir [objet] clients [endroit] restaurant'
+e;16597418;'::&gt;13:16059&gt;29:104506';8;0;'verser [sujet] serveuse'
+e;16597428;'::&gt;13:16059&gt;29:8066';8;0;'proposer [sujet] serveuse'
+e;16597444;'::&gt;13:16059&gt;29:3298163';8;0;'proposer un café [sujet] serveuse'
+e;16597635;'::&gt;13:16059&gt;29:69550';8;0;'travailler [sujet] serveuse'
+e;16597640;'::&gt;13:16059&gt;29:265611';8;0;'travailler dans [sujet] serveuse'
+e;16597659;'::&gt;13:16059&gt;29:11130959';8;0;'servir des clients [sujet] serveuse'
+e;16603261;'::&gt;13:16059&gt;29:6973';8;0;'essuyer [sujet] serveuse'
+e;16599075;'::&gt;31:66324&gt;29:16597651';8;0;'servir [objet] clients [endroit] café'
+e;16599074;'::&gt;31:66324&gt;29:11130959';8;0;'servir des clients [endroit] café'
+e;15421789;'en:be in a mood';1;0
+e;17112045;'::&gt;13:16059&gt;29:125855';8;0;'espérer [sujet] serveuse'
+e;17514714;'::&gt;16:87841&gt;29:329207';8;0;'essuyer [objet] table [avec] torchon'
+e;17525085;'::&gt;31:66324&gt;29:14884151';8;0;'servir [objet] café [endroit] café'
+e;17525087;'::&gt;31:213348&gt;29:14884151';8;0;'servir [objet] café [endroit] café&gt;débit de boissons'
+e;17612310;'::&gt;31:81444&gt;29:14381187';8;0;'servir [objet] boissons [endroit] bistrot'
+e;17612317;'::&gt;31:19654&gt;29:14381187';8;0;'servir [objet] boissons [endroit] bar'
+e;69124;'lutiner';1;78
+e;14381193;'::&gt;13:20082&gt;29:38749';8;0;'tripoter [sujet] client'
+e;14381016;'::&gt;13:35238&gt;29:5692';8;0;'baiser [sujet] patron'
+e;14510911;'::&gt;31:89591&gt;29:14510900';8;0;'baiser [objet] serveuse [endroit] table'
+e;14510907;'::&gt;31:79954&gt;29:14510900';8;0;'baiser [objet] serveuse [endroit] restaurant'
+e;14510893;'::&gt;31:79954&gt;29:14381195';8;0;'tripoter [objet] serveuse [endroit] restaurant'
+e;14884155;'::&gt;13:20082&gt;29:118441';8;0;'peloter [sujet] client'
+e;331847;'oliver';1;50
+e;605539;'serveur&gt;171870';1;0;'serveur&gt;Nom:'
+e;3575927;'Morpho:min';18;50
+e;3228593;'wiki:@';444;0
+e;10821359;'travailler dans un restaurant';1;0
+e;17610126;'::&gt;31:19654&gt;29:69550';8;0;'travailler [endroit] bar'
+e;295522;'Bunny';777;50
+e;2337375;'verseuse&gt;146881';1;0;'verseuse&gt;Nom:Fem+SG'
+e;15011317;'::&gt;31:79954&gt;29:69550';8;0;'travailler [endroit] restaurant'
+e;15011322;'::&gt;14:79954&gt;29:265611';8;0;'travailler dans [objet] restaurant'
+e;17610129;'::&gt;14:19654&gt;29:265611';8;0;'travailler dans [objet] bar'
+e;17610135;'::&gt;14:81444&gt;29:265611';8;0;'travailler dans [objet] bistrot'
+e;14381194;'::&gt;66:20082&gt;24:38749';8;0;'client [peut] tripoter'
+e;14381197;'::&gt;66:20082&gt;24:14381195';8;0;'client [peut] tripoter [objet] serveuse'
+e;14381017;'::&gt;66:35238&gt;24:5692';8;0;'patron [peut] baiser'
+e;14510905;'::&gt;66:35238&gt;24:14510900';8;0;'patron [peut] baiser [objet] serveuse'
+e;17585880;'::&gt;66:16059&gt;24:17585878';8;0;'serveuse [peut] prendre [objet] commandes'
+e;14884156;'::&gt;66:20082&gt;24:118441';8;0;'client [peut] peloter'
+e;14884159;'::&gt;66:20082&gt;24:14884157';8;0;'client [peut] peloter [objet] serveuse'
+e;130949;'vaisselle';1;1034
+e;17585875;'::&gt;66:16059&gt;24:17585873';8;0;'serveuse [peut] prendre [objet] commande'
+e;17514713;'::&gt;66:16059&gt;24:16169231';8;0;'serveuse [peut] essuyer [avec] torchon'
+e;17514716;'::&gt;66:16059&gt;24:17109668';8;0;'serveuse [peut] apporter [objet] café'
+e;17525083;'::&gt;66:16059&gt;24:16599078';8;0;'serveuse [peut] servir [endroit] café'
+e;17610122;'::&gt;66:16059&gt;24:15011317';8;0;'serveuse [peut] travailler [endroit] restaurant'
+e;17610123;'::&gt;66:16059&gt;24:15011322';8;0;'serveuse [peut] travailler dans [objet] restaurant'
+e;17610128;'::&gt;66:16059&gt;24:17610126';8;0;'serveuse [peut] travailler [endroit] bar'
+e;17610131;'::&gt;66:16059&gt;24:17610129';8;0;'serveuse [peut] travailler dans [objet] bar'
+e;17610134;'::&gt;66:16059&gt;24:17610132';8;0;'serveuse [peut] travailler [endroit] bistrot'
+e;17610137;'::&gt;66:16059&gt;24:17610135';8;0;'serveuse [peut] travailler dans [objet] bistrot'
+e;17612308;'::&gt;66:16059&gt;24:17612306';8;0;'serveuse [peut] servir [endroit] bistrot'
+e;17612315;'::&gt;66:16059&gt;24:17612313';8;0;'serveuse [peut] servir des boissons [endroit] bistrot'
+e;17612320;'::&gt;66:16059&gt;24:17612318';8;0;'serveuse [peut] servir des boissons [endroit] bar'
+e;15085503;'en:court game';1;0
+e;14943824;'en:computer science';1;0
+e;15055284;'en:computing';1;0
+e;7123965;'en:host';1;0
+e;48275;'employé';1;3110
+e;4333487;'être humain de sexe féminin';1;0
+e;71624;'être vivant';1;1888
+e;101689;'être animé';1;50
+e;14944065;'en:utensil';1;0
+e;15045421;'en:dining-room attendant';1;0
+e;15045422;'en:restaurant attendant';1;0
+e;15082887;'en:computing device';1;0
+e;15082886;'en:electronic computer';1;0
+e;15082885;'en:computing machine';1;0
+e;15082884;'en:information processing system';1;0
+e;7183800;'en:computer';1;0
+e;15082883;'en:data processor';1;0
+e;221034;'bras&gt;112609';1;186;'bras&gt;anatomie'
+e;219363;'corps&gt;112609';1;190;'corps&gt;anatomie'
+e;213977;'bassin&gt;112609';1;20;'bassin&gt;anatomie'
+e;7609067;'en:bottom';1;2
+e;94431;'neck';1;52
+e;12791689;'acide désoxyribo-nucléique';1;0
+e;247661;'gros seins';1;228
+e;86657;'lolos';1;80
+e;15266770;'en:fun bags';1;0
+e;11008328;'ADN&gt;30051';1;8;'ADN&gt;code génétique'
+e;7437583;'en:computer network';1;0
+e;15317344;'en:gourmet restaurant';1;0
+e;15317347;'en:fine dining restaurant';1;0
+e;2015830;'embauchée';2;0
+e;1745630;'draguée';1;0
+e;2241098;'pelotée';2;0
+e;161933;'baisée';1;54
+e;2114051;'renvoyée';2;0
+e;131399;'tripotée';1;60
+e;2219273;'lutinée';2;0
+e;122864;'mort';1;7245
+e;6326424;'sensation de tournoiement';1;0
+e;6286081;'sensation rotatoire';1;0
+e;6372465;'état vertigineux';1;0
+e;6306100;'tête pivotante';1;0
+e;6391602;'vertigo rotatoire';1;0
+e;6409545;'état nébuleux';1;0
+e;6343580;'vertige subjectif';1;0
+e;6345599;'vertige rotatoire';1;0
+e;46060;'sexy';1;576
+e;14916413;'Langue:français';18;50
+e;17612306;'::&gt;31:81444&gt;29:7888';8;0;'servir [endroit] bistrot'
+e;17612313;'::&gt;31:81444&gt;29:12051590';8;0;'servir des boissons [endroit] bistrot'
+e;17612318;'::&gt;31:19654&gt;29:12051590';8;0;'servir des boissons [endroit] bar'
+e;276096;'_INFO-WIKI-YES';36;50
+e;15991431;'_ANIME-YES';36;50
+e;15991432;'_ANIME-NO';36;50
+e;1912917;'_INFO-COUNTABLE-YES';36;0
+e;87841;'torchon';1;312
+e;4386947;':r98314079';10;0
+e;100618;'cafetière';1;364
+e;254877;'_POL-NEUTRE_PC';36;50
+e;6798394;'en:neck';1;0
+e;17585882;'::&gt;66:16059&gt;24:254609';8;0;'serveuse [peut] prendre les commandes'
+e;145655;'servant';1;2778
+e;61185;'pelle';1;1070
+e;253706;'serveur informatique';1;54
+e;15209341;'machine réseau';1;0
+e;17514717;'::&gt;13:16059&gt;29:11381762';8;0;'apporter du café [sujet] serveuse'
+e;37298;'amour';1;7157
+e;16789943;':r15749176';10;0
+e;317329;'_POLIT_7NOPOL';36;50
+e;4503049;':r97949433';10;0
+e;15741172;'en:to waitress';1;0
+e;8044215;'en:cocktail waitress';1;0
+e;315;'infirmière';1;1780
+e;8027086;'en:food or beverage service worker';1;0
+e;2388316;'waitress';1;0
+e;57592;'prostituée';1;1068
+e;677029;'infirmière&gt;171870';1;0;'infirmière&gt;Nom:'
+e;440833;'prostituée&gt;171870';1;50;'prostituée&gt;Nom:'
+e;95245;'fille';1;6162
+e;268000;'fille de';1;62
+e;139209;'salle';1;3124
+e;8040069;'en:bartender';1;0
+e;8040040;'en:trainee waiter';1;0
+e;8040039;'en:wine waiter';1;0
+e;8040038;'en:waiter, general';1;0
+e;104993;'informatique';1;3892
+e;7608352;'en:wait';1;0
+e;15107255;'en:charwoman';1;0
+e;15107256;'en:cleaning lady';1;0
+e;14926283;'en:char';1;0
+e;6949828;'en:woman';1;0
+e;15107257;'en:cleaning woman';1;0
+e;14950824;'en:cleaner';1;0
+e;7290864;'en:work';1;0
+e;221983;'homme&gt;24956';1;218;'homme&gt;être humain'
+e;135936;'dispositif';1;2738
+e;5670409;'dispositif informatique';1;0
+e;43504;'physique';1;3769
+e;81384;'lent';1;1603
+e;19062;'en panne';1;94
+e;17585881;'::&gt;13:16059&gt;29:254609';8;0;'prendre les commandes [sujet] serveuse'
+e;17585876;'::&gt;13:16059&gt;29:224777';8;0;'prendre une commande [sujet] serveuse'
+e;17585871;'::&gt;13:16059&gt;29:86306';8;0;'prendre [sujet] serveuse'
+e;17585869;'::&gt;13:16059&gt;29:17459766';8;0;'apporter à manger [sujet] serveuse'
+e;60748;'dysfonctionner';1;76
+e;8040043;'umls:C0402624';444;0
+e;7437598;'umls:C1705194';444;0
+e;30260;'restaurants';1;1398
+e;145633;'plonge';1;80
+e;103389;'papier';1;3174
+e;19998;'tire-bouchon';1;68
+e;91876;'vins';1;2442
+e;415954;'Restaurant';1;50
+e;420228;'Vin';1;1163
+e;404805;'Service';1;2813
+e;169651;'chef de rang';1;68
+e;86557;'vertigo';1;52
+e;17514718;'::&gt;66:16059&gt;24:11381762';8;0;'serveuse [peut] apporter du café'
+e;219068;'pourboire&gt;2641';1;2;'pourboire&gt;pot-de-vin'
+e;254878;'_POL-NEG_PC';36;50
+e;231390;'restaurant&gt;61283';1;50;'restaurant&gt;pain'
+e;5111683;':r76111200';10;0
+e;16182650;':r73899705';10;0
+e;2936825;'Bunny girl';777;0
+e;6814965;'en:vertigo';1;0
+e;6810075;'en:dizziness';1;0
+e;3804959;'servable';1;0
+e;8854579;':r190321755';10;0
+e;8854619;':r73876354';10;0
+e;14381830;':r365215789';10;0
+e;17610882;':r480343471';10;0
+e;17616841;':r480381529';10;0
+e;17618120;':r480381437';10;0
+e;1885376;'serveur&gt;146050';1;0;'serveur&gt;militaire'
+e;219013;'serveur&gt;87729';1;2;'serveur&gt;jeu de cartes'
+e;219014;'serveur&gt;56865';1;4;'serveur&gt;sport'
+e;219012;'serveur&gt;104993';1;58;'serveur&gt;informatique'
+e;405965;'hair';1;54
+e;126613;'nichons';1;92
+e;162866;'occupée';1;2251
+e;1569363;'belle&gt;171869';1;0;'belle&gt;Adj:'
+e;17528125;':r478135115';10;0
+e;116980;'squelette';1;1226
+e;14959025;'en:restaurant';1;0
+e;6365345;'sensation vertigineuse';1;0
+e;15784;'étourdissement';1;92
+e;6321986;'sensation de rotation';1;0
+e;5045540;':r11359203';10;0
+e;2975344;':r73876352';10;0
+e;8854590;':r190321973';10;0
+e;8854593;':r190321985';10;0
+e;8854605;':r190322027';10;0
+e;8854608;':r190322079';10;0
+e;8854613;':r190322377';10;0
+e;8854616;':r190322440';10;0
+e;8854674;':r190329402';10;0
+e;12668561;':r324267822';10;0
+e;12668565;':r73876171';10;0
+e;12668576;':r324268425';10;0
+e;12668589;':r324268647';10;0
+e;16277726;':r426990938';10;0
+e;14346381;':r364606741';10;0
+e;14389353;':r365215830';10;0
+e;14389409;':r365215731';10;0
+e;14474828;':r365215875';10;0
+e;17617142;':r480343596';10;0
+e;17617503;':r480381571';10;0
+e;15359480;'en:hooters';1;0
+e;14918011;'en:DNA';1;0
+e;3335731;':r55054140';10;0
+e;14473419;':r365246249';10;0
+e;16718617;':r437821974';10;0
+e;17515849;':r478005030';10;0
+e;17516814;':r478005056';10;0
+e;17531740;':r478135089';10;0
+e;17615889;':r480343522';10;0
+e;17625735;':r480381492';10;0
+e;10622136;'restaurant&gt;74736';1;4;'restaurant&gt;repas'
+e;231388;'restaurant&gt;124461';1;4;'restaurant&gt;restaurer'
+e;79894;'nénés';1;76
+e;9928893;'nibards';1;22
+e;16167062;'Partie inférieure';777;0
+e;17610124;'::&gt;13:16059&gt;29:10821359';8;0;'travailler dans un restaurant [sujet] serveuse'
+e;17585870;'::&gt;66:16059&gt;24:17459766';8;0;'serveuse [peut] apporter à manger'
+e;17585877;'::&gt;66:16059&gt;24:224777';8;0;'serveuse [peut] prendre une commande'
+e;2975345;':r73876351';10;0
+e;2980902;':r73923429';10;0
+e;2980940;':r73923630';10;0
+e;2980941;':r73923635';10;0
+e;2980942;':r73923640';10;0
+e;2980950;':r73923692';10;0
+e;2980969;':r73923771';10;0
+e;2981015;':r73923984';10;0
+e;2981016;':r73923989';10;0
+e;8854580;':r73876355';10;0
+e;8854596;':r190321995';10;0
+e;8854606;':r190322033';10;0
+e;8854609;':r190322243';10;0
+e;8854610;':r73876345';10;0
+e;8854612;':r190322337';10;0
+e;8854615;':r190322389';10;0
+e;8854622;':r15816035';10;0
+e;8854641;':r190322843';10;0
+e;8854652;':r190323306';10;0
+e;9476984;':r213792516';10;0
+e;13808833;':r73877441';10;0
+e;16319091;':r428891497';10;0
+e;16793462;':r15749223';10;0
+e;17112050;':r456578226';10;0
+e;14650246;':r372280872';10;0
+e;15787015;':r364606768';10;0
+e;16747475;':r437750672';10;0
+e;16759166;':r437511939';10;0
+e;16759289;':r437511804';10;0
+e;16759528;':r437511912';10;0
+e;16759566;':r437512296';10;0
+e;16768196;':r434756846';10;0
+e;17162706;':r364623372';10;0
+e;17520085;':r478005135';10;0
+e;17534642;':r478135161';10;0
+e;17586604;':r479567675';10;0
+e;17619271;':r480343634';10;0
+e;17619511;':r480343560';10;0
+e;17622634;':r480381410';10;0
+e;47918;'boire';1;4568
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;3;'r_domain';'domaine';Il est demandé de fournir des domaines relatifs au mot cible. Par exemple, pour 'corner', on pourra donner les domaines 'football' ou 'sport'.
+rt;4;'r_pos';'POS';Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+rt;10;'r_holo';'tout';Il est démandé d'énumérer des 'TOUT' (a pour holonymes)  de l'objet en question. Pour 'main', on aura 'bras', 'corps', 'personne', etc... Le tout est aussi l'ensemble comme 'classe' pour 'élève'.
+rt;11;'r_locution';'locution';A partir d'un terme, il est demandé d'énumérer les locutions, expression ou mots composés en rapport avec ce terme. Par exemple, pour 'moulin', ou pourra avoir 'moulin à vent', 'moulin à eau', 'moulin à café'. Pour 'vendre', on pourra avoir 'vendre la peau de l'ours avant de l'avoir tué', 'vendre à perte', etc..
+rt;15;'r_lieu';'chose&gt;lieu';Il est demandé d'énumérer les LIEUX typiques où peut se trouver le terme/objet en question. (carotte r_lieu potager)
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;18;'r_data';'r_data';Informations diverses (plutôt d'ordre lexicales)
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat =&gt; miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;25;'r_instr-1';'instrument&gt;action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;32;'r_sentiment';'sentiment';Pour un terme donné, évoquer des mots liés à des SENTIMENTS ou des EMOTIONS que vous pourriez associer à ce terme. Par exemple, la joie, le plaisir, le dégoût, la peur, la haine, l'amour, l'indifférence, l'envie, avoir peur, horrible, etc.
+rt;36;'r_infopot';'information potentielle';Information sémantique potentielle
+rt;59;'r_masc';'équivalent masc';L'équivalent masculin du terme : lionne --&gt; lion.
+rt;66;'r_chunk_head';'r_chunk_head';
+rt;128;'r_node2relnode-in';'r_node2relnode-in';Relation entre un noeud (quelconque) et un noeud de relation (type = 10)  - connecte le noeud d'entrée - permet de rendre le graphe connexe même avec les annotations de relations
+rt;140;'r_node2relnode-out';'r_node2relnode-out';Relation entre un noeud (quelconque) et un noeud de relation (type = 10) - connecte le noeud de sortie - permet de rendre le graphe connexe même avec les annotations de relations
+rt;155;'r_make_use_of';'r_make_use_of';Peut utiliser un objet ou produit (par exemple électricité pour frigo).
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;444;'r_link';'r_link';Lien vers une ressource externe (WordNet, RadLex, UMLS, Wikipedia, etc...)
+rt;555;'r_cooccurrence';'r_cooccurrence';co-occurences (non utilisée)
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;999;'r_inhib';'r_inhib';relation d'inhibition, le terme inhibe les termes suivants... ce terme a tendance à exclure le terme associé.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 856 relations sortantes 
+
+r;24020753;16059;239128;0;1000000
+r;74089278;16059;2983124;555;2219
+r;9121968;16059;223173;36;362
+r;73876344;16059;136736;17;305
+r;1950460;16059;171870;4;179
+r;431505247;16059;16328020;140;160
+r;190322843;16059;8854639;24;152
+r;99968151;16059;4480953;140;147
+r;414703425;16059;15935115;140;135
+r;414703497;16059;15935133;140;135
+r;414703501;16059;15935134;140;135
+r;414703505;16059;15935135;140;135
+r;9203187;16059;241794;36;116
+r;100574149;16059;4592902;140;114
+r;100574932;16059;4593098;140;114
+r;100574964;16059;4593106;140;114
+r;101299237;16059;4760302;140;114
+r;414703429;16059;15935116;140;111
+r;414703433;16059;15935117;140;111
+r;414703437;16059;15935118;140;111
+r;414703441;16059;15935119;140;111
+r;414703445;16059;15935120;140;111
+r;414703449;16059;15935121;140;111
+r;414703453;16059;15935122;140;111
+r;414703457;16059;15935123;140;111
+r;414703461;16059;15935124;140;111
+r;414703465;16059;15935125;140;111
+r;414703469;16059;15935126;140;111
+r;414703473;16059;15935127;140;111
+r;414703477;16059;15935128;140;111
+r;414703481;16059;15935129;140;111
+r;414703485;16059;15935130;140;111
+r;414703489;16059;15935131;140;111
+r;414703493;16059;15935132;140;111
+r;418388777;16059;16060743;140;110
+r;73876354;16059;7888;24;100
+r;364624035;16059;14331203;66;100
+r;364624056;16059;14327166;66;100
+r;364624057;16059;14327165;66;100
+r;364624060;16059;14327162;66;100
+r;365257463;16059;14381181;66;100
+r;365257461;16059;14381183;66;100
+r;365257458;16059;14381186;66;100
+r;365257455;16059;14381189;66;100
+r;365257452;16059;14381192;66;100
+r;365257448;16059;14381196;66;100
+r;365257352;16059;14381298;66;100
+r;365257349;16059;14381301;66;100
+r;368493144;16059;14510901;66;100
+r;386960549;16059;14884158;66;100
+r;386960559;16059;14884153;66;100
+r;427014523;16059;16277725;66;100
+r;427014525;16059;16277723;66;100
+r;427014526;16059;16277722;66;100
+r;431492676;16059;16319094;66;100
+r;431492678;16059;16319090;66;100
+r;73876356;16059;14330;32;88
+r;73876355;16059;224777;24;87
+r;281356421;16059;11094864;24;86
+r;437572972;16059;16597663;66;85
+r;437572975;16059;16597660;66;85
+r;437572979;16059;16597656;66;85
+r;437572980;16059;16597655;66;85
+r;437572985;16059;16597650;66;85
+r;437572988;16059;16597647;66;85
+r;437572991;16059;16597644;66;85
+r;437572994;16059;16597641;66;85
+r;437572996;16059;16597639;66;85
+r;437572999;16059;16597636;66;85
+r;437573167;16059;16597445;66;85
+r;437573169;16059;16597443;66;85
+r;437573180;16059;16597432;66;85
+r;437573183;16059;16597429;66;85
+r;437573187;16059;16597425;66;85
+r;437573191;16059;16597421;66;85
+r;437573192;16059;16597420;66;85
+r;437573193;16059;16597419;66;85
+r;437903099;16059;16605108;66;84
+r;437903102;16059;16605105;66;84
+r;435231954;16059;16534284;66;83
+r;437904272;16059;16603271;66;83
+r;437904277;16059;16603266;66;83
+r;437904280;16059;16603263;66;83
+r;437904281;16059;16603262;66;83
+r;99524841;16059;4409822;128;83
+r;73899705;16059;93927;9;82
+r;437517009;16059;16597645;24;82
+r;437971061;16059;16608705;66;80
+r;78507020;16059;28453;32;79
+r;78507021;16059;91691;32;79
+r;386043060;16059;14884151;24;78
+r;55009830;16059;95208;5;76
+r;73877437;16059;28466;17;76
+r;456578226;16059;17112047;24;76
+r;190321755;16059;254609;24;75
+r;434756836;16059;16534280;24;75
+r;456578192;16059;125855;24;75
+r;437967590;16059;16603891;24;74
+r;437750610;16059;6973;24;73
+r;437750619;16059;329207;24;73
+r;437750663;16059;16603264;24;73
+r;437750739;16059;16603269;24;73
+r;437821954;16059;16605103;24;73
+r;437821998;16059;16605106;24;73
+r;437511767;16059;104506;24;72
+r;437511776;16059;14594270;24;72
+r;437511782;16059;14486089;24;72
+r;437511890;16059;16597423;24;72
+r;437511996;16059;8066;24;72
+r;437512011;16059;16597430;24;72
+r;437512272;16059;16597441;24;72
+r;437512326;16059;3298163;24;72
+r;437516896;16059;69550;24;72
+r;437516912;16059;16597637;24;72
+r;437516940;16059;265611;24;72
+r;437516955;16059;16597642;24;72
+r;437517037;16059;16597648;24;72
+r;437517120;16059;16597651;24;72
+r;437517141;16059;16597653;24;72
+r;437517233;16059;11130959;24;72
+r;437517250;16059;16597661;24;72
+r;73877414;16059;154980;17;71
+r;73877420;16059;425602;17;71
+r;73877426;16059;112165;17;71
+r;73877427;16059;141683;17;71
+r;73877428;16059;151711;17;71
+r;73877429;16059;215312;17;71
+r;73877431;16059;736;17;71
+r;73877434;16059;87702;17;71
+r;73877438;16059;5851;17;71
+r;73877439;16059;3247;17;71
+r;1610873;16059;50733;0;70
+r;1610874;16059;79954;0;70
+r;426990938;16059;8729978;24;70
+r;428891497;16059;16319085;24;70
+r;9160438;16059;254876;36;70
+r;428892057;16059;16319092;24;69
+r;78507022;16059;146357;32;69
+r;190322079;16059;8854607;17;68
+r;73876171;16059;220013;6;67
+r;73877441;16059;21737;17;67
+r;368488928;16059;5692;26;67
+r;55009831;16059;118140;5;66
+r;73876348;16059;110732;17;65
+r;1610877;16059;19654;0;63
+r;55009829;16059;7184;5;63
+r;426990896;16059;85447;24;63
+r;426990905;16059;14381084;24;63
+r;386043155;16059;118441;26;63
+r;386286386;16059;14884157;26;63
+r;190323306;16059;8854651;24;62
+r;73876345;16059;135587;17;61
+r;73877410;16059;7766;17;61
+r;73877412;16059;2584429;17;61
+r;73877415;16059;22806;17;61
+r;73877417;16059;153308;17;61
+r;73877418;16059;253513;17;61
+r;73877422;16059;88010;17;61
+r;73877424;16059;399813;17;61
+r;73877432;16059;119572;17;61
+r;73877433;16059;26635;17;61
+r;73877435;16059;103997;17;61
+r;73877440;16059;55135;17;61
+r;73877583;16059;2973454;17;61
+r;15816035;16059;262095;24;61
+r;281356412;16059;11094863;24;61
+r;364606697;16059;14324527;24;61
+r;364606711;16059;14327163;24;61
+r;364623339;16059;14330346;24;61
+r;365215712;16059;14381179;24;61
+r;365215754;16059;49739;24;61
+r;365215769;16059;14381184;24;61
+r;365215811;16059;14381187;24;61
+r;365215856;16059;14381190;24;61
+r;365246214;16059;71325;24;61
+r;365246229;16059;14381299;24;61
+r;365215921;16059;38749;26;61
+r;365263131;16059;14381195;26;61
+r;368574642;16059;14510900;26;61
+r;417117122;16059;15985264;128;61
+r;1610879;16059;7888;0;60
+r;55009832;16059;77208;5;60
+r;1610876;16059;24247;0;59
+r;55009828;16059;133083;5;59
+r;11359203;16059;79954;15;59
+r;332986;16059;16059;19;58
+r;190322027;16059;267412;26;58
+r;190322440;16059;72599;26;58
+r;55009827;16059;2585996;36;58
+r;190322033;16059;258029;26;57
+r;1610880;16059;66324;0;56
+r;1667010;16059;215428;0;56
+r;190322483;16059;220078;24;56
+r;364606791;16059;14327168;24;56
+r;1610878;16059;83544;0;54
+r;52636;16059;146881;4;54
+r;471960950;16059;17112049;66;54
+r;471960953;16059;17112046;66;54
+r;73899675;16059;50869;9;53
+r;32637266;16059;50733;19;53
+r;190329402;16059;8854672;24;53
+r;324267822;16059;262096;24;53
+r;1610875;16059;219011;0;52
+r;73877581;16059;2107507;17;51
+r;73877585;16059;2020448;17;51
+r;73877587;16059;1999567;17;51
+r;190321836;16059;242689;24;51
+r;427759707;16059;52934;0;50
+r;76111200;16059;114327;9;50
+r;397500433;16059;15237928;11;50
+r;402121606;16059;15237924;11;50
+r;432866023;16059;16386246;140;49
+r;432866027;16059;16386247;140;49
+r;324268647;16059;216102;15;48
+r;190321985;16059;34608;26;48
+r;190321995;16059;107953;26;47
+r;479567713;16059;17585878;24;46
+r;479567620;16059;17459766;24;46
+r;54030552;16059;2586628;4;45
+r;54061234;16059;2586629;4;45
+r;73931673;16059;228289;9;45
+r;73876347;16059;124758;17;45
+r;73876358;16059;50733;59;45
+r;400493720;16059;15615981;128;45
+r;73899656;16059;81934;9;44
+r;73899684;16059;144846;9;44
+r;73931485;16059;140715;9;44
+r;73931737;16059;1384;17;44
+r;74390566;16059;68439;6;43
+r;313680907;16059;396247;6;43
+r;436610553;16059;16580606;11;43
+r;356370065;16059;57221;32;43
+r;417474058;16059;16007331;128;43
+r;73899628;16059;26363;9;42
+r;73931228;16059;139779;9;42
+r;73931354;16059;16110;9;42
+r;26541309;16059;223172;36;42
+r;73899665;16059;225916;6;41
+r;73931450;16059;95422;9;41
+r;73931609;16059;225934;9;41
+r;190321772;16059;8854581;24;41
+r;190321778;16059;8854584;24;41
+r;190321979;16059;99126;24;41
+r;190321981;16059;8854591;24;41
+r;190322613;16059;161163;24;41
+r;190321838;16059;8854585;26;41
+r;190321948;16059;8854586;26;41
+r;190321961;16059;8854588;26;41
+r;73876170;16059;61490;6;40
+r;73899638;16059;51126;9;40
+r;73931384;16059;221019;9;40
+r;73931669;16059;34898;9;40
+r;73931730;16059;145953;9;40
+r;73876352;16059;231389;15;40
+r;73876359;16059;250117;36;40
+r;73899602;16059;191669;36;40
+r;73899619;16059;162761;36;40
+r;417413257;16059;15992986;140;40
+r;74392290;16059;116477;6;39
+r;73899717;16059;240720;9;39
+r;73931773;16059;77008;9;39
+r;15749176;16059;166262;10;39
+r;73923635;16059;114738;17;39
+r;478005158;16059;11381762;24;39
+r;55054142;16059;95208;0;38
+r;11352523;16059;243797;15;38
+r;11352852;16059;160518;15;38
+r;11358044;16059;33217;15;38
+r;11358215;16059;119014;15;38
+r;324268425;16059;10622141;15;38
+r;190321973;16059;8854589;24;38
+r;190322377;16059;24975;24;38
+r;12204540;16059;219011;5;37
+r;73931418;16059;74846;9;37
+r;73931575;16059;107477;9;37
+r;73931605;16059;77424;9;37
+r;419603597;16059;15237926;11;37
+r;438105923;16059;16599078;24;37
+r;335806987;16059;439320;0;36
+r;74391814;16059;234036;6;36
+r;73899647;16059;142086;9;36
+r;73931389;16059;96211;9;36
+r;76862919;16059;1636805;9;36
+r;91558487;16059;16747;9;36
+r;190322389;16059;253814;17;36
+r;73931454;16059;43253;24;36
+r;190321774;16059;8854582;24;36
+r;190321776;16059;8854583;24;36
+r;417086238;16059;15980404;140;36
+r;73897818;16059;11575;0;35
+r;98314079;16059;79954;10;35
+r;437511852;16059;16597417;24;35
+r;478005125;16059;17109668;24;35
+r;418487824;16059;16066555;128;35
+r;74377104;16059;96211;0;34
+r;74377120;16059;16110;0;34
+r;74377580;16059;7430;0;34
+r;73899693;16059;24956;6;34
+r;313681034;16059;126724;6;34
+r;73899714;16059;7430;9;34
+r;98436963;16059;19356;9;34
+r;400370934;16059;14917526;9;34
+r;15752758;16059;150219;0;33
+r;329766182;16059;439320;5;33
+r;73899702;16059;244620;6;33
+r;83975042;16059;316850;6;33
+r;73923630;16059;5885;17;33
+r;73923984;16059;155262;17;33
+r;212936797;16059;408559;17;33
+r;14807267;16059;258271;24;33
+r;478005027;16059;16169231;24;33
+r;74377666;16059;51126;0;32
+r;213812104;16059;8040070;5;32
+r;210493638;16059;6912949;9;32
+r;10007052;16059;231389;10;32
+r;73923429;16059;238908;17;32
+r;73923692;16059;93285;17;32
+r;73923771;16059;78214;17;32
+r;73923989;16059;258465;17;32
+r;190322337;16059;127269;17;32
+r;90926258;16059;3576104;18;32
+r;15752734;16059;166262;0;31
+r;18716056;16059;231389;0;31
+r;74377586;16059;93927;0;31
+r;214008793;16059;8040070;0;31
+r;73876172;16059;11575;3;31
+r;98344203;16059;50733;5;31
+r;73899708;16059;65081;6;31
+r;73899711;16059;225847;6;31
+r;83934048;16059;436570;6;31
+r;15749223;16059;150219;10;31
+r;97949433;16059;1803620;10;31
+r;73876349;16059;19654;15;31
+r;73876351;16059;150219;15;31
+r;73876346;16059;155195;17;31
+r;73923640;16059;227183;17;31
+r;190322243;16059;212630;17;31
+r;196668068;16059;6875520;17;31
+r;212936920;16059;4048;17;31
+r;190321983;16059;8854592;24;31
+r;190322617;16059;3706335;24;31
+r;364623390;16059;14330632;24;31
+r;364623391;16059;14324530;24;31
+r;365215847;16059;12051590;24;31
+r;437750798;16059;16603273;24;31
+r;480343586;16059;17610132;24;31
+r;414479738;16059;14939670;333;31
+r;414479740;16059;8040042;333;31
+r;414479742;16059;7437597;333;31
+r;2163357;16059;219067;0;30
+r;74377040;16059;228289;0;30
+r;74377112;16059;221019;0;30
+r;414666722;16059;3406810;0;30
+r;414666744;16059;9191075;0;30
+r;414666745;16059;3406810;5;30
+r;313681285;16059;225792;6;30
+r;73876350;16059;66324;15;30
+r;72660301;16059;2947301;17;30
+r;14807237;16059;186157;24;30
+r;14807289;16059;268592;24;30
+r;14807296;16059;186277;24;30
+r;14807312;16059;155213;24;30
+r;14807352;16059;393644;24;30
+r;14807373;16059;393474;24;30
+r;14807394;16059;261456;24;30
+r;14807417;16059;225798;24;30
+r;14808895;16059;327537;24;30
+r;14810316;16059;159483;24;30
+r;14811390;16059;327033;24;30
+r;14811863;16059;167509;24;30
+r;14815851;16059;328645;24;30
+r;14819432;16059;327837;24;30
+r;14830010;16059;243640;24;30
+r;14830284;16059;248620;24;30
+r;14830780;16059;225797;24;30
+r;14831516;16059;160968;24;30
+r;14833126;16059;230116;24;30
+r;61887595;16059;2503314;24;30
+r;72412431;16059;222212;24;30
+r;73930330;16059;251694;24;30
+r;73930333;16059;2442;24;30
+r;73931543;16059;124600;24;30
+r;73931638;16059;140318;24;30
+r;73931743;16059;259820;24;30
+r;74402222;16059;43601;24;30
+r;80839226;16059;258468;24;30
+r;82012682;16059;153956;24;30
+r;82012696;16059;254122;24;30
+r;347582438;16059;105814;24;30
+r;364626603;16059;14327161;24;30
+r;365261515;16059;14381297;24;30
+r;365261497;16059;14381182;24;30
+r;426991380;16059;16277724;24;30
+r;426991381;16059;16277721;24;30
+r;479567640;16059;86306;24;30
+r;479567655;16059;17585873;24;30
+r;395183698;16059;15251994;24;30
+r;397638046;16059;4466421;24;30
+r;399492470;16059;15241607;24;30
+r;399492843;16059;15224947;24;30
+r;402050560;16059;15103393;24;30
+r;402822017;16059;15340420;24;30
+r;402822198;16059;15274950;24;30
+r;402822221;16059;15274949;24;30
+r;402822244;16059;15274948;24;30
+r;404825268;16059;13016050;24;30
+r;404825336;16059;15417138;24;30
+r;405594005;16059;185479;24;30
+r;405611803;16059;2515610;24;30
+r;405612987;16059;15583634;24;30
+r;405613023;16059;15583633;24;30
+r;405613035;16059;15343069;24;30
+r;405613468;16059;15417354;24;30
+r;405616803;16059;15251996;24;30
+r;405616845;16059;15251995;24;30
+r;410019342;16059;15714646;24;30
+r;410019387;16059;15714643;24;30
+r;410019410;16059;15714640;24;30
+r;410019433;16059;15435772;24;30
+r;410020412;16059;15436037;24;30
+r;410020413;16059;15436038;24;30
+r;410020414;16059;15712488;24;30
+r;410020415;16059;15712486;24;30
+r;410020416;16059;14918599;24;30
+r;410020417;16059;14938022;24;30
+r;410020418;16059;15436039;24;30
+r;410020419;16059;15712478;24;30
+r;410020420;16059;15712476;24;30
+r;410020443;16059;15712523;24;30
+r;410020628;16059;15444164;24;30
+r;410020629;16059;15769949;24;30
+r;410020631;16059;15769947;24;30
+r;410020654;16059;15769948;24;30
+r;410020676;16059;14933041;24;30
+r;410020677;16059;15045715;24;30
+r;410025762;16059;15269597;24;30
+r;410025788;16059;15269596;24;30
+r;410034482;16059;162143;24;30
+r;410044445;16059;15456930;24;30
+r;410044487;16059;15456929;24;30
+r;410072931;16059;15424630;24;30
+r;410073438;16059;15430551;24;30
+r;410073469;16059;15430550;24;30
+r;410073494;16059;15430549;24;30
+r;410073518;16059;15430548;24;30
+r;410073638;16059;15459051;24;30
+r;411986083;16059;15234726;24;30
+r;413657773;16059;199953;24;30
+r;426561341;16059;15298511;24;30
+r;426561364;16059;14956554;24;30
+r;426564869;16059;15198531;24;30
+r;431517973;16059;16319093;24;30
+r;431544879;16059;200063;24;30
+r;431628887;16059;15759895;24;30
+r;431629952;16059;15298510;24;30
+r;432622486;16059;15294503;24;30
+r;432622503;16059;15294504;24;30
+r;432629127;16059;4466423;24;30
+r;432630941;16059;15421788;24;30
+r;432630945;16059;15415072;24;30
+r;437511966;16059;16597427;24;30
+r;437517274;16059;16597658;24;30
+r;437750722;16059;16603268;24;30
+r;437822057;16059;16605110;24;30
+r;437967642;16059;16608707;24;30
+r;437967699;16059;16608709;24;30
+r;438102893;16059;16597418;24;30
+r;438102894;16059;16597428;24;30
+r;438102896;16059;16597444;24;30
+r;438102911;16059;16597635;24;30
+r;438102912;16059;16597640;24;30
+r;438102913;16059;16597659;24;30
+r;438103155;16059;16603261;24;30
+r;438105855;16059;16599075;24;30
+r;438105921;16059;16599074;24;30
+r;449411267;16059;15421789;24;30
+r;457386771;16059;17112045;24;30
+r;478005061;16059;17514714;24;30
+r;478135136;16059;17525085;24;30
+r;478135185;16059;17525087;24;30
+r;480381510;16059;17612310;24;30
+r;480381588;16059;17612317;24;30
+r;25675903;16059;69124;26;30
+r;365215926;16059;14381193;26;30
+r;368488965;16059;14381016;26;30
+r;368574649;16059;14510911;26;30
+r;368574650;16059;14510907;26;30
+r;368574651;16059;14510893;26;30
+r;386043160;16059;14884155;26;30
+r;411347091;16059;331847;26;30
+r;1005470;16059;133083;0;29
+r;55054144;16059;118140;0;29
+r;77180905;16059;1636805;0;29
+r;335799824;16059;605539;0;29
+r;55054146;16059;77208;0;28
+r;74377028;16059;145953;0;28
+r;74377574;16059;240720;0;28
+r;98629254;16059;1803620;0;28
+r;309997779;16059;605539;5;28
+r;90053239;16059;3575927;18;28
+r;78095352;16059;3228593;444;28
+r;74377610;16059;50869;0;27
+r;480343494;16059;10821359;24;27
+r;480343513;16059;17610126;24;27
+r;55054141;16059;7184;0;26
+r;74377630;16059;81934;0;26
+r;262367669;16059;295522;0;26
+r;332132386;16059;2337375;0;26
+r;480343446;16059;15011317;24;26
+r;480343461;16059;15011322;24;26
+r;480343541;16059;17610129;24;26
+r;480343615;16059;17610135;24;26
+r;394232954;16059;8040070;333;26
+r;243158480;16059;220013;0;25
+r;426990897;16059;85447;0;25
+r;364606726;16059;14327165;0;25
+r;364606750;16059;14327166;0;25
+r;364623358;16059;14331203;0;25
+r;365215740;16059;14381181;0;25
+r;365215755;16059;49739;0;25
+r;365215798;16059;14381186;0;25
+r;365215839;16059;14381189;0;25
+r;365215884;16059;14381192;0;25
+r;365215932;16059;14381194;0;25
+r;365215944;16059;14381197;0;25
+r;365246215;16059;71325;0;25
+r;365246258;16059;14381301;0;25
+r;368488970;16059;14381017;0;25
+r;368488982;16059;14510905;0;25
+r;479567621;16059;17459766;0;25
+r;479567741;16059;17585880;0;25
+r;479567697;16059;224777;0;25
+r;426990924;16059;16277723;0;25
+r;479567641;16059;86306;0;25
+r;386043088;16059;14884153;0;25
+r;386043166;16059;14884156;0;25
+r;386043178;16059;14884159;0;25
+r;415092246;16059;7437597;0;25
+r;415092248;16059;8040042;0;25
+r;415092250;16059;14939670;0;25
+r;418326381;16059;130949;0;25
+r;426990939;16059;8729978;0;25
+r;428891572;16059;16319090;0;25
+r;428892291;16059;16319092;0;25
+r;479567684;16059;17585875;0;25
+r;479567754;16059;254609;0;25
+r;434756855;16059;16534284;0;25
+r;437511768;16059;104506;0;25
+r;437511791;16059;16597420;0;25
+r;437511813;16059;16597421;0;25
+r;437511921;16059;16597425;0;25
+r;437511997;16059;8066;0;25
+r;437512040;16059;16597432;0;25
+r;437512308;16059;16597443;0;25
+r;437512327;16059;3298163;0;25
+r;437516897;16059;69550;0;25
+r;437516927;16059;16597639;0;25
+r;437516941;16059;265611;0;25
+r;437516986;16059;16597644;0;25
+r;437517025;16059;16597647;0;25
+r;437517065;16059;16597650;0;25
+r;437517157;16059;16597655;0;25
+r;437517182;16059;16597656;0;25
+r;437517234;16059;11130959;0;25
+r;437517266;16059;16597663;0;25
+r;437750611;16059;6973;0;25
+r;437750638;16059;16603263;0;25
+r;437750679;16059;16603266;0;25
+r;437750755;16059;16603271;0;25
+r;437821983;16059;16605105;0;25
+r;437822014;16059;16605108;0;25
+r;437967599;16059;16608705;0;25
+r;456578194;16059;125855;0;25
+r;456578295;16059;17112049;0;25
+r;478005037;16059;17514713;0;25
+r;478005144;16059;17514716;0;25
+r;478005159;16059;11381762;0;25
+r;478135096;16059;17525083;0;25
+r;480343455;16059;17610122;0;25
+r;480343480;16059;17610123;0;25
+r;480343495;16059;10821359;0;25
+r;480343529;16059;17610128;0;25
+r;480343569;16059;17610131;0;25
+r;480343603;16059;17610134;0;25
+r;480343643;16059;17610137;0;25
+r;480381417;16059;17612308;0;25
+r;480381467;16059;12051590;0;25
+r;480381499;16059;17612315;0;25
+r;480381578;16059;17612320;0;25
+r;414666727;16059;15085503;3;25
+r;414666728;16059;14943824;3;25
+r;414666729;16059;15055284;3;25
+r;418326380;16059;130949;3;25
+r;309692617;16059;2337375;5;25
+r;414666726;16059;14939670;5;25
+r;414666736;16059;7123965;5;25
+r;235990334;16059;48275;6;25
+r;298631561;16059;4333487;6;25
+r;314812833;16059;71624;6;25
+r;314976665;16059;101689;6;25
+r;414666723;16059;14944065;6;25
+r;414666724;16059;15045421;6;25
+r;414666725;16059;15045422;6;25
+r;414666730;16059;15082887;6;25
+r;414666731;16059;15082886;6;25
+r;414666732;16059;15082885;6;25
+r;414666733;16059;15082884;6;25
+r;414666734;16059;7183800;6;25
+r;414666735;16059;15082883;6;25
+r;350730076;16059;221034;9;25
+r;351150179;16059;219363;9;25
+r;372193419;16059;213977;9;25
+r;377392146;16059;7609067;9;25
+r;377520257;16059;94431;9;25
+r;377974010;16059;12791689;9;25
+r;411573332;16059;247661;9;25
+r;411576284;16059;86657;9;25
+r;416890136;16059;15266770;9;25
+r;479101120;16059;11008328;9;25
+r;414666737;16059;7437583;10;25
+r;471004606;16059;15317344;15;25
+r;471017661;16059;15317347;15;25
+r;477546723;16059;2015830;17;25
+r;477546722;16059;1745630;17;25
+r;477528106;16059;2241098;17;25
+r;477533876;16059;161933;17;25
+r;477546724;16059;2114051;17;25
+r;477535482;16059;131399;17;25
+r;477563335;16059;2219273;17;25
+r;316965019;16059;122864;17;25
+r;384121868;16059;6326424;17;25
+r;384121870;16059;6286081;17;25
+r;384123394;16059;6372465;17;25
+r;384123395;16059;6306100;17;25
+r;384123397;16059;6391602;17;25
+r;384123398;16059;6409545;17;25
+r;384123400;16059;6343580;17;25
+r;384123402;16059;6345599;17;25
+r;428905302;16059;46060;17;25
+r;394232956;16059;14916413;18;25
+r;480381402;16059;17612306;24;25
+r;480381483;16059;17612313;24;25
+r;480381562;16059;17612318;24;25
+r;366454969;16059;276096;36;25
+r;417396018;16059;15991431;36;25
+r;418326379;16059;15991432;36;25
+r;436868092;16059;1912917;36;25
+r;478005028;16059;87841;155;25
+r;414666321;16059;225916;0;23
+r;414666323;16059;396247;0;23
+r;99297881;16059;4386947;128;23
+r;414666322;16059;116477;0;22
+r;418326382;16059;100618;0;22
+r;9260610;16059;254877;36;22
+r;215797981;16059;6798394;9;21
+r;479567764;16059;17585882;66;21
+r;479567768;16059;17585880;66;21
+r;431442429;16059;145655;0;20
+r;431442430;16059;61185;0;20
+r;431442431;16059;253706;0;20
+r;431442432;16059;15209341;0;20
+r;478326341;16059;17514717;24;19
+r;478121177;16059;37298;32;17
+r;442215776;16059;16789943;128;17
+r;9261042;16059;317329;36;16
+r;100157477;16059;4503049;128;13
+r;414666313;16059;15741172;0;10
+r;414666314;16059;8044215;0;10
+r;414666315;16059;315;0;10
+r;414666316;16059;8027086;0;10
+r;414666317;16059;2388316;0;10
+r;414666320;16059;57592;0;10
+r;414666325;16059;677029;0;10
+r;414666326;16059;440833;0;10
+r;414666327;16059;95245;0;10
+r;414666328;16059;268000;0;10
+r;414666329;16059;139209;0;10
+r;414666332;16059;8040069;0;10
+r;414666333;16059;8040040;0;10
+r;414666334;16059;8040039;0;10
+r;414666335;16059;8040038;0;10
+r;432862571;16059;104993;0;10
+r;414666301;16059;7608352;5;10
+r;414666302;16059;15107255;5;10
+r;414666303;16059;15107256;5;10
+r;414666304;16059;14926283;5;10
+r;414666305;16059;6949828;5;10
+r;414666307;16059;15107257;5;10
+r;414666309;16059;440833;5;10
+r;414666310;16059;677029;5;10
+r;414666318;16059;2388316;5;10
+r;414666319;16059;57592;5;10
+r;414666324;16059;315;5;10
+r;458591068;16059;8040069;5;10
+r;414666306;16059;14950824;6;10
+r;414666308;16059;7290864;6;10
+r;414666311;16059;221983;6;10
+r;414666330;16059;95245;6;10
+r;432862572;16059;104993;6;10
+r;432862573;16059;135936;6;10
+r;432862574;16059;5670409;6;10
+r;432862583;16059;43504;17;10
+r;432862584;16059;81384;17;10
+r;432862585;16059;19062;17;10
+r;479569464;16059;17585881;24;10
+r;479569465;16059;17585876;24;10
+r;479569466;16059;17585871;24;10
+r;479569467;16059;17585869;24;10
+r;432862586;16059;60748;24;10
+r;414666331;16059;8040043;444;10
+r;414666746;16059;7437598;444;10
+r;6686244;16059;30260;777;10
+r;6686245;16059;11575;777;10
+r;6686247;16059;130949;777;10
+r;6686249;16059;145633;777;10
+r;6686251;16059;103389;777;10
+r;6686253;16059;19998;777;10
+r;6686255;16059;91876;777;10
+r;18796015;16059;415954;777;10
+r;18796017;16059;420228;777;10
+r;18796019;16059;404805;777;10
+r;232750673;16059;169651;777;10
+r;78906067;16059;166262;15;9
+r;213826440;16059;86557;17;9
+r;478005168;16059;17514718;66;9
+r;478005172;16059;17514716;66;9
+r;284373599;16059;219068;999;9
+r;27328501;16059;254878;36;8
+r;285145747;16059;231390;999;8
+r;419245371;16059;24956;0;7
+r;419245372;16059;244620;0;7
+r;478005068;16059;17514713;66;7
+r;478135143;16059;17525083;66;7
+r;105637314;16059;5111683;128;7
+r;425297658;16059;16182650;128;7
+r;85828510;16059;2936825;0;6
+r;104957022;16059;1803620;15;6
+r;213826441;16059;6814965;17;6
+r;213826442;16059;6810075;17;6
+r;298772265;16059;4333487;0;5
+r;98855773;16059;3804959;17;5
+r;190321765;16059;8854579;128;5
+r;190322467;16059;8854619;128;5
+r;365271640;16059;14381830;140;5
+r;480358226;16059;17610882;140;5
+r;480440891;16059;17616841;140;5
+r;480461418;16059;17618120;140;5
+r;285446149;16059;1885376;999;5
+r;285446178;16059;219013;999;5
+r;285446206;16059;219014;999;5
+r;285446231;16059;219012;999;5
+r;213792516;16059;405965;9;4
+r;411570436;16059;126613;9;4
+r;98387973;16059;162866;17;4
+r;104909934;16059;1569363;17;4
+r;478169047;16059;17528125;140;4
+r;97855928;16059;116980;9;3
+r;442240043;16059;14959025;10;3
+r;212936917;16059;6365345;17;3
+r;212936918;16059;15784;17;3
+r;212936919;16059;6321986;17;3
+r;104916861;16059;5045540;128;3
+r;73891727;16059;2975344;128;3
+r;190321977;16059;8854590;128;3
+r;190321989;16059;8854593;128;3
+r;190322031;16059;8854605;128;3
+r;190322096;16059;8854608;128;3
+r;190322381;16059;8854613;128;3
+r;190322444;16059;8854616;128;3
+r;190329410;16059;8854674;128;3
+r;324267939;16059;12668561;128;3
+r;324268083;16059;12668565;128;3
+r;324268462;16059;12668576;128;3
+r;324268737;16059;12668589;128;3
+r;426990948;16059;16277726;128;3
+r;364766472;16059;14346381;140;3
+r;365452236;16059;14389353;140;3
+r;365457715;16059;14389409;140;3
+r;367714570;16059;14474828;140;3
+r;480444189;16059;17617142;140;3
+r;480448086;16059;17617503;140;3
+r;376158781;16059;61490;0;2
+r;416774235;16059;15359480;9;2
+r;432945110;16059;14918011;9;2
+r;84247302;16059;3335731;140;2
+r;367459836;16059;14473419;140;2
+r;439472738;16059;16718617;140;2
+r;478020588;16059;17515849;140;2
+r;478032632;16059;17516814;140;2
+r;478198757;16059;17531740;140;2
+r;480431037;16059;17615889;140;2
+r;480583195;16059;17625735;140;2
+r;286078666;16059;10622136;999;2
+r;286078769;16059;231388;999;2
+r;416905750;16059;79894;9;1
+r;416920203;16059;9928893;9;1
+r;432509321;16059;16167062;9;1
+r;480354181;16059;17610124;24;1
+r;479567628;16059;17585870;66;1
+r;479567775;16059;17585877;66;1
+r;479567779;16059;17585875;66;1
+r;73891731;16059;2975345;128;1
+r;73923432;16059;2980902;128;1
+r;73923633;16059;2980940;128;1
+r;73923638;16059;2980941;128;1
+r;73923643;16059;2980942;128;1
+r;73923695;16059;2980950;128;1
+r;73923776;16059;2980969;128;1
+r;73923987;16059;2981015;128;1
+r;73923992;16059;2981016;128;1
+r;190321770;16059;8854580;128;1
+r;190321999;16059;8854596;128;1
+r;190322037;16059;8854606;128;1
+r;190322247;16059;8854609;128;1
+r;190322308;16059;8854610;128;1
+r;190322362;16059;8854612;128;1
+r;190322392;16059;8854615;128;1
+r;190322497;16059;8854622;128;1
+r;190322847;16059;8854641;128;1
+r;190323316;16059;8854652;128;1
+r;213948812;16059;9476984;128;1
+r;349009909;16059;13808833;128;1
+r;428891860;16059;16319091;128;1
+r;442240073;16059;16793462;128;1
+r;456579027;16059;17112050;128;1
+r;372289530;16059;14650246;140;1
+r;410278470;16059;15787015;140;1
+r;440104574;16059;16747475;140;1
+r;440219616;16059;16759166;140;1
+r;440229073;16059;16759289;140;1
+r;440245483;16059;16759528;140;1
+r;440250057;16059;16759566;140;1
+r;440711670;16059;16768196;140;1
+r;461020943;16059;17162706;140;1
+r;478064430;16059;17520085;140;1
+r;478223626;16059;17534642;140;1
+r;479578016;16059;17586604;140;1
+r;480494625;16059;17619271;140;1
+r;480499431;16059;17619511;140;1
+r;480538174;16059;17622634;140;1
+r;414666312;16059;15741172;5;-10
+r;190322475;16059;47918;25;-10
+r;74377128;16059;139779;0;-21
+r;92829092;16059;16747;0;-21
+r;74377096;16059;74846;0;-24
+r;74377056;16059;225934;0;-26
+r;74377080;16059;140715;0;-26
+r;74377088;16059;95422;0;-27
+r;74377592;16059;144846;0;-27
+r;74377064;16059;77424;0;-28
+r;74377072;16059;107477;0;-28
+r;74377686;16059;26363;0;-28
+r;74377048;16059;34898;0;-29
+r;74377648;16059;142086;0;-30
+r;98711854;16059;19356;0;-30
+r;74377020;16059;77008;0;-31
+
+// END
+</code>]

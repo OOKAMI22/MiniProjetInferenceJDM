@@ -1,0 +1,60 @@
+[<code>
+// DUMP pour le terme 'miauler' (eid=47540)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Se dit du chat qui fait entendre le cri propre à son espèce.<br> 
+ J'entends un chat qui miaule.  
+</br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;47540;'miauler';1;430
+e;8749650;'crier pour un animal';1;0
+e;15042901;'en:let loose';1;0
+e;15059747;'en:let out';1;0
+e;14937464;'en:utter';1;0
+e;15061015;'en:emit';1;0
+e;14931059;'en:cry';1;0
+e;166485;'pousser un cri';1;68
+e;7440898;'en:call';1;0
+e;15058085;'en:hollo';1;0
+e;14940586;'en:squall';1;0
+e;14931064;'en:shout';1;0
+e;14923753;'en:holler';1;0
+e;15058084;'en:shout out';1;0
+e;14925024;'en:scream';1;0
+e;14928537;'en:yell';1;0
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 15 relations sortantes 
+
+r;178699362;47540;8749650;6;41
+r;402749604;47540;15042901;6;25
+r;402749603;47540;15059747;6;25
+r;402749602;47540;14937464;6;25
+r;402749601;47540;15061015;6;25
+r;402749600;47540;14931059;6;25
+r;479567522;47540;166485;6;25
+r;405325282;47540;7440898;6;10
+r;405325281;47540;15058085;6;10
+r;405325280;47540;14940586;6;10
+r;405325279;47540;14931064;6;10
+r;405325278;47540;14923753;6;10
+r;405325277;47540;15058084;6;10
+r;405325276;47540;14925024;6;10
+r;405325275;47540;14928537;6;10
+
+// END
+</code>]

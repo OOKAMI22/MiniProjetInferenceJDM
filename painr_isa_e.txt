@@ -1,0 +1,67 @@
+[<code>
+// DUMP pour le terme 'pain' (eid=61283)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Le pain est l'aliment de base traditionnel de nombreuses cultures. Il est fabriqué à partir de farine et d'eau et contient généralement du sel. D'autres ingrédients s'ajoutent selon le type de pain et la manière dont il est préparé culturellement. Lorsqu'on ajoute le levain ou la levure, la pâte du pain est soumise à un gonflement dû à la fermentation.
+</br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;61283;'pain';1;3616
+e;114637;'aliment';1;1578
+e;189981;'ingrédient de cuisine';1;66
+e;122738;'féculent';1;100
+e;238180;'aliment périssable';1;20
+e;191775;'aliment de base';1;52
+e;20965;'nourriture';1;3820
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;2587823;'aliment&gt;2587820';1;122;'aliment&gt;ce qui se mange'
+e;255460;'produit de boulangerie';1;50
+e;136559;'produit alimentaire';1;82
+e;1380412;'spécialité française';1;6
+e;34069;'pâte';1;2905
+e;41417;'coup';1;3552
+e;23241;'bouffe';1;450
+e;117152;'soupe';1;1895
+e;157284;'lieu&gt;68467';1;58;'lieu&gt;poisson'
+e;227591;'soupe&gt;93138';1;214;'soupe&gt;potage'
+e;135190;'lieu';1;3861
+e;18283;'céréale';1;622
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 19 relations sortantes 
+
+r;204776;61283;114637;6;247
+r;631841;61283;189981;6;194
+r;204773;61283;122738;6;190
+r;9918771;61283;238180;6;188
+r;742345;61283;191775;6;186
+r;9900008;61283;20965;6;179
+r;93822518;61283;3762435;6;110
+r;273116537;61283;2587823;6;68
+r;80715905;61283;255460;6;52
+r;30571140;61283;136559;6;41
+r;23406761;61283;1380412;6;35
+r;96715952;61283;34069;6;34
+r;478447426;61283;41417;6;6
+r;9899392;61283;23241;6;-13
+r;350105988;61283;117152;6;-25
+r;11945864;61283;157284;6;-25
+r;350105952;61283;227591;6;-30
+r;629591;61283;135190;6;-186
+r;9915736;61283;18283;6;-191
+
+// END
+</code>]

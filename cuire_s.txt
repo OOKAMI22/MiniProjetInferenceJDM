@@ -1,0 +1,4748 @@
+[<code>
+// DUMP pour le terme 'cuire' (eid=5115)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+</def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;2;'n_form'
+nt;8;'n_chunk'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;5115;'cuire';1;1713
+e;16033;'cuisine';1;11756
+e;260032;'cuire&gt;16033';1;138;'cuire&gt;cuisine'
+e;9190;'four';1;2415
+e;38234;'croissant';1;1464
+e;143703;'feu';1;4345
+e;75156;'brûler';1;838
+e;24589;'mijoter';1;264
+e;214428;'tomate farcie';1;50
+e;214277;'plaque de cuisson';1;58
+e;59151;'cuisinière';1;640
+e;57253;'casserole';1;942
+e;71439;'tartelette';1;144
+e;12942;'gratin';1;266
+e;46367;'griller';1;396
+e;179691;'électro-ménager';1;44
+e;93319;'électroménager';1;404
+e;250822;'cuire au four';1;16
+e;2771015;'tomber&gt;143757';1;0;'tomber&gt;art culinaire'
+e;56362;'gras';1;2597
+e;252380;'cuire à la vapeur';1;16
+e;11882;'étuver';1;58
+e;249316;'cuire à feu doux';1;2
+e;8936207;'en:fried egg';1;0
+e;36327;'plat';1;3800
+e;249315;'cuire à petit feu';1;50
+e;80199;'cuisiner';1;1890
+e;56172;'poisson rouge';1;206
+e;6913474;'en:goldfish';1;0
+e;132551;'rôtir';1;258
+e;90994;'chauffer';1;872
+e;15420111;'en:as flat as a pancake';1;0
+e;44137;'lentille';1;263
+e;271417;'cuire à l'eau';1;16
+e;263942;'cuire à feu vif';1;52
+e;261654;'chocolat à cuire';1;50
+e;260521;'cuire au court-bouillon';1;16
+e;260110;'faire cuire au bain-marie';1;50
+e;210735;'en moins de temps qu'il n'en faut pour cuire des asperges';1;50
+e;198194;'cuire le pain';1;50
+e;156028;'oeuf dur';1;192
+e;185896;'cuire du linge';1;54
+e;14951746;'en:hard-boiled egg';1;0
+e;117389;'dur à cuire';1;66
+e;2092;'fricoter';1;50
+e;30536;'faire cuire';1;180
+e;66016;'fricasser';1;52
+e;226917;'passer à la casserole';1;110
+e;2586021;'oeuf miroir';1;12
+e;15439827;'oeuf au miroir';1;0
+e;214838;'escalope panée';1;38
+e;15260319;'en:breaded cutlet';1;0
+e;3706225;'cuire à four trop chaud';1;0
+e;16444;'purée';1;462
+e;436989;'escalope de poulet';1;76
+e;217715;'cuisinière&gt;154055';1;92;'cuisinière&gt;appareil de cuisson'
+e;234074;'cuisson à la vapeur';1;46
+e;15047673;'en:chicken breast';1;0
+e;15364573;'en:steam cooking';1;0
+e;227897;'fondue&gt;43125';1;10;'fondue&gt;gastronomie'
+e;242156;'cuisson vapeur';1;132
+e;126363;'blanc de poulet';1;130
+e;215004;'pomme&gt;87286';1;344;'pomme&gt;fruit'
+e;216973;'huile végétale';1;94
+e;119014;'boulangerie';1;1438
+e;7351543;'en:plant oil';1;0
+e;151759;'tarte aux pommes';1;132
+e;211451;'papier d'argent';1;54
+e;14952939;'en:aluminium foil';1;0
+e;213609;'papier aluminium';1;4
+e;15132966;'en:apple pie';1;0
+e;270251;'papier d'aluminium';1;50
+e;14952940;'en:aluminum foil';1;0
+e;15385187;'en:silver foil';1;0
+e;8290;'nouille';1;210
+e;42582;'flamber';1;142
+e;34516;'mitonner';1;94
+e;191722;'steak haché';1;208
+e;97901;'feu de bois';1;104
+e;154264;'gâteau au chocolat';1;452
+e;14028484;'robot cuiseur';1;0
+e;191721;'filet mignon';1;34
+e;270252;'papier d'alu';1;54
+e;8061837;'en:minced beef';1;0
+e;15062312;'en:beefburger';1;0
+e;8052392;'en:burger';1;0
+e;14941467;'en:hamburger';1;0
+e;8085258;'en:chocolate cake';1;0
+e;15146887;'en:steaming';1;0
+e;15300774;'feuille de papier alu';1;0
+e;15385188;'en:kitchen foil';1;0
+e;15072519;'en:campfire';1;0
+e;15118584;'en:filet mignon';1;0
+e;15214443;'en:multicooker';1;0
+e;155199;'piqûre d'insecte';1;60
+e;19288;'gratter';1;576
+e;15107321;'en:insect bite';1;0
+e;332137;'cuire dans son jus&gt;16033';1;50;'cuire dans son jus&gt;cuisine'
+e;80010;'saisir';1;435
+e;154378;'feu de camp';1;146
+e;55046;'papier alu';1;62
+e;15054599;'en:ground beef';1;0
+e;15414034;'film aluminium';1;0
+e;15385189;'en:cooking foil';1;0
+e;107499;'bavette';1;102
+e;54408;'à la vapeur';1;82
+e;374270;'prêt à cuire';1;50
+e;332139;'cuire dans son jus&gt;329909';1;50;'cuire dans son jus&gt;crever de chaleur'
+e;332128;'cuire dans son jus';1;50
+e;3263355;'cuisinier&gt;20965&gt;116477';1;2;'cuisinier&gt;nourriture&gt;personne'
+e;3705263;'laisser brûler le plat';1;2
+e;42042;'calciner';1;80
+e;82595;'frire';1;236
+e;154175;'four à pain';1;100
+e;263322;'pâtes fraîches';1;56
+e;217015;'côte à l'os';1;2
+e;213758;'baguette&gt;61283';1;244;'baguette&gt;pain'
+e;97162;'mûrir';1;178
+e;260105;'cuit au four';1;164
+e;332138;'cuire dans son jus&gt;116480';1;50;'cuire dans son jus&gt;se morfondre'
+e;252334;'légumes vapeur';1;16
+e;16607746;'::&gt;14:324120&gt;29:5115';8;0;'cuire [objet] épaule d'agneau'
+e;16600574;'::&gt;13:116477&gt;29:5115';8;0;'cuire [sujet] personne'
+e;16599066;'::&gt;13:59151&gt;29:5115';8;0;'cuire [sujet] cuisinière'
+e;16598115;'::&gt;13:163616&gt;29:5115';8;0;'cuire [sujet] père de famille'
+e;16598106;'::&gt;14:215198&gt;29:5115';8;0;'cuire [objet] gratin&gt;cuisine'
+e;16598094;'::&gt;14:12942&gt;29:5115';8;0;'cuire [objet] gratin'
+e;16597790;'::&gt;14:158577&gt;29:5115';8;0;'cuire [objet] plats'
+e;16597788;'::&gt;13:217715&gt;29:5115';8;0;'cuire [sujet] cuisinière&gt;appareil de cuisson'
+e;16559563;'::&gt;14:164790&gt;29:5115';8;0;'cuire [objet] biscuits'
+e;16559561;'::&gt;13:31618&gt;29:5115';8;0;'cuire [sujet] pâtissier'
+e;16559483;'::&gt;14:28945&gt;29:5115';8;0;'cuire [objet] cake'
+e;16559478;'::&gt;14:2149&gt;29:5115';8;0;'cuire [objet] gâteau'
+e;16559459;'::&gt;14:19636&gt;29:5115';8;0;'cuire [objet] rôti'
+e;16559454;'::&gt;14:68467&gt;29:5115';8;0;'cuire [objet] poisson'
+e;16559449;'::&gt;14:140100&gt;29:5115';8;0;'cuire [objet] viande'
+e;16559444;'::&gt;14:177321&gt;29:5115';8;0;'cuire [objet] préparation culinaire'
+e;16559437;'::&gt;14:2447&gt;29:5115';8;0;'cuire [objet] truite'
+e;14935866;'en:rib steak';1;0
+e;15195163;'en:baker's oven';1;0
+e;15220148;'en:fresh pasta';1;0
+e;218827;'magret de canard';1;104
+e;163795;'oeuf au plat';1;98
+e;242160;'oeuf sur le plat';1;14
+e;140100;'viande';1;5110
+e;61283;'pain';1;3616
+e;36246;'préparer';1;2268
+e;12538;'cramer';1;160
+e;15849073;'::&gt;13:61283&gt;29:5115';8;0;'cuire [sujet] pain'
+e;15761857;'::&gt;31:321894&gt;29:5115';8;0;'cuire [endroit] camion à pizza'
+e;14326649;'::&gt;31:9190&gt;29:5115';8;0;'cuire [endroit] four'
+e;15761854;'::&gt;14:109533&gt;29:5115';8;0;'cuire [objet] pizza'
+e;15761852;'::&gt;13:3373903&gt;29:5115';8;0;'cuire [sujet] pizzaiolo'
+e;15068456;'en:bake';1;2
+e;3692729;'cuire à four chaud';1;0
+e;162270;'oeuf mollet';1;118
+e;46070;'coup de soleil';1;188
+e;138954;'huile d'olive';1;650
+e;29352;'braiser';1;62
+e;15261116;'en:log fire';1;0
+e;6935484;'en:olive oil';1;0
+e;8055017;'en:pork';1;0
+e;14951742;'en:soft-boiled egg';1;0
+e;6822259;'en:sunburn';1;0
+e;16168839;'::&gt;31:5304379&gt;29:5115';8;0;'cuire [endroit] four&gt;système de chauffage'
+e;16242226;'::&gt;14:24372&gt;29:5115';8;0;'cuire [objet] riz'
+e;16242224;'::&gt;13:34713&gt;29:5115';8;0;'cuire [sujet] japonais'
+e;16184158;'::&gt;14:177326&gt;29:5115';8;0;'cuire [objet] gratin dauphinois'
+e;16168865;'::&gt;14:128482&gt;29:5115';8;0;'cuire [objet] baguette'
+e;16168850;'::&gt;14:322870&gt;29:5115';8;0;'cuire [objet] plat chaud'
+e;16168844;'::&gt;14:13151&gt;29:5115';8;0;'cuire [objet] quiche'
+e;28945;'cake';1;136
+e;395493;'cuire à blanc';1;50
+e;2579000;'blé complet';1;0
+e;42401;'bouillir';1;280
+e;16066109;'::&gt;13:106182&gt;29:5115';8;0;'cuire [sujet] gigot'
+e;16066104;'::&gt;13:68467&gt;29:5115';8;0;'cuire [sujet] poisson'
+e;16066094;'::&gt;13:140188&gt;29:5115';8;0;'cuire [sujet] brioche'
+e;157579;'oeuf à la coque';1;180
+e;155356;'viande de porc';1;146
+e;212713;'four à micro-ondes';666;78
+e;317152;'cuiseur de riz';1;50
+e;68467;'poisson';1;7106
+e;232084;'jus de cuisson';1;58
+e;14883321;'::&gt;31:142367&gt;29:5115';8;0;'cuire [endroit] pot'
+e;14884664;'::&gt;31:177318&gt;29:5115';8;0;'cuire [endroit] wok'
+e;15247412;'en:wholewheat';1;0
+e;15432141;'en:whole wheat';1;0
+e;15440008;'en:cooking juices';1;0
+e;15261117;'en:wood fire';1;0
+e;15102565;'en:tinfoil';1;0
+e;14883319;'::&gt;14:20621&gt;29:5115';8;0;'cuire [objet] aliments'
+e;14883317;'::&gt;13:225916&gt;29:5115';8;0;'cuire [sujet] personne&gt;être humain'
+e;15207610;'en:duck breast';1;0
+e;257843;'faire un gâteau';1;122
+e;11380;'bronzer';1;424
+e;15386;'citron';1;1102
+e;49407;'réchaud';1;124
+e;16789286;'::&gt;16:2707989&gt;29:5115';8;0;'cuire [avec] barbecue&gt;appareil de cuisson'
+e;16789281;'::&gt;16:95126&gt;29:5115';8;0;'cuire [avec] barbecue'
+e;16789275;'::&gt;16:250257&gt;29:5115';8;0;'cuire [avec] bbq'
+e;16789273;'::&gt;14:164797&gt;29:5115';8;0;'cuire [objet] côte de boeuf'
+e;401153;'cuites';1;60
+e;99279;'rissoler';1;94
+e;345608;'cuisson au bleu';1;50
+e;5002306;'cuire doucement';1;0
+e;79364;'sauter';1;1030
+e;114637;'aliment';1;1578
+e;233049;'pain&gt;119014';1;294;'pain&gt;boulangerie'
+e;260102;'cuisson à l'étouffée';1;50
+e;15136559;'en:wholemeal';1;0
+e;6994213;'en:aluminum';1;0
+e;14925016;'en:poaching';1;0
+e;270567;'saumon&gt;68467&gt;43125';1;56;'saumon&gt;poisson&gt;gastronomie'
+e;279506;'Côte à l'os';777;50
+e;3179891;'T-bone steak';1;0
+e;237789;'T-bone steack';1;2
+e;2558916;'t-bone';1;0
+e;55511;'T-bone';1;162
+e;117557;'piquer';1;1126
+e;232085;'graisse de cuisson';1;50
+e;14486143;'::&gt;13:117152&gt;29:5115';8;0;'cuire [sujet] soupe'
+e;14485192;'::&gt;13:109533&gt;29:5115';8;0;'cuire [sujet] pizza'
+e;5331430;'cuire à couvert';1;0
+e;589331;'sur feu vif';1;0
+e;14417114;'::&gt;31:228770&gt;29:5115';8;0;'cuire [endroit] four&gt;système de chauffage&gt;cuisine'
+e;14471075;'::&gt;14:158591&gt;29:5115';8;0;'cuire [objet] pommes de terre'
+e;14417105;'::&gt;14:575&gt;29:5115';8;0;'cuire [objet] tarte'
+e;259967;'à feu vif';1;6
+e;14325030;'::&gt;31:3260867&gt;29:5115';8;0;'cuire [endroit] récipient de cuisson'
+e;14386685;'::&gt;31:119686&gt;29:5115';8;0;'cuire [endroit] poêle'
+e;14400704;'::&gt;31:141971&gt;29:5115';8;0;'cuire [endroit] huile'
+e;14400712;'::&gt;31:146096&gt;29:5115';8;0;'cuire [endroit] marmite'
+e;14400710;'::&gt;14:67056&gt;29:5115';8;0;'cuire [objet] pot-au-feu'
+e;14400702;'::&gt;14:151972&gt;29:5115';8;0;'cuire [objet] frites'
+e;14400699;'::&gt;13:68439&gt;29:5115';8;0;'cuire [sujet] individu'
+e;14386683;'::&gt;13:140100&gt;29:5115';8;0;'cuire [sujet] viande'
+e;14363897;'::&gt;14:61283&gt;29:5115';8;0;'cuire [objet] pain'
+e;14363895;'::&gt;13:145285&gt;29:5115';8;0;'cuire [sujet] boulanger'
+e;14326655;'::&gt;16:9190&gt;29:5115';8;0;'cuire [avec] four'
+e;14326647;'::&gt;14:146261&gt;29:5115';8;0;'cuire [objet] poulet'
+e;14326645;'::&gt;13:118790&gt;29:5115';8;0;'cuire [sujet] cuisinier'
+e;14325028;'::&gt;13:114637&gt;29:5115';8;0;'cuire [sujet] aliment'
+e;128482;'baguette';1;1932
+e;250816;'cuisson au four';1;6
+e;589329;'sur feu moyen';1;0
+e;15165274;'Carassin doré';777;0
+e;15327707;'en:oven cooking';1;0
+e;9904408;'en:microwave oven';1;0
+e;7305914;'en:dripping';1;0
+e;170958;'carassin doré';1;18
+e;182534;'four micro-onde';1;52
+e;21742;'hamburger';1;482
+e;140377;'beurre';1;2563
+e;17041751;'::&gt;14:218827&gt;29:5115';8;0;'cuire [objet] magret de canard'
+e;164797;'côte de boeuf';1;258
+e;215088;'sardine&gt;68467';1;40;'sardine&gt;poisson'
+e;122904;'étouffer';1;276
+e;105995;'légumes';1;1749
+e;250821;'four à vapeur';1;8
+e;241440;'passer à la casserole&gt;16033';1;50;'passer à la casserole&gt;cuisine'
+e;17402953;'::&gt;13:2951610&gt;29:5115';8;0;'cuire [sujet] cuisinier&gt;nourriture'
+e;17402702;'::&gt;14:105995&gt;29:5115';8;0;'cuire [objet] légumes'
+e;17402512;'::&gt;13:3263355&gt;29:5115';8;0;'cuire [sujet] cuisinier&gt;nourriture&gt;personne'
+e;384583;'tranche de foie';1;56
+e;17402458;'::&gt;14:384583&gt;29:5115';8;0;'cuire [objet] tranche de foie'
+e;217141;'boeuf haché';1;62
+e;2951610;'cuisinier&gt;20965';1;14;'cuisinier&gt;nourriture'
+e;324120;'épaule d'agneau';1;52
+e;16600573;'::&gt;66:116477&gt;24:5115';8;0;'personne [peut] cuire'
+e;94613;'boucaner';1;54
+e;40148;'cuisine chinoise';1;370
+e;218235;'cocotte&gt;152067';1;96;'cocotte&gt;ustensile de cuisine'
+e;215198;'gratin&gt;16033';1;76;'gratin&gt;cuisine'
+e;158577;'plats';1;942
+e;53872;'frissonner';1;294
+e;163616;'père de famille';1;118
+e;164790;'biscuits';1;82
+e;19636;'rôti';1;364
+e;14326646;'::&gt;66:118790&gt;24:5115';8;0;'cuisinier [peut] cuire'
+e;160927;'morceau de viande';1;150
+e;2149;'gâteau';1;3674
+e;17402952;'::&gt;66:2951610&gt;24:5115';8;0;'cuisinier&gt;nourriture [peut] cuire'
+e;17402513;'::&gt;66:3263355&gt;24:5115';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire'
+e;31618;'pâtissier';1;490
+e;2447;'truite';1;424
+e;80591;'grill';1;202
+e;183583;'pâte à sel';1;52
+e;177321;'préparation culinaire';1;464
+e;3359865;'cake au chocolat';1;68
+e;15420880;'en:chocolate gateau';1;0
+e;4490007;'cuisine vapeur';1;0
+e;15419940;'en:camp fire';1;0
+e;15275116;'en:Chinese food';1;0
+e;15299300;'en:salt dough';1;0
+e;14931277;'en:grill';1;0
+e;15313712;'en:rangette';1;0
+e;15313713;'en:food warmer';1;0
+e;5997;'carboniser';1;64
+e;143548;'cheminée';1;1316
+e;49021;'réchauffer';1;730
+e;233162;'argile cuite';1;2
+e;130255;'potier';1;362
+e;86128;'confiseur';1;116
+e;78365;'gaz';1;3577
+e;34994;'poterie';1;386
+e;116477;'personne';1;10307
+e;16599065;'::&gt;66:59151&gt;24:5115';8;0;'cuisinière [peut] cuire'
+e;16598116;'::&gt;66:163616&gt;24:5115';8;0;'père de famille [peut] cuire'
+e;16597789;'::&gt;66:217715&gt;24:5115';8;0;'cuisinière&gt;appareil de cuisson [peut] cuire'
+e;3373903;'pizzaiolo';1;2
+e;109533;'pizza';1;602
+e;177326;'gratin dauphinois';1;42
+e;16559562;'::&gt;66:31618&gt;24:5115';8;0;'pâtissier [peut] cuire'
+e;117152;'soupe';1;1895
+e;214839;'escalope de veau';1;24
+e;15414229;'en:tin-foil';1;0
+e;15849074;'::&gt;66:61283&gt;24:5115';8;0;'pain [peut] cuire'
+e;339285;'blanc de volaille';1;44
+e;14924799;'en:boil';1;0
+e;15222510;'en:veal cutlet';1;0
+e;260033;'cuire&gt;34994';1;50;'cuire&gt;poterie'
+e;3260867;'récipient de cuisson';1;2
+e;322870;'plat chaud';1;56
+e;13151;'quiche';1;144
+e;15431621;'Va te faire cuire un oeuf !';1;0
+e;15761853;'::&gt;66:3373903&gt;24:5115';8;0;'pizzaiolo [peut] cuire'
+e;20621;'aliments';1;2130
+e;14883318;'::&gt;66:225916&gt;24:5115';8;0;'personne&gt;être humain [peut] cuire'
+e;14561181;'::&gt;31:57253&gt;29:5115';8;0;'cuire [endroit] casserole'
+e;2951338;'mettre à cuire';1;0
+e;106682;'digérer';1;364
+e;34713;'japonais';1;3478
+e;225916;'personne&gt;24956';1;720;'personne&gt;être humain'
+e;62543;'infuser';1;150
+e;24372;'riz';1;2078
+e;106182;'gigot';1;150
+e;140188;'brioche';1;398
+e;14486144;'::&gt;66:117152&gt;24:5115';8;0;'soupe [peut] cuire'
+e;14485193;'::&gt;66:109533&gt;24:5115';8;0;'pizza [peut] cuire'
+e;151972;'frites';1;586
+e;14400701;'::&gt;66:68439&gt;24:5115';8;0;'individu [peut] cuire'
+e;14363896;'::&gt;66:145285&gt;24:5115';8;0;'boulanger [peut] cuire'
+e;14325029;'::&gt;66:114637&gt;24:5115';8;0;'aliment [peut] cuire'
+e;8741509;'aliment cru';1;0
+e;115155;'foie';1;1395
+e;67147;'dorer';1;120
+e;142367;'pot';1;978
+e;102053;'poêler';1;50
+e;9603525;'buf aux légumes';1;0
+e;14562817;'chauffer (réchauffer)';1;2
+e;67056;'pot-au-feu';1;212
+e;68439;'individu';1;6130
+e;145285;'boulanger';1;1114
+e;1668520;'se faire un café';1;20
+e;317162;'four traditionnel';1;52
+e;1690977;'cuisson par concentration';1;0
+e;146261;'poulet';1;1900
+e;2878422;'casserole&gt;16033&gt;121002';1;10;'casserole&gt;cuisine&gt;ustensile'
+e;11651;'clou';1;852
+e;94327;'blondir';1;88
+e;126875;'faire sauter';1;128
+e;158591;'pommes de terre';1;400
+e;214272;'soupe au chou';1;4
+e;110821;'cannibale';1;140
+e;118790;'cuisinier';1;1020
+e;214022;'agneau&gt;140100';1;68;'agneau&gt;viande'
+e;234593;'faire bouillir';1;66
+e;575;'tarte';1;1126
+e;35999;'fumer';1;1238
+e;65012;'eau';1;11222
+e;8824;'roussir';1;58
+e;14535580;'cuisinière au gaz';1;0
+e;15422537;'en:Go jump in a lake!';1;0
+e;15082727;'en:vegetable oil';1;0
+e;15463600;'retirer les marrons du feu';1;0
+e;15250120;'en:carinate breast';1;0
+e;15063121;'en:steakhouse';1;0
+e;15220149;'en:pastas';1;0
+e;1858814;'thorax en bréchet';777;0
+e;15053070;'en:tough guy';1;0
+e;7288150;'en:pasta';1;0
+e;219508;'kouign aman';1;96
+e;291168;'kouignoù-amann';777;50
+e;2389555;'kouign-aman';1;0
+e;3369259;'saucisson à cuire au beaujolais';1;0
+e;3205489;'cuire sous-vide';1;0
+e;291167;'kouign-amann';777;50
+e;225830;'gril&gt;152067';1;78;'gril&gt;ustensile de cuisine'
+e;589330;'sur feu doux';1;0
+e;50967;'biscuiter';1;50
+e;2165588;'cuisissent';2;0
+e;2165586;'cuisis';2;0
+e;2165487;'cuira';2;0
+e;115796;'pâtes';1;480
+e;1969868;'laisser cuire doucement sans couvercle';1;0
+e;1936241;'cuire en sauce';1;0
+e;1936240;'cuire à la goutte d'eau';1;0
+e;160334;'saucisses';1;122
+e;437173;'laisser cuire';1;50
+e;216927;'kouign amann';1;2
+e;108171;'kouingn-amann';1;50
+e;260963;'flambage&gt;16033';1;50;'flambage&gt;cuisine'
+e;132757;'pomme de terre';1;1160
+e;25966;'pâtisserie';1;2552
+e;39149;'cuir';1;1700
+e;141161;'tuile';1;340
+e;4575;'enfourner';1;138
+e;16242225;'::&gt;66:34713&gt;24:5115';8;0;'japonais [peut] cuire'
+e;3752212;'cailles prêtes à cuire ni bardées ni ficelées';1;0
+e;3755665;'belles cailles prêtes à cuire';1;0
+e;4467129;'pierre à cuire';1;6
+e;2165592;'cuisit';2;0
+e;2165591;'cuisissions';2;0
+e;2165532;'cuirons';2;0
+e;2165531;'cuirions';2;0
+e;89760;'fruits';1;3148
+e;5295;'compote';1;280
+e;140202;'cuite';1;337
+e;19150;'chaud';1;2761
+e;16066110;'::&gt;66:106182&gt;24:5115';8;0;'gigot [peut] cuire'
+e;16066105;'::&gt;66:68467&gt;24:5115';8;0;'poisson [peut] cuire'
+e;16066095;'::&gt;66:140188&gt;24:5115';8;0;'brioche [peut] cuire'
+e;2355240;'cuisson de la viande';1;0
+e;3745933;'comment cuire des pois chiches secs';1;0
+e;2950505;'cuire à l'eau bouillante';1;0
+e;11952;'blini';1;58
+e;267295;'viande marinée';1;50
+e;2165544;'cuisent';2;0
+e;2165490;'cuirais';2;0
+e;2165534;'cuis';2;0
+e;1972089;'cuisez';1;0
+e;60056;'cuisson';1;1728
+e;229419;'eau bouillante';1;150
+e;14417110;'::&gt;31:9190&gt;29:14417105';8;0;'cuire [objet] tarte [endroit] four'
+e;14386684;'::&gt;66:140100&gt;24:5115';8;0;'viande [peut] cuire'
+e;3753905;'pommes à cuire ou à tarte';1;0
+e;3755553;'petits carrés de chocolat à cuire';1;0
+e;3758311;'pommes à cuire pelées épépinées et coupées en tranches';1;0
+e;20537;'attacher';1;944
+e;79307;'faire revenir';1;152
+e;71325;'renverser';1;198
+e;2165585;'cuisirent';2;0
+e;2165599;'cuisîtes';2;0
+e;2165590;'cuisissiez';2;0
+e;2165537;'cuisaient';2;0
+e;2165529;'cuirez';2;0
+e;2165488;'cuirai';2;0
+e;152985;'riz blanc';1;106
+e;396983;'cuits';1;62
+e;214275;'cuisine&gt;143757';1;2032;'cuisine&gt;art culinaire'
+e;253369;'à feu doux';1;84
+e;152552;'Cuisine';1;156
+e;3768301;'cuire au bouillon';1;0
+e;3753288;'carrés de chocolat à cuire';1;0
+e;3751333;'petites pommes à cuire';1;0
+e;2165597;'cuisîmes';2;0
+e;2165545;'cuises';2;0
+e;2165539;'cuisait';2;0
+e;2165533;'cuiront';2;0
+e;395494;'cuire à l'anglaise';1;50
+e;76489;'caraméliser';1;94
+e;28105;'cuit';1;358
+e;16800265;'::&gt;66:118790&gt;17:144229';8;0;'cuisinier [carac] bon'
+e;15341608;'en:Get lost!';1;0
+e;16601919;'::&gt;66:2951610&gt;17:144229';8;0;'cuisinier&gt;nourriture [carac] bon'
+e;16601863;'::&gt;31:5304379&gt;29:14417105';8;0;'cuire [objet] tarte [endroit] four&gt;système de chauffage'
+e;10994758;'en aluminium';1;0
+e;331048;'moelleux au chocolat';1;124
+e;16168838;'::&gt;31:9190&gt;29:15761854';8;0;'cuire [objet] pizza [endroit] four'
+e;15224599;'en:pizza oven';1;0
+e;14931275;'en:cook';1;0
+e;4690;'faire suer';1;52
+e;37201;'pomme';1;2551
+e;3758293;'faisans prêts à cuire de chacun';1;0
+e;3744851;'cuire une pâte à blanc pour un fond de tarte';1;0
+e;1976361;'à feu moyen';1;0
+e;2589216;'faire cuire au four';1;0
+e;2165593;'cuisons';2;0
+e;1971744;'champignons de Paris';1;0
+e;14873;'boulange';1;80
+e;194997;'four à pizza';1;62
+e;16168843;'::&gt;31:5304379&gt;29:15761854';8;0;'cuire [objet] pizza [endroit] four&gt;système de chauffage'
+e;14417118;'::&gt;31:228770&gt;29:14417105';8;0;'cuire [objet] tarte [endroit] four&gt;système de chauffage&gt;cuisine'
+e;2585137;'se faire cuire un oeuf';1;0
+e;2585138;'cuire un oeuf';1;0
+e;2165598;'cuisît';2;0
+e;2165491;'cuirait';2;0
+e;1978300;'pré-cuire';1;0
+e;1664820;'aller se faire cuire un uf';1;0
+e;1482095;'pomme à cuire';1;12
+e;270331;'Heudebert';1;50
+e;312132;'thon&gt;68467&gt;113902';1;46;'thon&gt;poisson&gt;alimentation'
+e;241034;'rôti de porc';1;62
+e;2165589;'cuisisses';2;0
+e;2165538;'cuisais';2;0
+e;2165530;'cuiriez';2;0
+e;2165584;'cuisions';2;0
+e;2007;'homard';1;336
+e;1969869;'laisser cuire sans couvercle';1;0
+e;1969870;'laisser cuire doucement';1;0
+e;1781379;'faire cuire au barbecue';1;0
+e;9209885;'cuisson avec un peu de matière grasse';1;0
+e;8485;'champignons';1;2263
+e;8661;'tomber';1;2181
+e;3756479;'pommes à cuire épluchées épépinées et coupées en tranches';1;0
+e;3743822;'comment cuire la langue de buf';1;0
+e;3360649;'comment cuire des escargots ?';1;0
+e;2503055;'aller se faire cuire un oeuf';1;0
+e;2165587;'cuisisse';2;0
+e;2165543;'cuise';2;0
+e;1045708;'marmite à vapeur';777;0
+e;1482109;'pommes à cuire';777;0
+e;3318459;'crevettes flambées à l'Américaine';1;0
+e;231587;'griller&gt;132551';1;30;'griller&gt;rôtir'
+e;4405638;'four à poterie';1;2
+e;32053;'cuisant';1;58
+e;267627;'faire une recette';1;56
+e;11002194;'::&gt;66:3263355&gt;17:3230082';8;0;'cuisinier&gt;nourriture&gt;personne [carac] bon&gt;doué'
+e;3744630;'pâte de coing d'Alice';1;0
+e;3744711;'meringues à la cardamome';1;0
+e;252335;'légume cuit';1;12
+e;191777;'pâtes alimentaires';1;64
+e;10961941;'préparer à bouffer';1;10
+e;3763940;'papillote&gt;16033';1;12;'papillote&gt;cuisine'
+e;3744159;'saumon en papillote';1;22
+e;14727969;'cuisine Ikea';1;0
+e;14727967;'meubles de cuisine';1;0
+e;14566515;'étape gastronomique';1;0
+e;4637572;'cuisine rustique';1;0
+e;8247222;'préparation trop réduite';1;0
+e;10913748;'allumer le barbecue';1;0
+e;317156;'robot multifonctions';1;62
+e;252338;'légume d'été';1;50
+e;3759096;'chorizo à cuire';1;0
+e;234072;'pomme vapeur';1;50
+e;231397;'pois cassés';1;64
+e;2348416;'::&gt;66:68467&gt;17:39901';8;0;'poisson [carac] cru'
+e;2165492;'cuiras';2;0
+e;2165489;'cuiraient';2;0
+e;2165546;'cuisiez';2;0
+e;355114;'four à thermostat';1;50
+e;260086;'sans matière grasse';1;50
+e;17165;'échauder';1;100
+e;75864;'écrevisse';1;118
+e;246151;'préparer la cuisine';1;50
+e;391906;'laisser reposer';1;60
+e;3706482;'se faire de bons petits plats';1;0
+e;33453;'mollet';1;340
+e;158330;'échec cuisant';1;80
+e;218982;'sole&gt;9190';1;52;'sole&gt;four'
+e;141971;'huile';1;2224
+e;41851;'croûte';1;230
+e;137538;'mûre';1;242
+e;2351194;'séminaire gastronomique';1;0
+e;14568822;'ravioli vapeur';1;0
+e;437824;'sauce beurre rouge';1;50
+e;3744972;'feuilletés aux olives';1;0
+e;3743878;'brochettes portugaises aux trois viandes';1;0
+e;3360412;'cheesecake au chocolat noir';1;0
+e;14532473;'cuisson-vapeur';1;30
+e;16166009;'papillote de lingue à la provençale';1;0
+e;16166004;'papillote de filets de Saint-Pierre aux légumes du soleil';1;0
+e;16165998;'papillote d'églefin';1;0
+e;16166011;'papillote de merlu au citron';1;0
+e;16166005;'papillote de colin aux pommes et curry';1;0
+e;16166000;'papillote de saumon au butternut et romarin';1;0
+e;3379536;'cuisine sri lankaise';1;0
+e;16165997;'lotte en papillote';1;0
+e;16166007;'dos de cabillaud en papillote';1;0
+e;14506291;'ranger la cuisine';1;142
+e;3713287;'avoir la flemme de faire la cuisine';1;0
+e;99919;'tisane';1;254
+e;16165934;'apprenti cuisinier';1;0
+e;15791316;'en:veal escalope';1;0
+e;15431616;'en:cook in a bain-marie';1;0
+e;15337918;'en:bread oven';1;0
+e;15195306;'en:marinated meat';1;0
+e;15196029;'en:over a brisk heat';1;0
+e;15220165;'Faites cuire les pâtes pendant dix minutes.';1;0
+e;119686;'poêle';1;326
+e;15356420;'en:tartlet';1;0
+e;9743860;'cuire la viande';1;0
+e;9743861;'faire cuire la viande';1;0
+e;9743858;'cuire les légumes';1;0
+e;9743859;'faire cuire les légumes';1;0
+e;9740035;'cuire les aliments';1;0
+e;9740034;'cuire rapidement';1;0
+e;9740036;'cuire des aliments';1;0
+e;9605621;'faire cuire à la poêle';1;0
+e;9448189;'cuire à matière grasse';1;0
+e;9448052;'cuire dans fond chaud';1;0
+e;9448056;'cuire avec coloration';1;0
+e;9448051;'cuire sans coloration';1;0
+e;9448050;'cuire dans un court-bouillon chaud';1;0
+e;9448004;'cuire un fond de tarte';1;0
+e;9448180;'cuire fond de tarte a blanc';1;0
+e;9448049;'cuire de façon combinée';1;0
+e;9209841;'cuire dans un court bouillon chaud';1;0
+e;9209858;'cuire à l'anglaise dans un liquide chaud';1;0
+e;9209879;'cuire un fond de tarte à blanc';1;0
+e;9209830;'cuire avec spécialisation';1;0
+e;9209865;'cuire en ragoût';1;0
+e;9210017;'cuire à l'anglaise dans un liquide chaud';1;0
+e;9209867;'cuire en omelette';1;0
+e;9209844;'cuire sous la salamandre';1;0
+e;9209847;'cuire en brochette';1;0
+e;9209834;'cuire en milieu aqueux';1;0
+e;9209884;'cuire au wok';1;0
+e;9209878;'cuire à la plancha';1;0
+e;9209856;'cuire au bain-marie';1;2
+e;9209876;'cuire en ragoût à brun';1;0
+e;9209861;'cuire à la nage';1;0
+e;9209883;'cuire sous pression';1;0
+e;9209881;'cuire en fondue';1;0
+e;9209869;'cuire à la cocotte';1;0
+e;9209882;'cuire au barbecue';1;0
+e;9209833;'cuire dans un blanc';1;0
+e;9209868;'cuire au boulé';1;0
+e;9209828;'cuire avec de la matière grasse';1;0
+e;9209845;'cuire à chaleur sèche';1;0
+e;9209842;'cuire en casserole';1;0
+e;9209849;'cuire à la pierrade';1;0
+e;9209851;'cuire dans un fond chaud';1;0
+e;9209864;'cuire en ragoût à blanc';1;0
+e;9209862;'cuire sous vide';1;0
+e;8795810;'cuire un aliment';1;0
+e;9931729;'Tough -Dur à cuire';777;0
+e;87528;'faire';1;3930
+e;15202981;'en:steamed potato';1;0
+e;9749563;'cuire au four une petite quantité d'aliments';1;0
+e;9749578;'faire cuire des aliments';1;0
+e;9749577;'faire cuire des aliments dans l'industrie alimentaire';1;0
+e;9749575;'cuire en daube';1;0
+e;1455415;'cuisson lente';1;0
+e;3761866;'oeufs pochés';1;0
+e;9749562;'cuire au four des aliments';1;0
+e;252383;'cuisson à l'eau';1;30
+e;247682;'non stop';1;52
+e;48501;'dinde';1;592
+e;6596032;'cuire longtemps';1;0
+e;6596031;'cuire lentement';1;0
+e;6596030;'cuisson longue';1;0
+e;116175;'oeuf';1;2570
+e;8084513;'en:chinese food';1;0
+e;15483685;'en:soft-boiled eggs';1;0
+e;213387;'saumon&gt;68467';1;68;'saumon&gt;poisson'
+e;2951337;'à l'eau salée';1;0
+e;2950504;'à l'eau bouillante';1;0
+e;224391;'lardon&gt;59430';1;56;'lardon&gt;lard'
+e;218238;'poule&gt;140176';1;170;'poule&gt;oiseau'
+e;234075;'cuit vapeur';1;56
+e;14940893;'en:roast';1;0
+e;260031;'cuire&gt;122852';1;52;'cuire&gt;douleur'
+e;17497641;'::&gt;66:233049&gt;24:5115';8;0;'pain&gt;boulangerie [peut] cuire'
+e;17497640;'::&gt;13:233049&gt;29:5115';8;0;'cuire [sujet] pain&gt;boulangerie'
+e;153665;'oeufs';1;712
+e;250812;'plaque de four';1;2
+e;15422536;'Va te faire cuire un ?uf !';1;0
+e;17471146;'::&gt;31:143703&gt;29:5115';8;0;'cuire [endroit] feu'
+e;17469119;'::&gt;14:153665&gt;29:5115';8;0;'cuire [objet] oeufs'
+e;227884;'saisir&gt;5115';1;50;'saisir&gt;cuire'
+e;15219298;'en:non-stop';1;0
+e;214434;'plat&gt;20965';1;834;'plat&gt;nourriture'
+e;17483821;'::&gt;14:3290204&gt;29:5115';8;0;'cuire [objet] pièce de viande'
+e;120952;'cocotte';1;256
+e;17483803;'::&gt;14:36327&gt;29:5115';8;0;'cuire [objet] plat'
+e;216369;'pains';1;54
+e;3290204;'pièce de viande';1;0
+e;17483830;'::&gt;14:160334&gt;29:5115';8;0;'cuire [objet] saucisses'
+e;18094;'bifteck';1;94
+e;259980;'faire revenir&gt;16033';1;26;'faire revenir&gt;cuisine'
+e;17491029;'::&gt;14:18094&gt;29:5115';8;0;'cuire [objet] bifteck'
+e;17496545;'::&gt;14:216369&gt;29:5115';8;0;'cuire [objet] pains'
+e;67780;'gratiner';1;130
+e;228770;'four&gt;382343&gt;16033';1;48;'four&gt;système de chauffage&gt;cuisine'
+e;15242565;'en:chocolate fondant';1;0
+e;219123;'plat&gt;20965&gt;49537';1;164;'plat&gt;nourriture&gt;spécialité'
+e;17487743;'::&gt;31:36327&gt;29:5115';8;0;'cuire [endroit] plat'
+e;17487739;'::&gt;13:146065&gt;29:5115';8;0;'cuire [sujet] mari'
+e;17487740;'::&gt;66:146065&gt;24:5115';8;0;'mari [peut] cuire'
+e;17487741;'::&gt;14:116175&gt;29:5115';8;0;'cuire [objet] oeuf'
+e;17487754;'::&gt;14:242160&gt;29:5115';8;0;'cuire [objet] oeuf sur le plat'
+e;146065;'mari';1;2952
+e;17487757;'::&gt;14:163795&gt;29:5115';8;0;'cuire [objet] oeuf au plat'
+e;15036;'confire';1;82
+e;15217063;'pomme de terre à la vapeur';1;0
+e;15331515;'tourte à la pomme';1;0
+e;260560;'sans matières grasses';1;50
+e;14946413;'en:fat-free';1;0
+e;15433415;'en:without fat';1;0
+e;15209968;'en:kitchen furniture';1;0
+e;15220154;'les pâtes';1;0
+e;15243803;'en:roast chicken';1;0
+e;15321116;'à tire larigot';1;0
+e;15058674;'en:baking tray';1;0
+e;2589154;'cuire&gt;24226';1;0;'cuire&gt;nuire'
+e;30812;'sardine';1;222
+e;56495;'piqûre';1;602
+e;2707989;'barbecue&gt;154055';1;42;'barbecue&gt;appareil de cuisson'
+e;153658;'poulet rôti';1;162
+e;332531;'gratin de légumes';1;50
+e;17560850;'::&gt;14:332531&gt;29:5115';8;0;'cuire [objet] gratin de légumes'
+e;17502941;'::&gt;13:48758&gt;29:5115';8;0;'cuire [sujet] indienne'
+e;345611;'cuisson à feu vif';1;50
+e;9209880;'cuisson avec de la matière grasse ajoutée';1;0
+e;345610;'cuisson à feu doux';1;50
+e;1690975;'cuisson par expansion';1;0
+e;3361519;'cuisson jambon à l'os';1;0
+e;5800915;'cuisson fautivement dite par expansion';777;0
+e;345609;'cuisson au gril';1;50
+e;2708115;'cuisson au barbecue';1;4
+e;237053;'casserole&gt;16033';1;122;'casserole&gt;cuisine'
+e;2707987;'barbecue&gt;74736';1;34;'barbecue&gt;repas'
+e;152553;'Gastronomie';1;72
+e;15297729;'cuire à la cocotte-minute';1;0
+e;15431615;'cuire à l'étuvée';1;0
+e;15364575;'cuire qch à la vapeur';1;0
+e;15354859;'cuire qch sur la plaque chauffante';1;0
+e;15394266;'cuire dur';1;0
+e;1455421;'cuisson à la broche';1;0
+e;3319019;'cuisson en zone thermique';1;0
+e;277650;'cuisson en papillotte';1;6
+e;3745962;'cuisson des asperges';1;0
+e;3361518;'cuisson d'un jambon entier';1;0
+e;5631797;'plat mijoté';1;2
+e;116588;'rognon';1;86
+e;3038;'pétrir';1;212
+e;228771;'four&gt;382343&gt;34994';1;14;'four&gt;système de chauffage&gt;poterie'
+e;47403;'ébouillanter';1;60
+e;16175726;'cuire quelque chose à la vapeur';1;0
+e;3373220;'naans';1;0
+e;216942;'naan';1;26
+e;74736;'repas';1;3791
+e;214446;'poulet&gt;70493';1;220;'poulet&gt;volaille'
+e;214447;'poulet&gt;140100';1;244;'poulet&gt;viande'
+e;2345257;'cuisson à point';777;0
+e;345612;'cuisson à la poêle';1;50
+e;9209873;'cuisson à l'anglaise';1;0
+e;395495;'cuisson à blanc';1;50
+e;5800911;'cuisson à basse température';777;2
+e;3246477;'cuisson du sirop';1;0
+e;1690812;'cuisson des aliments';777;8
+e;9076492;'cuisson au gaz';1;0
+e;260522;'cuisson au court-bouillon';1;50
+e;260109;'cuisson au bain-marie';1;50
+e;2334357;'200°C';1;0
+e;152432;'steack';1;156
+e;147170;'cuirs';1;50
+e;260970;'::&gt;66:119686&gt;17:42890';8;50;'poêle [carac] chaude'
+e;55572;'steak';1;576
+e;228921;'fondant au chocolat';1;120
+e;17519946;'::&gt;66:17186&gt;24:5115';8;0;'crêpe [peut] cuire'
+e;17186;'crêpe';1;244
+e;17519945;'::&gt;13:17186&gt;29:5115';8;0;'cuire [sujet] crêpe'
+e;17519941;'::&gt;66:45481&gt;24:5115';8;0;'omelette [peut] cuire'
+e;45481;'omelette';1;388
+e;17519940;'::&gt;13:45481&gt;29:5115';8;0;'cuire [sujet] omelette'
+e;14936366;'en:escalope';1;0
+e;15300777;'feuille de papier aluminium';1;0
+e;14930475;'en:cutlet';1;0
+e;17502953;'::&gt;66:1978629&gt;24:5115';8;0;'indienne&gt;Inde [peut] cuire'
+e;1978629;'indienne&gt;138879';1;8;'indienne&gt;Inde'
+e;17502952;'::&gt;13:1978629&gt;29:5115';8;0;'cuire [sujet] indienne&gt;Inde'
+e;17502946;'::&gt;14:216942&gt;29:5115';8;0;'cuire [objet] naan'
+e;17502943;'::&gt;14:3373220&gt;29:5115';8;0;'cuire [objet] naans'
+e;17502942;'::&gt;66:48758&gt;24:5115';8;0;'indienne [peut] cuire'
+e;48758;'indienne';1;2494
+e;14325032;'::&gt;66:114637&gt;24:14325030';8;0;'aliment [peut] cuire [endroit] récipient de cuisson'
+e;3313930;'cuisson à la pierre';777;18
+e;9209859;'cuisson à l'eau froide';1;0
+e;3319016;'cuisson à chaleur pulsée';1;0
+e;4466304;'cuisson sur pierre';1;4
+e;5923305;'cuisson industrielle';777;0
+e;5800912;'cuisson en papillote';777;4
+e;2345258;'cuisson al dente';1;6
+e;128646;'agneau';1;804
+e;3260165;'salamandre&gt;9190';1;0;'salamandre&gt;four'
+e;1916726;'brûler&gt;437621';1;6;'brûler&gt;sensation douloureuse'
+e;88759;'escalope';1;270
+e;123307;'oignon';1;586
+e;252381;'légumes bouillis';1;8
+e;218966;'saucisse&gt;6938';1;68;'saucisse&gt;charcuterie'
+e;153902;'viande de boeuf';1;380
+e;160565;'grand chef';1;66
+e;259970;'coufir';1;4
+e;259968;'à la poêle';1;18
+e;113645;'viennoiserie';1;442
+e;237177;'panse de brebis farcie';1;4
+e;236838;'gâteau&gt;25966';1;652;'gâteau&gt;pâtisserie'
+e;236550;'chaleur&gt;40531';1;106;'chaleur&gt;température'
+e;213440;'piano&gt;142704';1;30;'piano&gt;fourneau'
+e;152511;'langouste grillée';1;52
+e;15751681;'en cuire à quelqu'un';1;0
+e;15431612;'en cuire à [qqn]';1;0
+e;15751682;'en cuire à';1;0
+e;12503944;'en:fire';1;0
+e;125017;'bouilli';1;64
+e;9209854;'cuisson à l'eau chaude';1;0
+e;9209838;'cuisson à court mouillement dans un liquide chaud';1;0
+e;5800914;'cuisson fautivement dite par concentration';777;0
+e;1373801;'cuisson douce';1;78
+e;260104;'cuisson au micro-ondes';1;50
+e;47417;'boeuf';1;1470
+e;120419;'éclair';1;542
+e;37194;'poule';1;1848
+e;57980;'jambon';1;1024
+e;371913;'porcelet à la broche';1;50
+e;43125;'gastronomie';1;2682
+e;222081;'pavé&gt;1972666';1;72;'pavé&gt;viande ou poisson'
+e;259964;'à la plancha';1;112
+e;27271;'biscotte';1;134
+e;673422;'bronzer&gt;146882';1;0;'bronzer&gt;Ver:Inf'
+e;610671;INVALID_NODE;-1;0
+e;439457;'rissoler&gt;146882';1;50;'rissoler&gt;Ver:Inf'
+e;2345256;'cuisson à la nappe';1;0
+e;9209835;'cuisson au micro-onde';1;0
+e;1690811;'cuisson alimentaire';1;0
+e;126973;'refroidir';1;432
+e;152874;'brulure';1;54
+e;252146;'inflammation&gt;102206';1;120;'inflammation&gt;médecine'
+e;34069;'pâte';1;2905
+e;5531;'patate';1;480
+e;89538;'gril';1;112
+e;2363057;'spaguetti';1;0
+e;2463790;'spagatt';1;0
+e;2523937;'spag';1;0
+e;48529;'spaghetti';1;172
+e;122852;'douleur';1;3173
+e;239946;'à point&gt;60056';1;10;'à point&gt;cuisson'
+e;239595;'cuisson&gt;5115';1;50;'cuisson&gt;cuire'
+e;17516291;'::&gt;14:74736&gt;29:5115';8;0;'cuire [objet] repas'
+e;248795;'riz&gt;114637';1;84;'riz&gt;aliment'
+e;2352201;'côte de buf';1;0
+e;230041;'crepe';666;50
+e;228598;'sous vide';1;74
+e;26322;'longuement';1;146
+e;234523;'four électrique';1;76
+e;145295;'mouton';1;1656
+e;261738;'viande&gt;20965';1;408;'viande&gt;nourriture'
+e;20965;'nourriture';1;3820
+e;2587823;'aliment&gt;2587820';1;122;'aliment&gt;ce qui se mange'
+e;214433;'plat&gt;60109';1;66;'plat&gt;pièce de vaisselle'
+e;214842;'dinde&gt;70493';1;122;'dinde&gt;volaille'
+e;1690978;'cuisson mixte';777;0
+e;794;'chouchou';1;130
+e;95126;'barbecue';1;708
+e;122873;'lardon';1;168
+e;82608;'flambage';1;54
+e;24085;'glacer';1;234
+e;217033;'aubergines';1;104
+e;298167;'fèves';777;52
+e;120603;'légume';1;2736
+e;260220;'mettre du sel';1;4
+e;254960;'bac à friture';1;50
+e;225437;'sauter&gt;5115';1;50;'sauter&gt;cuire'
+e;1970720;'morceaux de poulet';1;0
+e;17597576;'morceaux de poisson';1;0
+e;2845232;'morceaux de viande';1;0
+e;203622;'mère de famille';1;114
+e;11662219;'boulangère&gt;119014';1;2;'boulangère&gt;boulangerie'
+e;17571772;'::&gt;66:153046&gt;24:5115';8;0;'boulangère [peut] cuire'
+e;153046;'boulangère';1;376
+e;17560851;'::&gt;66:332531&gt;26:5115';8;0;'gratin de légumes [se faire] cuire'
+e;260118;'gratin de pommes de terre';1;66
+e;17560844;'::&gt;66:260118&gt;26:5115';8;0;'gratin de pommes de terre [se faire] cuire'
+e;321849;'gratin de pâtes';1;60
+e;17560839;'::&gt;66:321849&gt;26:5115';8;0;'gratin de pâtes [se faire] cuire'
+e;122956;'mère';1;4686
+e;227591;'soupe&gt;93138';1;214;'soupe&gt;potage'
+e;17538945;'::&gt;16:80591&gt;29:5115';8;0;'cuire [avec] grill'
+e;17516292;'::&gt;66:74736&gt;26:5115';8;0;'repas [se faire] cuire'
+e;139790;'maïs';1;1954
+e;17402705;'::&gt;66:17402704&gt;15:119686';8;0;'personne&gt;être humain [peut] cuire [objet] légumes [lieu] poêle'
+e;17402703;'::&gt;66:105995&gt;26:5115';8;0;'légumes [se faire] cuire'
+e;17402466;'::&gt;66:17402465&gt;15:119686';8;0;'personne&gt;être humain [peut] cuire [objet] viande [lieu] poêle'
+e;17402462;'::&gt;66:17402461&gt;15:119686';8;0;'personne&gt;être humain [peut] cuire [objet] tranche de foie [lieu] poêle'
+e;17402459;'::&gt;66:384583&gt;26:5115';8;0;'tranche de foie [se faire] cuire'
+e;15320195;'en:breast of chicken';1;0
+e;17113410;'::&gt;66:17113409&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] poisson [lieu] four'
+e;17041754;'::&gt;66:17041753&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] magret de canard [lieu] four'
+e;17041752;'::&gt;66:218827&gt;26:5115';8;0;'magret de canard [se faire] cuire'
+e;15280766;'en:head of family';1;0
+e;16800294;'::&gt;66:16598118&gt;15:9190';8;0;'père de famille [peut] cuire [objet] gratin&gt;cuisine [lieu] four'
+e;14966327;'en:dishes';1;0
+e;15216162;'en:shoulder of lamb';1;0
+e;15391908;'en:knuckle of lamb';1;0
+e;8061337;'en:roast pork';1;0
+e;15762968;'tarte à la pomme';1;0
+e;16789274;'::&gt;66:164797&gt;26:5115';8;0;'côte de boeuf [se faire] cuire'
+e;16607750;'::&gt;31:9190&gt;29:16607746';8;0;'cuire [objet] épaule d'agneau [endroit] four'
+e;16607749;'::&gt;66:16607748&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] épaule d'agneau [lieu] four'
+e;16607747;'::&gt;66:324120&gt;26:5115';8;0;'épaule d'agneau [se faire] cuire'
+e;16601864;'::&gt;66:14417108&gt;15:5304379';8;0;'individu [peut] cuire [objet] tarte [lieu] four&gt;système de chauffage'
+e;16599038;'::&gt;66:16598108&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] gratin&gt;cuisine [lieu] four'
+e;16599035;'::&gt;66:16598118&gt;15:5304379';8;0;'père de famille [peut] cuire [objet] gratin&gt;cuisine [lieu] four&gt;système de chauffage'
+e;16598119;'::&gt;66:16598118&gt;15:228770';8;0;'père de famille [peut] cuire [objet] gratin&gt;cuisine [lieu] four&gt;système de chauffage&gt;cuisine'
+e;16598113;'::&gt;66:16598108&gt;15:228770';8;0;'personne&gt;être humain [peut] cuire [objet] gratin&gt;cuisine [lieu] four&gt;système de chauffage&gt;cuisine'
+e;16598109;'::&gt;66:16598108&gt;15:5304379';8;0;'personne&gt;être humain [peut] cuire [objet] gratin&gt;cuisine [lieu] four&gt;système de chauffage'
+e;16598107;'::&gt;66:215198&gt;26:5115';8;0;'gratin&gt;cuisine [se faire] cuire'
+e;16598103;'::&gt;66:16184160&gt;15:5304379';8;0;'personne&gt;être humain [peut] cuire [objet] gratin dauphinois [lieu] four&gt;système de chauffage'
+e;16598101;'::&gt;66:16598096&gt;15:5304379';8;0;'personne&gt;être humain [peut] cuire [objet] gratin [lieu] four&gt;système de chauffage'
+e;16598097;'::&gt;66:16598096&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] gratin [lieu] four'
+e;16598095;'::&gt;66:12942&gt;26:5115';8;0;'gratin [se faire] cuire'
+e;16597791;'::&gt;66:158577&gt;26:5115';8;0;'plats [se faire] cuire'
+e;8055252;'en:beef burger';1;0
+e;25914;'bifteck haché';1;50
+e;6802088;'en:erythema';1;0
+e;15294319;'en:at great length';1;0
+e;15148505;'en:at length';1;0
+e;14934268;'en:durably';1;0
+e;16559567;'::&gt;66:16559566&gt;15:9190';8;0;'pâtissier [peut] cuire [objet] biscuits [lieu] four'
+e;16559564;'::&gt;66:164790&gt;26:5115';8;0;'biscuits [se faire] cuire'
+e;16559486;'::&gt;66:16559485&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] cake [lieu] four'
+e;16559484;'::&gt;66:28945&gt;26:5115';8;0;'cake [se faire] cuire'
+e;16559481;'::&gt;66:16559480&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] gâteau [lieu] four'
+e;16559479;'::&gt;66:2149&gt;26:5115';8;0;'gâteau [se faire] cuire'
+e;16559476;'::&gt;66:16559446&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] préparation culinaire [lieu] four'
+e;16559474;'::&gt;66:16559456&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] poisson [lieu] four'
+e;16559472;'::&gt;66:16559451&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] viande [lieu] four'
+e;16559470;'::&gt;66:16559461&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] rôti [lieu] four'
+e;16559463;'::&gt;16:9190&gt;29:16559459';8;0;'cuire [objet] rôti [avec] four'
+e;16559460;'::&gt;66:19636&gt;26:5115';8;0;'rôti [se faire] cuire'
+e;16559455;'::&gt;66:68467&gt;26:5115';8;0;'poisson [se faire] cuire'
+e;16559450;'::&gt;66:140100&gt;26:5115';8;0;'viande [se faire] cuire'
+e;16559445;'::&gt;66:177321&gt;26:5115';8;0;'préparation culinaire [se faire] cuire'
+e;16559440;'::&gt;66:16559439&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] truite [lieu] four'
+e;16559438;'::&gt;66:2447&gt;26:5115';8;0;'truite [se faire] cuire'
+e;15214693;'graisse de viande';1;0
+e;16316322;'en:waffle pan';1;0
+e;16316323;'en:waffle mould';1;0
+e;16316324;'en:waffle mold';1;0
+e;92353;'lentilles';1;274
+e;15245979;'emballé sous vide';1;0
+e;15461613;'en:a la plancha';1;0
+e;15461614;'en:plancha-grilled';1;0
+e;15461615;'en:cooked on a plancha';1;0
+e;16242227;'::&gt;66:24372&gt;26:5115';8;0;'riz [se faire] cuire'
+e;16184162;'::&gt;31:9190&gt;29:16184158';8;0;'cuire [objet] gratin dauphinois [endroit] four'
+e;16184161;'::&gt;66:16184160&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] gratin dauphinois [lieu] four'
+e;16184159;'::&gt;66:177326&gt;26:5115';8;0;'gratin dauphinois [se faire] cuire'
+e;16168869;'::&gt;31:9190&gt;29:16168865';8;0;'cuire [objet] baguette [endroit] four'
+e;16168868;'::&gt;66:16168867&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] baguette [lieu] four'
+e;16168866;'::&gt;66:128482&gt;26:5115';8;0;'baguette [se faire] cuire'
+e;16168858;'::&gt;31:9190&gt;29:14363897';8;0;'cuire [objet] pain [endroit] four'
+e;16168857;'::&gt;66:16168856&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] pain [lieu] four'
+e;16168854;'::&gt;31:9190&gt;29:16168850';8;0;'cuire [objet] plat chaud [endroit] four'
+e;16168853;'::&gt;66:16168852&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] plat chaud [lieu] four'
+e;16168851;'::&gt;66:322870&gt;26:5115';8;0;'plat chaud [se faire] cuire'
+e;16168848;'::&gt;31:9190&gt;29:16168844';8;0;'cuire [objet] quiche [endroit] four'
+e;16168847;'::&gt;66:16168846&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] quiche [lieu] four'
+e;16168845;'::&gt;66:13151&gt;26:5115';8;0;'quiche [se faire] cuire'
+e;16168842;'::&gt;66:16168836&gt;15:5304379';8;0;'personne&gt;être humain [peut] cuire [objet] pizza [lieu] four&gt;système de chauffage'
+e;16168837;'::&gt;66:16168836&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] pizza [lieu] four'
+e;399540;'meringues';1;124
+e;15298144;'en:pork meat';1;0
+e;15410628;'en:keeled chest';1;0
+e;9076467;'manchon de poulet';1;0
+e;6800256;'en:ear';1;0
+e;491;'papillote';1;140
+e;15449012;'laisser mijoter [qqn]';1;0
+e;15716554;'laisser mijoter quelqu'un';1;0
+e;15770831;'plate comme une limande';1;0
+e;255862;'poivron rouge';1;16
+e;15224309;'en:red chilli';1;0
+e;7324818;'en:red pepper';1;0
+e;15260326;'en:schitzel';1;0
+e;15431700;'en:duck breast fillet';1;0
+e;15431699;'en:fillet of duck breast';1;0
+e;15236628;'oeuf frit';1;0
+e;15761861;'::&gt;31:321894&gt;29:15761854';8;0;'cuire [objet] pizza [endroit] camion à pizza'
+e;15761860;'::&gt;66:15761856&gt;15:321894';8;0;'pizzaiolo [peut] cuire [objet] pizza [lieu] camion à pizza'
+e;8125649;'en:pizza';1;0
+e;15761855;'::&gt;66:109533&gt;26:5115';8;0;'pizza [se faire] cuire'
+e;15716540;'en:leave somebody to stew in his/her own juices';1;0
+e;15716552;'en:let somebody stew for a while';1;0
+e;15716539;'en:leave somebody to stew';1;0
+e;15751683;'en:dry something out';1;0
+e;15203200;'en:lemon pie';1;10
+e;6827863;'en:dermatitis';1;0
+e;15426915;'en:electric oven';1;0
+e;7223606;'en:haricot beans';1;0
+e;15245980;'en:vacuum-packed';1;0
+e;15389404;'en:under vacuum';1;0
+e;14954285;'en:warthog';1;0
+e;14964892;'en:stuffed tomatoes';1;0
+e;15114210;'en:chicken wing';1;0
+e;15360638;'en:lamb shank';1;0
+e;15248008;'en:Dauphine potatoes';1;0
+e;7030648;'en:beef';1;0
+e;15361002;'en:waffle-iron';1;0
+e;14924284;'en:blini';1;0
+e;673962;'tarte&gt;171869';1;0;'tarte&gt;Adj:'
+e;14884668;'::&gt;31:177318&gt;29:14883319';8;0;'cuire [objet] aliments [endroit] wok'
+e;14884667;'::&gt;66:14883324&gt;15:177318';8;0;'personne&gt;être humain [peut] cuire [objet] aliments [lieu] wok'
+e;14883326;'::&gt;31:142367&gt;29:14883319';8;0;'cuire [objet] aliments [endroit] pot'
+e;14883325;'::&gt;66:14883324&gt;15:142367';8;0;'personne&gt;être humain [peut] cuire [objet] aliments [lieu] pot'
+e;14883320;'::&gt;66:20621&gt;26:5115';8;0;'aliments [se faire] cuire'
+e;17502947;'::&gt;66:216942&gt;26:5115';8;0;'naan [se faire] cuire'
+e;17502944;'::&gt;66:3373220&gt;26:5115';8;0;'naans [se faire] cuire'
+e;6628;'cognac';1;126
+e;15657;'sans arrêt';1;134
+e;14724702;'lentilles&gt;85014';1;0;'lentilles&gt;légumineuses'
+e;2324877;'oeufs durs';1;14
+e;14471083;'::&gt;31:119686&gt;29:14471075';8;0;'cuire [objet] pommes de terre [endroit] poêle'
+e;14471082;'::&gt;66:14471077&gt;15:119686';8;0;'individu [peut] cuire [objet] pommes de terre [lieu] poêle'
+e;14471079;'::&gt;31:9190&gt;29:14471075';8;0;'cuire [objet] pommes de terre [endroit] four'
+e;14471078;'::&gt;66:14471077&gt;15:9190';8;0;'individu [peut] cuire [objet] pommes de terre [lieu] four'
+e;14471076;'::&gt;66:158591&gt;26:5115';8;0;'pommes de terre [se faire] cuire'
+e;14417117;'::&gt;66:14417108&gt;15:228770';8;0;'individu [peut] cuire [objet] tarte [lieu] four&gt;système de chauffage&gt;cuisine'
+e;14417109;'::&gt;66:14417108&gt;15:9190';8;0;'individu [peut] cuire [objet] tarte [lieu] four'
+e;14417106;'::&gt;66:575&gt;26:5115';8;0;'tarte [se faire] cuire'
+e;14400717;'::&gt;31:146096&gt;29:14400710';8;0;'cuire [objet] pot-au-feu [endroit] marmite'
+e;14400716;'::&gt;66:14400715&gt;15:146096';8;0;'individu [peut] cuire [objet] pot-au-feu [lieu] marmite'
+e;14400711;'::&gt;66:67056&gt;26:5115';8;0;'pot-au-feu [se faire] cuire'
+e;14400709;'::&gt;31:141971&gt;29:14400702';8;0;'cuire [objet] frites [endroit] huile'
+e;14400708;'::&gt;66:14400707&gt;15:141971';8;0;'individu [peut] cuire [objet] frites [lieu] huile'
+e;14400703;'::&gt;66:151972&gt;26:5115';8;0;'frites [se faire] cuire'
+e;14363898;'::&gt;66:61283&gt;26:5115';8;0;'pain [se faire] cuire'
+e;14326654;'::&gt;31:9190&gt;29:14326647';8;0;'cuire [objet] poulet [endroit] four'
+e;14326653;'::&gt;66:14326652&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] poulet [lieu] four'
+e;14326648;'::&gt;66:146261&gt;26:5115';8;0;'poulet [se faire] cuire'
+e;5501816;'nourriture&gt;114637';1;66;'nourriture&gt;aliment'
+e;13985121;'viande de vache';1;0
+e;7030637;'en:vegetables';1;0
+e;218940;'poisson&gt;17559';1;590;'poisson&gt;animal'
+e;214021;'agneau&gt;17559';1;62;'agneau&gt;animal'
+e;233133;'animal&gt;117095';1;836;'animal&gt;zoologie'
+e;17559;'animal';1;14019
+e;25382;'dermatite';1;72
+e;3755421;'souris d'agneau';1;0
+e;215024;'pigeon&gt;140176';1;120;'pigeon&gt;oiseau'
+e;3361;'saumon';1;432
+e;74657;'pigeon';1;906
+e;12905116;'bonne viande';1;0
+e;214841;'dinde&gt;140100';1;34;'dinde&gt;viande'
+e;5304379;'four&gt;382343';1;26;'four&gt;système de chauffage'
+e;17483831;'::&gt;66:160334&gt;26:5115';8;0;'saucisses [se faire] cuire'
+e;17483822;'::&gt;66:3290204&gt;26:5115';8;0;'pièce de viande [se faire] cuire'
+e;8062973;'en:falafel';1;0
+e;65126;'safou';1;50
+e;15196749;'en:cheese soufflé';1;0
+e;3756346;'vermicelle de soja';1;0
+e;249163;'vermicelle de riz';1;78
+e;5916548;'pâtes sèches standard';1;0
+e;5916555;'pâtes sèches';1;0
+e;62606;'camaron';1;50
+e;134455;'phacochère';1;56
+e;5003192;'blanquette&gt;146881';1;0;'blanquette&gt;Nom:Fem+SG'
+e;61147;'blessure';1;2492
+e;86754;'thon';1;586
+e;77807;'saucisse';1;506
+e;35814;'couscous';1;194
+e;218543;'blessure&gt;218541';1;436;'blessure&gt;lésion physique'
+e;35345;'inflammation';1;378
+e;9563;'brûlure';1;340
+e;41743;'érythème';1;98
+e;254108;'piqûre&gt;61147';1;88;'piqûre&gt;blessure'
+e;88834;'égratignure';1;166
+e;27588;'dermite';1;56
+e;168216;'buf';1;1065
+e;214126;'thon&gt;68467';1;260;'thon&gt;poisson'
+e;146273;'caille';1;246
+e;26732;'asperge';1;96
+e;103131;'blanquette';1;78
+e;86296;'lait';1;3756
+e;110153;'sole';1;188
+e;51247;'salamandre';1;88
+e;140176;'oiseau';1;7456
+e;3756628;'ail finement haché';1;0
+e;3757927;'ail haché finement';1;0
+e;1455422;'haricots blancs';1;24
+e;17483804;'::&gt;66:36327&gt;26:5115';8;0;'plat [se faire] cuire'
+e;17483807;'::&gt;31:9190&gt;29:17483803';8;0;'cuire [objet] plat [endroit] four'
+e;238792;'pâte&gt;11358';1;82;'pâte&gt;substance'
+e;244045;'nems';1;86
+e;218057;'lait&gt;114637';1;294;'lait&gt;aliment'
+e;214227;'éclair&gt;25966';1;36;'éclair&gt;pâtisserie'
+e;17491030;'::&gt;66:18094&gt;26:5115';8;0;'bifteck [se faire] cuire'
+e;2603412;'porc orloff';1;0
+e;2352224;'veau orloff';1;0
+e;264464;'veau Orloff';1;52
+e;2603413;'porc Orloff';1;0
+e;339303;'blanquette d'agneau';1;52
+e;170810;'blanquette de veau';1;58
+e;339305;'blanquette à l'ancienne';1;50
+e;2375719;'blanquette à l'ail';1;2
+e;223521;'blanquette&gt;114486';1;52;'blanquette&gt;ragoût'
+e;226593;'moule à gaufres';1;70
+e;45686;'découper';1;1212
+e;1660297;'tomates farcies';1;0
+e;142350;'meringue';1;336
+e;20399;'lasagnes';1;122
+e;277839;'pommes de terre à l'eau';1;54
+e;264056;'saumon frais';1;50
+e;6003;'petits pois';1;96
+e;385523;'tête de porc';1;50
+e;11095;'moules';1;88
+e;1805612;'mijoté&gt;143757';1;0;'mijoté&gt;art culinaire'
+e;228312;'pommes dauphine';1;52
+e;17487755;'::&gt;66:242160&gt;26:5115';8;0;'oeuf sur le plat [se faire] cuire'
+e;17469120;'::&gt;66:153665&gt;26:5115';8;0;'oeufs [se faire] cuire'
+e;260099;'soufflé au fromage';1;68
+e;152954;'petit pois';1;148
+e;17496546;'::&gt;66:216369&gt;26:5115';8;0;'pains [se faire] cuire'
+e;17487742;'::&gt;66:116175&gt;26:5115';8;0;'oeuf [se faire] cuire'
+e;17487758;'::&gt;66:163795&gt;26:5115';8;0;'oeuf au plat [se faire] cuire'
+e;216946;'couscous&gt;36327';1;32;'couscous&gt;plat'
+e;31344;'huître';1;222
+e;314136;'buf&gt;140100';1;50;'buf&gt;viande'
+e;215037;'boeuf&gt;140100';1;454;'boeuf&gt;viande'
+e;263317;'oeuf cru';1;28
+e;316963;'oeuf battu';1;86
+e;220528;'patate&gt;132757';1;62;'patate&gt;pomme de terre'
+e;117156;'cassoulet';1;128
+e;1277;'coing';1;68
+e;262000;'caille&gt;140100';1;60;'caille&gt;viande'
+e;189981;'ingrédient de cuisine';1;66
+e;218941;'poisson&gt;20965';1;336;'poisson&gt;nourriture'
+e;220337;'oiseau&gt;17559';1;836;'oiseau&gt;animal'
+e;212612;'éclair au café';666;56
+e;213782;'tarte&gt;177321';1;220;'tarte&gt;préparation culinaire'
+e;38557;'dessert';1;3419
+e;251158;'tranche de viande';1;16
+e;228897;'viande bovine';1;160
+e;257883;'aile de poulet';1;52
+e;251164;'piment rouge';1;54
+e;239992;'falafel';1;6
+e;228987;'légume&gt;113902';1;176;'légume&gt;alimentation'
+e;227846;'asperge&gt;16033';1;8;'asperge&gt;cuisine'
+e;153678;'huitre';1;80
+e;44281;'groseille';1;274
+e;38257;'poivron';1;256
+e;151599;'tarte au citron';1;136
+e;227703;'moule à gaufre';1;58
+e;17571771;'::&gt;13:153046&gt;29:5115';8;0;'cuire [sujet] boulangère'
+e;14934271;'en:hard-boiled';1;0
+e;8069837;'en:rusk';1;0
+e;9773603;'en:cognac';1;0
+e;3318498;'poulet Rôti';1;0
+e;237548;'blondi';1;50
+e;50195;'piano';1;3300
+e;88347;'geler';1;350
+e;257879;'faire frire';1;66
+e;434709;'Cuire';1;50
+e;158437;'à l'eau';1;90
+e;226950;'mijoter&gt;5115';1;64;'mijoter&gt;cuire'
+e;75371;'méditer';1;130
+e;98379;'incinérer';1;68
+e;111054;'embraser';1;100
+e;110169;'durcir';1;124
+e;119861;'dessécher';1;74
+e;13890;'à point';1;186
+e;17560843;'::&gt;14:260118&gt;29:5115';8;0;'cuire [objet] gratin de pommes de terre'
+e;17560838;'::&gt;14:321849&gt;29:5115';8;0;'cuire [objet] gratin de pâtes'
+e;15207755;'en:hard to cook';1;0
+e;14939018;'en:kiln';1;0
+e;154295;'mettre au four';1;102
+e;23755;'molleteur';1;50
+e;213429;'croissant&gt;113645';1;224;'croissant&gt;viennoiserie'
+e;31907;'cuver';1;76
+e;105085;'consumer';1;60
+e;42089;'conserver';1;2693
+e;63576;'cautériser';1;72
+e;17571777;'::&gt;66:11662219&gt;24:5115';8;0;'boulangère&gt;boulangerie [peut] cuire'
+e;17571776;'::&gt;13:11662219&gt;29:5115';8;0;'cuire [sujet] boulangère&gt;boulangerie'
+e;17560834;'::&gt;66:122956&gt;24:5115';8;0;'mère [peut] cuire'
+e;17560833;'::&gt;13:122956&gt;29:5115';8;0;'cuire [sujet] mère'
+e;28198;'cocotte-minute';1;144
+e;437175;'laisser mijoter';1;56
+e;455727;'à point&gt;146889';1;50;'à point&gt;Adv:'
+e;105441;'pavé';1;470
+e;13701;'technique';1;3729
+e;250817;'pommes de terre au four';1;6
+e;116425;'torréfier';1;50
+e;75454;'bouillonner';1;66
+e;17597593;'::&gt;66:1970720&gt;26:5115';8;0;'morceaux de poulet [se faire] cuire'
+e;17597578;'::&gt;66:17597576&gt;26:5115';8;0;'morceaux de poisson [se faire] cuire'
+e;17597572;'::&gt;66:2845232&gt;26:5115';8;0;'morceaux de viande [se faire] cuire'
+e;7741707;'en:microwave';1;0
+e;15195292;'en:summer vegetable';1;0
+e;58909;'couscoussier';1;76
+e;14800;'mélange';1;3110
+e;154695;'matière grasse';1;306
+e;53310;'jus';1;1386
+e;124071;'graisse';1;859
+e;44001;'crème';1;2085
+e;214276;'cuisine&gt;96851';1;386;'cuisine&gt;pièce'
+e;33217;'cantine';1;1532
+e;154204;'sous pression';1;104
+e;54186;'fort';1;3532
+e;36696;'à peine';1;86
+e;1971962;'30 à 35 mn';1;0
+e;26411;'longtemps';1;3495
+e;8659;'lentement';1;3435
+e;56999;'rôtissoire';1;66
+e;154063;'feu de cheminée';1;206
+e;214924;'vapeur&gt;152758';1;62;'vapeur&gt;vapeur d'eau'
+e;69592;'tandoor';1;52
+e;217292;'huile&gt;11358&gt;16746';1;28;'huile&gt;substance&gt;alimentaire'
+e;146096;'marmite';1;188
+e;322561;'faire du boudin&gt;16033';1;50;'faire du boudin&gt;cuisine'
+e;110910;'chaleur';1;3138
+e;322704;'boulange&gt;61283';1;50;'boulange&gt;pain'
+e;216934;'purée de pomme de terre';1;10
+e;217594;'Le Petit Bonhomme de pain d'épice';1;12
+e;56038;'sécher';1;446
+e;17619739;'::&gt;66:17619738&gt;15:9190';8;0;'cuisinière [peut] cuire [objet] aliments [lieu] four'
+e;17619738;'::&gt;66:59151&gt;24:14883319';8;0;'cuisinière [peut] cuire [objet] aliments'
+e;17619736;'::&gt;66:17402516&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] aliments [lieu] four'
+e;17619735;'::&gt;66:17429737&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] aliments [lieu] four'
+e;17619734;'::&gt;66:17619733&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] aliment [lieu] four'
+e;17619733;'::&gt;66:118790&gt;24:17612280';8;0;'cuisinier [peut] cuire [objet] aliment'
+e;17619732;'::&gt;66:17619731&gt;15:9190';8;0;'cuisinière&gt;femme [peut] cuire [objet] aliment [lieu] four'
+e;17619731;'::&gt;66:217714&gt;24:17612280';8;0;'cuisinière&gt;femme [peut] cuire [objet] aliment'
+e;17619730;'::&gt;66:217714&gt;24:14326649';8;0;'cuisinière&gt;femme [peut] cuire [endroit] four'
+e;17619729;'::&gt;66:217714&gt;24:5115';8;0;'cuisinière&gt;femme [peut] cuire'
+e;217714;'cuisinière&gt;61490';1;56;'cuisinière&gt;femme'
+e;17619728;'::&gt;13:217714&gt;29:5115';8;0;'cuire [sujet] cuisinière&gt;femme'
+e;17619727;'::&gt;31:9190&gt;29:17612280';8;0;'cuire [objet] aliment [endroit] four'
+e;17619726;'::&gt;66:17619725&gt;15:9190';8;0;'cuisinière [peut] cuire [objet] aliment [lieu] four'
+e;17619725;'::&gt;66:59151&gt;24:17612280';8;0;'cuisinière [peut] cuire [objet] aliment'
+e;17619724;'::&gt;66:59151&gt;24:14326649';8;0;'cuisinière [peut] cuire [endroit] four'
+e;17612287;'::&gt;31:120952&gt;29:17612280';8;0;'cuire [objet] aliment [endroit] cocotte'
+e;17612286;'::&gt;66:17612285&gt;15:120952';8;0;'personne&gt;être humain [peut] cuire [objet] aliment [lieu] cocotte'
+e;17612285;'::&gt;66:225916&gt;24:17612280';8;0;'personne&gt;être humain [peut] cuire [objet] aliment'
+e;17612284;'::&gt;66:225916&gt;24:17612282';8;0;'personne&gt;être humain [peut] cuire [endroit] cocotte'
+e;17612283;'::&gt;66:120952&gt;30:5115';8;0;'cocotte [lieu pour] cuire'
+e;17612282;'::&gt;31:120952&gt;29:5115';8;0;'cuire [endroit] cocotte'
+e;17612281;'::&gt;66:114637&gt;26:5115';8;0;'aliment [se faire] cuire'
+e;17612280;'::&gt;14:114637&gt;29:5115';8;0;'cuire [objet] aliment'
+e;17597884;'::&gt;31:146096&gt;29:14883319';8;0;'cuire [objet] aliments [endroit] marmite'
+e;17597883;'::&gt;66:14883324&gt;15:146096';8;0;'personne&gt;être humain [peut] cuire [objet] aliments [lieu] marmite'
+e;17597882;'::&gt;66:225916&gt;24:14400712';8;0;'personne&gt;être humain [peut] cuire [endroit] marmite'
+e;17597701;'::&gt;31:270478&gt;29:14883319';8;0;'cuire [objet] aliments [endroit] marmite&gt;récipient'
+e;17597700;'::&gt;66:17429737&gt;15:270478';8;0;'cuisinier [peut] cuire [objet] aliments [lieu] marmite&gt;récipient'
+e;17597699;'::&gt;66:118790&gt;24:17597697';8;0;'cuisinier [peut] cuire [endroit] marmite&gt;récipient'
+e;17597698;'::&gt;66:270478&gt;30:5115';8;0;'marmite&gt;récipient [lieu pour] cuire'
+e;270478;'marmite&gt;89628';1;68;'marmite&gt;récipient'
+e;17597697;'::&gt;31:270478&gt;29:5115';8;0;'cuire [endroit] marmite&gt;récipient'
+e;17597563;'::&gt;31:228845&gt;29:5115';8;0;'cuire [endroit] poêle&gt;ustensile de cuisine'
+e;17597599;'::&gt;31:228845&gt;29:14326647';8;0;'cuire [objet] poulet [endroit] poêle&gt;ustensile de cuisine'
+e;17597598;'::&gt;66:17597597&gt;15:228845';8;0;'mère de famille [peut] cuire [objet] poulet [lieu] poêle&gt;ustensile de cuisine'
+e;17597597;'::&gt;66:203622&gt;24:14326647';8;0;'mère de famille [peut] cuire [objet] poulet'
+e;17597596;'::&gt;31:228845&gt;29:17597592';8;0;'cuire [objet] morceaux de poulet [endroit] poêle&gt;ustensile de cuisine'
+e;17597595;'::&gt;66:17597594&gt;15:228845';8;0;'mère de famille [peut] cuire [objet] morceaux de poulet [lieu] poêle&gt;ustensile de cuisine'
+e;17597594;'::&gt;66:203622&gt;24:17597592';8;0;'mère de famille [peut] cuire [objet] morceaux de poulet'
+e;17597592;'::&gt;14:1970720&gt;29:5115';8;0;'cuire [objet] morceaux de poulet'
+e;17597581;'::&gt;31:228845&gt;29:17597577';8;0;'cuire [objet] morceaux de poisson [endroit] poêle&gt;ustensile de cuisine'
+e;17597580;'::&gt;66:17597579&gt;15:228845';8;0;'mère de famille [peut] cuire [objet] morceaux de poisson [lieu] poêle&gt;ustensile de cuisine'
+e;17597579;'::&gt;66:203622&gt;24:17597577';8;0;'mère de famille [peut] cuire [objet] morceaux de poisson'
+e;17597577;'::&gt;14:17597576&gt;29:5115';8;0;'cuire [objet] morceaux de poisson'
+e;17597575;'::&gt;31:228845&gt;29:17597571';8;0;'cuire [objet] morceaux de viande [endroit] poêle&gt;ustensile de cuisine'
+e;17597574;'::&gt;66:17597573&gt;15:228845';8;0;'mère de famille [peut] cuire [objet] morceaux de viande [lieu] poêle&gt;ustensile de cuisine'
+e;17597573;'::&gt;66:203622&gt;24:17597571';8;0;'mère de famille [peut] cuire [objet] morceaux de viande'
+e;17597571;'::&gt;14:2845232&gt;29:5115';8;0;'cuire [objet] morceaux de viande'
+e;17597570;'::&gt;31:228845&gt;29:16559449';8;0;'cuire [objet] viande [endroit] poêle&gt;ustensile de cuisine'
+e;17597569;'::&gt;66:17597568&gt;15:228845';8;0;'mère de famille [peut] cuire [objet] viande [lieu] poêle&gt;ustensile de cuisine'
+e;17597568;'::&gt;66:203622&gt;24:16559449';8;0;'mère de famille [peut] cuire [objet] viande'
+e;17597567;'::&gt;31:228845&gt;29:16559454';8;0;'cuire [objet] poisson [endroit] poêle&gt;ustensile de cuisine'
+e;17597566;'::&gt;66:17597558&gt;15:228845';8;0;'mère de famille [peut] cuire [objet] poisson [lieu] poêle&gt;ustensile de cuisine'
+e;17597565;'::&gt;66:203622&gt;24:17597563';8;0;'mère de famille [peut] cuire [endroit] poêle&gt;ustensile de cuisine'
+e;17597564;'::&gt;66:228845&gt;30:5115';8;0;'poêle&gt;ustensile de cuisine [lieu pour] cuire'
+e;228845;'poêle&gt;152067';1;102;'poêle&gt;ustensile de cuisine'
+e;17597562;'::&gt;31:119686&gt;29:16559454';8;0;'cuire [objet] poisson [endroit] poêle'
+e;17597561;'::&gt;66:17597558&gt;15:119686';8;0;'mère de famille [peut] cuire [objet] poisson [lieu] poêle'
+e;17597560;'::&gt;66:203622&gt;24:14386685';8;0;'mère de famille [peut] cuire [endroit] poêle'
+e;17597559;'::&gt;66:17597558&gt;15:9190';8;0;'mère de famille [peut] cuire [objet] poisson [lieu] four'
+e;17597558;'::&gt;66:203622&gt;24:16559454';8;0;'mère de famille [peut] cuire [objet] poisson'
+e;17597557;'::&gt;66:203622&gt;24:14326649';8;0;'mère de famille [peut] cuire [endroit] four'
+e;17597556;'::&gt;66:203622&gt;24:5115';8;0;'mère de famille [peut] cuire'
+e;17597555;'::&gt;13:203622&gt;29:5115';8;0;'cuire [sujet] mère de famille'
+e;17571780;'::&gt;66:17571779&gt;15:119014';8;0;'boulangère&gt;boulangerie [peut] cuire [objet] pains [lieu] boulangerie'
+e;17571779;'::&gt;66:11662219&gt;24:17496545';8;0;'boulangère&gt;boulangerie [peut] cuire [objet] pains'
+e;17571778;'::&gt;66:11662219&gt;24:17496499';8;0;'boulangère&gt;boulangerie [peut] cuire [endroit] boulangerie'
+e;17571775;'::&gt;66:17571774&gt;15:119014';8;0;'boulangère [peut] cuire [objet] pains [lieu] boulangerie'
+e;17571774;'::&gt;66:153046&gt;24:17496545';8;0;'boulangère [peut] cuire [objet] pains'
+e;17571773;'::&gt;66:153046&gt;24:17496499';8;0;'boulangère [peut] cuire [endroit] boulangerie'
+e;17571770;'::&gt;66:17571769&gt;15:119014';8;0;'boulanger [peut] cuire [objet] pains [lieu] boulangerie'
+e;17571769;'::&gt;66:145285&gt;24:17496545';8;0;'boulanger [peut] cuire [objet] pains'
+e;17571768;'::&gt;66:145285&gt;24:17496499';8;0;'boulanger [peut] cuire [endroit] boulangerie'
+e;17560854;'::&gt;31:9190&gt;29:17560850';8;0;'cuire [objet] gratin de légumes [endroit] four'
+e;17560853;'::&gt;66:17560852&gt;15:9190';8;0;'mère [peut] cuire [objet] gratin de légumes [lieu] four'
+e;17560852;'::&gt;66:122956&gt;24:17560850';8;0;'mère [peut] cuire [objet] gratin de légumes'
+e;17560849;'::&gt;66:17560848&gt;15:9190';8;0;'mère [peut] cuire [objet] gratin dauphinois [lieu] four'
+e;17560848;'::&gt;66:122956&gt;24:16184158';8;0;'mère [peut] cuire [objet] gratin dauphinois'
+e;17560847;'::&gt;31:9190&gt;29:17560843';8;0;'cuire [objet] gratin de pommes de terre [endroit] four'
+e;17560846;'::&gt;66:17560845&gt;15:9190';8;0;'mère [peut] cuire [objet] gratin de pommes de terre [lieu] four'
+e;17560845;'::&gt;66:122956&gt;24:17560843';8;0;'mère [peut] cuire [objet] gratin de pommes de terre'
+e;17560842;'::&gt;31:9190&gt;29:17560838';8;0;'cuire [objet] gratin de pâtes [endroit] four'
+e;17560841;'::&gt;66:17560840&gt;15:9190';8;0;'mère [peut] cuire [objet] gratin de pâtes [lieu] four'
+e;17560840;'::&gt;66:122956&gt;24:17560838';8;0;'mère [peut] cuire [objet] gratin de pâtes'
+e;17560837;'::&gt;66:17560836&gt;15:9190';8;0;'mère [peut] cuire [objet] gratin [lieu] four'
+e;17560836;'::&gt;66:122956&gt;24:16598094';8;0;'mère [peut] cuire [objet] gratin'
+e;17560835;'::&gt;66:122956&gt;24:14326649';8;0;'mère [peut] cuire [endroit] four'
+e;17560806;'::&gt;66:16599040&gt;15:9190';8;0;'personne [peut] cuire [objet] gratin [lieu] four'
+e;17551946;'::&gt;31:250257&gt;29:17483830';8;0;'cuire [objet] saucisses [endroit] bbq'
+e;17551945;'::&gt;66:17551944&gt;15:250257';8;0;'personne&gt;être humain [peut] cuire [objet] saucisses [lieu] bbq'
+e;17551944;'::&gt;66:225916&gt;24:17483830';8;0;'personne&gt;être humain [peut] cuire [objet] saucisses'
+e;17551943;'::&gt;31:250257&gt;29:16559449';8;0;'cuire [objet] viande [endroit] bbq'
+e;17551942;'::&gt;66:17402465&gt;15:250257';8;0;'personne&gt;être humain [peut] cuire [objet] viande [lieu] bbq'
+e;17551941;'::&gt;66:225916&gt;24:17551939';8;0;'personne&gt;être humain [peut] cuire [endroit] bbq'
+e;17551940;'::&gt;66:250257&gt;30:5115';8;0;'bbq [lieu pour] cuire'
+e;250257;'bbq';1;36
+e;17551939;'::&gt;31:250257&gt;29:5115';8;0;'cuire [endroit] bbq'
+e;17538949;'::&gt;66:16559451&gt;155:80591';8;0;'cuisinier [peut] cuire [objet] viande [utilisant] grill'
+e;17538947;'::&gt;66:118790&gt;24:17538945';8;0;'cuisinier [peut] cuire [avec] grill'
+e;17538946;'::&gt;66:80591&gt;25:5115';8;0;'grill [objet pour] cuire'
+e;17538792;'::&gt;31:80591&gt;29:16559449';8;0;'cuire [objet] viande [endroit] grill'
+e;17538791;'::&gt;66:16559451&gt;15:80591';8;0;'cuisinier [peut] cuire [objet] viande [lieu] grill'
+e;17538790;'::&gt;66:118790&gt;24:17538788';8;0;'cuisinier [peut] cuire [endroit] grill'
+e;17538789;'::&gt;66:80591&gt;30:5115';8;0;'grill [lieu pour] cuire'
+e;17538788;'::&gt;31:80591&gt;29:5115';8;0;'cuire [endroit] grill'
+e;17519947;'::&gt;66:17186&gt;24:14386685';8;0;'crêpe [peut] cuire [endroit] poêle'
+e;17519942;'::&gt;66:45481&gt;24:14386685';8;0;'omelette [peut] cuire [endroit] poêle'
+e;17516295;'::&gt;31:228770&gt;29:17516291';8;0;'cuire [objet] repas [endroit] four&gt;système de chauffage&gt;cuisine'
+e;17516294;'::&gt;66:17516293&gt;15:228770';8;0;'personne&gt;être humain [peut] cuire [objet] repas [lieu] four&gt;système de chauffage&gt;cuisine'
+e;17516293;'::&gt;66:225916&gt;24:17516291';8;0;'personne&gt;être humain [peut] cuire [objet] repas'
+e;17516287;'::&gt;31:5304379&gt;29:16597790';8;0;'cuire [objet] plats [endroit] four&gt;système de chauffage'
+e;17516286;'::&gt;66:17516282&gt;15:5304379';8;0;'personne&gt;être humain [peut] cuire [objet] plats [lieu] four&gt;système de chauffage'
+e;17516283;'::&gt;66:17516282&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] plats [lieu] four'
+e;17516282;'::&gt;66:225916&gt;24:16597790';8;0;'personne&gt;être humain [peut] cuire [objet] plats'
+e;17516279;'::&gt;66:17516278&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] préparation culinaire [lieu] four'
+e;17516278;'::&gt;66:225916&gt;24:16559444';8;0;'personne&gt;être humain [peut] cuire [objet] préparation culinaire'
+e;17429737;'::&gt;66:118790&gt;24:14883319';8;0;'cuisinier [peut] cuire [objet] aliments'
+e;17402959;'::&gt;66:116477&gt;24:14386685';8;0;'personne [peut] cuire [endroit] poêle'
+e;17402958;'::&gt;66:116477&gt;24:17402458';8;0;'personne [peut] cuire [objet] tranche de foie'
+e;17402957;'::&gt;66:116477&gt;24:16559449';8;0;'personne [peut] cuire [objet] viande'
+e;17402951;'::&gt;66:2951610&gt;24:16559449';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] viande'
+e;17402950;'::&gt;66:2951610&gt;24:14883319';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] aliments'
+e;17402933;'::&gt;66:116477&gt;24:17402702';8;0;'personne [peut] cuire [objet] légumes'
+e;17402706;'::&gt;31:119686&gt;29:17402702';8;0;'cuire [objet] légumes [endroit] poêle'
+e;17402704;'::&gt;66:225916&gt;24:17402702';8;0;'personne&gt;être humain [peut] cuire [objet] légumes'
+e;17402516;'::&gt;66:3263355&gt;24:14883319';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] aliments'
+e;17402514;'::&gt;66:3263355&gt;24:16559449';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] viande'
+e;17402467;'::&gt;31:119686&gt;29:16559449';8;0;'cuire [objet] viande [endroit] poêle'
+e;17402465;'::&gt;66:225916&gt;24:16559449';8;0;'personne&gt;être humain [peut] cuire [objet] viande'
+e;17402463;'::&gt;31:119686&gt;29:17402458';8;0;'cuire [objet] tranche de foie [endroit] poêle'
+e;17402461;'::&gt;66:225916&gt;24:17402458';8;0;'personne&gt;être humain [peut] cuire [objet] tranche de foie'
+e;17402460;'::&gt;66:225916&gt;24:14386685';8;0;'personne&gt;être humain [peut] cuire [endroit] poêle'
+e;17130056;'::&gt;66:116477&gt;24:16559454';8;0;'personne [peut] cuire [objet] poisson'
+e;17113409;'::&gt;66:225916&gt;24:16559454';8;0;'personne&gt;être humain [peut] cuire [objet] poisson'
+e;17110539;'::&gt;66:116477&gt;24:17041751';8;0;'personne [peut] cuire [objet] magret de canard'
+e;17041755;'::&gt;31:9190&gt;29:17041751';8;0;'cuire [objet] magret de canard [endroit] four'
+e;17041753;'::&gt;66:225916&gt;24:17041751';8;0;'personne&gt;être humain [peut] cuire [objet] magret de canard'
+e;16800155;'::&gt;66:116477&gt;24:16789275';8;0;'personne [peut] cuire [avec] bbq'
+e;16800154;'::&gt;66:116477&gt;24:16789273';8;0;'personne [peut] cuire [objet] côte de boeuf'
+e;16800153;'::&gt;66:116477&gt;24:16789281';8;0;'personne [peut] cuire [avec] barbecue'
+e;16800151;'::&gt;66:116477&gt;24:16789286';8;0;'personne [peut] cuire [avec] barbecue&gt;appareil de cuisson'
+e;16789289;'::&gt;66:16789278&gt;155:2707989';8;0;'personne&gt;être humain [peut] cuire [objet] côte de boeuf [utilisant] barbecue&gt;appareil de cuisson'
+e;16789288;'::&gt;66:225916&gt;24:16789286';8;0;'personne&gt;être humain [peut] cuire [avec] barbecue&gt;appareil de cuisson'
+e;16789287;'::&gt;66:2707989&gt;25:5115';8;0;'barbecue&gt;appareil de cuisson [objet pour] cuire'
+e;16789284;'::&gt;66:16789278&gt;155:95126';8;0;'personne&gt;être humain [peut] cuire [objet] côte de boeuf [utilisant] barbecue'
+e;16789283;'::&gt;66:225916&gt;24:16789281';8;0;'personne&gt;être humain [peut] cuire [avec] barbecue'
+e;16789282;'::&gt;66:95126&gt;25:5115';8;0;'barbecue [objet pour] cuire'
+e;16789279;'::&gt;66:16789278&gt;155:250257';8;0;'personne&gt;être humain [peut] cuire [objet] côte de boeuf [utilisant] bbq'
+e;16789278;'::&gt;66:225916&gt;24:16789273';8;0;'personne&gt;être humain [peut] cuire [objet] côte de boeuf'
+e;16789277;'::&gt;66:225916&gt;24:16789275';8;0;'personne&gt;être humain [peut] cuire [avec] bbq'
+e;16789276;'::&gt;66:250257&gt;25:5115';8;0;'bbq [objet pour] cuire'
+e;16607753;'::&gt;66:116477&gt;24:16607746';8;0;'personne [peut] cuire [objet] épaule d'agneau'
+e;16607748;'::&gt;66:225916&gt;24:16607746';8;0;'personne&gt;être humain [peut] cuire [objet] épaule d'agneau'
+e;16600572;'::&gt;66:116477&gt;24:14883321';8;0;'personne [peut] cuire [endroit] pot'
+e;16600571;'::&gt;66:116477&gt;24:14883319';8;0;'personne [peut] cuire [objet] aliments'
+e;16600556;'::&gt;66:116477&gt;24:14884664';8;0;'personne [peut] cuire [endroit] wok'
+e;16600124;'::&gt;66:116477&gt;24:14326649';8;0;'personne [peut] cuire [endroit] four'
+e;16600123;'::&gt;66:116477&gt;24:15761854';8;0;'personne [peut] cuire [objet] pizza'
+e;16600122;'::&gt;66:116477&gt;24:16168839';8;0;'personne [peut] cuire [endroit] four&gt;système de chauffage'
+e;16600121;'::&gt;66:116477&gt;24:16168844';8;0;'personne [peut] cuire [objet] quiche'
+e;16600120;'::&gt;66:116477&gt;24:16168850';8;0;'personne [peut] cuire [objet] plat chaud'
+e;16600119;'::&gt;66:116477&gt;24:14363897';8;0;'personne [peut] cuire [objet] pain'
+e;16600118;'::&gt;66:116477&gt;24:16168865';8;0;'personne [peut] cuire [objet] baguette'
+e;16600066;'::&gt;66:116477&gt;24:16184158';8;0;'personne [peut] cuire [objet] gratin dauphinois'
+e;16599715;'::&gt;66:116477&gt;24:14326655';8;0;'personne [peut] cuire [avec] four'
+e;16599714;'::&gt;66:116477&gt;24:16559478';8;0;'personne [peut] cuire [objet] gâteau'
+e;16599064;'::&gt;66:59151&gt;24:16597790';8;0;'cuisinière [peut] cuire [objet] plats'
+e;16599040;'::&gt;66:116477&gt;24:16598094';8;0;'personne [peut] cuire [objet] gratin'
+e;16599039;'::&gt;66:116477&gt;24:16598106';8;0;'personne [peut] cuire [objet] gratin&gt;cuisine'
+e;16599037;'::&gt;31:9190&gt;29:16598106';8;0;'cuire [objet] gratin&gt;cuisine [endroit] four'
+e;16599036;'::&gt;66:116477&gt;24:14417114';8;0;'personne [peut] cuire [endroit] four&gt;système de chauffage&gt;cuisine'
+e;16598118;'::&gt;66:163616&gt;24:16598106';8;0;'père de famille [peut] cuire [objet] gratin&gt;cuisine'
+e;16598117;'::&gt;66:163616&gt;24:14417114';8;0;'père de famille [peut] cuire [endroit] four&gt;système de chauffage&gt;cuisine'
+e;16598114;'::&gt;31:228770&gt;29:16598106';8;0;'cuire [objet] gratin&gt;cuisine [endroit] four&gt;système de chauffage&gt;cuisine'
+e;16598112;'::&gt;66:225916&gt;24:14417114';8;0;'personne&gt;être humain [peut] cuire [endroit] four&gt;système de chauffage&gt;cuisine'
+e;16598110;'::&gt;31:5304379&gt;29:16598106';8;0;'cuire [objet] gratin&gt;cuisine [endroit] four&gt;système de chauffage'
+e;16598108;'::&gt;66:225916&gt;24:16598106';8;0;'personne&gt;être humain [peut] cuire [objet] gratin&gt;cuisine'
+e;16598104;'::&gt;31:5304379&gt;29:16184158';8;0;'cuire [objet] gratin dauphinois [endroit] four&gt;système de chauffage'
+e;16598102;'::&gt;31:5304379&gt;29:16598094';8;0;'cuire [objet] gratin [endroit] four&gt;système de chauffage'
+e;16598098;'::&gt;31:9190&gt;29:16598094';8;0;'cuire [objet] gratin [endroit] four'
+e;16598096;'::&gt;66:225916&gt;24:16598094';8;0;'personne&gt;être humain [peut] cuire [objet] gratin'
+e;16597792;'::&gt;66:217715&gt;24:16597790';8;0;'cuisinière&gt;appareil de cuisson [peut] cuire [objet] plats'
+e;168366;'sel de cuisine';1;52
+e;16563780;'::&gt;66:16563779&gt;155:9190';8;0;'pâtissier [peut] cuire [objet] gâteau [utilisant] four'
+e;16563779;'::&gt;66:31618&gt;24:16559478';8;0;'pâtissier [peut] cuire [objet] gâteau'
+e;16563778;'::&gt;66:31618&gt;24:14326655';8;0;'pâtissier [peut] cuire [avec] four'
+e;16563776;'::&gt;66:16563775&gt;155:9190';8;0;'personne&gt;être humain [peut] cuire [objet] gâteau [utilisant] four'
+e;16563775;'::&gt;66:225916&gt;24:16559478';8;0;'personne&gt;être humain [peut] cuire [objet] gâteau'
+e;16563774;'::&gt;66:225916&gt;24:14326655';8;0;'personne&gt;être humain [peut] cuire [avec] four'
+e;16559568;'::&gt;31:9190&gt;29:16559563';8;0;'cuire [objet] biscuits [endroit] four'
+e;16559566;'::&gt;66:31618&gt;24:16559563';8;0;'pâtissier [peut] cuire [objet] biscuits'
+e;16559565;'::&gt;66:31618&gt;24:14326649';8;0;'pâtissier [peut] cuire [endroit] four'
+e;16559487;'::&gt;31:9190&gt;29:16559483';8;0;'cuire [objet] cake [endroit] four'
+e;16559485;'::&gt;66:118790&gt;24:16559483';8;0;'cuisinier [peut] cuire [objet] cake'
+e;16559482;'::&gt;31:9190&gt;29:16559478';8;0;'cuire [objet] gâteau [endroit] four'
+e;16559480;'::&gt;66:118790&gt;24:16559478';8;0;'cuisinier [peut] cuire [objet] gâteau'
+e;16559477;'::&gt;31:9190&gt;29:16559444';8;0;'cuire [objet] préparation culinaire [endroit] four'
+e;16559475;'::&gt;31:9190&gt;29:16559454';8;0;'cuire [objet] poisson [endroit] four'
+e;16559473;'::&gt;31:9190&gt;29:16559449';8;0;'cuire [objet] viande [endroit] four'
+e;16559471;'::&gt;31:9190&gt;29:16559459';8;0;'cuire [objet] rôti [endroit] four'
+e;16559462;'::&gt;66:16559461&gt;155:9190';8;0;'cuisinier [peut] cuire [objet] rôti [utilisant] four'
+e;16559461;'::&gt;66:118790&gt;24:16559459';8;0;'cuisinier [peut] cuire [objet] rôti'
+e;16559457;'::&gt;66:16559456&gt;155:9190';8;0;'cuisinier [peut] cuire [objet] poisson [utilisant] four'
+e;16559456;'::&gt;66:118790&gt;24:16559454';8;0;'cuisinier [peut] cuire [objet] poisson'
+e;16559452;'::&gt;66:16559451&gt;155:9190';8;0;'cuisinier [peut] cuire [objet] viande [utilisant] four'
+e;16559451;'::&gt;66:118790&gt;24:16559449';8;0;'cuisinier [peut] cuire [objet] viande'
+e;16559447;'::&gt;66:16559446&gt;155:9190';8;0;'cuisinier [peut] cuire [objet] préparation culinaire [utilisant] four'
+e;16559446;'::&gt;66:118790&gt;24:16559444';8;0;'cuisinier [peut] cuire [objet] préparation culinaire'
+e;16559442;'::&gt;66:16559439&gt;155:9190';8;0;'cuisinier [peut] cuire [objet] truite [utilisant] four'
+e;16559441;'::&gt;31:9190&gt;29:16559437';8;0;'cuire [objet] truite [endroit] four'
+e;16559439;'::&gt;66:118790&gt;24:16559437';8;0;'cuisinier [peut] cuire [objet] truite'
+e;165770;'avoir de la gueule';1;50
+e;15359719;'en:deep-fat-fryer';1;0
+e;16242228;'::&gt;66:34713&gt;24:16242226';8;0;'japonais [peut] cuire [objet] riz'
+e;16184160;'::&gt;66:225916&gt;24:16184158';8;0;'personne&gt;être humain [peut] cuire [objet] gratin dauphinois'
+e;16168867;'::&gt;66:225916&gt;24:16168865';8;0;'personne&gt;être humain [peut] cuire [objet] baguette'
+e;16168856;'::&gt;66:225916&gt;24:14363897';8;0;'personne&gt;être humain [peut] cuire [objet] pain'
+e;16168852;'::&gt;66:225916&gt;24:16168850';8;0;'personne&gt;être humain [peut] cuire [objet] plat chaud'
+e;16168846;'::&gt;66:225916&gt;24:16168844';8;0;'personne&gt;être humain [peut] cuire [objet] quiche'
+e;16168841;'::&gt;66:225916&gt;24:16168839';8;0;'personne&gt;être humain [peut] cuire [endroit] four&gt;système de chauffage'
+e;16168840;'::&gt;66:5304379&gt;30:5115';8;0;'four&gt;système de chauffage [lieu pour] cuire'
+e;16168836;'::&gt;66:225916&gt;24:15761854';8;0;'personne&gt;être humain [peut] cuire [objet] pizza'
+e;16168835;'::&gt;66:225916&gt;24:14326649';8;0;'personne&gt;être humain [peut] cuire [endroit] four'
+e;16066111;'::&gt;66:106182&gt;24:14326649';8;0;'gigot [peut] cuire [endroit] four'
+e;16066106;'::&gt;66:68467&gt;24:14326649';8;0;'poisson [peut] cuire [endroit] four'
+e;16066096;'::&gt;66:140188&gt;24:14326649';8;0;'brioche [peut] cuire [endroit] four'
+e;153879;'poele';1;60
+e;15849075;'::&gt;66:61283&gt;24:14326649';8;0;'pain [peut] cuire [endroit] four'
+e;15261523;'en:sauna bath';1;0
+e;15190520;'en:blended wine';1;0
+e;6437102;'lourdeurs d'estomac';1;4
+e;15422358;'en:pizza van';1;0
+e;15761859;'::&gt;66:3373903&gt;24:15761857';8;0;'pizzaiolo [peut] cuire [endroit] camion à pizza'
+e;15761858;'::&gt;66:321894&gt;30:5115';8;0;'camion à pizza [lieu pour] cuire'
+e;321894;'camion à pizza';1;50
+e;15761856;'::&gt;66:3373903&gt;24:15761854';8;0;'pizzaiolo [peut] cuire [objet] pizza'
+e;6938887;'en:upset stomach';1;0
+e;15217117;'en:bilious attack';1;0
+e;229478;'crise de foie';1;140
+e;14945063;'en:gravy';1;0
+e;15205211;'en:cooking salt';1;0
+e;15311055;'en:coarse salt';1;0
+e;15480641;'en:induction plate';1;0
+e;228626;'plaque à induction';1;56
+e;15305241;'en:be hot';1;0
+e;283091;'cuisinière à gaz';777;78
+e;15111552;'en:gas cooker';1;0
+e;3729842;'huile&gt;11358&gt;113902';1;0;'huile&gt;substance&gt;alimentation'
+e;14934326;'en:indigestion';1;0
+e;9773499;'en:brandy';1;0
+e;161817;'eau de vie';1;80
+e;17502945;'::&gt;66:48758&gt;24:17502943';8;0;'indienne [peut] cuire [objet] naans'
+e;14884666;'::&gt;66:225916&gt;24:14884664';8;0;'personne&gt;être humain [peut] cuire [endroit] wok'
+e;14884665;'::&gt;66:177318&gt;30:5115';8;0;'wok [lieu pour] cuire'
+e;14883324;'::&gt;66:225916&gt;24:14883319';8;0;'personne&gt;être humain [peut] cuire [objet] aliments'
+e;14883323;'::&gt;66:225916&gt;24:14883321';8;0;'personne&gt;être humain [peut] cuire [endroit] pot'
+e;14883322;'::&gt;66:142367&gt;30:5115';8;0;'pot [lieu pour] cuire'
+e;103405;'indifférence';1;612
+e;17502954;'::&gt;66:1978629&gt;24:14326649';8;0;'indienne&gt;Inde [peut] cuire [endroit] four'
+e;17502949;'::&gt;66:48758&gt;24:14326649';8;0;'indienne [peut] cuire [endroit] four'
+e;17502951;'::&gt;31:9190&gt;29:17502946';8;0;'cuire [objet] naan [endroit] four'
+e;17502955;'::&gt;66:1978629&gt;24:17502946';8;0;'indienne&gt;Inde [peut] cuire [objet] naan'
+e;17502950;'::&gt;66:17502948&gt;15:9190';8;0;'indienne [peut] cuire [objet] naan [lieu] four'
+e;17502948;'::&gt;66:48758&gt;24:17502946';8;0;'indienne [peut] cuire [objet] naan'
+e;17502956;'::&gt;66:17502955&gt;15:9190';8;0;'indienne&gt;Inde [peut] cuire [objet] naan [lieu] four'
+e;3321410;'vin de coupage';1;0
+e;247486;'vin de Madère';1;60
+e;35798;'vin';1;4622
+e;163225;'plat creux';1;60
+e;22501;'madère';1;60
+e;16381;'képhir';1;52
+e;128221;'kéfir';1;62
+e;1856530;'kefyr';1;0
+e;239078;'jus de viande';1;2
+e;136572;'jatte';1;66
+e;35633;'eau-de-vie';1;144
+e;13992269;'décor naturel';1;0
+e;97960;'décoction';1;96
+e;128277;'côtelette';1;114
+e;63221;'brandy';1;62
+e;140315;'liquide';1;3141
+e;65824;'faitout';1;122
+e;177318;'wok';1;78
+e;48041;'sauna';1;234
+e;152522;'gazinière';1;184
+e;79954;'restaurant';1;5348
+e;122393;'plage';1;3445
+e;92541;'micro-ondes';1;130
+e;145064;'plaque';1;2442
+e;216008;'feu&gt;60312';1;52;'feu&gt;combustion'
+e;112578;'précuire';1;50
+e;196441;'avoir chaud';1;136
+e;117177;'recuire';1;58
+e;9448008;'au micro-ondes';1;16
+e;9448007;'à la pierrade';1;32
+e;155478;'à la nage';1;62
+e;9448006;'en cocotte';1;26
+e;9448005;'sous salamandre';1;2
+e;9448002;'en ragoût';1;20
+e;9448001;'en omelette';1;0
+e;9448000;'en fondue';1;0
+e;9447999;'en casserole';1;22
+e;9447998;'en brochette';1;0
+e;9447997;'au wok';1;64
+e;9447996;'au boulé';1;24
+e;9447995;'au barbecue';1;60
+e;9447994;'au bain marie';1;62
+e;128663;'un peu';1;192
+e;112021;'terriblement';1;74
+e;68917;'par intermittence';1;52
+e;120123;'beaucoup';1;3787
+e;99186;'intensément';1;100
+e;65022;'en permanence';1;108
+e;80572;'horriblement';1;72
+e;171415;'de pire en pire';1;2
+e;39409;'peu';1;3936
+e;259965;'en papillote';1;54
+e;259966;'à l'unilatérale';1;50
+e;114700;'bien';1;4205
+e;4078;'mal';1;3761
+e;6226;'trop';1;3711
+e;97682;'saignant';1;158
+e;60;'bleu';1;3449
+e;196265;'au four';1;82
+e;10105;'comme il faut';1;54
+e;215810;'bleu&gt;140100';1;32;'bleu&gt;viande'
+e;109043;'vite';1;4250
+e;31576;'rapidement';1;4302
+e;239343;'rapidement&gt;59117';1;52;'rapidement&gt;délai'
+e;53322;'doucement';1;1708
+e;171204;'à petit feu';1;20
+e;106975;'à moitié';1;108
+e;140948;'à l'étouffée';1;64
+e;196216;'au bain-marie';1;86
+e;196242;'au court-bouillon';1;52
+e;191830;'à blanc';1;50
+e;144740;'à l'étuvée';1;50
+e;196274;'au gril';1;50
+e;229242;'plancha';666;50
+e;206740;'réchaud à gaz';1;50
+e;98392;'vapeur';1;2939
+e;114359;'friteuse';1;82
+e;228646;'plaque&gt;60056';1;8;'plaque&gt;cuisson'
+e;214278;'plaque électrique';1;52
+e;234507;'four à gaz';1;66
+e;155893;'gros sel';1;128
+e;43966;'autocuiseur';1;106
+e;142704;'fourneau';1;114
+e;228138;'citron&gt;87286';1;176;'citron&gt;fruit'
+e;250942;'manger cru';1;32
+e;95584;'indigestion';1;264
+e;14561183;'::&gt;66:117152&gt;24:14561181';8;0;'soupe [peut] cuire [endroit] casserole'
+e;14561182;'::&gt;66:57253&gt;30:5115';8;0;'casserole [lieu pour] cuire'
+e;14486145;'::&gt;66:117152&gt;24:14400712';8;0;'soupe [peut] cuire [endroit] marmite'
+e;14485194;'::&gt;66:109533&gt;24:14326649';8;0;'pizza [peut] cuire [endroit] four'
+e;14471081;'::&gt;66:68439&gt;24:14386685';8;0;'individu [peut] cuire [endroit] poêle'
+e;14471077;'::&gt;66:68439&gt;24:14471075';8;0;'individu [peut] cuire [objet] pommes de terre'
+e;14417116;'::&gt;66:68439&gt;24:14417114';8;0;'individu [peut] cuire [endroit] four&gt;système de chauffage&gt;cuisine'
+e;14417115;'::&gt;66:228770&gt;30:5115';8;0;'four&gt;système de chauffage&gt;cuisine [lieu pour] cuire'
+e;14417108;'::&gt;66:68439&gt;24:14417105';8;0;'individu [peut] cuire [objet] tarte'
+e;14417107;'::&gt;66:68439&gt;24:14326649';8;0;'individu [peut] cuire [endroit] four'
+e;14400715;'::&gt;66:68439&gt;24:14400710';8;0;'individu [peut] cuire [objet] pot-au-feu'
+e;14400714;'::&gt;66:68439&gt;24:14400712';8;0;'individu [peut] cuire [endroit] marmite'
+e;14400713;'::&gt;66:146096&gt;30:5115';8;0;'marmite [lieu pour] cuire'
+e;14400707;'::&gt;66:68439&gt;24:14400702';8;0;'individu [peut] cuire [objet] frites'
+e;14400706;'::&gt;66:68439&gt;24:14400704';8;0;'individu [peut] cuire [endroit] huile'
+e;14400705;'::&gt;66:141971&gt;30:5115';8;0;'huile [lieu pour] cuire'
+e;14386687;'::&gt;66:140100&gt;24:14386685';8;0;'viande [peut] cuire [endroit] poêle'
+e;14386686;'::&gt;66:119686&gt;30:5115';8;0;'poêle [lieu pour] cuire'
+e;14363899;'::&gt;66:145285&gt;24:14363897';8;0;'boulanger [peut] cuire [objet] pain'
+e;14326658;'::&gt;66:14326652&gt;155:9190';8;0;'cuisinier [peut] cuire [objet] poulet [utilisant] four'
+e;14326657;'::&gt;66:118790&gt;24:14326655';8;0;'cuisinier [peut] cuire [avec] four'
+e;14326656;'::&gt;66:9190&gt;25:5115';8;0;'four [objet pour] cuire'
+e;14326652;'::&gt;66:118790&gt;24:14326647';8;0;'cuisinier [peut] cuire [objet] poulet'
+e;14326651;'::&gt;66:118790&gt;24:14326649';8;0;'cuisinier [peut] cuire [endroit] four'
+e;14326650;'::&gt;66:9190&gt;30:5115';8;0;'four [lieu pour] cuire'
+e;14325031;'::&gt;66:3260867&gt;30:5115';8;0;'récipient de cuisson [lieu pour] cuire'
+e;14293003;'cuites&gt;2946892';1;0;'cuites&gt;Ver:Conjug'
+e;14288350;'cuite&gt;2946892';1;0;'cuite&gt;Ver:Conjug'
+e;14287029;'cuit&gt;2946892';1;0;'cuit&gt;Ver:Conjug'
+e;13985133;'cuisson du sucre';1;10
+e;15317615;'en:induction cooker';1;0
+e;17483828;'::&gt;66:17483827&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] pièce de viande [lieu] four'
+e;17483809;'::&gt;66:2951610&gt;24:14326649';8;0;'cuisinier&gt;nourriture [peut] cuire [endroit] four'
+e;17471142;'::&gt;66:17471141&gt;15:9190';8;0;'individu [peut] cuire [objet] aliments [lieu] four'
+e;15111553;'en:gas range';1;0
+e;15313714;'en:table top cooking appliance';1;0
+e;17469116;'::&gt;31:142367&gt;29:17402702';8;0;'cuire [objet] légumes [endroit] pot'
+e;17496548;'::&gt;66:17496547&gt;15:119014';8;0;'personne&gt;être humain [peut] cuire [objet] pains [lieu] boulangerie'
+e;17487744;'::&gt;66:36327&gt;30:5115';8;0;'plat [lieu pour] cuire'
+e;17483817;'::&gt;66:2951610&gt;24:14417105';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] tarte'
+e;17483818;'::&gt;66:17483817&gt;15:9190';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] tarte [lieu] four'
+e;17483810;'::&gt;66:2951610&gt;24:16559444';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] préparation culinaire'
+e;17483805;'::&gt;66:118790&gt;24:17483803';8;0;'cuisinier [peut] cuire [objet] plat'
+e;17483806;'::&gt;66:17483805&gt;15:9190';8;0;'cuisinier [peut] cuire [objet] plat [lieu] four'
+e;17483813;'::&gt;66:17483812&gt;15:9190';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] légumes [lieu] four'
+e;17483823;'::&gt;66:2951610&gt;24:17483821';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] pièce de viande'
+e;17483837;'::&gt;66:17483836&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] plats [lieu] four'
+e;17497555;'::&gt;66:16168856&gt;155:9190';8;0;'personne&gt;être humain [peut] cuire [objet] pain [utilisant] four'
+e;17497574;'::&gt;66:14363899&gt;155:9190';8;0;'boulanger [peut] cuire [objet] pain [utilisant] four'
+e;17497573;'::&gt;66:145285&gt;24:14326655';8;0;'boulanger [peut] cuire [avec] four'
+e;17471150;'::&gt;31:143703&gt;29:14883319';8;0;'cuire [objet] aliments [endroit] feu'
+e;17497642;'::&gt;66:233049&gt;24:14326649';8;0;'pain&gt;boulangerie [peut] cuire [endroit] four'
+e;17483843;'::&gt;66:17483842&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] pommes de terre [lieu] four'
+e;17483815;'::&gt;66:17402950&gt;15:9190';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] aliments [lieu] four'
+e;17469126;'::&gt;31:9190&gt;29:14883319';8;0;'cuire [objet] aliments [endroit] four'
+e;17483836;'::&gt;66:3263355&gt;24:16597790';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] plats'
+e;17483826;'::&gt;66:3263355&gt;24:14326649';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [endroit] four'
+e;17487746;'::&gt;66:146065&gt;24:17487741';8;0;'mari [peut] cuire [objet] oeuf'
+e;17483812;'::&gt;66:2951610&gt;24:17402702';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] légumes'
+e;17496549;'::&gt;31:119014&gt;29:17496545';8;0;'cuire [objet] pains [endroit] boulangerie'
+e;17487406;'::&gt;66:106265&gt;30:5115';8;0;'appareil [lieu pour] cuire'
+e;17483840;'::&gt;66:3263355&gt;24:17402702';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] légumes'
+e;17483835;'::&gt;31:9190&gt;29:17483830';8;0;'cuire [objet] saucisses [endroit] four'
+e;17483829;'::&gt;66:17402514&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] viande [lieu] four'
+e;17483819;'::&gt;66:2951610&gt;24:16168844';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] quiche'
+e;17469115;'::&gt;66:17402704&gt;15:142367';8;0;'personne&gt;être humain [peut] cuire [objet] légumes [lieu] pot'
+e;17469121;'::&gt;66:225916&gt;24:17469119';8;0;'personne&gt;être humain [peut] cuire [objet] oeufs'
+e;17483842;'::&gt;66:3263355&gt;24:14471075';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] pommes de terre'
+e;17487747;'::&gt;66:17487746&gt;15:36327';8;0;'mari [peut] cuire [objet] oeuf [lieu] plat'
+e;17487759;'::&gt;66:146065&gt;24:17487757';8;0;'mari [peut] cuire [objet] oeuf au plat'
+e;17496500;'::&gt;66:119014&gt;30:5115';8;0;'boulangerie [lieu pour] cuire'
+e;17496499;'::&gt;31:119014&gt;29:5115';8;0;'cuire [endroit] boulangerie'
+e;17483825;'::&gt;31:9190&gt;29:17483821';8;0;'cuire [objet] pièce de viande [endroit] four'
+e;17487745;'::&gt;66:146065&gt;24:17487743';8;0;'mari [peut] cuire [endroit] plat'
+e;17487756;'::&gt;66:146065&gt;24:17487754';8;0;'mari [peut] cuire [objet] oeuf sur le plat'
+e;17469125;'::&gt;66:14883324&gt;15:9190';8;0;'personne&gt;être humain [peut] cuire [objet] aliments [lieu] four'
+e;17469123;'::&gt;31:142367&gt;29:17469119';8;0;'cuire [objet] oeufs [endroit] pot'
+e;17469122;'::&gt;66:17469121&gt;15:142367';8;0;'personne&gt;être humain [peut] cuire [objet] oeufs [lieu] pot'
+e;17471148;'::&gt;66:68439&gt;24:17471146';8;0;'individu [peut] cuire [endroit] feu'
+e;17471147;'::&gt;66:143703&gt;30:5115';8;0;'feu [lieu pour] cuire'
+e;17483833;'::&gt;66:3263355&gt;24:17483830';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] saucisses'
+e;17483841;'::&gt;66:17483840&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] légumes [lieu] four'
+e;17483811;'::&gt;66:17483810&gt;15:9190';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] préparation culinaire [lieu] four'
+e;17483827;'::&gt;66:3263355&gt;24:17483821';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] pièce de viande'
+e;17483838;'::&gt;31:9190&gt;29:16597790';8;0;'cuire [objet] plats [endroit] four'
+e;17483824;'::&gt;66:17483823&gt;15:9190';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] pièce de viande [lieu] four'
+e;17491031;'::&gt;66:116477&gt;24:17491029';8;0;'personne [peut] cuire [objet] bifteck'
+e;17496503;'::&gt;31:119014&gt;29:14363897';8;0;'cuire [objet] pain [endroit] boulangerie'
+e;17496502;'::&gt;66:16168856&gt;15:119014';8;0;'personne&gt;être humain [peut] cuire [objet] pain [lieu] boulangerie'
+e;17496501;'::&gt;66:225916&gt;24:17496499';8;0;'personne&gt;être humain [peut] cuire [endroit] boulangerie'
+e;17483834;'::&gt;66:17483833&gt;15:9190';8;0;'cuisinier&gt;nourriture&gt;personne [peut] cuire [objet] saucisses [lieu] four'
+e;17487748;'::&gt;31:36327&gt;29:17487741';8;0;'cuire [objet] oeuf [endroit] plat'
+e;17471149;'::&gt;66:17471141&gt;15:143703';8;0;'individu [peut] cuire [objet] aliments [lieu] feu'
+e;17471141;'::&gt;66:68439&gt;24:14883319';8;0;'individu [peut] cuire [objet] aliments'
+e;17483820;'::&gt;66:17483819&gt;15:9190';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] quiche [lieu] four'
+e;17483814;'::&gt;31:9190&gt;29:17402702';8;0;'cuire [objet] légumes [endroit] four'
+e;17496547;'::&gt;66:225916&gt;24:17496545';8;0;'personne&gt;être humain [peut] cuire [objet] pains'
+e;15684515;'laisser quelqu'un cuire dans son jus';1;0
+e;15749288;'laisser cuire 10 mn à feu doux';1;0
+e;15431620;'laisser [qqn] cuire dans son jus';1;0
+e;2464553;'coquasse';1;0
+e;455726;'à point&gt;171869';1;50;'à point&gt;Adj:'
+e;82772;'allumer';1;912
+e;14559845;'faire cuire du riz';1;14
+e;14557762;'cuire la semoule';1;2
+e;14532464;'faire cuire la pâte';1;0
+e;122840;'bronzeur';1;50
+e;185352;'murir';1;50
+e;10060;'incendier';1;266
+e;205639;'plaque à pâtisserie';1;52
+e;15052876;'en:zwieback';1;0
+e;17402538;'cuire un plat au four';1;0
+e;9102114;'crevettes flambées à l'américaine';1;0
+e;15478611;'en:in a foil parcel';1;0
+e;25479;'frémir';1;134
+e;15289936;'va te faire voir !';1;0
+e;14960543;'en:schnitzel';1;0
+e;15341607;'Va te faire voir !';1;0
+e;15299221;'en:boiling water';1;0
+e;111153;'sans désemparer';1;50
+e;15202063;'en:fine dining';1;0
+e;14932693;'en:worse and worse';1;0
+e;8089928;'en:omelette';1;0
+e;16344196;'en:pizza truck';1;0
+e;15377779;'en:to leave to marinade';1;0
+e;15700828;'en:leave to marinade';1;0
+e;15074621;'en:common salt';1;0
+e;14929935;'en:continuously';1;0
+e;15483694;'sans discontinuité';1;0
+e;15304926;'en:eau de vie';1;0
+e;15426810;'en:baking sheet';1;0
+e;683509;'piano&gt;171870';1;0;'piano&gt;Nom:'
+e;15367398;'conditionné sous vide';1;0
+e;15419883;'en:over an open fire';1;0
+e;15419884;'en:over an open flame';1;0
+e;15200238;'en:over a slow heat';1;0
+e;15200237;'en:over a low heat';1;0
+e;15200236;'en:over low heat';1;0
+e;15246857;'avec lenteur';1;0
+e;15377778;'laisser mariner';1;0
+e;15716544;'laisser mariner quelqu'un';1;0
+e;15449009;'laisser mariner [qqn]';1;0
+e;15716541;'laisser mariner quelque chose';1;0
+e;15449006;'laisser mariner [qch]';1;0
+e;15440262;'en:non stop';1;0
+e;15275340;'en:without a break';1;0
+e;15400658;'en:without stopping';1;0
+e;14932764;'en:slowly';1;0
+e;15390641;'en:steam cooker';1;0
+e;15693364;'en:bring something to the boil';1;0
+e;15693365;'porter quelque chose à ébullition';1;0
+e;15438476;'porter [qch] à ébullition';1;0
+e;15207759;'en:tough cookie';1;0
+e;15252795;'sans s'arrêter';1;0
+e;17485630;'::&gt;66:118790&gt;24:17402702';8;0;'cuisinier [peut] cuire [objet] légumes'
+e;17485626;'::&gt;66:118790&gt;24:17483821';8;0;'cuisinier [peut] cuire [objet] pièce de viande'
+e;17485625;'::&gt;66:2951610&gt;24:17483830';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] saucisses'
+e;17485628;'::&gt;66:118790&gt;24:14417105';8;0;'cuisinier [peut] cuire [objet] tarte'
+e;17478295;'::&gt;66:116477&gt;24:17469119';8;0;'personne [peut] cuire [objet] oeufs'
+e;17485623;'::&gt;66:2951610&gt;24:14471075';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] pommes de terre'
+e;17485624;'::&gt;66:2951610&gt;24:16597790';8;0;'cuisinier&gt;nourriture [peut] cuire [objet] plats'
+e;17485627;'::&gt;66:118790&gt;24:16168844';8;0;'cuisinier [peut] cuire [objet] quiche'
+e;38519;'préparé';1;683
+e;16169509;'à cuire';777;0
+e;16106045;'va te faire cuire un oeuf !';1;0
+e;15763296;'va te faire cuire un oeuf';1;0
+e;217289;'huile&gt;11358';1;218;'huile&gt;substance'
+e;2499;'mijoté';1;50
+e;17516285;'::&gt;66:116477&gt;24:16597790';8;0;'personne [peut] cuire [objet] plats'
+e;17516281;'::&gt;66:116477&gt;24:16559444';8;0;'personne [peut] cuire [objet] préparation culinaire'
+e;239795;'faire du boudin';1;22
+e;101081;'fondue';1;206
+e;14926145;'en:shambles';1;0
+e;5802073;'Eau de Vie';777;0
+e;9399;'koumis';1;52
+e;1799401;'mijoté&gt;171869';1;0;'mijoté&gt;Adj:'
+e;1799400;'mijoté&gt;161702';1;0;'mijoté&gt;Ver:PPas'
+e;17496550;'::&gt;66:116477&gt;24:17496545';8;0;'personne [peut] cuire [objet] pains'
+e;22132;'alandier';1;50
+e;12050458;'cuire des produits de pâtisserie';1;0
+e;12050426;'cuire des produits laitiers';1;0
+e;11840072;'faire cuire un poisson';1;0
+e;11840073;'faire cuire du poisson';1;0
+e;2422695;'laisser cuire dans son jus';1;0
+e;52405;'galettière';1;50
+e;2504285;'cuit-pommes';1;0
+e;16042733;'cuit-oeufs';1;0
+e;61464;'cocasse';1;68
+e;26422;'ébouillir';1;50
+e;331597;'autoclaver';1;50
+e;17483802;'cuire un plat';1;0
+e;13985120;'porter à l'ébullition';1;0
+e;17627053;'::&gt;66:17597568&gt;15:119686';1;0;'mère de famille [peut] cuire [objet] viande [lieu] poêle'
+e;17627052;'::&gt;66:17597573&gt;15:119686';1;0;'mère de famille [peut] cuire [objet] morceaux de viande [lieu] poêle'
+e;17627051;'::&gt;31:119686&gt;29:17597571';1;0;'cuire [objet] morceaux de viande [endroit] poêle'
+e;17627050;'::&gt;66:17597579&gt;15:119686';1;0;'mère de famille [peut] cuire [objet] morceaux de poisson [lieu] poêle'
+e;17627049;'::&gt;31:119686&gt;29:17597577';1;0;'cuire [objet] morceaux de poisson [endroit] poêle'
+e;17627048;'::&gt;66:17597594&gt;15:119686';1;0;'mère de famille [peut] cuire [objet] morceaux de poulet [lieu] poêle'
+e;17627047;'::&gt;31:119686&gt;29:17597592';1;0;'cuire [objet] morceaux de poulet [endroit] poêle'
+e;17627046;'::&gt;66:17597597&gt;15:119686';1;0;'mère de famille [peut] cuire [objet] poulet [lieu] poêle'
+e;17627045;'::&gt;31:119686&gt;29:14326647';1;0;'cuire [objet] poulet [endroit] poêle'
+e;17627037;'::&gt;66:17429737&gt;15:146096';1;0;'cuisinier [peut] cuire [objet] aliments [lieu] marmite'
+e;17627033;'::&gt;66:116477&gt;24:14400712';1;0;'personne [peut] cuire [endroit] marmite'
+e;17626880;'::&gt;66:116477&gt;24:17612282';1;0;'personne [peut] cuire [endroit] cocotte'
+e;17626879;'::&gt;66:116477&gt;24:17612280';1;0;'personne [peut] cuire [objet] aliment'
+e;212523;'steack haché';666;16
+e;157042;'bleu&gt;146888';1;50;'bleu&gt;Adj:Mas+SG'
+e;14160834;'bleu&gt;171869';1;0;'bleu&gt;Adj:'
+e;15299220;'de l'eau bouillante';1;0
+e;157541;'vapeur&gt;146881';1;50;'vapeur&gt;Nom:Fem+SG'
+e;15443330;'en:be hot stuff';1;0
+e;15439982;'de long en large et en travers';1;0
+e;1840983;'pectus carinatum';1;0
+e;15450738;'en:gratin dauphinois';1;0
+e;15450739;'en:dauphinoise potatoes';1;0
+e;15450740;'en:potatoes dauphinoises';1;0
+e;15421168;'en:chocolate fondant cake';1;0
+e;15421169;'en:molten chocolate cake';1;0
+e;15421170;'en:chocolate sponge cake';1;0
+e;15388372;'en:dermitis';1;0
+e;15388373;'en:scytitis';1;0
+e;15386082;'en:torrefy';1;0
+e;15424371;'en:lamb shanks';1;0
+e;15419882;'en:on a low heat';1;0
+e;15305240;'en:to be warm';1;0
+e;15202636;'en:be warm';1;0
+e;83671;'sans interruption';1;64
+e;15420040;'en:flat-chested';1;0
+e;15420041;'en:flat as a pancake';1;0
+e;15420114;'en:deep dish';1;0
+e;16366922;'en:continuously,';1;0
+e;15455703;'en:without interruption';1;0
+e;15058675;'en:cookie sheet';1;0
+e;15430389;'en:beef mince';1;0
+e;15749905;'en:put something in the oven';1;0
+e;15652584;'en:stuff something down';1;0
+e;15069059;'en:hot pepper';1;0
+e;15389405;'emballée sous vide';1;0
+e;15389408;'conditionnée sous vide';1;0
+e;170409;'fausse oronge';1;50
+e;69251;'amanite tue-mouches';1;52
+e;291003;'amanita muscaria';777;50
+e;15207751;'cuire à sec';1;0
+e;15207753;'cuire à frémissements';1;0
+e;318498;'Steak haché';1;50
+e;177308;'surcuire';1;50
+e;130428;'recuisson';1;50
+e;15091464;'en:kumis';1;0
+e;15091465;'en:koumiss';1;0
+e;7485787;'en:kefir';1;0
+e;15783588;'en:en papillote';1;0
+e;15296500;'en:on-and-off';1;0
+e;15381517;'en:off-and-on';1;0
+e;15047014;'en:devil's food cake';1;0
+e;15060105;'en:fries';1;0
+e;15224384;'en:chipped potatoes';1;0
+e;14921991;'en:pressure cooker';1;0
+e;9115395;'en:stove';1;0
+e;15700976;'en:make a cake';1;0
+e;15333918;'en:to make a cake';1;0
+e;7042690;'en:steam';1;0
+e;15202210;'en:hard nut to crack';1;0
+e;15207750;'en:to cook';1;0
+e;14932331;'en:foil';1;0
+e;14967530;'en:wok';1;0
+e;15284590;'dégagement buée';1;0
+e;14966869;'en:vacuum';1;0
+e;15525316;'en:split peas';1;0
+e;15227591;'en:puff pastry filled with coffee cream';1;0
+e;15062419;'en:blintze';1;0
+e;14939298;'en:deep fryer';1;0
+e;14939297;'en:deep fat fryer';1;0
+e;14959897;'en:African plum';1;0
+e;14928916;'en:quince';1;0
+e;9491843;'tomate séchée';1;2
+e;14884063;'légumes-fruits';777;0
+e;160946;'raisin sec';1;84
+e;308798;'cuiseur vapeur';777;56
+e;252382;'cuit-vapeur';1;36
+e;14571828;'Pâtes farcies';777;0
+e;14540489;'Pâtes à potages';777;0
+e;14540488;'Tubes en coude';777;0
+e;5884111;'Tubes';777;0
+e;10052456;'Rubans';1;0
+e;13673;'Feu';1;54
+e;277838;'porter à ébullition';1;68
+e;222089;'burn';1;52
+e;58005;'tourtière';1;54
+e;11374468;'Bentley Serie R';777;0
+e;11374467;'Bentley R Type';777;0
+e;3762435;'ingrédient de recette de cuisine';1;2
+e;5620477;'histoire de l'art culinaire';777;0
+e;2485499;'vermicellier';1;0
+e;365231;'moule à cake';1;50
+e;317155;'pierrade';1;82
+e;213586;'moule à tarte';1;30
+e;152747;'pates';1;82
+e;46868;'Pasta';1;50
+e;146764;'pasta';1;64
+e;55102;'déshydrateur';1;50
+e;279319;'déhydrateur';777;50
+e;189992;'pâte alimentaire';1;94
+e;17491675;'se faire cuire';1;0
+e;15207756;'dure à cuire';1;0
+e;10576774;'Les Durs à cuire';777;0
+e;2399548;'boute-tout-cuire';1;0
+e;57512;'sanglier';1;320
+e;224574;'teppanyaki';666;50
+e;61892;'renversé';1;579
+e;2495264;'sous-cuire';1;0
+e;107216;'étouffé';1;68
+e;17516299;'::&gt;66:116477&gt;24:17516291';8;0;'personne [peut] cuire [objet] repas'
+e;17516298;'::&gt;66:17516293&gt;15:5304379';8;0;'personne&gt;être humain [peut] cuire [objet] repas [lieu] four&gt;système de chauffage'
+e;17516297;'::&gt;31:5304379&gt;29:17516291';8;0;'cuire [objet] repas [endroit] four&gt;système de chauffage'
+e;2373144;'koumiss';1;0
+e;2502511;'kumis';1;0
+e;148821;'koumys';1;50
+e;1927209;'képhyr';1;0
+e;6805589;'en:burn';1;0
+e;17493107;'::&gt;66:118790&gt;24:14471075';8;0;'cuisinier [peut] cuire [objet] pommes de terre'
+e;17493105;'::&gt;66:118790&gt;24:17483830';8;0;'cuisinier [peut] cuire [objet] saucisses'
+e;17493106;'::&gt;66:118790&gt;24:16597790';8;0;'cuisinier [peut] cuire [objet] plats'
+e;239835;'escalope à la milanaise';666;36
+e;224643;'rigolette';666;50
+e;47740;'vinaigrette';1;298
+e;28453;'bonheur';1;2804
+e;14559846;'faire cuire des pâtes';1;18
+e;14557767;'faire cuire la semoule';1;0
+e;14510641;'faire cuire des légumes';1;0
+e;25484;'champignon';1;1296
+e;223439;'confiture de lait';666;22
+e;16848231;'LARD';1;0
+e;3358287;'BOULET';1;0
+e;3289803;'celeri';1;0
+e;2558216;'cuit-poires';1;0
+e;2549683;'recarrelure';1;0
+e;2532188;'cuisiner à petit feu';1;0
+e;2513738;'bien-cuit';1;0
+e;2485548;'ultracuiseur';1;0
+e;2475800;'torrée';1;0
+e;2434249;'charpagnée';1;0
+e;232267;'aubrac';1;4
+e;177220;'comal';1;50
+e;162336;'cepe';1;50
+e;155489;'ecrevisse';1;50
+e;147956;'enfournement';1;52
+e;125369;'rillons';1;50
+e;124275;'daubière';1;62
+e;28530;'arachide';1;140
+e;82986;'malaxer';1;112
+e;71097;'pasteuriser';1;74
+e;47021;'barder';1;58
+e;127629;'farine';1;2130
+e;37086;'pirojki';1;50
+e;35130;'vinaigrer';1;50
+e;33907;'Macaroni';1;50
+e;33762;'surgeler';1;114
+e;26048;'huguenote';1;52
+e;15436;'brioché';1;76
+e;6770;'sulfureux';1;56
+e;5801;'brunissement';1;50
+e;5061;'chiche-kebab';1;54
+e;4934;'Marmite';1;50
+e;2693;'bothriocéphalose';1;52
+e;22138;'tomate';1;972
+e;23154;'poulpe';1;264
+e;2523521;'coscossons';1;0
+e;10804;'vernisser';1;50
+e;140777;'flamme';1;984
+e;13855050;'bien cuire';1;0
+e;14231824;'faire cuire à l'eau';1;0
+e;14231825;'cuire à l'étouffée';1;0
+e;84160;'pocher';1;80
+e;5827460;'Poulet et saucisse en cocotte d'argile';777;0
+e;102345;'plaisir';1;3741
+e;152157;'croute';1;68
+e;171804;'ognon';1;14
+e;2424;'fournaise';1;66
+e;62524;'biscuit';1;704
+e;7149;'braisière';1;50
+e;112355;'gaufrier';1;100
+e;67525;'caramel';1;700
+e;141110;'sauce';1;1379
+e;1737449;'bouillir&gt;133120';1;0;'bouillir&gt;excitation'
+e;60863;'goulache';1;52
+e;161812;'eau de pluie';1;82
+e;106474;'casoar';1;62
+e;152015;'baba au rhum';1;82
+e;45219;'ypérite';1;54
+e;115506;'grattée';1;54
+e;418447;'bouillis';1;60
+e;64557;'bronzant';1;70
+e;141899;'grillé';1;142
+e;47896;'flambé';1;56
+e;51775;'carbonisé';1;60
+e;67515;'attaché';1;1847
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;0;'r_associated';'idée associée';Il est demandé d'énumérer les termes les plus étroitement associés au mot cible... Ce mot vous fait penser à quoi ?
+rt;5;'r_syn';'synonyme';Il est demandé d'énumérer les synonymes ou quasi-synonymes de ce terme.
+rt;6;'r_isa';'générique';Il est demandé d'énumérer les GENERIQUES/hyperonymes du terme. Par exemple, 'animal' et 'mammifère' sont des génériques de 'chat'.
+rt;7;'r_anto';'contraire';Il est demandé d'énumérer des contraires du terme. Par exemple, 'chaud' est le contraire de 'froid'.
+rt;17;'r_carac';'caractéristique';Pour un terme donné, souvent un objet, il est demandé d'en énumérer les CARACtéristiques (adjectifs) possibles/typiques. Par exemple, 'liquide', 'froide', 'chaude', pour 'eau'.
+rt;19;'r_lemma';'r_lemma';Le lemme (par exemple 'mangent a pour lemme  'manger' ; 'avions' a pour lemme 'avion' ou 'avoir').
+rt;20;'r_has_magn';'magn';La magnification ou amplification, par exemple - forte fièvre - ou - fièvre de cheval - pour fièvre. Ou encore - amour fou - pour amour, - peur bleue - pour peur.
+rt;21;'r_has_antimagn';'antimagn';L'inverse de la magnification, par exemple - bruine - pour pluie.
+rt;22;'r_family';'famille';Des mots de la même famille lexicale sont demandés (dérivation morphologique, par exemple). Par exemple, pour 'lait' on pourrait mettre 'laitier', 'laitage', 'laiterie', etc.
+rt;24;'r_agent-1';'agent typique-1';Que peut faire ce SUJET ? (par exemple chat =&gt; miauler, griffer, etc.) (chat r_agent-1 manger)
+rt;25;'r_instr-1';'instrument&gt;action';L'instrument est l'objet avec lequel on fait l'action. Dans - Il mange sa salade avec une fourchette -, fourchette est l'instrument. On demande ici, ce qu'on peut faire avec un instrument donné... (scie r_instr-1 scier)
+rt;26;'r_patient-1';'patient-1';(inverse de r_patient) Que peut-on faire à cet OBJET. Pour 'pomme', on pourrait avoir 'manger', 'croquer', couper', 'éplucher',  etc. (pomme r_patient-1 manger)
+rt;27;'r_domain-1';'domaine-1';inverse de r_domain : à un domaine, on associe des termes
+rt;30;'r_lieu_action';'lieu&gt;action';A partir d'un lieu, énumérer les actions typiques possibles dans ce lieu.
+rt;35;'r_meaning/glose';'glose/sens/signification';Quels SENS/SIGNIFICATIONS pouvez vous donner au terme proposé. Il s'agira de termes (des gloses) évoquant chacun des sens possibles, par exemple : 'forces de l'ordre', 'contrat d'assurance', 'police typographique', ... pour 'police'.
+rt;37;'r_telic_role';'rôle télique';Le rôle télique indique la fonction du nom ou du verbe. Par exemple, couper pour couteau, scier pour scie, etc. C'est le rôle qu'on lui destine communément pour un artéfact, ou bien un rôle qu'on peut attribuer à un objet naturel (réchauffer, éclairer pour soleil).
+rt;38;'r_agentif_role';'rôle agentif';De quelle(s)  manière(s)  peut être CRÉE/CONSTRUIT le terme suivant. On demande des verbes transitifs (le terme en est un complément d'objet) qui DONNENT NAISSANCE à l'entité désignée par le terme,  par exemple, 'construire' pour 'maison', 'rédiger'/'imprimer' pour 'livre' ou 'lettre'.
+rt;40;'r_action-verbe';'action&gt;verbe';de l'action vers le verbe. Par exemple, construction -&gt; construire, jardinage -&gt; jardiner. C'est un terme directement dérivé (ayant la même racine). Applicable que pour un nom et inverse de la relation 39 (verbe vers action).
+rt;41;'r_conseq';'conséquence';B (que vous devez donner) est une CONSEQUENCE possible de A. A et B sont des verbes ou des noms.  Exemples : tomber -&gt; se blesser ; faim -&gt; voler ; allumer -&gt; incendie ; négligence --&gt; accident ; etc.
+rt;42;'r_causatif';'cause';B (que vous devez donner) est une CAUSE possible de A. A et B sont des verbes ou des noms.  Exemples : se blesser -&gt; tomber ; vol -&gt; pauvreté ; incendie -&gt; négligence ; mort --&gt; maladie ; etc.
+rt;52;'r_successeur-time';'successeur temporel';Qu'est ce qui peut SUIVRE temporellement (par exemple Noêl -&gt; jour de l'an, guerre -&gt; paix, jour -&gt; nuit,  pluie -&gt; beau temps, repas -&gt; sieste, etc) le terme suivant :
+rt;54;'r_product_of';'est le produit de';Le terme est le RESULTAT/PRODUIT de qui/quoi ?
+rt;55;'r_against';'s'oppose à';A quoi le terme suivant S'OPPOSE/COMBAT/EMPECHE ? Par exemple, un médicament s'oppose à la maladie.
+rt;56;'r_against-1';'a comme opposition';Inverse de r_against (s'oppose à) - a comme opposition active (S'OPPOSE/COMBAT/EMPECHE). Par exemple, une bactérie à comme opposition antibiotique.
+rt;57;'r_implication';'implication';Qu'est-ce que le terme implique logiquement ? Par exemple : ronfler implique dormir, courir implique se déplacer, câlin implique contact physique. (attention ce n'est pas la cause ni le but...)
+rt;62;'r_manner-1';'maniere-1';Quelles ACTIONS (verbes) peut-on effectuer de cette manière ? Par exemple, rapidement -&gt; courir, manger, ...
+rt;63;'r_agentive_implication';'implication agentive';Les verbes ou actions qui sont impliqués dans la création de l'objet. Par exemple pour 'construire' un livre, il faut, imprimer, relier, brocher, etc. Il s'agit des étapes nécessaires à la réalisation du rôle agentif.
+rt;115;'r_sentiment-1';'sentiment-1';Pour un SENTIMENT ou EMOTION donné, il est demandé dénumérer les termes que vous pourriez associer. Par exemple, pour 'joie', on aurait 'cadeau', 'naissance', 'bonne nouvelle', etc.
+rt;161;'r_homophone';'homophone';Il est demandé d'énumérer les homophones ou quasi-homophones de ce terme.
+rt;333;'r_translation';'r_translation';Traduction vers une autre langue.
+rt;666;'r_aki';'r_aki';(TOTAKI) equivalent pour TOTAKI de l'association libre
+rt;777;'r_wiki';'r_wiki';Associations issues de wikipedia...
+rt;2000;'r_raff_sem-1';'r_raff_sem-1';Inverse de r_raff_sem (automatique)
+
+// les relations entrantes : r;rid;node1;node2;type;w 
+// 2731 relations entrantes 
+
+r;249582;16033;5115;30;550
+r;289391337;260032;5115;2000;408
+r;219703;9190;5115;30;370
+r;1369193;38234;5115;38;340
+r;172608;143703;5115;25;340
+r;575635;75156;5115;5;323
+r;9355639;24589;5115;0;306
+r;1883565;214428;5115;26;305
+r;1547034;214277;5115;0;305
+r;292374;5115;5115;19;274
+r;99342079;59151;5115;0;251
+r;1684715;57253;5115;37;230
+r;1768514;71439;5115;38;220
+r;1626470;12942;5115;38;220
+r;660723;46367;5115;5;211
+r;13475493;179691;5115;37;210
+r;736574;93319;5115;37;210
+r;2462669;250822;5115;0;206
+r;83434522;2771015;5115;0;205
+r;2557267;46367;5115;0;204
+r;1757428;46367;5115;35;200
+r;1652968;56362;5115;0;200
+r;2396316;252380;5115;0;195
+r;54824072;11882;5115;0;190
+r;2584628;249316;5115;0;190
+r;215060;56362;5115;25;190
+r;396301559;8936207;5115;26;180
+r;244196;36327;5115;25;180
+r;9525075;249315;5115;0;169
+r;652697;80199;5115;5;164
+r;652763;24589;5115;5;163
+r;135365054;56172;5115;24;161
+r;396312491;6913474;5115;24;160
+r;596247;132551;5115;5;159
+r;633551;90994;5115;5;155
+r;402305822;15420111;5115;26;150
+r;180306;44137;5115;25;150
+r;9551603;271417;5115;0;147
+r;9543765;263942;5115;0;147
+r;9540636;261654;5115;0;147
+r;9539203;260521;5115;0;147
+r;9538726;260110;5115;0;147
+r;9499502;210735;5115;0;147
+r;9477743;198194;5115;0;147
+r;13053831;156028;5115;54;146
+r;9457343;185896;5115;0;146
+r;399602664;14951746;5115;54;145
+r;1698670;24589;5115;35;145
+r;9415878;117389;5115;0;144
+r;53603730;2092;5115;5;143
+r;9384462;30536;5115;0;143
+r;54695046;66016;5115;5;142
+r;1779269;226917;5115;0;142
+r;402305675;2586021;5115;26;140
+r;402305566;15439827;5115;26;140
+r;315716853;156028;5115;26;131
+r;23861908;214838;5115;17;131
+r;399602633;14951746;5115;26;130
+r;397552881;15260319;5115;17;130
+r;92514385;3706225;5115;0;130
+r;1690325;9190;5115;41;130
+r;1602130;16444;5115;38;130
+r;411771056;436989;5115;26;126
+r;364549169;217715;5115;0;126
+r;12413640;234074;5115;0;126
+r;405162762;15047673;5115;26;125
+r;396494430;15364573;5115;0;125
+r;410003587;227897;5115;0;121
+r;209751292;242156;5115;0;121
+r;219157762;126363;5115;26;121
+r;24497016;215004;5115;26;120
+r;14032925;263942;5115;6;120
+r;1688031;216973;5115;37;120
+r;359941;119014;5115;30;120
+r;204088004;7351543;5115;37;118
+r;314699635;151759;5115;26;116
+r;398564996;211451;5115;25;115
+r;397921919;14952939;5115;25;115
+r;397921885;213609;5115;25;115
+r;397642332;15132966;5115;26;115
+r;395946278;270251;5115;25;115
+r;395920179;14952940;5115;25;115
+r;395920068;15385187;5115;25;115
+r;77540708;8290;5115;24;115
+r;53602643;42582;5115;5;115
+r;558566;34516;5115;5;114
+r;413190646;191722;5115;26;111
+r;376179108;97901;5115;25;111
+r;373832797;154264;5115;38;111
+r;370073942;14028484;5115;0;111
+r;298617840;191721;5115;26;111
+r;61524811;270252;5115;25;111
+r;110806;57253;5115;0;111
+r;413625836;8061837;5115;26;110
+r;413625570;15062312;5115;26;110
+r;413625304;8052392;5115;26;110
+r;412879812;14941467;5115;26;110
+r;406551836;8085258;5115;38;110
+r;396494390;15146887;5115;0;110
+r;395946307;15300774;5115;25;110
+r;395920107;15385188;5115;25;110
+r;395683999;15072519;5115;25;110
+r;395149700;15118584;5115;26;110
+r;396665206;15214443;5115;0;110
+r;97740879;155199;5115;24;110
+r;54695051;19288;5115;5;110
+r;397678418;15107321;5115;24;109
+r;12124513;332137;5115;0;109
+r;1000854;80010;5115;0;109
+r;1751850;80010;5115;35;108
+r;376179107;154378;5115;25;106
+r;22997684;55046;5115;25;106
+r;413626100;15054599;5115;26;105
+r;408801664;15414034;5115;25;105
+r;395920146;15385189;5115;25;105
+r;108139600;107499;5115;26;105
+r;72773938;54408;5115;62;105
+r;12604860;374270;5115;0;104
+r;12124505;332139;5115;0;104
+r;12124530;332128;5115;0;103
+r;270173571;3263355;5115;24;102
+r;99456264;3705263;5115;0;102
+r;54695054;42042;5115;5;102
+r;11471653;82595;5115;0;102
+r;208002;132551;5115;0;102
+r;376179101;154175;5115;25;101
+r;115959789;263322;5115;26;101
+r;82640594;217015;5115;0;101
+r;80712469;213758;5115;26;101
+r;54695049;97162;5115;5;101
+r;13074244;260105;5115;25;101
+r;12124509;332138;5115;0;101
+r;2308937;252334;5115;0;101
+r;437944762;16607746;5115;0;100
+r;437635321;16600574;5115;0;100
+r;437583133;16599066;5115;0;100
+r;437545238;16598115;5115;0;100
+r;437544933;16598106;5115;0;100
+r;437544640;16598094;5115;0;100
+r;437526697;16597790;5115;0;100
+r;437526680;16597788;5115;0;100
+r;435040214;16559563;5115;0;100
+r;435040197;16559561;5115;0;100
+r;435038156;16559483;5115;0;100
+r;435038061;16559478;5115;0;100
+r;435037620;16559459;5115;0;100
+r;435037549;16559454;5115;0;100
+r;435037481;16559449;5115;0;100
+r;435037418;16559444;5115;0;100
+r;435037309;16559437;5115;0;100
+r;402770425;14935866;5115;0;100
+r;399727375;15195163;5115;25;100
+r;395983146;15220148;5115;26;100
+r;219157760;218827;5115;26;100
+r;73900181;163795;5115;26;100
+r;72774076;242160;5115;26;100
+r;2194971;140100;5115;26;100
+r;1622945;61283;5115;26;100
+r;1568646;59151;5115;24;100
+r;53623646;36246;5115;5;99
+r;575659;12538;5115;5;99
+r;413365260;15849073;5115;0;98
+r;434919789;15761857;5115;0;97
+r;419168122;14326649;5115;0;97
+r;404988954;15761854;5115;0;97
+r;404988925;15761852;5115;0;97
+r;394112282;15068456;5115;333;97
+r;91724298;3692729;5115;0;97
+r;402789624;162270;5115;26;96
+r;354193173;14028484;5115;24;96
+r;97740886;46070;5115;24;96
+r;8898245;138954;5115;25;96
+r;682598;29352;5115;5;96
+r;407406755;15261116;5115;25;95
+r;395823012;6935484;5115;25;95
+r;395787766;8055017;5115;26;95
+r;395785458;14951742;5115;26;95
+r;396665166;15214443;5115;24;95
+r;196660009;6822259;5115;24;95
+r;427912525;16168839;5115;0;94
+r;1633802;12942;5115;26;94
+r;426022665;16242226;5115;0;93
+r;426022648;16242224;5115;0;93
+r;425363549;16184158;5115;0;93
+r;423947478;16168865;5115;0;93
+r;423946026;16168850;5115;0;93
+r;423945915;16168844;5115;0;93
+r;31871182;28945;5115;26;93
+r;13994441;395493;5115;6;93
+r;115959788;2579000;5115;26;92
+r;172556;9190;5115;0;92
+r;140721;42401;5115;5;92
+r;418468256;16066109;5115;0;91
+r;418468184;16066104;5115;0;91
+r;418467890;16066094;5115;0;91
+r;374537889;157579;5115;26;91
+r;350197338;155356;5115;26;91
+r;107272612;212713;5115;0;91
+r;99404090;317152;5115;0;91
+r;9610013;68467;5115;26;91
+r;3195933;232084;5115;0;91
+r;434998908;14883321;5115;0;90
+r;434998805;14884664;5115;0;90
+r;401435676;15247412;5115;26;90
+r;401435587;15432141;5115;26;90
+r;396494338;15440008;5115;0;90
+r;396320600;15261117;5115;25;90
+r;395920025;15102565;5115;25;90
+r;385985870;14883319;5115;0;90
+r;385985853;14883317;5115;0;90
+r;396964100;15207610;5115;26;90
+r;12977873;257843;5115;0;90
+r;674764;11380;5115;5;90
+r;461882;15386;5115;25;90
+r;180494;143703;5115;0;90
+r;121908;49407;5115;0;90
+r;442182416;16789286;5115;0;89
+r;442182345;16789281;5115;0;89
+r;442182263;16789275;5115;0;89
+r;442182245;16789273;5115;0;89
+r;14349937;401153;5115;19;89
+r;151446;99279;5115;5;89
+r;209751267;345608;5115;0;88
+r;104347851;5002306;5115;0;88
+r;88973235;79364;5115;0;88
+r;141689775;114637;5115;24;87
+r;54272959;79364;5115;35;87
+r;359833492;233049;5115;26;86
+r;209751302;260102;5115;0;86
+r;407330760;154378;5115;30;85
+r;402770530;14935866;5115;24;85
+r;401435765;15136559;5115;26;85
+r;398562356;6994213;5115;25;85
+r;396494328;14925016;5115;0;85
+r;380399808;97901;5115;30;85
+r;134831036;270567;5115;26;85
+r;134829220;270567;5115;24;85
+r;84977680;279506;5115;24;85
+r;82489636;3179891;5115;24;85
+r;82489558;237789;5115;24;85
+r;82489477;217015;5115;24;85
+r;82488657;2558916;5115;24;85
+r;82486700;55511;5115;24;85
+r;54539941;117557;5115;5;85
+r;1922761;232085;5115;0;85
+r;368125219;14486143;5115;0;84
+r;368071141;14485192;5115;0;84
+r;106888495;5331430;5115;0;84
+r;31880931;589331;5115;62;84
+r;435000993;14417114;5115;0;83
+r;396320527;15072519;5115;30;83
+r;367285982;14471075;5115;0;83
+r;366203036;14417105;5115;0;83
+r;2577792;259967;5115;0;83
+r;435001970;14325030;5115;0;82
+r;435001251;14386685;5115;0;82
+r;435001074;14400704;5115;0;82
+r;435001072;14400712;5115;0;82
+r;365863685;14400710;5115;0;82
+r;365863467;14400702;5115;0;82
+r;365863448;14400699;5115;0;82
+r;365344016;14386683;5115;0;82
+r;364971199;14363897;5115;0;82
+r;364971182;14363895;5115;0;82
+r;364585662;14326655;5115;0;82
+r;364585555;14326647;5115;0;82
+r;364585539;14326645;5115;0;82
+r;364549296;14325028;5115;0;82
+r;96691803;128482;5115;26;82
+r;2465812;250816;5115;0;82
+r;32025815;589329;5115;62;81
+r;9008222;61283;5115;25;81
+r;407671893;15165274;5115;24;80
+r;406551306;15327707;5115;0;80
+r;398183027;9904408;5115;0;80
+r;396494356;7305914;5115;0;80
+r;399514350;170958;5115;24;80
+r;99065225;182534;5115;0;80
+r;8914913;21742;5115;26;80
+r;361022;140377;5115;25;80
+r;453492445;17041751;5115;0;79
+r;442182251;164797;5115;26;79
+r;212910056;215088;5115;26;79
+r;632546;122904;5115;5;78
+r;364582339;105995;5115;26;76
+r;2464677;250821;5115;0;76
+r;2349867;241440;5115;0;76
+r;473513004;17402953;5115;0;75
+r;473494056;17402702;5115;0;75
+r;473481505;17402512;5115;0;75
+r;473475566;384583;5115;26;75
+r;473475560;17402458;5115;0;75
+r;429720525;217141;5115;26;75
+r;270197967;2951610;5115;24;75
+r;437944768;324120;5115;26;74
+r;437635290;16600573;5115;24;74
+r;54695055;94613;5115;5;74
+r;2565778;40148;5115;30;74
+r;1687558;218235;5115;0;74
+r;437544939;215198;5115;26;73
+r;437526703;158577;5115;26;73
+r;437526681;217715;5115;24;73
+r;54598122;53872;5115;5;73
+r;437545239;163616;5115;24;72
+r;435040168;164790;5115;26;72
+r;435037626;19636;5115;26;72
+r;364585542;14326646;5115;24;72
+r;185074989;160927;5115;26;72
+r;15072745;2149;5115;26;72
+r;473512988;17402952;5115;24;71
+r;473481508;17402513;5115;24;71
+r;435040198;31618;5115;24;71
+r;435037300;2447;5115;26;71
+r;73005100;80591;5115;30;71
+r;73005076;80591;5115;25;71
+r;24968658;183583;5115;0;71
+r;2502390;177321;5115;26;71
+r;2463715;259967;5115;62;71
+r;67563;82595;5115;5;71
+r;432536901;3359865;5115;38;70
+r;412781737;15420880;5115;38;70
+r;402519371;4490007;5115;0;70
+r;401958946;15419940;5115;25;70
+r;400118432;15275116;5115;30;70
+r;397796074;15299300;5115;0;70
+r;391232857;14931277;5115;30;70
+r;391232854;14931277;5115;25;70
+r;403511798;15313712;5115;0;70
+r;403511924;15313713;5115;0;70
+r;54695059;5997;5115;5;70
+r;2183762;143548;5115;30;70
+r;2144279;49021;5115;0;70
+r;2095709;233162;5115;0;70
+r;1988827;59151;5115;22;70
+r;1696738;130255;5115;24;70
+r;1596951;86128;5115;37;70
+r;388749;78365;5115;25;70
+r;152770;34994;5115;0;70
+r;413365261;61283;5115;24;69
+r;403011485;116477;5115;24;69
+r;437583124;16599065;5115;24;68
+r;437545242;16598116;5115;24;68
+r;437526683;16597789;5115;24;68
+r;404988926;3373903;5115;24;68
+r;3079145;109533;5115;26;68
+r;2502535;177326;5115;26;68
+r;435040201;16559562;5115;24;67
+r;368125220;117152;5115;24;66
+r;31842812;214839;5115;26;66
+r;433019814;15414229;5115;25;65
+r;413365263;15849074;5115;24;65
+r;412891396;339285;5115;26;65
+r;399586728;14924799;5115;0;65
+r;397553234;15222510;5115;26;65
+r;289391336;260033;5115;2000;65
+r;184509803;3260867;5115;25;65
+r;77540711;8290;5115;26;65
+r;423946032;322870;5115;26;64
+r;423945923;13151;5115;26;64
+r;419559183;15431621;5115;0;64
+r;404988929;15761853;5115;24;64
+r;385985876;20621;5115;26;64
+r;385985857;14883318;5115;24;64
+r;370069150;14561181;5115;0;64
+r;72774801;2951338;5115;0;64
+r;53595500;106682;5115;5;64
+r;426022649;34713;5115;24;63
+r;385985854;225916;5115;24;63
+r;54695057;62543;5115;5;63
+r;31823713;24372;5115;26;63
+r;418468257;106182;5115;24;62
+r;418468185;68467;5115;24;62
+r;418467891;140188;5115;24;62
+r;368125223;14486144;5115;24;62
+r;368071145;14485193;5115;24;62
+r;365863473;151972;5115;26;62
+r;365863453;14400701;5115;24;62
+r;364971186;14363896;5115;24;62
+r;364549299;14325029;5115;24;62
+r;174976882;8741509;5115;26;62
+r;12412185;115155;5115;26;62
+r;2146412;67147;5115;0;62
+r;1813166;142367;5115;30;62
+r;966219;102053;5115;0;62
+r;371698147;9603525;5115;0;61
+r;370004021;14562817;5115;0;61
+r;368071142;109533;5115;24;61
+r;365863691;67056;5115;26;61
+r;365863449;68439;5115;24;61
+r;364971183;145285;5115;24;61
+r;296067888;1668520;5115;0;61
+r;291369209;317162;5115;0;61
+r;209751289;1690977;5115;0;61
+r;96715330;146261;5115;26;61
+r;78930698;2878422;5115;0;61
+r;71939039;11651;5115;25;61
+r;54695061;94327;5115;5;61
+r;54695053;126875;5115;5;61
+r;31823701;158591;5115;26;61
+r;24232429;214272;5115;0;61
+r;23139584;110821;5115;24;61
+r;14845523;118790;5115;24;61
+r;14845361;140100;5115;24;61
+r;14369866;214022;5115;63;61
+r;13054148;260105;5115;0;61
+r;11471655;234593;5115;0;61
+r;2313133;575;5115;26;61
+r;876235;35999;5115;0;61
+r;874562;66016;5115;0;61
+r;434400;65012;5115;25;61
+r;98436;8824;5115;0;61
+r;473402434;14535580;5115;0;60
+r;442278992;15422537;5115;0;60
+r;429737686;15082727;5115;37;60
+r;425164858;15463600;5115;0;60
+r;413561954;15250120;5115;26;60
+r;412760923;15063121;5115;30;60
+r;412760899;15063121;5115;25;60
+r;412760848;15063121;5115;0;60
+r;410731946;15220149;5115;26;60
+r;409479970;1858814;5115;26;60
+r;399602657;14951746;5115;0;60
+r;391232942;14931277;5115;0;60
+r;402743546;15053070;5115;0;60
+r;396860650;7288150;5115;26;60
+r;105478777;219508;5115;0;60
+r;105478769;291168;5115;0;60
+r;101804101;2389555;5115;0;60
+r;86154777;3369259;5115;0;60
+r;77409005;3205489;5115;0;60
+r;100286537;291167;5115;0;60
+r;73005112;225830;5115;0;60
+r;72773964;156028;5115;0;60
+r;72793706;589330;5115;0;60
+r;54695067;11882;5115;5;60
+r;54695063;50967;5115;5;60
+r;32794656;2165588;5115;19;60
+r;32741462;2165586;5115;19;60
+r;32740889;2165487;5115;19;60
+r;31770019;115796;5115;26;60
+r;31737746;1969868;5115;0;60
+r;31430667;1936241;5115;0;60
+r;31426208;1936240;5115;0;60
+r;99904039;160334;5115;26;60
+r;14690053;437173;5115;0;60
+r;99842500;216927;5115;0;60
+r;13994327;395493;5115;0;60
+r;99826892;108171;5115;0;60
+r;2488063;260963;5115;0;60
+r;2106952;132757;5115;26;60
+r;1907864;226917;5115;35;60
+r;1880179;25966;5115;30;60
+r;1745743;39149;5115;22;60
+r;1691015;143703;5115;41;60
+r;1558053;9190;5115;25;60
+r;1550499;141161;5115;25;60
+r;417100;16033;5115;25;60
+r;249042;2149;5115;30;60
+r;236408;80591;5115;0;60
+r;234649;4575;5115;0;60
+r;199102;49021;5115;5;60
+r;426022652;16242225;5115;24;59
+r;93715721;3752212;5115;0;59
+r;93682618;3755665;5115;0;59
+r;99786383;4467129;5115;0;59
+r;32741492;2165592;5115;19;59
+r;32741484;2165591;5115;19;59
+r;32741123;2165532;5115;19;59
+r;32741121;2165531;5115;19;59
+r;31881650;89760;5115;26;59
+r;2029091;5295;5115;0;59
+r;292400;140202;5115;19;59
+r;129073;19150;5115;0;59
+r;418468260;16066110;5115;24;58
+r;418468188;16066105;5115;24;58
+r;418467894;16066095;5115;24;58
+r;209751276;2355240;5115;0;58
+r;104816123;130255;5115;0;58
+r;93500377;3745933;5115;0;58
+r;72721969;2950505;5115;0;58
+r;33799522;11952;5115;26;58
+r;33192302;267295;5115;26;58
+r;32741180;2165544;5115;19;58
+r;32740909;2165490;5115;19;58
+r;32579596;2165534;5115;19;58
+r;31793560;1972089;5115;19;58
+r;11974101;60056;5115;0;58
+r;8912647;229419;5115;0;58
+r;366203121;14417110;5115;6;57
+r;365344019;14386684;5115;24;57
+r;93700014;3753905;5115;0;57
+r;93683747;3755553;5115;0;57
+r;93658038;3758311;5115;0;57
+r;54695065;20537;5115;5;57
+r;54695058;79307;5115;5;57
+r;54695048;71325;5115;5;57
+r;32794652;2165585;5115;19;57
+r;32741500;2165599;5115;19;57
+r;32741477;2165590;5115;19;57
+r;32741135;2165537;5115;19;57
+r;32741115;2165529;5115;19;57
+r;32740898;2165488;5115;19;57
+r;31874440;152985;5115;26;57
+r;14349948;396983;5115;19;57
+r;13626292;214275;5115;0;57
+r;2463739;253369;5115;62;57
+r;253528;152552;5115;0;57
+r;94167598;3768301;5115;6;56
+r;94164378;3768301;5115;0;56
+r;93705847;3753288;5115;0;56
+r;93626718;3751333;5115;0;56
+r;72793712;589330;5115;62;56
+r;32741195;2165597;5115;19;56
+r;32741185;2165545;5115;19;56
+r;32741144;2165539;5115;19;56
+r;32741129;2165533;5115;19;56
+r;31766094;60056;5115;35;56
+r;13994323;395494;5115;0;56
+r;1736120;76489;5115;0;56
+r;292398;28105;5115;19;56
+r;442709196;16800265;5115;0;55
+r;442278990;15341608;5115;0;55
+r;437692631;16601919;5115;0;55
+r;437691015;16601863;5115;6;55
+r;430945704;10994758;5115;25;55
+r;426342676;331048;5115;38;55
+r;423945814;16168838;5115;6;55
+r;407406757;15261116;5115;30;55
+r;404990529;15224599;5115;0;55
+r;396320602;15261117;5115;30;55
+r;390184419;14931275;5115;333;55
+r;217976483;4690;5115;0;55
+r;96711599;37201;5115;26;55
+r;93658221;3758293;5115;0;55
+r;93471636;3744851;5115;0;55
+r;72793709;253369;5115;0;55
+r;72793713;1976361;5115;62;55
+r;54567844;2589216;5115;0;55
+r;32579622;2165593;5115;19;55
+r;32052487;1971744;5115;26;55
+r;2047086;14873;5115;0;55
+r;1619025;194997;5115;0;55
+r;423945884;16168843;5115;6;54
+r;366203226;14417118;5115;6;54
+r;53783188;2585137;5115;0;54
+r;53783182;2585138;5115;0;54
+r;32794663;2165598;5115;19;54
+r;32740917;2165491;5115;19;54
+r;32078962;1978300;5115;0;54
+r;27659822;1664820;5115;0;54
+r;24498283;1482095;5115;0;54
+r;3215930;270331;5115;0;54
+r;1060066;140202;5115;40;54
+r;53315649;312132;5115;26;53
+r;33802273;241034;5115;26;53
+r;32741469;2165589;5115;19;53
+r;32741140;2165538;5115;19;53
+r;32741119;2165530;5115;19;53
+r;32579620;2165584;5115;19;53
+r;31865411;2007;5115;26;53
+r;31737522;1969869;5115;0;53
+r;31737412;1969870;5115;0;53
+r;29225646;1781379;5115;0;53
+r;1060064;60056;5115;40;53
+r;209751274;9209885;5115;0;52
+r;168096829;8485;5115;26;52
+r;98302249;8661;5115;0;52
+r;93674977;3756479;5115;0;52
+r;93456685;3743822;5115;0;52
+r;86235771;3360649;5115;0;52
+r;52475024;2503055;5115;0;52
+r;32794654;2165587;5115;19;52
+r;32741174;2165543;5115;19;52
+r;32046717;1045708;5115;30;52
+r;24498341;1482109;5115;0;52
+r;99903373;3318459;5115;0;52
+r;11471651;231587;5115;0;52
+r;100220880;4405638;5115;0;52
+r;292377;32053;5115;19;52
+r;423888312;267627;5115;0;51
+r;416876773;11002194;5115;0;51
+r;414328076;3744630;5115;38;51
+r;414327959;3744711;5115;38;51
+r;414327851;322870;5115;38;51
+r;413547316;252335;5115;0;51
+r;412788215;191777;5115;26;51
+r;411719717;10961941;5115;0;51
+r;410033837;3763940;5115;0;51
+r;410015720;3744159;5115;0;51
+r;374430411;14727969;5115;0;51
+r;374430376;14727967;5115;0;51
+r;374423054;14566515;5115;0;51
+r;374148571;4637572;5115;0;51
+r;370533529;8247222;5115;0;51
+r;292368301;10913748;5115;0;51
+r;291933852;317156;5115;0;51
+r;217894285;4690;5115;35;51
+r;397071501;252338;5115;0;51
+r;93650443;3759096;5115;0;51
+r;76357205;234072;5115;0;51
+r;72773968;231397;5115;26;51
+r;34786160;2348416;5115;0;51
+r;32740923;2165492;5115;19;51
+r;32740906;2165489;5115;19;51
+r;32579598;2165546;5115;19;51
+r;32025788;355114;5115;25;51
+r;31862770;260086;5115;62;51
+r;28179887;17165;5115;0;51
+r;24337394;75864;5115;0;51
+r;21201209;246151;5115;0;51
+r;14478552;391906;5115;0;51
+r;99365189;3706482;5115;0;51
+r;11471654;99279;5115;0;51
+r;11471652;79307;5115;0;51
+r;2469840;33453;5115;38;51
+r;2409741;158330;5115;0;51
+r;2298913;218982;5115;0;51
+r;2218072;141971;5115;25;51
+r;2175881;41851;5115;38;51
+r;1682462;137538;5115;25;51
+r;478168031;2351194;5115;0;50
+r;478059111;14568822;5115;0;50
+r;471567144;437824;5115;0;50
+r;470948171;3744972;5115;38;50
+r;470944280;3743878;5115;38;50
+r;469892410;3360412;5115;0;50
+r;469878741;14532473;5115;0;50
+r;464347244;16166009;5115;0;50
+r;447720089;16166004;5115;0;50
+r;447500260;16165998;5115;0;50
+r;447500241;16166011;5115;0;50
+r;446905112;16166005;5115;0;50
+r;442648728;16166000;5115;0;50
+r;442267556;3379536;5115;0;50
+r;441265620;16165997;5115;0;50
+r;441265528;16166007;5115;0;50
+r;440620322;14506291;5115;0;50
+r;440404006;3713287;5115;0;50
+r;423863554;99919;5115;38;50
+r;423816188;16165934;5115;0;50
+r;411547382;15791316;5115;26;50
+r;409443371;15419940;5115;30;50
+r;405306808;15431616;5115;0;50
+r;400118915;15337918;5115;25;50
+r;399738023;15195306;5115;26;50
+r;399601619;15196029;5115;0;50
+r;399601605;15196029;5115;62;50
+r;399586727;14924799;5115;6;50
+r;394173533;15220165;5115;0;50
+r;463498043;119686;5115;0;50
+r;399513646;15356420;5115;38;50
+r;218012911;9743860;5115;0;50
+r;218012872;9743861;5115;0;50
+r;218012800;9743858;5115;0;50
+r;218012682;9743859;5115;0;50
+r;217984445;9740035;5115;0;50
+r;217984377;9740034;5115;0;50
+r;217984164;9740036;5115;0;50
+r;216446752;9605621;5115;0;50
+r;213743536;9448189;5115;0;50
+r;213742509;9448052;5115;0;50
+r;213742388;9448056;5115;0;50
+r;213742144;9448051;5115;0;50
+r;213741257;9448050;5115;0;50
+r;213741067;9448004;5115;0;50
+r;213745906;9448180;5115;0;50
+r;213739729;9448049;5115;0;50
+r;209754109;9209841;5115;0;50
+r;209754085;9209858;5115;0;50
+r;209754071;9209879;5115;0;50
+r;209752434;9209830;5115;0;50
+r;209752345;9209865;5115;0;50
+r;209751723;9210017;5115;0;50
+r;209751127;9209867;5115;0;50
+r;209750838;9209844;5115;0;50
+r;209750815;9209847;5115;0;50
+r;209750688;9209834;5115;0;50
+r;209750654;9209884;5115;0;50
+r;209750637;9209878;5115;0;50
+r;209750616;9209856;5115;0;50
+r;209750591;9209876;5115;0;50
+r;209750497;9209861;5115;0;50
+r;209749973;9209883;5115;0;50
+r;209749936;9209881;5115;0;50
+r;209749867;9209869;5115;0;50
+r;209749818;9209882;5115;0;50
+r;209749772;9209833;5115;0;50
+r;209749719;9209868;5115;0;50
+r;209749692;9209828;5115;0;50
+r;209749553;9209845;5115;0;50
+r;209749526;9209842;5115;0;50
+r;209749492;9209849;5115;0;50
+r;209749458;9209851;5115;0;50
+r;209749414;9209864;5115;0;50
+r;209749299;9209862;5115;0;50
+r;187421923;8795810;5115;0;50
+r;219860487;9931729;5115;0;50
+r;95756938;2389555;5115;38;50
+r;17943118;219508;5115;38;50
+r;17943071;291167;5115;38;50
+r;17943010;291168;5115;38;50
+r;17942949;108171;5115;38;50
+r;2060046;216927;5115;38;50
+r;434916502;87528;5115;5;49
+r;399270325;15202981;5115;0;49
+r;218079377;9749563;5115;0;49
+r;218079324;9749578;5115;0;49
+r;218079230;9749577;5115;0;49
+r;218079152;9749575;5115;0;49
+r;96341254;1455415;5115;0;49
+r;93890830;3761866;5115;26;49
+r;9918041;234593;5115;6;49
+r;218080530;9749562;5115;0;48
+r;15072744;36327;5115;26;48
+r;9918061;250822;5115;6;48
+r;9918059;252380;5115;6;48
+r;4212328;252383;5115;0;48
+r;174974603;114637;5115;26;47
+r;403183614;247682;5115;62;46
+r;306243442;48501;5115;26;46
+r;122135412;6596032;5115;0;46
+r;122135411;6596031;5115;0;46
+r;122135410;6596030;5115;0;46
+r;15072746;116175;5115;26;46
+r;407703598;8084513;5115;30;45
+r;397564797;15483685;5115;26;45
+r;273958316;213387;5115;26;45
+r;273958315;213387;5115;24;45
+r;72773877;2951337;5115;0;45
+r;72721128;2950504;5115;62;45
+r;72834135;224391;5115;26;45
+r;9918055;249315;5115;6;45
+r;1924728;218238;5115;26;45
+r;1852872;234075;5115;0;45
+r;395277576;14940893;5115;333;44
+r;289391338;260031;5115;2000;44
+r;209751002;1936240;5115;6;44
+r;209751000;9209869;5115;6;44
+r;209750994;9210017;5115;6;44
+r;209750946;9209847;5115;6;44
+r;209750930;9209884;5115;6;44
+r;477627924;17497641;5115;24;44
+r;477627920;17497640;5115;0;44
+r;72793710;1976361;5115;0;44
+r;477627921;233049;5115;24;44
+r;477203302;153665;5115;26;44
+r;2465717;250812;5115;0;44
+r;419559179;15422536;5115;0;43
+r;216454662;146261;5115;24;43
+r;209750988;3692729;5115;6;43
+r;209750942;9209851;5115;6;43
+r;72793707;589329;5115;0;43
+r;72793708;589331;5115;0;43
+r;477237932;17471146;5115;0;43
+r;477203296;17469119;5115;0;43
+r;9918047;79307;5115;6;43
+r;1751744;227884;5115;0;43
+r;401207293;15219298;5115;62;42
+r;334180946;214434;5115;24;42
+r;477380412;17483821;5115;0;42
+r;209750998;2950505;5115;6;42
+r;209750986;5331430;5115;6;42
+r;209750966;6596032;5115;6;42
+r;209750962;1936241;5115;6;42
+r;209750958;9209864;5115;6;42
+r;209750956;9209865;5115;6;42
+r;209750954;9209867;5115;6;42
+r;209750932;9209828;5115;6;42
+r;98283192;120952;5115;0;42
+r;87714883;2165545;5115;0;42
+r;477379959;17483803;5115;0;42
+r;477614392;216369;5115;26;42
+r;477380418;3290204;5115;26;42
+r;477380605;17483830;5115;0;42
+r;477468005;18094;5115;26;42
+r;24358171;259980;5115;6;42
+r;477467999;17491029;5115;0;42
+r;477614386;17496545;5115;0;42
+r;11717265;67780;5115;0;42
+r;1761353;228770;5115;0;42
+r;397754503;15242565;5115;38;41
+r;334181054;219123;5115;24;41
+r;209750984;9209845;5115;6;41
+r;209750978;9209879;5115;6;41
+r;209750972;9209862;5115;6;41
+r;209750968;9209844;5115;6;41
+r;209750952;9209834;5115;6;41
+r;209750950;9209881;5115;6;41
+r;209750934;9209830;5115;6;41
+r;209750923;9209882;5115;6;41
+r;477429075;17487743;5115;0;41
+r;477428796;17487739;5115;0;41
+r;477428800;17487740;5115;24;41
+r;477428813;17487741;5115;0;41
+r;477428966;17487754;5115;0;41
+r;477428797;146065;5115;24;41
+r;477429023;17487757;5115;0;41
+r;11717268;42401;5115;0;41
+r;11717267;29352;5115;0;41
+r;11717266;15036;5115;0;41
+r;11717264;34516;5115;0;41
+r;441923462;15217063;5115;0;40
+r;436082615;15331515;5115;26;40
+r;430774665;260560;5115;62;40
+r;429721032;14946413;5115;62;40
+r;429721011;15433415;5115;62;40
+r;412894445;15209968;5115;0;40
+r;412788678;15220154;5115;26;40
+r;409135902;15243803;5115;0;40
+r;407009866;15321116;5115;62;40
+r;405306809;15431616;5115;6;40
+r;396493945;15058674;5115;0;40
+r;289370556;2589154;5115;2000;40
+r;283879183;30812;5115;26;40
+r;209750996;271417;5115;6;40
+r;209750990;3706225;5115;6;40
+r;209750970;9209883;5115;6;40
+r;209750948;9209842;5115;6;40
+r;209750938;9209833;5115;6;40
+r;209750936;332137;5115;6;40
+r;209750921;9209856;5115;6;40
+r;97740880;56495;5115;24;40
+r;62098966;2707989;5115;30;40
+r;458845;153658;5115;0;40
+r;478578877;332531;5115;26;39
+r;478578871;17560850;5115;0;39
+r;477714253;17502941;5115;0;39
+r;209751298;345611;5115;0;39
+r;209751273;9209880;5115;0;39
+r;209751004;9209861;5115;6;39
+r;209750992;395494;5115;6;39
+r;209750980;2585138;5115;6;39
+r;209750964;6596031;5115;6;39
+r;209750960;9209876;5115;6;39
+r;209750940;9209841;5115;6;39
+r;87714881;2165544;5115;0;39
+r;9918057;249316;5115;6;39
+r;209751297;345610;5115;0;38
+r;209751290;1690975;5115;0;38
+r;209751287;3361519;5115;0;38
+r;209751285;5800915;5115;0;38
+r;209751270;345609;5115;0;38
+r;209751266;2708115;5115;0;38
+r;209751008;9209878;5115;6;38
+r;209750926;9209868;5115;6;38
+r;71102331;237053;5115;0;38
+r;62101254;2707987;5115;0;38
+r;24373127;259980;5115;0;38
+r;21609816;152553;5115;0;38
+r;419754909;15297729;5115;0;37
+r;419754905;15431615;5115;0;37
+r;419754895;15364575;5115;0;37
+r;419754887;15354859;5115;0;37
+r;419754883;15394266;5115;0;37
+r;209751303;1455421;5115;0;37
+r;209751283;3319019;5115;0;37
+r;209751282;277650;5115;0;37
+r;209751278;3745962;5115;0;37
+r;209751275;3361518;5115;0;37
+r;209750982;3744851;5115;6;37
+r;209750976;8795810;5115;6;37
+r;209750944;5002306;5115;6;37
+r;209750928;260521;5115;6;37
+r;122135414;5631797;5115;0;37
+r;93405969;116588;5115;26;37
+r;87248586;39149;5115;161;37
+r;62098964;2707989;5115;0;37
+r;54898709;3038;5115;52;37
+r;1774131;214277;5115;25;37
+r;1761439;228771;5115;37;37
+r;434916508;47403;5115;5;36
+r;434382118;16175726;5115;0;36
+r;477714277;3373220;5115;26;36
+r;477714319;216942;5115;26;36
+r;373311966;74736;5115;26;36
+r;361800874;214446;5115;26;36
+r;297345781;214447;5115;24;36
+r;277711283;228770;5115;24;36
+r;209751307;2345257;5115;0;36
+r;209751306;345612;5115;0;36
+r;209751299;9209873;5115;0;36
+r;209751294;395495;5115;0;36
+r;209751293;5800911;5115;0;36
+r;209751280;3246477;5115;0;36
+r;209751277;1690812;5115;0;36
+r;209751269;9076492;5115;0;36
+r;209751268;260522;5115;0;36
+r;209751265;260109;5115;0;36
+r;209751006;9209849;5115;6;36
+r;98790000;2334357;5115;0;36
+r;95740688;152432;5115;26;36
+r;87735007;2165588;5115;0;36
+r;87248591;147170;5115;161;36
+r;84977679;279506;5115;0;36
+r;82662193;2558916;5115;0;36
+r;82555487;3179891;5115;0;36
+r;82555484;55511;5115;0;36
+r;82554993;237789;5115;0;36
+r;62098965;2707989;5115;25;36
+r;14845522;9190;5115;24;36
+r;2484126;260970;5115;0;36
+r;2461563;55572;5115;26;36
+r;2033515;228921;5115;38;36
+r;478063350;17519946;5115;24;35
+r;478063347;17186;5115;24;35
+r;478063346;17519945;5115;0;35
+r;478063309;17519941;5115;24;35
+r;478063307;45481;5115;24;35
+r;478063306;17519940;5115;0;35
+r;405730600;14936366;5115;26;35
+r;401884511;15300777;5115;25;35
+r;397553013;14930475;5115;26;35
+r;477714454;17502953;5115;24;35
+r;477714451;1978629;5115;24;35
+r;477714450;17502952;5115;0;35
+r;477714313;17502946;5115;0;35
+r;477714271;17502943;5115;0;35
+r;477714257;17502942;5115;24;35
+r;477714254;48758;5115;24;35
+r;364549329;14325032;5115;0;35
+r;213740713;60056;5115;63;35
+r;209751305;3313930;5115;0;35
+r;209751301;9209859;5115;0;35
+r;209751295;3319016;5115;0;35
+r;209751291;4466304;5115;0;35
+r;209751286;5923305;5115;0;35
+r;209751281;5800912;5115;0;35
+r;209751263;2345258;5115;0;35
+r;209750974;3205489;5115;6;35
+r;99071062;2149;5115;24;35
+r;98284915;128646;5115;63;35
+r;87735006;2165587;5115;0;35
+r;87714865;2165533;5115;0;35
+r;87714860;2165529;5115;0;35
+r;87714792;2165490;5115;0;35
+r;87655940;2165593;5115;0;35
+r;87494309;396983;5115;0;35
+r;80712457;213758;5115;24;35
+r;78779206;3260165;5115;0;35
+r;54861705;62543;5115;0;35
+r;30841492;1916726;5115;0;35
+r;24365042;88759;5115;26;35
+r;100199157;61283;5115;0;35
+r;12272822;80199;5115;0;35
+r;8526807;123307;5115;26;35
+r;4190697;252381;5115;0;35
+r;2512097;218966;5115;26;35
+r;2507321;153902;5115;26;35
+r;2499520;160565;5115;24;35
+r;2464362;259970;5115;0;35
+r;2463398;259968;5115;62;35
+r;2462309;250821;5115;37;35
+r;2346471;113645;5115;38;35
+r;2075405;237177;5115;38;35
+r;2075007;236838;5115;38;35
+r;2025590;236550;5115;25;35
+r;1902099;213440;5115;0;35
+r;662344;152511;5115;0;35
+r;419838629;15751681;5115;0;34
+r;419838623;15431612;5115;0;34
+r;419838621;15751682;5115;0;34
+r;395277578;14924799;5115;333;34
+r;395277574;12503944;5115;333;34
+r;213787041;125017;5115;42;34
+r;213787039;28105;5115;42;34
+r;209751300;9209854;5115;0;34
+r;209751296;9209838;5115;0;34
+r;209751284;5800914;5115;0;34
+r;209751279;1373801;5115;0;34
+r;209751272;260104;5115;0;34
+r;98287304;47417;5115;26;34
+r;98273663;120419;5115;26;34
+r;96715528;37194;5115;26;34
+r;95740685;152432;5115;24;34
+r;93406536;57980;5115;26;34
+r;87714863;2165532;5115;0;34
+r;27836748;371913;5115;0;34
+r;21162097;43125;5115;0;34
+r;14100992;222081;5115;0;34
+r;11974105;140202;5115;0;34
+r;2463778;259964;5115;0;34
+r;1829460;55572;5115;24;34
+r;1817769;27271;5115;0;34
+r;309396224;673422;5115;5;33
+r;309390256;610671;5115;5;33
+r;309231521;439457;5115;5;33
+r;209751304;2345256;5115;0;33
+r;209751271;9209835;5115;0;33
+r;209751264;1690811;5115;0;33
+r;85396472;126973;5115;7;33
+r;97740888;152874;5115;24;32
+r;97740878;252146;5115;24;32
+r;96931380;34069;5115;26;32
+r;96927708;5531;5115;26;32
+r;96920810;89538;5115;0;32
+r;95740716;152432;5115;0;32
+r;95718982;2363057;5115;26;32
+r;87714974;2165586;5115;0;32
+r;87714861;2165530;5115;0;32
+r;87714787;2165488;5115;0;32
+r;61498384;2463790;5115;26;32
+r;61494765;2523937;5115;26;32
+r;34440963;48529;5115;26;32
+r;21115074;122852;5115;0;32
+r;15095228;16033;5115;27;32
+r;2123779;55572;5115;0;32
+r;1933843;239946;5115;62;32
+r;1929635;239595;5115;0;32
+r;789885;42042;5115;0;32
+r;478025447;17516291;5115;0;31
+r;474347008;248795;5115;26;31
+r;442182579;2352201;5115;26;31
+r;428482012;230041;5115;0;31
+r;376790719;228598;5115;62;31
+r;376790149;26322;5115;62;31
+r;376179093;234523;5115;25;31
+r;372241605;145295;5115;24;31
+r;364582338;261738;5115;26;31
+r;364582337;20965;5115;26;31
+r;364551448;2587823;5115;24;31
+r;361849660;214433;5115;24;31
+r;334180843;36327;5115;24;31
+r;310194063;214842;5115;26;31
+r;218079315;9749575;5115;6;31
+r;209751288;1690978;5115;0;31
+r;195277465;37201;5115;24;31
+r;166714624;794;5115;26;31
+r;98301837;95126;5115;0;31
+r;98290313;122873;5115;26;31
+r;97348356;82608;5115;0;31
+r;87714870;2165539;5115;0;31
+r;87655939;2165584;5115;0;31
+r;87655929;2165534;5115;0;31
+r;85362188;24085;5115;7;31
+r;72774078;217033;5115;26;31
+r;72774077;298167;5115;26;31
+r;15071520;120603;5115;26;31
+r;2468349;260220;5115;37;31
+r;2354066;254960;5115;0;31
+r;2046017;5295;5115;38;31
+r;1702765;225437;5115;0;31
+r;660236;120603;5115;0;31
+r;479970889;1970720;5115;26;30
+r;479970717;17597576;5115;26;30
+r;479970624;2845232;5115;26;30
+r;479970302;203622;5115;24;30
+r;478686167;11662219;5115;24;30
+r;478686040;17571772;5115;24;30
+r;478686037;153046;5115;24;30
+r;478578874;17560851;5115;26;30
+r;478578709;260118;5115;26;30
+r;478578706;17560844;5115;26;30
+r;478578611;321849;5115;26;30
+r;478578608;17560839;5115;26;30
+r;478578492;122956;5115;24;30
+r;478490061;227591;5115;24;30
+r;478260237;17538945;5115;0;30
+r;478025450;17516292;5115;26;30
+r;474142311;139790;5115;26;30
+r;473494134;17402705;5115;24;30
+r;473494059;17402703;5115;26;30
+r;473475737;17402466;5115;24;30
+r;473475628;17402462;5115;24;30
+r;473475563;17402459;5115;26;30
+r;457053395;15320195;5115;26;30
+r;456913847;17113410;5115;24;30
+r;453492495;17041754;5115;24;30
+r;453492448;17041752;5115;26;30
+r;450466415;15280766;5115;24;30
+r;442710036;16800294;5115;24;30
+r;442274707;14966327;5115;26;30
+r;442274446;15216162;5115;26;30
+r;442273233;15391908;5115;26;30
+r;442272327;8061337;5115;26;30
+r;442268675;15762968;5115;26;30
+r;442182248;16789274;5115;26;30
+r;437944832;16607750;5115;6;30
+r;437944814;16607749;5115;24;30
+r;437944765;16607747;5115;26;30
+r;437691031;16601864;5115;24;30
+r;437582416;16599038;5115;24;30
+r;437582349;16599035;5115;24;30
+r;437545308;16598119;5115;24;30
+r;437545105;16598113;5115;24;30
+r;437544984;16598109;5115;24;30
+r;437544936;16598107;5115;26;30
+r;437544781;16598103;5115;24;30
+r;437544741;16598101;5115;24;30
+r;437544691;16598097;5115;24;30
+r;437544643;16598095;5115;26;30
+r;437526700;16597791;5115;26;30
+r;435982175;8055252;5115;26;30
+r;435979198;25914;5115;26;30
+r;435931902;6802088;5115;24;30
+r;435744841;15294319;5115;62;30
+r;435744730;15148505;5115;62;30
+r;435744620;14934268;5115;62;30
+r;435040282;16559567;5115;24;30
+r;435040217;16559564;5115;26;30
+r;435038207;16559486;5115;24;30
+r;435038159;16559484;5115;26;30
+r;435038111;16559481;5115;24;30
+r;435038064;16559479;5115;26;30
+r;435038021;16559476;5115;24;30
+r;435037911;16559474;5115;24;30
+r;435037800;16559472;5115;24;30
+r;435037752;16559470;5115;24;30
+r;435037706;16559463;5115;6;30
+r;435037623;16559460;5115;26;30
+r;435037552;16559455;5115;26;30
+r;435037484;16559450;5115;26;30
+r;435037421;16559445;5115;26;30
+r;435037360;16559440;5115;24;30
+r;435037312;16559438;5115;26;30
+r;432768105;15214693;5115;0;30
+r;430927640;16316322;5115;24;30
+r;430927533;16316323;5115;24;30
+r;430927426;16316324;5115;24;30
+r;430052720;92353;5115;24;30
+r;428193304;15245979;5115;62;30
+r;426387259;15461613;5115;0;30
+r;426387219;15461614;5115;0;30
+r;426387179;15461615;5115;0;30
+r;426022668;16242227;5115;26;30
+r;425363668;16184162;5115;6;30
+r;425363644;16184161;5115;24;30
+r;425363553;16184159;5115;26;30
+r;423947549;16168869;5115;6;30
+r;423947531;16168868;5115;24;30
+r;423947481;16168866;5115;26;30
+r;423946303;16168858;5115;6;30
+r;423946285;16168857;5115;24;30
+r;423946095;16168854;5115;6;30
+r;423946077;16168853;5115;24;30
+r;423946029;16168851;5115;26;30
+r;423945986;16168848;5115;6;30
+r;423945968;16168847;5115;24;30
+r;423945920;16168845;5115;26;30
+r;423945866;16168842;5115;24;30
+r;423945796;16168837;5115;24;30
+r;423730054;399540;5115;26;30
+r;414638687;15298144;5115;26;30
+r;414614942;15410628;5115;26;30
+r;412904631;9076467;5115;26;30
+r;412904630;9076467;5115;24;30
+r;411547467;6800256;5115;26;30
+r;410128779;491;5115;0;30
+r;409142027;15449012;5115;0;30
+r;409141809;15716554;5115;0;30
+r;408920591;15770831;5115;26;30
+r;408434940;255862;5115;26;30
+r;406639266;15224309;5115;26;30
+r;405893056;7324818;5115;26;30
+r;405730450;15260326;5115;26;30
+r;405642330;15431700;5115;26;30
+r;405642181;15431699;5115;26;30
+r;405032340;15236628;5115;26;30
+r;404989170;15761861;5115;6;30
+r;404989148;15761860;5115;24;30
+r;404989011;8125649;5115;24;30
+r;404988963;15761855;5115;26;30
+r;404988953;8125649;5115;0;30
+r;404895481;15716540;5115;0;30
+r;404895454;15716552;5115;0;30
+r;404895427;15716539;5115;0;30
+r;404356683;15751683;5115;333;30
+r;402413560;15203200;5115;26;30
+r;400200512;6827863;5115;24;30
+r;400119256;15426915;5115;25;30
+r;399211199;7223606;5115;26;30
+r;398999005;15245980;5115;62;30
+r;398998990;15389404;5115;62;30
+r;398136089;14954285;5115;26;30
+r;398023858;14964892;5115;24;30
+r;397927277;15114210;5115;26;30
+r;397927262;15114210;5115;24;30
+r;397702892;15360638;5115;26;30
+r;397641948;15248008;5115;24;30
+r;396377497;7030648;5115;26;30
+r;395932134;15361002;5115;24;30
+r;395830548;14924284;5115;26;30
+r;392416816;673962;5115;26;30
+r;386066294;14884668;5115;6;30
+r;386066276;14884667;5115;24;30
+r;385985968;14883326;5115;6;30
+r;385985950;14883325;5115;24;30
+r;385985873;14883320;5115;26;30
+r;477714316;17502947;5115;26;30
+r;477714274;17502944;5115;26;30
+r;380404062;6628;5115;30;30
+r;376790422;15657;5115;62;30
+r;374523178;14724702;5115;24;30
+r;373070975;2324877;5115;26;30
+r;370746938;9448050;5115;6;30
+r;367286121;14471083;5115;6;30
+r;367286103;14471082;5115;24;30
+r;367286050;14471079;5115;6;30
+r;367286032;14471078;5115;24;30
+r;367285985;14471076;5115;26;30
+r;366203208;14417117;5115;24;30
+r;366203103;14417109;5115;24;30
+r;366203039;14417106;5115;26;30
+r;365863784;14400717;5115;6;30
+r;365863766;14400716;5115;24;30
+r;365863688;14400711;5115;26;30
+r;365863566;14400709;5115;6;30
+r;365863548;14400708;5115;24;30
+r;365863470;14400703;5115;26;30
+r;364971202;14363898;5115;26;30
+r;364585651;14326654;5115;6;30
+r;364585633;14326653;5115;24;30
+r;364585558;14326648;5115;26;30
+r;364582340;2587823;5115;26;30
+r;364582336;5501816;5115;26;30
+r;361800875;13985121;5115;26;30
+r;361800873;7030637;5115;26;30
+r;361800872;218940;5115;26;30
+r;361800871;214021;5115;26;30
+r;361800870;233133;5115;26;30
+r;361800869;17559;5115;26;30
+r;401056807;25382;5115;24;30
+r;351974557;3755421;5115;26;30
+r;338236809;215024;5115;26;30
+r;333960555;3361;5115;26;30
+r;333960550;3361;5115;24;30
+r;319150005;74657;5115;26;30
+r;331219866;12905116;5115;26;30
+r;310194061;214841;5115;26;30
+r;277711279;5304379;5115;24;30
+r;477380608;17483831;5115;26;30
+r;477380415;17483822;5115;26;30
+r;212355645;8062973;5115;26;30
+r;211999832;8125649;5115;26;30
+r;210506249;65126;5115;26;30
+r;396987640;15196749;5115;26;30
+r;115959791;3756346;5115;26;30
+r;115959790;249163;5115;26;30
+r;115959787;5916548;5115;26;30
+r;115959786;5916555;5115;26;30
+r;115505234;62606;5115;26;30
+r;107981473;134455;5115;26;30
+r;104469735;5003192;5115;26;30
+r;98749893;61147;5115;24;30
+r;98287412;86754;5115;26;30
+r;98286794;77807;5115;26;30
+r;98284853;128646;5115;26;30
+r;98284850;128646;5115;24;30
+r;98284184;35814;5115;26;30
+r;97740889;218543;5115;24;30
+r;97740887;35345;5115;24;30
+r;97740885;9563;5115;24;30
+r;97740884;41743;5115;24;30
+r;97740883;254108;5115;24;30
+r;97740882;88834;5115;24;30
+r;97740881;27588;5115;24;30
+r;97373411;214434;5115;26;30
+r;97358747;168216;5115;26;30
+r;97357856;214126;5115;26;30
+r;97349828;146273;5115;26;30
+r;97320776;26732;5115;26;30
+r;97141601;103131;5115;26;30
+r;97056150;86296;5115;26;30
+r;96928273;110153;5115;0;30
+r;96691796;128482;5115;24;30
+r;96666213;51247;5115;24;30
+r;96622701;140176;5115;26;30
+r;95756934;2389555;5115;26;30
+r;94150225;3756628;5115;26;30
+r;94150095;3757927;5115;26;30
+r;94149166;1455422;5115;26;30
+r;87735005;2165585;5115;0;30
+r;87714985;2165592;5115;0;30
+r;87714867;2165537;5115;0;30
+r;87714797;2165492;5115;0;30
+r;87714794;2165491;5115;0;30
+r;477379962;17483804;5115;26;30
+r;477380028;17483807;5115;6;30
+r;78779213;3260165;5115;24;30
+r;77519781;238792;5115;26;30
+r;72774075;244045;5115;26;30
+r;72637083;218057;5115;26;30
+r;72204780;214227;5115;26;30
+r;477468002;17491030;5115;26;30
+r;55468096;2603412;5115;26;30
+r;55467776;2352224;5115;26;30
+r;55467628;264464;5115;26;30
+r;55466912;2603413;5115;26;30
+r;52985894;214022;5115;26;30
+r;52985880;214022;5115;24;30
+r;52218584;339303;5115;26;30
+r;52218417;170810;5115;26;30
+r;52218263;339305;5115;26;30
+r;52217960;2375719;5115;26;30
+r;52217885;223521;5115;26;30
+r;34666180;226593;5115;24;30
+r;34528833;45686;5115;52;30
+r;34384428;1660297;5115;24;30
+r;34300209;142350;5115;24;30
+r;32025597;214277;5115;24;30
+r;31830224;92353;5115;26;30
+r;31830225;20399;5115;26;30
+r;31823715;277839;5115;26;30
+r;31823714;264056;5115;26;30
+r;31823712;6003;5115;26;30
+r;31823711;385523;5115;26;30
+r;31823710;11095;5115;26;30
+r;29536304;1805612;5115;0;30
+r;28471277;228312;5115;24;30
+r;477428969;17487755;5115;26;30
+r;477203299;17469120;5115;26;30
+r;24419511;260099;5115;26;30
+r;24344585;152954;5115;24;30
+r;477614389;17496546;5115;26;30
+r;477428816;17487742;5115;26;30
+r;477429026;17487758;5115;26;30
+r;17943116;219508;5115;26;30
+r;17943069;291167;5115;26;30
+r;17943008;291168;5115;26;30
+r;17942947;108171;5115;26;30
+r;15745426;216946;5115;26;30
+r;15231015;16033;5115;0;30
+r;14845363;74736;5115;24;30
+r;14845362;120603;5115;24;30
+r;15854662;261738;5115;24;30
+r;13440059;31344;5115;26;30
+r;13395667;314136;5115;26;30
+r;13087166;215037;5115;26;30
+r;10737501;219123;5115;26;30
+r;9918045;82595;5115;6;30
+r;8907715;263317;5115;26;30
+r;8907452;316963;5115;26;30
+r;6190169;220528;5115;26;30
+r;3195996;117156;5115;26;30
+r;3113245;1277;5115;26;30
+r;2509602;262000;5115;26;30
+r;2496878;189981;5115;26;30
+r;2491247;218941;5115;26;30
+r;2487380;220337;5115;26;30
+r;2481788;212612;5115;26;30
+r;2481767;213782;5115;26;30
+r;2481455;38557;5115;26;30
+r;2473680;251158;5115;26;30
+r;2471557;228897;5115;26;30
+r;2462302;250821;5115;25;30
+r;2428862;257883;5115;24;30
+r;2428816;257883;5115;26;30
+r;2359197;251164;5115;26;30
+r;2278379;239992;5115;26;30
+r;2221025;214447;5115;26;30
+r;2212340;228987;5115;0;30
+r;2178835;216927;5115;26;30
+r;2149297;227846;5115;26;30
+r;2140353;153678;5115;26;30
+r;1976495;44281;5115;26;30
+r;1944120;38257;5115;26;30
+r;1913138;237177;5115;26;30
+r;1910861;151599;5115;26;30
+r;1886770;140377;5115;26;30
+r;1878579;227703;5115;24;30
+r;792447;5997;5115;0;30
+r;478686036;17571771;5115;0;29
+r;399614029;14934271;5115;0;29
+r;397784452;8069837;5115;0;29
+r;390186168;9773603;5115;30;29
+r;369190711;3318498;5115;0;29
+r;213787040;237548;5115;42;29
+r;97121299;50195;5115;0;29
+r;87714983;2165591;5115;0;29
+r;87714886;2165597;5115;0;29
+r;87714879;2165543;5115;0;29
+r;87714868;2165538;5115;0;29
+r;87714784;2165487;5115;0;29
+r;85347478;88347;5115;7;29
+r;59513421;19288;5115;0;29
+r;54640882;53872;5115;0;29
+r;28774929;257879;5115;57;29
+r;14435432;434709;5115;0;29
+r;9918050;132551;5115;6;29
+r;3096187;158437;5115;62;29
+r;2067405;226950;5115;5;29
+r;1740382;226950;5115;0;29
+r;937199;75371;5115;0;29
+r;899358;98379;5115;0;29
+r;846948;111054;5115;0;29
+r;832898;110169;5115;0;29
+r;824687;119861;5115;0;29
+r;782637;94613;5115;0;29
+r;661845;13890;5115;0;29
+r;478578703;17560843;5115;0;28
+r;478578605;17560838;5115;0;28
+r;399613961;15207755;5115;0;28
+r;394112280;14939018;5115;333;28
+r;99020737;34994;5115;27;28
+r;96666215;51247;5115;0;28
+r;87714988;2165599;5115;0;28
+r;87714977;2165589;5115;0;28
+r;87714862;2165531;5115;0;28
+r;87655930;2165546;5115;0;28
+r;87479894;32053;5115;0;28
+r;59236640;20537;5115;0;28
+r;55106726;126875;5115;0;28
+r;31804553;154295;5115;0;28
+r;24358746;259980;5115;37;28
+r;15093277;214275;5115;27;28
+r;15087843;23755;5115;0;28
+r;2468364;260220;5115;41;28
+r;2044923;213429;5115;38;28
+r;938629;97162;5115;0;28
+r;822590;31907;5115;0;28
+r;812132;105085;5115;0;28
+r;811002;42089;5115;0;28
+r;794271;63576;5115;0;28
+r;478686170;17571777;5115;24;27
+r;478686166;17571776;5115;0;27
+r;478578495;17560834;5115;24;27
+r;478578491;17560833;5115;0;27
+r;415002122;28198;5115;0;27
+r;311552780;439457;5115;0;27
+r;122135413;437175;5115;0;27
+r;106749529;5304379;5115;37;27
+r;97661817;455727;5115;62;27
+r;96715085;105441;5115;0;27
+r;96918523;67147;5115;5;27
+r;87735009;2165598;5115;0;27
+r;53749616;42582;5115;0;27
+r;15166195;13701;5115;27;27
+r;12261475;11380;5115;0;27
+r;9918053;46367;5115;6;27
+r;2465822;250817;5115;0;27
+r;2463373;259968;5115;0;27
+r;1023988;116425;5115;0;27
+r;783528;75454;5115;0;27
+r;479970886;17597593;5115;26;26
+r;479970714;17597578;5115;26;26
+r;479970621;17597572;5115;26;26
+r;418468186;68467;5115;0;26
+r;400119175;7741707;5115;0;26
+r;398572443;15195292;5115;0;26
+r;380406042;58909;5115;30;26
+r;380404079;14800;5115;30;26
+r;380404078;154695;5115;30;26
+r;380404076;86296;5115;30;26
+r;380404071;53310;5115;30;26
+r;380404069;124071;5115;30;26
+r;380404068;65012;5115;30;26
+r;380404063;44001;5115;30;26
+r;380404060;140377;5115;30;26
+r;380399807;214276;5115;30;26
+r;380395294;34994;5115;30;26
+r;380395183;33217;5115;30;26
+r;376790718;154204;5115;62;26
+r;376790424;54186;5115;62;26
+r;376790295;36696;5115;62;26
+r;376790150;1971962;5115;62;26
+r;376790148;26411;5115;62;26
+r;376790147;8659;5115;62;26
+r;376790146;2951337;5115;62;26
+r;376179112;56999;5115;25;26
+r;376179109;49407;5115;25;26
+r;376179106;154063;5115;25;26
+r;376179105;214924;5115;25;26
+r;376179103;229419;5115;25;26
+r;376179102;69592;5115;25;26
+r;376179096;228770;5115;25;26
+r;376179094;182534;5115;25;26
+r;376163854;217292;5115;25;26
+r;368071143;109533;5115;0;26
+r;366203174;228770;5115;30;26
+r;365863709;146096;5115;30;26
+r;365863490;141971;5115;30;26
+r;364971184;145285;5115;0;26
+r;364585540;118790;5115;0;26
+r;361591217;322561;5115;0;26
+r;97335610;13890;5115;62;26
+r;87714980;2165590;5115;0;26
+r;87714791;2165489;5115;0;26
+r;87499839;1972089;5115;0;26
+r;87494305;401153;5115;0;26
+r;72882815;225830;5115;25;26
+r;72788443;225830;5115;30;26
+r;59252663;50967;5115;0;26
+r;54831776;71325;5115;0;26
+r;54546187;117557;5115;0;26
+r;53748488;2092;5115;0;26
+r;28775110;257879;5115;37;26
+r;28598600;257879;5115;0;26
+r;477428835;36327;5115;30;26
+r;21103268;110910;5115;0;26
+r;12310124;87528;5115;0;26
+r;9918043;99279;5115;6;26
+r;9918039;241440;5115;6;26
+r;9111776;322704;5115;0;26
+r;2284081;216934;5115;0;26
+r;2150727;5295;5115;63;26
+r;1599552;217594;5115;0;26
+r;1017656;56038;5115;0;26
+r;826372;106682;5115;0;26
+r;480503822;17619739;5115;24;25
+r;480503821;17619739;5115;0;25
+r;480503802;17619738;5115;0;25
+r;480503750;17619736;5115;24;25
+r;480503749;17619736;5115;0;25
+r;480503713;17619735;5115;24;25
+r;480503712;17619735;5115;0;25
+r;480503689;17619734;5115;24;25
+r;480503688;17619734;5115;0;25
+r;480503669;17619733;5115;0;25
+r;480503634;17619732;5115;24;25
+r;480503633;17619732;5115;0;25
+r;480503614;17619731;5115;0;25
+r;480503592;17619730;5115;0;25
+r;480503575;17619729;5115;0;25
+r;480503571;17619729;5115;24;25
+r;480503569;217714;5115;0;25
+r;480503568;217714;5115;24;25
+r;480503567;17619728;5115;0;25
+r;480503562;17619728;5115;6;25
+r;480503555;17619727;5115;6;25
+r;480503537;17619726;5115;24;25
+r;480503536;17619726;5115;0;25
+r;480503513;17619725;5115;0;25
+r;480503489;17619724;5115;0;25
+r;480380842;17612287;5115;6;25
+r;480380824;17612286;5115;24;25
+r;480380823;17612286;5115;0;25
+r;480380800;17612285;5115;0;25
+r;480380776;17612284;5115;0;25
+r;480380768;17612283;5115;0;25
+r;480380764;17612283;5115;30;25
+r;480380756;17612282;5115;6;25
+r;480380752;17612281;5115;0;25
+r;480380748;17612281;5115;26;25
+r;480380745;17612280;5115;0;25
+r;480380738;17612280;5115;6;25
+r;479974868;17597884;5115;6;25
+r;479974844;17597883;5115;24;25
+r;479974843;17597883;5115;0;25
+r;479974818;17597882;5115;0;25
+r;479972689;17597701;5115;6;25
+r;479972671;17597700;5115;24;25
+r;479972670;17597700;5115;0;25
+r;479972637;17597699;5115;0;25
+r;479972630;17597698;5115;0;25
+r;479972628;270478;5115;30;25
+r;479972625;17597698;5115;30;25
+r;479972616;17597697;5115;6;25
+r;479971346;17597563;5115;0;25
+r;479971022;17597599;5115;6;25
+r;479971004;17597598;5115;24;25
+r;479971003;17597598;5115;0;25
+r;479970980;17597597;5115;0;25
+r;479970952;17597596;5115;6;25
+r;479970934;17597595;5115;24;25
+r;479970933;17597595;5115;0;25
+r;479970910;17597594;5115;0;25
+r;479970891;17597593;5115;0;25
+r;479970883;17597592;5115;0;25
+r;479970876;17597592;5115;6;25
+r;479970780;17597581;5115;6;25
+r;479970762;17597580;5115;24;25
+r;479970761;17597580;5115;0;25
+r;479970738;17597579;5115;0;25
+r;479970719;17597578;5115;0;25
+r;479970711;17597577;5115;0;25
+r;479970704;17597577;5115;6;25
+r;479970687;17597575;5115;6;25
+r;479970669;17597574;5115;24;25
+r;479970668;17597574;5115;0;25
+r;479970645;17597573;5115;0;25
+r;479970626;17597572;5115;0;25
+r;479970618;17597571;5115;0;25
+r;479970611;17597571;5115;6;25
+r;479970604;17597570;5115;6;25
+r;479970586;17597569;5115;24;25
+r;479970585;17597569;5115;0;25
+r;479970562;17597568;5115;0;25
+r;479970537;17597567;5115;6;25
+r;479970519;17597566;5115;24;25
+r;479970518;17597566;5115;0;25
+r;479970493;17597565;5115;0;25
+r;479970486;17597564;5115;0;25
+r;479970484;228845;5115;30;25
+r;479970481;17597564;5115;30;25
+r;479970472;17597563;5115;6;25
+r;479970437;17597562;5115;6;25
+r;479970419;17597561;5115;24;25
+r;479970418;17597561;5115;0;25
+r;479970392;17597560;5115;0;25
+r;479970366;17597559;5115;24;25
+r;479970365;17597559;5115;0;25
+r;479970346;17597558;5115;0;25
+r;479970324;17597557;5115;0;25
+r;479970309;17597556;5115;0;25
+r;479970305;17597556;5115;24;25
+r;479970303;203622;5115;0;25
+r;479970301;17597555;5115;0;25
+r;479970296;17597555;5115;6;25
+r;478686231;17571780;5115;24;25
+r;478686230;17571780;5115;0;25
+r;478686211;17571779;5115;0;25
+r;478686189;17571778;5115;0;25
+r;478686174;17571777;5115;0;25
+r;478686168;11662219;5115;0;25
+r;478686161;17571776;5115;6;25
+r;478686101;17571775;5115;24;25
+r;478686100;17571775;5115;0;25
+r;478686081;17571774;5115;0;25
+r;478686059;17571773;5115;0;25
+r;478686044;17571772;5115;0;25
+r;478686038;153046;5115;0;25
+r;478686031;17571771;5115;6;25
+r;478685996;17571770;5115;24;25
+r;478685995;17571770;5115;0;25
+r;478685976;17571769;5115;0;25
+r;478685955;17571768;5115;0;25
+r;478578940;17560854;5115;6;25
+r;478578922;17560853;5115;24;25
+r;478578921;17560853;5115;0;25
+r;478578898;17560852;5115;0;25
+r;478578879;17560851;5115;0;25
+r;478578864;17560850;5115;6;25
+r;478578839;17560849;5115;24;25
+r;478578838;17560849;5115;0;25
+r;478578819;17560848;5115;0;25
+r;478578772;17560847;5115;6;25
+r;478578754;17560846;5115;24;25
+r;478578753;17560846;5115;0;25
+r;478578730;17560845;5115;0;25
+r;478578711;17560844;5115;0;25
+r;478578696;17560843;5115;6;25
+r;478578674;17560842;5115;6;25
+r;478578656;17560841;5115;24;25
+r;478578655;17560841;5115;0;25
+r;478578632;17560840;5115;0;25
+r;478578613;17560839;5115;0;25
+r;478578598;17560838;5115;6;25
+r;478578556;17560837;5115;24;25
+r;478578555;17560837;5115;0;25
+r;478578536;17560836;5115;0;25
+r;478578514;17560835;5115;0;25
+r;478578499;17560834;5115;0;25
+r;478578493;122956;5115;0;25
+r;478578486;17560833;5115;6;25
+r;478578359;17560806;5115;24;25
+r;478578358;17560806;5115;0;25
+r;478404024;17551946;5115;6;25
+r;478404006;17551945;5115;24;25
+r;478404005;17551945;5115;0;25
+r;478403982;17551944;5115;0;25
+r;478403961;17551943;5115;6;25
+r;478403943;17551942;5115;24;25
+r;478403942;17551942;5115;0;25
+r;478403917;17551941;5115;0;25
+r;478403910;17551940;5115;0;25
+r;478403908;250257;5115;30;25
+r;478403905;17551940;5115;30;25
+r;478403897;17551939;5115;6;25
+r;478260273;17538949;5115;0;25
+r;478260253;17538947;5115;0;25
+r;478260246;17538946;5115;0;25
+r;478260242;17538946;5115;25;25
+r;478260233;17538945;5115;6;25
+r;478259231;17538792;5115;6;25
+r;478259213;17538791;5115;24;25
+r;478259212;17538791;5115;0;25
+r;478259186;17538790;5115;0;25
+r;478259179;17538789;5115;0;25
+r;478259175;17538789;5115;30;25
+r;478259167;17538788;5115;6;25
+r;478063365;17519947;5115;0;25
+r;478063354;17519946;5115;0;25
+r;478063348;17186;5115;0;25
+r;478063341;17519945;5115;6;25
+r;478063324;17519942;5115;0;25
+r;478063313;17519941;5115;0;25
+r;478063301;17519940;5115;6;25
+r;478025515;17516295;5115;6;25
+r;478025497;17516294;5115;24;25
+r;478025496;17516294;5115;0;25
+r;478025473;17516293;5115;0;25
+r;478025454;17516292;5115;0;25
+r;478025440;17516291;5115;6;25
+r;478025358;17516287;5115;6;25
+r;478025340;17516286;5115;24;25
+r;478025339;17516286;5115;0;25
+r;478025262;17516283;5115;24;25
+r;478025261;17516283;5115;0;25
+r;478025242;17516282;5115;0;25
+r;478025180;17516279;5115;24;25
+r;478025179;17516279;5115;0;25
+r;478025160;17516278;5115;0;25
+r;476015593;17429737;5115;0;25
+r;473513112;17402959;5115;0;25
+r;473513097;17402958;5115;0;25
+r;473513080;17402957;5115;0;25
+r;473513001;17402953;5115;6;25
+r;473512990;17402952;5115;0;25
+r;473512978;17402951;5115;0;25
+r;473512962;17402950;5115;0;25
+r;473512777;17402933;5115;0;25
+r;473494152;17402706;5115;6;25
+r;473494133;17402705;5115;0;25
+r;473494102;17402704;5115;0;25
+r;473494063;17402703;5115;0;25
+r;473494049;17402702;5115;6;25
+r;473481611;17402516;5115;0;25
+r;473481532;17402514;5115;0;25
+r;473481512;17402513;5115;0;25
+r;473481506;3263355;5115;0;25
+r;473481500;17402512;5115;6;25
+r;473475755;17402467;5115;6;25
+r;473475736;17402466;5115;0;25
+r;473475713;17402465;5115;0;25
+r;473475646;17402463;5115;6;25
+r;473475627;17402462;5115;0;25
+r;473475604;17402461;5115;0;25
+r;473475580;17402460;5115;0;25
+r;473475568;17402459;5115;0;25
+r;473475553;17402458;5115;6;25
+r;458316741;17130056;5115;0;25
+r;456913846;17113410;5115;0;25
+r;456913827;17113409;5115;0;25
+r;456332079;17110539;5115;0;25
+r;453492513;17041755;5115;6;25
+r;453492494;17041754;5115;0;25
+r;453492471;17041753;5115;0;25
+r;453492452;17041752;5115;0;25
+r;453492438;17041751;5115;6;25
+r;450466396;15280766;5115;0;25
+r;442710035;16800294;5115;0;25
+r;442705956;16800155;5115;0;25
+r;442705913;16800154;5115;0;25
+r;442705873;16800153;5115;0;25
+r;442705710;16800151;5115;0;25
+r;442182451;16789289;5115;0;25
+r;442182434;16789288;5115;0;25
+r;442182427;16789287;5115;0;25
+r;442182423;16789287;5115;25;25
+r;442182412;16789286;5115;6;25
+r;442182380;16789284;5115;0;25
+r;442182363;16789283;5115;0;25
+r;442182356;16789282;5115;0;25
+r;442182352;16789282;5115;25;25
+r;442182341;16789281;5115;6;25
+r;442182324;16789279;5115;0;25
+r;442182307;16789278;5115;0;25
+r;442182284;16789277;5115;0;25
+r;442182277;16789276;5115;0;25
+r;442182275;250257;5115;25;25
+r;442182272;16789276;5115;25;25
+r;442182259;16789275;5115;6;25
+r;442182253;16789274;5115;0;25
+r;442182238;16789273;5115;6;25
+r;437945321;16607753;5115;0;25
+r;437944813;16607749;5115;0;25
+r;437944790;16607748;5115;0;25
+r;437944770;16607747;5115;0;25
+r;437944755;16607746;5115;6;25
+r;437691030;16601864;5115;0;25
+r;437635319;16600574;5115;6;25
+r;437635254;16600573;5115;0;25
+r;437635207;16600572;5115;0;25
+r;437635151;16600571;5115;0;25
+r;437634556;16600556;5115;0;25
+r;437617779;16600124;5115;0;25
+r;437617735;16600123;5115;0;25
+r;437617683;16600122;5115;0;25
+r;437617630;16600121;5115;0;25
+r;437617588;16600120;5115;0;25
+r;437617545;16600119;5115;0;25
+r;437617501;16600118;5115;0;25
+r;437615807;16600066;5115;0;25
+r;437603516;16599715;5115;0;25
+r;437603476;16599714;5115;0;25
+r;437583131;16599066;5115;6;25
+r;437583126;16599065;5115;0;25
+r;437583115;16599064;5115;0;25
+r;437582505;16599040;5115;0;25
+r;437582440;16599039;5115;0;25
+r;437582415;16599038;5115;0;25
+r;437582403;16599037;5115;6;25
+r;437582382;16599036;5115;0;25
+r;437582348;16599035;5115;0;25
+r;437545307;16598119;5115;0;25
+r;437545288;16598118;5115;0;25
+r;437545266;16598117;5115;0;25
+r;437545246;16598116;5115;0;25
+r;437545240;163616;5115;0;25
+r;437545233;16598115;5115;6;25
+r;437545123;16598114;5115;6;25
+r;437545104;16598113;5115;0;25
+r;437545080;16598112;5115;0;25
+r;437545002;16598110;5115;6;25
+r;437544983;16598109;5115;0;25
+r;437544960;16598108;5115;0;25
+r;437544941;16598107;5115;0;25
+r;437544926;16598106;5115;6;25
+r;437544799;16598104;5115;6;25
+r;437544780;16598103;5115;0;25
+r;437544759;16598102;5115;6;25
+r;437544740;16598101;5115;0;25
+r;437544709;16598098;5115;6;25
+r;437544690;16598097;5115;0;25
+r;437544667;16598096;5115;0;25
+r;437544647;16598095;5115;0;25
+r;437544633;16598094;5115;6;25
+r;437526722;16597792;5115;0;25
+r;437526705;16597791;5115;0;25
+r;437526690;16597790;5115;6;25
+r;437526687;16597789;5115;0;25
+r;437526675;16597788;5115;6;25
+r;435442689;168366;5115;25;25
+r;435097393;16563780;5115;0;25
+r;435097376;16563779;5115;0;25
+r;435097355;16563778;5115;0;25
+r;435097329;16563776;5115;0;25
+r;435097312;16563775;5115;0;25
+r;435097290;16563774;5115;0;25
+r;435040300;16559568;5115;6;25
+r;435040281;16559567;5115;0;25
+r;435040258;16559566;5115;0;25
+r;435040233;16559565;5115;0;25
+r;435040221;16559564;5115;0;25
+r;435040207;16559563;5115;6;25
+r;435040205;16559562;5115;0;25
+r;435040199;31618;5115;0;25
+r;435040192;16559561;5115;6;25
+r;435038225;16559487;5115;6;25
+r;435038206;16559486;5115;0;25
+r;435038183;16559485;5115;0;25
+r;435038163;16559484;5115;0;25
+r;435038149;16559483;5115;6;25
+r;435038129;16559482;5115;6;25
+r;435038110;16559481;5115;0;25
+r;435038087;16559480;5115;0;25
+r;435038068;16559479;5115;0;25
+r;435038054;16559478;5115;6;25
+r;435038039;16559477;5115;6;25
+r;435038020;16559476;5115;0;25
+r;435037929;16559475;5115;6;25
+r;435037910;16559474;5115;0;25
+r;435037818;16559473;5115;6;25
+r;435037799;16559472;5115;0;25
+r;435037770;16559471;5115;6;25
+r;435037751;16559470;5115;0;25
+r;435037664;16559462;5115;0;25
+r;435037647;16559461;5115;0;25
+r;435037628;16559460;5115;0;25
+r;435037613;16559459;5115;6;25
+r;435037592;16559457;5115;0;25
+r;435037575;16559456;5115;0;25
+r;435037556;16559455;5115;0;25
+r;435037542;16559454;5115;6;25
+r;435037524;16559452;5115;0;25
+r;435037507;16559451;5115;0;25
+r;435037488;16559450;5115;0;25
+r;435037474;16559449;5115;6;25
+r;435037461;16559447;5115;0;25
+r;435037444;16559446;5115;0;25
+r;435037425;16559445;5115;0;25
+r;435037411;16559444;5115;6;25
+r;435037396;16559442;5115;0;25
+r;435037378;16559441;5115;6;25
+r;435037359;16559440;5115;0;25
+r;435037336;16559439;5115;0;25
+r;435037316;16559438;5115;0;25
+r;435037302;16559437;5115;6;25
+r;432854633;165770;5115;20;25
+r;430945738;15359719;5115;25;25
+r;426387260;15461613;5115;62;25
+r;426387220;15461614;5115;62;25
+r;426387180;15461615;5115;62;25
+r;426022689;16242228;5115;0;25
+r;426022672;16242227;5115;0;25
+r;426022658;16242226;5115;6;25
+r;426022656;16242225;5115;0;25
+r;426022650;34713;5115;0;25
+r;426022643;16242224;5115;6;25
+r;425363643;16184161;5115;0;25
+r;425363610;16184160;5115;0;25
+r;425363559;16184159;5115;0;25
+r;425363535;16184158;5115;6;25
+r;423947530;16168868;5115;0;25
+r;423947507;16168867;5115;0;25
+r;423947485;16168866;5115;0;25
+r;423947471;16168865;5115;6;25
+r;423946284;16168857;5115;0;25
+r;423946255;16168856;5115;0;25
+r;423946076;16168853;5115;0;25
+r;423946053;16168852;5115;0;25
+r;423946034;16168851;5115;0;25
+r;423946019;16168850;5115;6;25
+r;423945967;16168847;5115;0;25
+r;423945944;16168846;5115;0;25
+r;423945925;16168845;5115;0;25
+r;423945907;16168844;5115;6;25
+r;423945865;16168842;5115;0;25
+r;423945840;16168841;5115;0;25
+r;423945833;16168840;5115;0;25
+r;423945831;5304379;5115;30;25
+r;423945828;16168840;5115;30;25
+r;423945819;16168839;5115;6;25
+r;423945795;16168837;5115;0;25
+r;423945772;16168836;5115;0;25
+r;423945748;16168835;5115;0;25
+r;418468275;16066111;5115;0;25
+r;418468264;16066110;5115;0;25
+r;418468258;106182;5115;0;25
+r;418468251;16066109;5115;6;25
+r;418468203;16066106;5115;0;25
+r;418468192;16066105;5115;0;25
+r;418468179;16066104;5115;6;25
+r;418467909;16066096;5115;0;25
+r;418467898;16066095;5115;0;25
+r;418467892;140188;5115;0;25
+r;418467885;16066094;5115;6;25
+r;416078903;14931275;5115;0;25
+r;415943920;14939018;5115;0;25
+r;415943918;15068456;5115;0;25
+r;415520320;12503944;5115;0;25
+r;415520318;14940893;5115;0;25
+r;415154041;15751683;5115;0;25
+r;414999460;153879;5115;0;25
+r;413365278;15849075;5115;0;25
+r;413365267;15849074;5115;0;25
+r;413365255;15849073;5115;6;25
+r;412717098;15261523;5115;30;25
+r;411832513;15190520;5115;30;25
+r;407305623;6437102;5115;56;25
+r;404989147;15761860;5115;0;25
+r;404989139;15422358;5115;30;25
+r;404989089;15761859;5115;0;25
+r;404989082;15761858;5115;0;25
+r;404989080;321894;5115;30;25
+r;404989077;15761858;5115;30;25
+r;404989068;15761857;5115;6;25
+r;404989028;15761856;5115;0;25
+r;404988977;15761855;5115;0;25
+r;404988935;15761854;5115;6;25
+r;404988933;15761853;5115;0;25
+r;404988927;3373903;5115;0;25
+r;404988920;15761852;5115;6;25
+r;401523894;6938887;5115;56;25
+r;401523195;15217117;5115;56;25
+r;401140474;229478;5115;56;25
+r;399738104;14945063;5115;30;25
+r;398514180;15205211;5115;25;25
+r;398272823;15311055;5115;25;25
+r;396494194;15480641;5115;0;25
+r;396492076;228626;5115;0;25
+r;396460366;15305241;5115;20;25
+r;396356444;283091;5115;30;25
+r;396356436;283091;5115;25;25
+r;396076724;15111552;5115;30;25
+r;396076716;15111552;5115;25;25
+r;392135486;3729842;5115;25;25
+r;391175172;14934326;5115;56;25
+r;391105702;9773499;5115;30;25
+r;399515638;161817;5115;30;25
+r;477714296;17502945;5115;0;25
+r;477714279;17502944;5115;0;25
+r;386066275;14884667;5115;0;25
+r;386066250;14884666;5115;0;25
+r;386066243;14884665;5115;0;25
+r;386066239;14884665;5115;30;25
+r;386066231;14884664;5115;6;25
+r;385985949;14883325;5115;0;25
+r;385985926;14883324;5115;0;25
+r;385985901;14883323;5115;0;25
+r;385985894;14883322;5115;0;25
+r;385985890;14883322;5115;30;25
+r;385985882;14883321;5115;6;25
+r;385985878;14883320;5115;0;25
+r;385985863;14883319;5115;6;25
+r;385985861;14883318;5115;0;25
+r;385985855;225916;5115;0;25
+r;385985848;14883317;5115;6;25
+r;385293158;103405;5115;115;25
+r;477714248;17502941;5115;6;25
+r;477714473;17502954;5115;0;25
+r;477714362;17502949;5115;0;25
+r;477714445;17502952;5115;6;25
+r;477714458;17502953;5115;0;25
+r;477714406;17502951;5115;6;25
+r;477714452;1978629;5115;0;25
+r;477714495;17502955;5115;0;25
+r;477714388;17502950;5115;24;25
+r;477714387;17502950;5115;0;25
+r;477714306;17502946;5115;6;25
+r;477714321;17502947;5115;0;25
+r;477714337;17502948;5115;0;25
+r;477714515;17502956;5115;24;25
+r;477714514;17502956;5115;0;25
+r;477714264;17502943;5115;6;25
+r;477714261;17502942;5115;0;25
+r;477714255;48758;5115;0;25
+r;380404083;3321410;5115;30;25
+r;380404082;247486;5115;30;25
+r;380404081;35798;5115;30;25
+r;380404080;163225;5115;30;25
+r;380404077;22501;5115;30;25
+r;380404075;16381;5115;30;25
+r;380404074;128221;5115;30;25
+r;380404073;1856530;5115;30;25
+r;380404072;239078;5115;30;25
+r;380404070;136572;5115;30;25
+r;380404067;35633;5115;30;25
+r;380404066;13992269;5115;30;25
+r;380404065;97960;5115;30;25
+r;380404064;128277;5115;30;25
+r;380404061;63221;5115;30;25
+r;380404013;140315;5115;30;25
+r;380401148;65824;5115;30;25
+r;380401141;177318;5115;30;25
+r;380395717;48041;5115;30;25
+r;380395142;152522;5115;30;25
+r;380394999;79954;5115;30;25
+r;380394998;122393;5115;30;25
+r;380394707;120952;5115;30;25
+r;380394706;92541;5115;30;25
+r;380394487;143703;5115;30;25
+r;380394486;59151;5115;30;25
+r;380394485;145064;5115;30;25
+r;380392924;216008;5115;25;25
+r;377020727;249316;5115;20;25
+r;377020725;259970;5115;20;25
+r;377017298;112578;5115;20;25
+r;377017296;226950;5115;20;25
+r;377013988;24589;5115;20;25
+r;377013987;196441;5115;20;25
+r;377012411;46367;5115;20;25
+r;377012409;4575;5115;20;25
+r;377012407;67147;5115;20;25
+r;377007388;117177;5115;21;25
+r;377003157;12538;5115;21;25
+r;377003156;5997;5115;21;25
+r;377003154;75156;5115;21;25
+r;377003152;42042;5115;21;25
+r;376790723;9448008;5115;62;25
+r;376790722;9448007;5115;62;25
+r;376790721;155478;5115;62;25
+r;376790720;9448006;5115;62;25
+r;376790717;9448005;5115;62;25
+r;376790713;9448002;5115;62;25
+r;376790712;9448001;5115;62;25
+r;376790711;9448000;5115;62;25
+r;376790710;9447999;5115;62;25
+r;376790709;9447998;5115;62;25
+r;376790708;9447997;5115;62;25
+r;376790707;9447996;5115;62;25
+r;376790706;9447995;5115;62;25
+r;376790705;9447994;5115;62;25
+r;376790430;128663;5115;62;25
+r;376790429;112021;5115;62;25
+r;376790428;68917;5115;62;25
+r;376790427;120123;5115;62;25
+r;376790426;99186;5115;62;25
+r;376790425;65022;5115;62;25
+r;376790423;80572;5115;62;25
+r;376790421;171415;5115;62;25
+r;376780852;39409;5115;62;25
+r;376780692;259964;5115;62;25
+r;376780691;259965;5115;62;25
+r;376780690;259966;5115;62;25
+r;376780688;114700;5115;62;25
+r;376780687;4078;5115;62;25
+r;376780686;6226;5115;62;25
+r;376780685;97682;5115;62;25
+r;376780684;60;5115;62;25
+r;376780683;196265;5115;62;25
+r;376780682;10105;5115;62;25
+r;376780681;215810;5115;62;25
+r;376780680;109043;5115;62;25
+r;376780679;31576;5115;62;25
+r;376780678;239343;5115;62;25
+r;376780677;53322;5115;62;25
+r;376780676;171204;5115;62;25
+r;376780675;106975;5115;62;25
+r;376780674;140948;5115;62;25
+r;376780673;196216;5115;62;25
+r;376780672;196242;5115;62;25
+r;376780671;191830;5115;62;25
+r;376780670;144740;5115;62;25
+r;376780669;196274;5115;62;25
+r;376179111;229242;5115;25;25
+r;376179110;206740;5115;25;25
+r;376179104;98392;5115;25;25
+r;376179100;114359;5115;25;25
+r;376179099;228646;5115;25;25
+r;376179098;145064;5115;25;25
+r;376179097;214278;5115;25;25
+r;376179095;234507;5115;25;25
+r;376179092;152522;5115;25;25
+r;376179091;155893;5115;25;25
+r;376165256;92541;5115;25;25
+r;376165255;59151;5115;25;25
+r;376165254;57253;5115;25;25
+r;376165239;43966;5115;25;25
+r;376164720;142704;5115;25;25
+r;376164719;228138;5115;25;25
+r;375707204;250942;5115;55;25
+r;375687220;95584;5115;56;25
+r;369967883;14561183;5115;0;25
+r;369967876;14561182;5115;0;25
+r;369967874;57253;5115;30;25
+r;369967871;14561182;5115;30;25
+r;369967864;14561181;5115;6;25
+r;368125238;14486145;5115;0;25
+r;368125227;14486144;5115;0;25
+r;368125221;117152;5115;0;25
+r;368125214;14486143;5115;6;25
+r;368071160;14485194;5115;0;25
+r;368071149;14485193;5115;0;25
+r;368071136;14485192;5115;6;25
+r;367286102;14471082;5115;0;25
+r;367286077;14471081;5115;0;25
+r;367286031;14471078;5115;0;25
+r;367286008;14471077;5115;0;25
+r;367285989;14471076;5115;0;25
+r;367285975;14471075;5115;6;25
+r;366203207;14417117;5115;0;25
+r;366203183;14417116;5115;0;25
+r;366203176;14417115;5115;0;25
+r;366203171;14417115;5115;30;25
+r;366203162;14417114;5115;6;25
+r;366203102;14417109;5115;0;25
+r;366203079;14417108;5115;0;25
+r;366203055;14417107;5115;0;25
+r;366203043;14417106;5115;0;25
+r;366203029;14417105;5115;6;25
+r;365863765;14400716;5115;0;25
+r;365863742;14400715;5115;0;25
+r;365863718;14400714;5115;0;25
+r;365863711;14400713;5115;0;25
+r;365863706;14400713;5115;30;25
+r;365863697;14400712;5115;6;25
+r;365863693;14400711;5115;0;25
+r;365863678;14400710;5115;6;25
+r;365863547;14400708;5115;0;25
+r;365863524;14400707;5115;0;25
+r;365863499;14400706;5115;0;25
+r;365863492;14400705;5115;0;25
+r;365863487;14400705;5115;30;25
+r;365863479;14400704;5115;6;25
+r;365863475;14400703;5115;0;25
+r;365863460;14400702;5115;6;25
+r;365863457;14400701;5115;0;25
+r;365863451;68439;5115;0;25
+r;365863443;14400699;5115;6;25
+r;365344046;14386687;5115;0;25
+r;365344039;14386686;5115;0;25
+r;365344037;119686;5115;30;25
+r;365344034;14386686;5115;30;25
+r;365344026;14386685;5115;6;25
+r;365344023;14386684;5115;0;25
+r;365344017;140100;5115;0;25
+r;365344011;14386683;5115;6;25
+r;364971223;14363899;5115;0;25
+r;364971206;14363898;5115;0;25
+r;364971192;14363897;5115;6;25
+r;364971190;14363896;5115;0;25
+r;364971177;14363895;5115;6;25
+r;364585694;14326658;5115;0;25
+r;364585678;14326657;5115;0;25
+r;364585671;14326656;5115;0;25
+r;364585667;14326656;5115;25;25
+r;364585658;14326655;5115;6;25
+r;364585632;14326653;5115;0;25
+r;364585609;14326652;5115;0;25
+r;364585584;14326651;5115;0;25
+r;364585577;14326650;5115;0;25
+r;364585573;14326650;5115;30;25
+r;364585566;14326649;5115;6;25
+r;364585562;14326648;5115;0;25
+r;364585548;14326647;5115;6;25
+r;364585546;14326646;5115;0;25
+r;364585534;14326645;5115;6;25
+r;364549322;14325031;5115;0;25
+r;364549320;3260867;5115;30;25
+r;364549317;14325031;5115;30;25
+r;364549308;14325030;5115;6;25
+r;364549304;14325029;5115;0;25
+r;364549302;114637;5115;0;25
+r;364549291;14325028;5115;6;25
+r;364049773;14293003;5115;0;25
+r;364049772;14293003;5115;19;25
+r;364012235;14288350;5115;0;25
+r;364012234;14288350;5115;19;25
+r;364000878;14287029;5115;0;25
+r;364000877;14287029;5115;19;25
+r;361506650;13985133;5115;0;25
+r;401062482;15317615;5115;0;25
+r;477380539;17483828;5115;0;25
+r;477380082;17483809;5115;0;25
+r;477380405;17483821;5115;6;25
+r;477225180;17471142;5115;24;25
+r;403511681;15111553;5115;25;25
+r;403511719;15313712;5115;25;25
+r;403511844;15313713;5115;25;25
+r;403511939;15313714;5115;25;25
+r;477203289;17469119;5115;6;25
+r;477203113;17469116;5115;6;25
+r;477614394;17496546;5115;0;25
+r;477614437;17496548;5115;24;25
+r;477428798;146065;5115;0;25
+r;477428804;17487740;5115;0;25
+r;477428820;17487742;5115;0;25
+r;477428832;17487744;5115;30;25
+r;477380305;17483817;5115;0;25
+r;477380324;17483818;5115;0;25
+r;477380325;17483818;5115;24;25
+r;477380104;17483810;5115;0;25
+r;477379966;17483804;5115;0;25
+r;477379986;17483805;5115;0;25
+r;477380010;17483806;5115;24;25
+r;477380194;17483813;5115;0;25
+r;477380195;17483813;5115;24;25
+r;477380439;17483823;5115;0;25
+r;477627928;17497641;5115;0;25
+r;477380726;17483837;5115;0;25
+r;477627250;17497555;5115;0;25
+r;477627398;17497574;5115;0;25
+r;477627380;17497573;5115;0;25
+r;477225304;17471150;5115;6;25
+r;477627937;17497642;5115;0;25
+r;477380858;17483843;5115;24;25
+r;477380245;17483815;5115;24;25
+r;477380540;17483828;5115;24;25
+r;477203481;17469126;5115;6;25
+r;477380703;17483836;5115;0;25
+r;477380499;17483826;5115;0;25
+r;477428869;17487746;5115;0;25
+r;477428837;17487744;5115;0;25
+r;477614436;17496548;5115;0;25
+r;477380598;17483830;5115;6;25
+r;477467992;17491029;5115;6;25
+r;477614379;17496545;5115;6;25
+r;477380171;17483812;5115;0;25
+r;477614455;17496549;5115;6;25
+r;477627922;233049;5115;0;25
+r;477627915;17497640;5115;6;25
+r;477203304;17469120;5115;0;25
+r;477425254;17487406;5115;30;25
+r;477425508;17487406;5115;0;25
+r;477429030;17487758;5115;0;25
+r;477380420;17483822;5115;0;25
+r;477380781;17483840;5115;0;25
+r;477225179;17471142;5115;0;25
+r;477380677;17483835;5115;6;25
+r;477379952;17483803;5115;6;25
+r;477428824;17487743;5115;6;25
+r;477380572;17483829;5115;0;25
+r;477380360;17483819;5115;0;25
+r;477203094;17469115;5115;0;25
+r;477203095;17469115;5115;24;25
+r;477203323;17469121;5115;0;25
+r;477380857;17483843;5115;0;25
+r;477380838;17483842;5115;0;25
+r;477428893;17487747;5115;24;25
+r;477429046;17487759;5115;0;25
+r;477613705;17496500;5115;0;25
+r;477613693;17496499;5115;6;25
+r;477613701;17496500;5115;30;25
+r;477380612;17483831;5115;0;25
+r;477380481;17483825;5115;6;25
+r;477380727;17483837;5115;24;25
+r;477428844;17487745;5115;0;25
+r;477428989;17487756;5115;0;25
+r;477203462;17469125;5115;0;25
+r;477203463;17469125;5115;24;25
+r;477203365;17469123;5115;6;25
+r;477203346;17469122;5115;0;25
+r;477203347;17469122;5115;24;25
+r;477225242;17471146;5115;6;25
+r;477225260;17471148;5115;0;25
+r;477225249;17471147;5115;30;25
+r;477225253;17471147;5115;0;25
+r;477380573;17483829;5115;24;25
+r;477380635;17483833;5115;0;25
+r;477380800;17483841;5115;0;25
+r;477380123;17483811;5115;0;25
+r;477380124;17483811;5115;24;25
+r;477380520;17483827;5115;0;25
+r;477380745;17483838;5115;6;25
+r;477380801;17483841;5115;24;25
+r;477380462;17483824;5115;0;25
+r;477380463;17483824;5115;24;25
+r;477428973;17487755;5115;0;25
+r;477428959;17487754;5115;6;25
+r;477468007;17491030;5115;0;25
+r;477468024;17491031;5115;0;25
+r;477613756;17496503;5115;6;25
+r;477613737;17496502;5115;0;25
+r;477613738;17496502;5115;24;25
+r;477613712;17496501;5115;0;25
+r;477380009;17483806;5115;0;25
+r;477380658;17483834;5115;0;25
+r;477380659;17483834;5115;24;25
+r;477428806;17487741;5115;6;25
+r;477428791;17487739;5115;6;25
+r;477428892;17487747;5115;0;25
+r;477428911;17487748;5115;6;25
+r;477429016;17487757;5115;6;25
+r;477225286;17471149;5115;24;25
+r;477225285;17471149;5115;0;25
+r;477225160;17471141;5115;0;25
+r;477380379;17483820;5115;0;25
+r;477380380;17483820;5115;24;25
+r;477380213;17483814;5115;6;25
+r;477614413;17496547;5115;0;25
+r;477380244;17483815;5115;0;25
+r;96714837;2149;5115;38;24
+r;53730145;36246;5115;0;24
+r;12298928;117177;5115;0;24
+r;471427610;15684515;5115;0;23
+r;471426924;15749288;5115;0;23
+r;471426719;15431620;5115;0;23
+r;418028255;2464553;5115;0;23
+r;97661780;455726;5115;62;23
+r;55077985;94327;5115;0;23
+r;15297444;13701;5115;0;23
+r;12282659;122904;5115;0;23
+r;9918052;231587;5115;6;23
+r;754978;82772;5115;0;23
+r;418198677;146096;5115;0;22
+r;369956989;14559845;5115;0;22
+r;369891665;14557762;5115;0;22
+r;368703562;14532464;5115;0;22
+r;106749568;5304379;5115;0;22
+r;98301864;95126;5115;30;22
+r;15511917;152552;5115;27;22
+r;13479487;122840;5115;0;22
+r;10714764;185352;5115;0;22
+r;9924128;102053;5115;6;22
+r;9924127;34516;5115;6;22
+r;9924125;24589;5115;6;22
+r;9924123;67780;5115;6;22
+r;9924121;35999;5115;6;22
+r;9924120;66016;5115;6;22
+r;9924119;15036;5115;6;22
+r;9924117;29352;5115;6;22
+r;9924115;42401;5115;6;22
+r;899075;10060;5115;0;22
+r;430574983;205639;5115;0;21
+r;418418030;152522;5115;0;21
+r;397784341;15052876;5115;0;21
+r;474609371;17402538;5115;0;21
+r;369190884;9102114;5115;0;21
+r;273970636;332128;5115;6;21
+r;396809911;15478611;5115;62;21
+r;98301863;95126;5115;25;21
+r;97322010;9190;5115;37;21
+r;96701570;110910;5115;25;21
+r;12298953;75156;5115;0;21
+r;12298932;12538;5115;0;21
+r;12281844;90994;5115;0;21
+r;9918049;226917;5115;6;21
+r;875724;25479;5115;0;21
+r;475329195;15289936;5115;0;20
+r;467711375;14960543;5115;17;20
+r;467700761;15341607;5115;0;20
+r;460423103;15299221;5115;25;20
+r;460422999;15299221;5115;0;20
+r;457149909;283091;5115;0;20
+r;457115865;111153;5115;62;20
+r;456925916;15202063;5115;0;20
+r;456800212;14932693;5115;62;20
+r;450452756;15111552;5115;0;20
+r;442278974;8089928;5115;0;20
+r;442278572;16344196;5115;30;20
+r;442271547;15377779;5115;0;20
+r;442271508;15700828;5115;0;20
+r;436350279;15074621;5115;25;20
+r;432191058;14929935;5115;62;20
+r;432190808;15483694;5115;62;20
+r;431167209;15304926;5115;30;20
+r;431097045;15426810;5115;0;20
+r;429991636;683509;5115;0;20
+r;428193285;15367398;5115;62;20
+r;426096149;15419883;5115;0;20
+r;426096148;15419883;5115;62;20
+r;426096099;15419884;5115;0;20
+r;426096098;15419884;5115;62;20
+r;411238875;15200238;5115;62;20
+r;411238874;15200238;5115;0;20
+r;411238830;15200237;5115;62;20
+r;411238829;15200237;5115;0;20
+r;411238783;15200236;5115;62;20
+r;411238782;15200236;5115;0;20
+r;410741497;15246857;5115;62;20
+r;409142002;15377778;5115;0;20
+r;409141975;15716544;5115;0;20
+r;409141944;15449009;5115;0;20
+r;409141913;15716541;5115;0;20
+r;409141884;15449006;5115;0;20
+r;408857999;15440262;5115;62;20
+r;408857912;15275340;5115;62;20
+r;408857829;15400658;5115;62;20
+r;408069682;14932764;5115;62;20
+r;408054357;15390641;5115;0;20
+r;405848463;15693364;5115;0;20
+r;405848462;15693364;5115;6;20
+r;405719745;15693365;5115;0;20
+r;405719744;15693365;5115;6;20
+r;405719666;15438476;5115;0;20
+r;405719665;15438476;5115;6;20
+r;405245465;15207759;5115;0;20
+r;404736019;15252795;5115;62;20
+r;477406349;17485630;5115;0;20
+r;477406282;17485626;5115;0;20
+r;477406239;17485625;5115;0;20
+r;477406320;17485628;5115;0;20
+r;477318056;17478295;5115;0;20
+r;477406192;17485623;5115;0;20
+r;477406219;17485624;5115;0;20
+r;477406297;17485627;5115;0;20
+r;53729932;38519;5115;0;18
+r;473289454;16169509;5115;0;16
+r;473257088;16106045;5115;0;16
+r;473257082;15763296;5115;0;16
+r;418448881;45481;5115;0;16
+r;391654148;217289;5115;25;16
+r;97434842;2499;5115;0;16
+r;96920812;89538;5115;30;16
+r;478025304;17516285;5115;0;15
+r;478025205;17516281;5115;0;15
+r;473703553;2951610;5115;0;15
+r;473698193;5304379;5115;25;15
+r;473603847;239795;5115;0;15
+r;473560381;101081;5115;0;15
+r;442278969;14926145;5115;0;15
+r;441738078;5802073;5115;30;15
+r;441727715;9399;5115;30;15
+r;393581084;116477;5115;0;15
+r;309993919;610671;5115;0;15
+r;309984384;673422;5115;0;15
+r;98283778;79307;5115;37;15
+r;97434998;1799401;5115;0;15
+r;97434977;1799400;5115;0;15
+r;96920811;89538;5115;25;15
+r;85358272;28105;5115;0;15
+r;477614457;17496550;5115;0;15
+r;477641857;17496499;5115;0;13
+r;418421717;22132;5115;0;12
+r;313694166;12050458;5115;0;12
+r;313693983;12050426;5115;0;12
+r;306884321;11840072;5115;0;12
+r;306884313;11840073;5115;0;12
+r;54505014;2422695;5115;0;12
+r;418417902;52405;5115;0;11
+r;418415665;2504285;5115;0;11
+r;418415664;16042733;5115;0;11
+r;418414867;61464;5115;0;11
+r;418417070;26422;5115;0;11
+r;418423203;331597;5115;0;11
+r;477710703;17483802;5115;0;11
+r;352120979;13985120;5115;0;11
+r;480631997;17627053;5115;24;10
+r;480631996;17627053;5115;0;10
+r;480631968;17627052;5115;24;10
+r;480631967;17627052;5115;0;10
+r;480631957;17627051;5115;6;10
+r;480631935;17627050;5115;24;10
+r;480631934;17627050;5115;0;10
+r;480631924;17627049;5115;6;10
+r;480631902;17627048;5115;24;10
+r;480631901;17627048;5115;0;10
+r;480631891;17627047;5115;6;10
+r;480631869;17627046;5115;24;10
+r;480631868;17627046;5115;0;10
+r;480631858;17627045;5115;6;10
+r;480631565;17627037;5115;24;10
+r;480631564;17627037;5115;0;10
+r;480631423;17627033;5115;0;10
+r;480627102;17626880;5115;0;10
+r;480627060;17626879;5115;0;10
+r;475327546;212523;5115;26;10
+r;474005781;157042;5115;62;10
+r;474005776;14160834;5115;62;10
+r;473826173;15299220;5115;25;10
+r;473826172;15299220;5115;0;10
+r;473582287;157541;5115;25;10
+r;468019885;15443330;5115;20;10
+r;467763704;15439982;5115;62;10
+r;445387333;1840983;5115;26;10
+r;442298864;15450738;5115;26;10
+r;442298711;15450739;5115;26;10
+r;442298558;15450740;5115;26;10
+r;442291610;15421168;5115;38;10
+r;442291352;15421169;5115;38;10
+r;442291094;15421170;5115;38;10
+r;436155407;15388372;5115;24;10
+r;436155054;15388373;5115;24;10
+r;436005556;15386082;5115;0;10
+r;435261662;15424371;5115;26;10
+r;432334127;15419882;5115;62;10
+r;432334126;15419882;5115;0;10
+r;432330423;15305240;5115;20;10
+r;432330343;15202636;5115;20;10
+r;432311058;83671;5115;62;10
+r;432285171;15420040;5115;26;10
+r;432285111;15420041;5115;26;10
+r;432284393;15420114;5115;30;10
+r;432195211;16366922;5115;62;10
+r;432195127;15455703;5115;62;10
+r;431294192;15058675;5115;0;10
+r;431222663;15430389;5115;26;10
+r;431023750;15749905;5115;20;10
+r;431023656;15749905;5115;0;10
+r;431023638;15652584;5115;20;10
+r;431023544;15652584;5115;0;10
+r;430881326;15069059;5115;26;10
+r;428364277;15389405;5115;62;10
+r;428364265;15389408;5115;62;10
+r;425805346;170409;5115;777;10
+r;425805345;69251;5115;777;10
+r;425805344;291003;5115;777;10
+r;419754913;15207751;5115;0;10
+r;419754901;15207753;5115;0;10
+r;418926449;318498;5115;26;10
+r;418465638;177308;5115;0;10
+r;418457749;130428;5115;0;10
+r;418456639;112578;5115;0;10
+r;418423204;43966;5115;0;10
+r;411967827;15091464;5115;30;10
+r;411967809;15091465;5115;30;10
+r;411967750;7485787;5115;30;10
+r;410164046;15783588;5115;62;10
+r;410135319;15296500;5115;62;10
+r;410135298;15381517;5115;62;10
+r;408935340;15047014;5115;38;10
+r;408585582;15060105;5115;26;10
+r;408584953;15224384;5115;26;10
+r;405726334;14921991;5115;25;10
+r;405726193;9115395;5115;0;10
+r;405726118;9115395;5115;25;10
+r;405541707;15700976;5115;0;10
+r;405541669;15333918;5115;0;10
+r;405306913;7042690;5115;0;10
+r;405306894;7042690;5115;6;10
+r;405244749;15202210;5115;0;10
+r;405162713;15207750;5115;0;10
+r;398562272;14932331;5115;25;10
+r;398531505;14967530;5115;30;10
+r;398239432;15284590;5115;0;10
+r;397788300;14966869;5115;62;10
+r;397675043;15525316;5115;26;10
+r;396323309;15227591;5115;26;10
+r;395830475;15062419;5115;26;10
+r;390880826;14939298;5115;25;10
+r;390880786;14939297;5115;25;10
+r;390871222;14959897;5115;26;10
+r;390176976;14928916;5115;26;10
+r;386040250;9491843;5115;777;10
+r;386040249;14884063;5115;777;10
+r;386040248;160946;5115;777;10
+r;474080846;308798;5115;777;10
+r;474080844;252382;5115;777;10
+r;370318007;14571828;5115;777;10
+r;369580900;14540489;5115;777;10
+r;369580899;14540488;5115;777;10
+r;369580898;5884111;5115;777;10
+r;369580897;10052456;5115;777;10
+r;353997564;13673;5115;777;10
+r;352121036;277838;5115;0;10
+r;352121021;277838;5115;6;10
+r;352120953;13985120;5115;6;10
+r;343582612;222089;5115;24;10
+r;313826088;58005;5115;777;10
+r;291779339;11374468;5115;777;10
+r;291779337;11374467;5115;777;10
+r;198483766;3762435;5115;26;10
+r;113616836;36327;5115;777;10
+r;110628602;5620477;5115;777;10
+r;83439872;3313930;5115;777;10
+r;61389511;2485499;5115;777;10
+r;17081222;365231;5115;777;10
+r;8914434;317155;5115;777;10
+r;8087380;213586;5115;777;10
+r;7551172;152747;5115;777;10
+r;5238229;46868;5115;777;10
+r;5238228;146764;5115;777;10
+r;4388628;55102;5115;777;10
+r;4388627;279319;5115;777;10
+r;3642621;115796;5115;777;10
+r;3595193;189992;5115;777;10
+r;3595191;191777;5115;777;10
+r;477719084;17491675;5115;0;9
+r;419802035;15207756;5115;0;9
+r;263403971;10576774;5115;0;9
+r;53275916;2399548;5115;0;9
+r;8795584;57512;5115;26;9
+r;434539608;224574;5115;0;8
+r;53777809;61892;5115;0;8
+r;52526033;2495264;5115;0;8
+r;478259334;17538788;5115;0;6
+r;419259310;15761861;5115;0;6
+r;53711647;107216;5115;0;6
+r;478025565;17516299;5115;0;5
+r;478025548;17516298;5115;24;5
+r;478025547;17516298;5115;0;5
+r;478025530;17516297;5115;6;5
+r;441896449;2373144;5115;30;5
+r;441896374;2502511;5115;30;5
+r;441896105;148821;5115;30;5
+r;441889930;1927209;5115;30;5
+r;427912534;16168838;5115;0;5
+r;427912521;16168843;5115;0;5
+r;427912514;16168848;5115;0;5
+r;427912499;16168854;5115;0;5
+r;427912490;16168858;5115;0;5
+r;427912488;16168869;5115;0;5
+r;427848265;16184162;5115;0;5
+r;338964130;6805589;5115;24;5
+r;97384759;226950;5115;6;5
+r;477495451;17493107;5115;0;5
+r;477495404;17493105;5115;0;5
+r;477495427;17493106;5115;0;5
+r;478485290;17551939;5115;0;4
+r;97721321;126875;5115;6;4
+r;453386810;239835;5115;0;3
+r;440081161;224643;5115;0;3
+r;438788182;47740;5115;0;3
+r;420067316;14326654;5115;0;3
+r;97721324;257879;5115;6;3
+r;97721323;227884;5115;6;3
+r;97721322;80010;5115;6;3
+r;97721320;259970;5115;6;3
+r;34570341;28453;5115;115;3
+r;370072200;14400709;5115;0;2
+r;370071839;14400717;5115;0;2
+r;369957006;14559846;5115;0;2
+r;369891756;14557767;5115;0;2
+r;368471233;14510641;5115;0;2
+r;97721327;79364;5115;6;2
+r;97721325;11882;5115;6;2
+r;82226622;185352;5115;5;2
+r;71845634;25484;5115;26;2
+r;1662561;116175;5115;666;2
+r;1526743;119686;5115;666;2
+r;453496425;223439;5115;0;1
+r;443511272;16848231;5115;0;1
+r;441986829;3358287;5115;0;1
+r;440989535;3289803;5115;0;1
+r;440083473;2558216;5115;0;1
+r;440030837;2549683;5115;0;1
+r;439756006;2532188;5115;0;1
+r;439639021;2513738;5115;0;1
+r;438935768;2485548;5115;0;1
+r;438884692;2475800;5115;0;1
+r;438003017;2434249;5115;0;1
+r;435540488;16559441;5115;0;1
+r;435540424;16559463;5115;0;1
+r;435540415;16559471;5115;0;1
+r;435540392;16559473;5115;0;1
+r;435540377;16559475;5115;0;1
+r;435540362;16559477;5115;0;1
+r;435540330;16559482;5115;0;1
+r;435540304;16559487;5115;0;1
+r;435540053;16559568;5115;0;1
+r;431841154;232267;5115;0;1
+r;429057473;177220;5115;0;1
+r;428884133;95126;5115;666;1
+r;428879424;162336;5115;0;1
+r;428864983;155489;5115;0;1
+r;428824318;147956;5115;0;1
+r;428557797;125369;5115;0;1
+r;428525994;124275;5115;0;1
+r;428484941;28530;5115;0;1
+r;427285706;82986;5115;0;1
+r;426881647;71097;5115;0;1
+r;425080961;47021;5115;0;1
+r;423997471;127629;5115;0;1
+r;423993885;37086;5115;0;1
+r;423912014;35130;5115;0;1
+r;423897666;33907;5115;0;1
+r;423896298;33762;5115;0;1
+r;423824563;26048;5115;0;1
+r;423620282;15436;5115;0;1
+r;423340985;6770;5115;0;1
+r;423300945;5801;5115;0;1
+r;423253435;5061;5115;0;1
+r;423248182;4934;5115;0;1
+r;423002440;2693;5115;0;1
+r;422883057;2007;5115;0;1
+r;421761201;22138;5115;0;1
+r;421604306;23154;5115;0;1
+r;439714034;2523521;5115;0;1
+r;423476491;10804;5115;0;1
+r;364971402;140777;5115;25;1
+r;350194709;13855050;5115;0;1
+r;361286790;14231824;5115;0;1
+r;361286200;14231825;5115;0;1
+r;97733177;24085;5115;6;1
+r;97733175;84160;5115;6;1
+r;476985505;5827460;5115;0;1
+r;34570340;102345;5115;115;1
+r;10728591;152157;5115;38;1
+r;10717737;171804;5115;26;1
+r;2270706;82595;5115;666;1
+r;1787668;2424;5115;666;1
+r;1786068;62524;5115;666;1
+r;1768369;7149;5115;666;1
+r;1762447;57253;5115;666;1
+r;1761437;228771;5115;666;1
+r;1672530;112355;5115;666;1
+r;1671425;177220;5115;666;1
+r;1526953;59151;5115;666;1
+r;1471434;67525;5115;666;1
+r;3219893;141110;5115;30;0
+r;343083823;1737449;5115;6;-5
+r;8801231;60863;5115;25;-5
+r;8791596;143548;5115;25;-5
+r;4964546;161812;5115;25;-5
+r;8221805;106474;5115;26;-12
+r;72773967;152015;5115;30;-25
+r;72773962;45219;5115;25;-25
+r;85757868;115506;5115;5;-26
+r;85335245;28105;5115;5;-27
+r;85798566;418447;5115;5;-28
+r;85798348;64557;5115;5;-30
+r;53699830;107216;5115;5;-50
+r;53623738;38519;5115;5;-50
+r;53611204;2499;5115;5;-50
+r;53604844;141899;5115;5;-50
+r;53602668;47896;5115;5;-50
+r;53589553;51775;5115;5;-50
+r;53586409;67515;5115;5;-50
+r;53550207;61892;5115;5;-50
+r;259909;575;5115;30;-60
+r;575665;117177;5115;5;-77
+
+// END
+</code>]

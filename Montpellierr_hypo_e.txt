@@ -1,0 +1,30 @@
+[<code>
+// DUMP pour le terme 'Montpellier' (eid=124100)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Montpellier ? prononcé [m??.pø.lje] ou [m??.p?.lje] ? (Montpelhièr en occitan) est une commune française, préfecture du département de l'Hérault. Capitale de l'ancienne région administrative Languedoc-Roussillon, elle est le centre d'une métropole et un pôle d'équilibre de la région Occitanie, où se déroulent les assemblées plénières. Montpellier se situe dans le Sud de la France, sur un grand axe de communication joignant l'Espagne à l'ouest, à l'Italie à l'est. Proche de la mer Méditerranée (7,1 km), cette ville a comme voisines Béziers à 69 km au sud-ouest et Nîmes à 52 km au nord-est.<br>
+2. Montpellier ? prononcé [m??.pø.lje] ou [m??.p?.lje] ? est une commune française et la préfecture du département de l'Hérault ; elle est le centre d'une métropole. Montpellier se situe dans la région historique du Languedoc, sur un grand axe de communication joignant l'Espagne à l'ouest, à l'Italie à l'est. Proche de la mer Méditerranée (11,1 km), la ville a comme voisines Béziers à 69 km au sud-ouest et Nîmes à 52 km au nord-est.<br>
+3. Montpellier ? prononcé [m??.pø.lje] ou [m??.p?.lje] ? (en Occitan : Montpelhièr [mumpe???]) est une commune française et la préfecture du département de l'Hérault ; elle est le centre d'une métropole. Montpellier se situe dans la région historique du Languedoc, sur un grand axe de communication joignant l'Espagne à l'ouest, à l'Italie à l'est. Proche de la mer Méditerranée (11,1 km), la ville a comme voisines Béziers à 69 km au sud-ouest et Nîmes à 52 km au nord-est.
+</br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;124100;'Montpellier';1;2884
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 0 relations sortantes 
+
+
+// END
+</code>]

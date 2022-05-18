@@ -1,0 +1,219 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "4": {
+            "ntname": "'n_pos'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        }
+    },
+    "e": {
+        "16319092": {
+            "name": "'apporter \u00e0 boire'",
+            "type": "1",
+            "w": "0"
+        },
+        "16319093": {
+            "name": "'::&gt;13:16059&gt;29:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'apporter \u00e0 boire [sujet] serveuse'"
+        },
+        "16059": {
+            "name": "'serveuse'",
+            "type": "1",
+            "w": "396"
+        },
+        "159891": {
+            "name": "'h\u00f4tesse de l'air'",
+            "type": "1",
+            "w": "142"
+        },
+        "16319094": {
+            "name": "'::&gt;66:16059&gt;24:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'serveuse [peut] apporter \u00e0 boire'"
+        },
+        "47918": {
+            "name": "'boire'",
+            "type": "1",
+            "w": "4568"
+        },
+        "14724461": {
+            "name": "'apporter \u00e0'",
+            "type": "1",
+            "w": "0"
+        },
+        "49739": {
+            "name": "'apporter'",
+            "type": "1",
+            "w": "1730"
+        },
+        "17459765": {
+            "name": "'::&gt;66:159891&gt;24:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'h\u00f4tesse de l'air [peut] apporter \u00e0 boire'"
+        },
+        "7437597": {
+            "name": "'en:server'",
+            "type": "1",
+            "w": "0"
+        },
+        "15209341": {
+            "name": "'machine r\u00e9seau'",
+            "type": "1",
+            "w": "0"
+        },
+        "17459764": {
+            "name": "'::&gt;13:159891&gt;29:16319092'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'apporter \u00e0 boire [sujet] h\u00f4tesse de l'air'"
+        },
+        "212235": {
+            "name": "'Ver:'",
+            "type": "4",
+            "w": "50"
+        },
+        "146882": {
+            "name": "'Ver:Inf'",
+            "type": "4",
+            "w": "50"
+        },
+        "11130959": {
+            "name": "'servir des clients'",
+            "type": "1",
+            "w": "0"
+        }
+    },
+    "r": {
+        "431492677": {
+            "node1": "16319092",
+            "node2": "16319093",
+            "type": "29",
+            "w": "100"
+        },
+        "428892058": {
+            "node1": "16319092",
+            "node2": "16059",
+            "type": "13",
+            "w": "69"
+        },
+        "476878954": {
+            "node1": "16319092",
+            "node2": "159891",
+            "type": "13",
+            "w": "51"
+        },
+        "471844282": {
+            "node1": "16319092",
+            "node2": "16319094",
+            "type": "13",
+            "w": "45"
+        },
+        "434371421": {
+            "node1": "16319092",
+            "node2": "47918",
+            "type": "0",
+            "w": "41"
+        },
+        "434371419": {
+            "node1": "16319092",
+            "node2": "14724461",
+            "type": "0",
+            "w": "41"
+        },
+        "434371417": {
+            "node1": "16319092",
+            "node2": "49739",
+            "type": "0",
+            "w": "41"
+        },
+        "476943129": {
+            "node1": "16319092",
+            "node2": "17459765",
+            "type": "13",
+            "w": "30"
+        },
+        "471818247": {
+            "node1": "16319092",
+            "node2": "7437597",
+            "type": "13",
+            "w": "27"
+        },
+        "471795381": {
+            "node1": "16319092",
+            "node2": "15209341",
+            "type": "13",
+            "w": "27"
+        },
+        "476943130": {
+            "node1": "16319092",
+            "node2": "17459764",
+            "type": "29",
+            "w": "26"
+        },
+        "428892259": {
+            "node1": "16319092",
+            "node2": "16059",
+            "type": "0",
+            "w": "25"
+        },
+        "428892062": {
+            "node1": "16319092",
+            "node2": "212235",
+            "type": "4",
+            "w": "25"
+        },
+        "428892060": {
+            "node1": "16319092",
+            "node2": "146882",
+            "type": "4",
+            "w": "25"
+        },
+        "479567609": {
+            "node1": "16319092",
+            "node2": "11130959",
+            "type": "42",
+            "w": "25"
+        },
+        "476878955": {
+            "node1": "16319092",
+            "node2": "159891",
+            "type": "0",
+            "w": "25"
+        }
+    },
+    "rt": {
+        "0": {
+            "trname": "'r_associated'",
+            "trgpname": "'id\u00e9e associ\u00e9e'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer les termes les plus \u00e9troitement associ\u00e9s au mot cible... Ce mot vous fait penser \u00e0 quoi ?"
+        },
+        "4": {
+            "trname": "'r_pos'",
+            "trgpname": "'POS'",
+            "rthelp": "Partie du discours (Nom, Verbe, Adjectif, Adverbe, etc.)"
+        },
+        "13": {
+            "trname": "'r_agent'",
+            "trgpname": "'action&gt;agent'",
+            "rthelp": "L'agent (qu'on appelle aussi le sujet) est l'entit\u00e9 qui effectue l'action, OU la subit pour des formes passives ou des verbes d'\u00e9tat. Par exemple, dans - Le chat mange la souris -, l'agent est le chat. Des agents typiques de 'courir' peuvent \u00eatre 'sportif', 'enfant',... (manger r_agent chat)"
+        },
+        "29": {
+            "trname": "'r_chunk_pred'",
+            "trgpname": "'predicat'",
+            "rthelp": "(interne) d'un pr\u00e9dicat quel chunk ?"
+        },
+        "42": {
+            "trname": "'r_causatif'",
+            "trgpname": "'cause'",
+            "rthelp": "B (que vous devez donner) est une CAUSE possible de A. A et B sont des verbes ou des noms.  Exemples : se blesser -&gt"
+        }
+    }
+}

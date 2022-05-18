@@ -1,0 +1,63 @@
+[<code>
+// DUMP pour le terme 'pain' (eid=61283)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+Le pain est l'aliment de base traditionnel de nombreuses cultures. Il est fabriqué à partir de farine et d'eau et contient généralement du sel. D'autres ingrédients s'ajoutent selon le type de pain et la manière dont il est préparé culturellement. Lorsqu'on ajoute le levain ou la levure, la pâte du pain est soumise à un gonflement dû à la fermentation.
+</br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;61283;'pain';1;3616
+e;37905;'mie';1;270
+e;41851;'croûte';1;230
+e;73508;'quignon';1;76
+e;90637;'croûton';1;90
+e;143123;'tranche';1;618
+e;115865;'trou';1;2665
+e;241367;'mie&gt;61283';1;12;'mie&gt;pain'
+e;19041;'gluten';1;92
+e;216653;'croûte&gt;61283';1;10;'croûte&gt;pain'
+e;233047;'mie de pain';1;16
+e;152157;'croute';1;68
+e;7288130;'en:breadcrumbs';1;0
+e;34069;'pâte';1;2905
+e;229423;'croûte de pain';1;6
+e;127629;'farine';1;2130
+e;15420020;'en:bread crumb';1;0
+e;139779;'ADN';1;1254
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;9;'r_has_part';'partie';Il faut donner des PARTIES/constituants/éléments (a pour méronymes) du mot cible. Par exemple, 'voiture' a comme parties : 'porte', 'roue', 'moteur', ...
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 17 relations sortantes 
+
+r;416745;61283;37905;9;155
+r;416748;61283;41851;9;143
+r;416742;61283;73508;9;131
+r;1827499;61283;90637;9;89
+r;1908531;61283;143123;9;70
+r;1908530;61283;115865;9;70
+r;2024560;61283;241367;9;40
+r;9973104;61283;19041;9;37
+r;2024559;61283;216653;9;32
+r;96715948;61283;233047;9;30
+r;96715911;61283;152157;9;27
+r;397060662;61283;7288130;9;25
+r;10534181;61283;34069;9;10
+r;10530776;61283;229423;9;10
+r;2350628;61283;127629;9;5
+r;436518839;61283;15420020;9;2
+r;8792367;61283;139779;9;-5
+
+// END
+</code>]

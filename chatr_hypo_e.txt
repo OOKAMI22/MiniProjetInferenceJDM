@@ -1,0 +1,1478 @@
+[<code>
+// DUMP pour le terme 'chat' (eid=150)
+
+<def>
+<br>
+Le Chat domestique (Felis silvestris catus) est la sous-espèce issue de la domestication du Chat sauvage, mammifère carnivore de la famille des Félidés.
+</br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+nt;666;'n_AKI'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;150;'chat';1;5437
+e;143206;'tigré';1;222
+e;68822;'gouttière';1;150
+e;141168;'domestique';1;1569
+e;4455;'chien';1;5715
+e;142832;'souris';1;2549
+e;50889;'gris';1;2604
+e;116032;'félin';1;2304
+e;181472;'chat perché';1;10
+e;2360117;'chat-bite';1;0
+e;5498322;'chat en poche&gt;146889';1;0;'chat en poche&gt;Adv:'
+e;2425150;'chat bite';1;0
+e;269371;'chat musqué';1;50
+e;216120;'recette de cuisine';1;140
+e;12090294;'(chat (squames)+cheval (squames)+chien (squames)+vache (squames)) ac ige classification rast';1;0
+e;12090296;'(chat (squames)+chien (squames)+cobaye (épithélium)+souris+rat) ac ige classification rast';1;0
+e;12109614;'chat rfel d4 (recombinant) ag';1;0
+e;12109613;'chat rfel d1 (recombinant) ag';1;0
+e;12109612;'chat (squames) nfel d1 (natif) ag';1;0
+e;12109611;'chat (squames) ag';1;0
+e;12109252;'(chat (squames)+chien (squames)+cobaye (épithélium)+souris+rat) ag';1;0
+e;12109251;'(chat (squames)+cheval (squames)+chien (squames)+vache (squames)) ag';1;0
+e;12092963;'chat rfel d4 (recombinant) ac ige classification rast';1;0
+e;12092961;'chat rfel d1 (recombinant) ac ige classification rast';1;0
+e;12092958;'chat (squames) libération des leucotriènes';1;0
+e;12092957;'chat (squames) activation des basophiles';1;0
+e;12092956;'chat (squames) ac igg4';1;0
+e;12092955;'chat (squames) ac igg';1;0
+e;12092954;'chat (squames) ac ige classification rast';1;0
+e;12092952;'chat (albumine sérique) ac ige classification rast';1;0
+e;12202218;'(chat (squames)+chien (squames)+cobaye (épithélium)+souris+rat)';1;0
+e;12202186;'chat rfel d1 (recombinant)';1;0
+e;12202085;'chat (squames) nfel d1 (natif)';1;0
+e;12202084;'chat rfel d4 (recombinant)';1;0
+e;12202029;'(chat (squames)+cheval (squames)+chien (squames)+vache (squames))';1;0
+e;12201518;'chat (squames)';1;0
+e;137333;'tigre';1;1484
+e;168166;'chat de mer';1;50
+e;231575;'chat-château';1;50
+e;2434197;'american wire-hair';1;0
+e;14386626;'::&gt;66:150&gt;26:50739';8;0;'chat [se faire] caresser'
+e;14445996;'::&gt;66:150&gt;24:14445994';8;0;'chat [peut] déféquer [endroit] caisse'
+e;14718817;'::&gt;66:150&gt;24:14718815';8;0;'chat [peut] pisser [endroit] paillasson'
+e;14726240;'::&gt;66:150&gt;24:14354949';8;0;'chat [peut] dormir [endroit] lit'
+e;14386630;'::&gt;66:150&gt;26:64325';8;0;'chat [se faire] aimer'
+e;14467280;'::&gt;66:150&gt;24:14467278';8;0;'chat [peut] se faire [endroit] tronc'
+e;15189994;'Souricier en chef du Cabinet';777;0
+e;15629133;'::&gt;66:150&gt;24:15629131';8;0;'chat [peut] observer [objet] allées et venues'
+e;15662942;'Tifil';777;0
+e;15662943;'Tiberth';777;0
+e;16170426;'::&gt;66:150&gt;24:14300958';8;0;'chat [peut] perdre ses poils'
+e;16169090;'::&gt;66:150&gt;24:16169088';8;0;'chat [peut] squatter [objet] siège'
+e;16169031;'::&gt;66:150&gt;24:16169029';8;0;'chat [peut] faire caca [endroit] jardin'
+e;16153022;'::&gt;66:150&gt;24:327614';8;0;'chat [peut] manger [objet] viande'
+e;16153024;'::&gt;66:150&gt;24:155861';8;0;'chat [peut] manger de la viande'
+e;16323835;'::&gt;66:150&gt;24:16323833';8;0;'chat [peut] occuper [objet] siège'
+e;16321861;'::&gt;66:150&gt;24:16321859';8;0;'chat [peut] manger [objet] croquette'
+e;16321816;'::&gt;66:150&gt;24:4388851';8;0;'chat [peut] voler [objet] nourriture'
+e;16321818;'::&gt;66:150&gt;24:4388850';8;0;'chat [peut] voler de la nourriture'
+e;16318571;'::&gt;66:150&gt;24:16318569';8;0;'chat [peut] rentrer par la fenêtre'
+e;16318545;'::&gt;66:150&gt;26:39895';8;0;'chat [se faire] poursuivre'
+e;16317911;'::&gt;66:150&gt;24:16317909';8;0;'chat [peut] passer par [objet] chatière'
+e;15192364;'en:ordinary cat';1;0
+e;15205227;'en:fat cat';1;0
+e;16324560;'::&gt;66:150&gt;24:16324558';8;0;'chat [peut] grimper à [objet] arbre'
+e;16324563;'::&gt;66:150&gt;24:16324561';8;0;'chat [peut] grimper à un arbre'
+e;16324577;'::&gt;66:150&gt;24:16324575';8;0;'chat [peut] se faire [endroit] souche'
+e;16324574;'::&gt;66:150&gt;24:16324572';8;0;'chat [peut] se faire les griffes [endroit] tronc'
+e;16324582;'::&gt;66:150&gt;24:16324580';8;0;'chat [peut] se faire les griffes [endroit] souche'
+e;16324578;'::&gt;66:14467281&gt;15:104204';8;0;'chat [peut] se faire [objet] griffes [lieu] souche'
+e;14355275;'::&gt;66:150&gt;24:140993';8;0;'chat [peut] s'installer'
+e;14355278;'::&gt;66:150&gt;24:14355276';8;0;'chat [peut] s'installer [endroit] genoux'
+e;14386394;'::&gt;66:150&gt;24:43253';8;0;'chat [peut] dormir'
+e;14941639;'en:havana brown';1;0
+e;14962310;'en:donskoy';1;0
+e;15187936;'::&gt;66:150&gt;24:15187934';8;0;'chat [peut] pisser [endroit] plantes'
+e;5809173;'Chief Mouser to the Cabinet Office';777;0
+e;16310954;'::&gt;66:150&gt;24:61794';8;0;'chat [peut] se promener'
+e;16310955;'::&gt;66:150&gt;24:14472976';8;0;'chat [peut] se promener [endroit] jardin'
+e;16308244;'::&gt;66:150&gt;24:16308242';8;0;'chat [peut] faire ses griffes [endroit] canapé'
+e;16308241;'::&gt;66:150&gt;24:163297';8;0;'chat [peut] faire ses griffes'
+e;16308164;'::&gt;66:150&gt;24:16308162';8;0;'chat [peut] se frotter contre [objet] meuble'
+e;15192363;'en:online chat';1;0
+e;14327137;'::&gt;66:150&gt;24:119520';8;0;'chat [peut] chier'
+e;14759724;'::&gt;66:150&gt;26:130164';8;0;'chat [se faire] manger'
+e;14925212;'en:highlander';1;0
+e;14965202;'en:ragamuffin';1;0
+e;16175244;'::&gt;66:150&gt;24:139709';8;0;'chat [peut] s'envoler'
+e;16169087;'::&gt;66:150&gt;24:6735';8;0;'chat [peut] squatter'
+e;16323832;'::&gt;66:150&gt;24:18886';8;0;'chat [peut] occuper'
+e;16317908;'::&gt;66:150&gt;24:62859';8;0;'chat [peut] passer par'
+e;16324566;'::&gt;66:150&gt;24:16324564';8;0;'chat [peut] se faire [endroit] arbre'
+e;16324557;'::&gt;66:150&gt;24:15223421';8;0;'chat [peut] grimper à'
+e;16324571;'::&gt;66:150&gt;24:16324569';8;0;'chat [peut] se faire les griffes [endroit] arbre'
+e;14445993;'::&gt;66:150&gt;24:53455';8;0;'chat [peut] déféquer'
+e;14925213;'en:British shorthair';1;0
+e;14925211;'en:British longhair';1;0
+e;15587228;'::&gt;66:150&gt;24:15587226';8;0;'chat [peut] vouloir se faire caresser'
+e;16308161;'::&gt;66:150&gt;24:15483976';8;0;'chat [peut] se frotter contre'
+e;14924095;'en:Burmese';1;0
+e;7355584;'en:burmese cat';1;0
+e;16096053;'::&gt;66:150&gt;24:8751138';8;0;'chat [peut] manger des croquettes'
+e;14536513;'::&gt;66:150&gt;24:14536511';8;0;'chat [peut] se cacher sous un lit'
+e;15195026;'en:Puss in Boots';1;0
+e;15367819;'en:bay cat';1;0
+e;15195027;'en:Siamese cat';1;0
+e;16035610;'chat féral';1;0
+e;15195024;'chat propre';1;0
+e;15567302;'chat retombe toujours sur ses pattes';1;0
+e;15192356;'chat roux';1;0
+e;15910091;'chat sauvage&gt;175542';1;0;'chat sauvage&gt;Felis silvestris'
+e;15910092;'chat sauvage&gt;234910';1;0;'chat sauvage&gt;chat haret'
+e;16264096;'::&gt;66:150&gt;24:326810';8;0;'chat [peut] griffer [objet] bras'
+e;16086860;'::&gt;66:150&gt;24:15013309';8;0;'chat [peut] manger [objet] pâtée pour chat'
+e;14759608;'::&gt;66:150&gt;24:55001';8;0;'chat [peut] ronronner'
+e;14759544;'::&gt;66:150&gt;24:73827';8;0;'chat [peut] voler'
+e;7355612;'en:siamese cat';1;0
+e;15331525;'en:puss in boots';1;0
+e;16076380;'::&gt;66:150&gt;24:20264';8;0;'chat [peut] faire sa toilette'
+e;16065933;'::&gt;66:150&gt;24:16065931';8;0;'chat [peut] perdre [objet] poils'
+e;16065935;'::&gt;66:150&gt;24:9967389';8;0;'chat [peut] perdre des poils'
+e;15941840;'::&gt;66:150&gt;24:15941837';8;0;'chat [peut] laper [objet] lait'
+e;15983712;'::&gt;66:150&gt;24:4313527';8;0;'chat [peut] boire du lait'
+e;15192362;'chat en ligne';1;0
+e;5892418;'Prionailurus planiceps';777;0
+e;14326970;'::&gt;66:150&gt;24:14326968';8;0;'chat [peut] se lécher [objet] cul'
+e;14327142;'::&gt;66:150&gt;24:116746';8;0;'chat [peut] vomir'
+e;14327145;'::&gt;66:150&gt;24:14327143';8;0;'chat [peut] vomir [endroit] tapis'
+e;230205;'IRC';666;50
+e;15941820;'::&gt;66:150&gt;24:123094';8;0;'chat [peut] laper'
+e;16065930;'::&gt;66:150&gt;24:23654';8;0;'chat [peut] perdre'
+e;16065879;'::&gt;66:150&gt;24:56751';8;0;'chat [peut] se mettre en boule'
+e;15076353;'en:safari';1;0
+e;15407112;'Chat ganté';777;0
+e;3322289;'ragdoll&gt;150';1;0;'ragdoll&gt;chat'
+e;12694696;'Chat des sables';777;0
+e;6318764;'chat domestique à poil court';1;0
+e;6303333;'chat abyssin';1;0
+e;6318031;'chat mau égyptien';1;0
+e;6303022;'chat bombay';1;0
+e;6322297;'chat scottish fold';1;0
+e;6321820;'chat manx à poil long';1;0
+e;6319242;'chat américain à poil dur';1;0
+e;14573357;'::&gt;66:150&gt;24:14573355';8;0;'chat [peut] pisser [endroit] canapé'
+e;14581597;'::&gt;66:150&gt;24:14581595';8;0;'chat [peut] chasser [objet] petits animaux'
+e;14581542;'::&gt;66:150&gt;24:14581540';8;0;'chat [peut] dormir [endroit] canapé'
+e;6311423;'chat tonkinois';1;0
+e;6300940;'chat balinais';1;0
+e;13638029;'::&gt;66:150&gt;17:22262';8;0;'chat [carac] solitaire'
+e;14539946;'::&gt;66:150&gt;24:14113685';8;0;'chat [peut] se prélasser au soleil'
+e;14581544;'::&gt;66:150&gt;24:160597';8;0;'chat [peut] dormir sur le canapé'
+e;10775783;'chat malade';1;0
+e;6290417;'chat brun de havane';1;0
+e;13638031;'::&gt;66:150&gt;17:9903';8;0;'chat [carac] galeux'
+e;14561179;'::&gt;66:150&gt;24:14561177';8;0;'chat [peut] faire caca [endroit] caisse'
+e;14561129;'::&gt;66:150&gt;24:14561127';8;0;'chat [peut] se lécher [objet] patte'
+e;12077790;'chat de l'île de Man';1;0
+e;15044063;'en:Manx cat';1;0
+e;15044062;'en:manx cat';1;0
+e;6296764;'chat angora turc';1;0
+e;6295381;'chat malais';1;0
+e;14561176;'::&gt;66:150&gt;24:129502';8;0;'chat [peut] faire caca'
+e;16608612;'::&gt;66:150&gt;24:16608610';8;0;'chat [peut] manger des croquettes [endroit] cuisine'
+e;17450489;'::&gt;66:14467281&gt;15:154094';8;0;'chat [peut] se faire [objet] griffes [lieu] tronc d'arbre'
+e;17450488;'::&gt;66:150&gt;24:17450486';8;0;'chat [peut] se faire [endroit] tronc d'arbre'
+e;16324567;'::&gt;66:14467281&gt;15:52255';8;0;'chat [peut] se faire [objet] griffes [lieu] arbre'
+e;16596616;'::&gt;66:150&gt;26:78823';8;0;'chat [se faire] flatter'
+e;16596766;'::&gt;66:150&gt;26:34284';8;0;'chat [se faire] brosser'
+e;16717054;'::&gt;66:150&gt;24:35427';8;0;'chat [peut] se prélasser'
+e;17398509;'::&gt;66:150&gt;24:17398507';8;0;'chat [peut] attraper [objet] rongeur'
+e;15415424;'chat européen';1;0
+e;16574746;'::&gt;66:150&gt;24:16574744';8;0;'chat [peut] croquer [objet] poussin'
+e;16794491;'::&gt;66:150&gt;24:16794489';8;0;'chat [peut] aimer [objet] croquettes'
+e;16596602;'::&gt;66:150&gt;24:16596600';8;0;'chat [peut] pisser [endroit] siège'
+e;16596585;'::&gt;66:150&gt;24:16596583';8;0;'chat [peut] attaquer [objet] souris'
+e;16596606;'::&gt;66:16596605&gt;15:139575';8;0;'chat [peut] attraper [objet] mulots [lieu] jardin'
+e;15629130;'::&gt;66:150&gt;24:139386';8;0;'chat [peut] observer'
+e;15625013;'::&gt;66:150&gt;24:2642';8;0;'chat [peut] péter'
+e;16591420;'::&gt;66:150&gt;26:52004';8;0;'chat [se faire] écraser'
+e;16596072;'::&gt;66:150&gt;26:24646';8;0;'chat [se faire] attraper'
+e;16597682;'::&gt;66:150&gt;24:16597680';8;0;'chat [peut] se lécher [objet] queue'
+e;16596594;'::&gt;66:150&gt;24:16596592';8;0;'chat [peut] s'installer [endroit] siège'
+e;16794494;'::&gt;66:150&gt;24:16794385';8;0;'chat [peut] adorer [objet] croquettes'
+e;17398513;'::&gt;66:150&gt;24:14365488';8;0;'chat [peut] attraper [objet] proie'
+e;17398515;'::&gt;66:150&gt;24:11057780';8;0;'chat [peut] attraper une proie'
+e;16596201;'::&gt;66:150&gt;24:16596199';8;0;'chat [peut] croquer [objet] souris&gt;rongeur'
+e;16596206;'::&gt;66:150&gt;24:16596204';8;0;'chat [peut] avaler [objet] souris&gt;rongeur'
+e;17450485;'::&gt;66:150&gt;24:17450483';8;0;'chat [peut] se faire les griffes [endroit] tapis'
+e;17450481;'::&gt;66:14467281&gt;15:81046';8;0;'chat [peut] se faire [objet] griffes [lieu] tapis'
+e;17450480;'::&gt;66:150&gt;24:17450478';8;0;'chat [peut] se faire [endroit] tapis'
+e;17450475;'::&gt;66:150&gt;24:17450473';8;0;'chat [peut] se faire les griffes [endroit] meuble'
+e;16596612;'::&gt;66:16596611&gt;15:139575';8;0;'chat [peut] attraper [objet] oiseau [lieu] jardin'
+e;17109790;'::&gt;66:150&gt;24:270315';8;0;'chat [peut] faire un câlin'
+e;17450471;'::&gt;66:14467281&gt;15:36899';8;0;'chat [peut] se faire [objet] griffes [lieu] meuble'
+e;17450470;'::&gt;66:150&gt;24:17450468';8;0;'chat [peut] se faire [endroit] meuble'
+e;17450493;'::&gt;66:150&gt;24:17450491';8;0;'chat [peut] se faire les griffes [endroit] tronc d'arbre'
+e;17178257;'::&gt;66:150&gt;24:79364';8;0;'chat [peut] sauter'
+e;17178259;'::&gt;66:150&gt;24:62933';8;0;'chat [peut] bondir'
+e;17178271;'::&gt;66:150&gt;24:33082';8;0;'chat [peut] crier'
+e;17178245;'::&gt;66:150&gt;24:54764';8;0;'chat [peut] grogner'
+e;17178247;'::&gt;66:150&gt;24:138923';8;0;'chat [peut] râler'
+e;16794379;'::&gt;66:150&gt;24:16794377';8;0;'chat [peut] raffoler [objet] croquettes'
+e;17178250;'::&gt;66:150&gt;24:154604';8;0;'chat [peut] faire du bruit'
+e;17464466;'::&gt;66:150&gt;24:17464464';8;0;'chat [peut] dormir [endroit] coussin'
+e;17178253;'::&gt;66:150&gt;24:1649873';8;0;'chat [peut] courir partout'
+e;16341493;'::&gt;66:150&gt;24:32550';8;0;'chat [peut] respirer'
+e;17347993;'::&gt;66:150&gt;24:92304';8;0;'chat [peut] grimper'
+e;17347996;'::&gt;66:150&gt;24:17347994';8;0;'chat [peut] grimper [endroit] sapin'
+e;16717055;'::&gt;66:150&gt;24:14331368';8;0;'chat [peut] se prélasser [endroit] lit'
+e;17492848;'::&gt;66:14777444&gt;15:120416';8;0;'chat [peut] chasser [objet] souris [lieu] grenier'
+e;16608607;'::&gt;66:150&gt;24:14465363';8;0;'chat [peut] manger [endroit] cuisine'
+e;16596197;'::&gt;66:150&gt;24:16596195';8;0;'chat [peut] attraper [objet] souris&gt;rongeur'
+e;16608608;'::&gt;66:16096051&gt;15:16033';8;0;'chat [peut] manger [objet] croquettes [lieu] cuisine'
+e;2510198;'persan chinchilla';1;0
+e;181474;'chat-parde';1;50
+e;98263;'haret';1;102
+e;120325;'miaou';1;216
+e;2431871;'puhu';1;0
+e;51393;'margay';1;54
+e;2457337;'rex de Cornouailles';1;0
+e;215207;'sphynx&gt;145670';1;50;'sphynx&gt;sphinx'
+e;65596;'mistigri';1;62
+e;2487798;'miron';1;0
+e;2424202;'américain à poils courts';1;0
+e;13562;'maraud';1;66
+e;212540;'Chat botté';666;50
+e;2417865;'rex devon';1;0
+e;2621672;'mandragot';777;0
+e;2521085;'catrole';1;0
+e;2840192;'chinchilla&gt;150';1;0;'chinchilla&gt;chat'
+e;2471583;'silver shaded';1;0
+e;39377;'minette';1;144
+e;127070;'chinchilla';1;78
+e;2936983;'Chat des pampas';777;0
+e;1804368;'Chat léopard du Bengale';777;0
+e;2419719;'chat-rochier';1;0
+e;2408373;'chat-léopard du Bengale';1;0
+e;289908;'Caracal aurata';777;50
+e;289909;'Profelis aurata';777;50
+e;3301365;'Azraël&gt;150';1;2;'Azraël&gt;chat'
+e;5558161;'Wilberforce';1;0
+e;5809085;'Madchat';777;0
+e;5809343;'Orangey';777;0
+e;5809334;'hyperdactyle';777;0
+e;5809144;'Mrs. Chippy';777;0
+e;5809568;'Unsinkable Sam';777;0
+e;5809366;'Capalu';777;0
+e;5809368;'Cath Paluc';777;0
+e;5809369;'Cath Palug';777;0
+e;5809370;'Cath Balug';777;0
+e;5809367;'Capalus';777;0
+e;5892569;'Chat sauvage de Gordon';777;0
+e;5809567;'Sam l'insubmersible';777;0
+e;5892422;'Chat doré de Bornéo';777;0
+e;5892421;'Chat bai';777;0
+e;2923052;'Chat viverrin';777;0
+e;5498321;'chat en poche&gt;171870';1;0;'chat en poche&gt;Nom:'
+e;2955300;'Chat Diard';777;0
+e;5056347;'Chat de Biet';777;0
+e;145670;'sphinx';1;162
+e;2682450;'sphinx&gt;150';1;0;'sphinx&gt;chat'
+e;10427054;'::&gt;66:150&gt;17:143206';8;0;'chat [carac] tigré'
+e;10427005;'::&gt;66:150&gt;17:64238';8;0;'chat [carac] noir'
+e;17398512;'::&gt;66:150&gt;24:17398510';8;0;'chat [peut] griffer [objet] canapé'
+e;11360888;'Chat du désert';777;0
+e;291410;'chat Diard';777;50
+e;6373131;'chat américain à poil court';1;0
+e;6388991;'chat anglais à poil court';1;0
+e;6355170;'chat birman';1;0
+e;6343511;'chat bleu russe';1;0
+e;6358420;'chat bobtail japonais';1;0
+e;6408528;'chat chartreux';1;0
+e;6399949;'chat de l'île de man';1;0
+e;6401921;'chat de somali';1;0
+e;6385404;'chat exotique à poil court';1;0
+e;579328;'chat foreign';1;0
+e;6359662;'chat himalayen';1;0
+e;6383566;'chat javanais';1;0
+e;6343261;'chat korat';1;0
+e;6365090;'chat léopard domestique';1;0
+e;6334225;'chat maine coon';1;0
+e;6400086;'chat manul';1;0
+e;9698655;'chat mouillé';1;0
+e;343175;'chat nouveau-né';1;50
+e;6380143;'chat oriental à poil court';1;0
+e;5808729;'chat porte-bonheur';777;0
+e;6416755;'chat rex du devon';1;0
+e;6383729;'chat singapura';1;0
+e;6413592;'chat tigre marsupial';1;0
+e;566560;'chat à pieds noirs';777;50
+e;10822404;'chat à poil mi-long';1;0
+e;11831698;'chat marsupial à queue tachetée';777;0
+e;2515299;'Abyssin';1;0
+e;14049919;'American curl';1;0
+e;14049920;'American shorthair';1;0
+e;14049921;'American wirehair';1;0
+e;14049922;'Angora turc';1;0
+e;10444401;'Asian';1;0
+e;14049923;'Australian mist';1;0
+e;5952256;'Bengal';1;0
+e;14049924;'Bleu russe';1;0
+e;5809497;'Bobtail américain';777;0
+e;14049925;'Bobtail des Kouriles';1;0
+e;14049926;'Bobtail japonais';1;0
+e;14049927;'Brazilian shorthair';1;0
+e;14049928;'British longhair';1;0
+e;14049929;'British shorthair';1;0
+e;14049930;'Burmese';1;0
+e;14049931;'Burmilla';1;0
+e;14049932;'Californian rex';1;0
+e;14049933;'Californian spangled';1;0
+e;404463;'Chartreux';1;50
+e;14049934;'Chausie';1;0
+e;14049935;'Colorpoint shorthair';1;0
+e;14049936;'Cornish rex';1;0
+e;14049937;'Cymric';1;0
+e;14049938;'Devon rex';1;0
+e;10551291;'Donskoy';1;0
+e;14049939;'European shorthair';1;0
+e;14049940;'Exotic shorthair';1;0
+e;14049941;'German rex';1;0
+e;14049942;'Havana brown';1;0
+e;14049943;'Highland fold11';1;0
+e;14049944;'Himalayen';1;0
+e;5809047;'Khao Manee';777;0
+e;12698635;'Korat';1;0
+e;14049945;'LaPerm';1;0
+e;14049946;'Maine coon';1;0
+e;5881607;'Mandarin';1;0
+e;5996476;'Manx';1;0
+e;12255552;'Mau arabe';777;0
+e;12255551;'Mau égyptien';777;0
+e;14049947;'Minskin';1;0
+e;236018;'Munchkin';1;2
+e;14049948;'Nebelung';1;0
+e;14049949;'Norvégien ou Skogkatt';1;0
+e;14049950;'Ocicat';1;0
+e;14049951;'Ojos azules';1;0
+e;14049952;'Oriental shorthair';1;0
+e;14049953;'Peterbald';1;0
+e;14049954;'Pixie-bob';1;0
+e;14049955;'Ragamuffin';1;0
+e;14049956;'Ragdoll';1;0
+e;14049957;'Scottish fold';1;0
+e;14049958;'Selkirk rex';1;0
+e;92372;'Serengeti';1;50
+e;11554411;'Singapura';1;0
+e;14049959;'Skookum';1;0
+e;1854647;'Snowshoe';1;0
+e;14049960;'Sokoké';1;0
+e;2462071;'Somali';1;0
+e;2926724;'Sphynx';777;0
+e;14049961;'Tonkinois';1;0
+e;14049962;'Toyger';1;0
+e;14049963;'Turc de Van';1;0
+e;14049964;'Ural rex';1;0
+e;14049965;'York chocolat';1;0
+e;14304740;'chat hyperdactyle';1;0
+e;14538697;'::&gt;66:150&gt;24:9241576';8;0;'chat [peut] se lécher le cul'
+e;14678460;'::&gt;66:150&gt;24:14678458';8;0;'chat [peut] chier [endroit] plantes'
+e;14655870;'::&gt;66:150&gt;24:14655868';8;0;'chat [peut] manger [objet] pâtée'
+e;14638925;'::&gt;66:150&gt;24:222803';8;0;'chat [peut] se rouler par terre'
+e;14631050;'::&gt;66:150&gt;24:8739456';8;0;'chat [peut] quémander de la nourriture'
+e;14631048;'::&gt;66:150&gt;24:14631046';8;0;'chat [peut] quémander [objet] nourriture'
+e;14573558;'::&gt;66:150&gt;24:8731956';8;0;'chat [peut] attraper une souris'
+e;14573354;'::&gt;66:150&gt;24:115919';8;0;'chat [peut] pisser'
+e;14572856;'::&gt;66:150&gt;24:14572854';8;0;'chat [peut] se faire les griffes [endroit] canapé'
+e;14572853;'::&gt;66:150&gt;24:245915';8;0;'chat [peut] se faire les griffes'
+e;14572850;'::&gt;66:14467281&gt;15:35676';8;0;'chat [peut] se faire [objet] griffes [lieu] canapé'
+e;14572849;'::&gt;66:150&gt;24:14572847';8;0;'chat [peut] se faire [endroit] canapé'
+e;7355606;'en:ocicat';1;0
+e;130656;'Chat Botté';1;50
+e;13739879;'chat de pallas';1;0
+e;3422247;'York Chocolat';777;0
+e;5809178;'American Wirehair';777;0
+e;5809262;'Californian Spangled';777;0
+e;5892508;'Chat sauvage d'Afrique';777;0
+e;12005357;'Havana Brown';777;0
+e;13780967;'chat du bengale';1;0
+e;13787736;'chat de bombay';1;0
+e;14536651;'::&gt;66:150&gt;24:14536649';8;0;'chat [peut] dormir en boule [endroit] lit'
+e;14536648;'::&gt;66:150&gt;24:14536646';8;0;'chat [peut] dormir en boule [endroit] canapé'
+e;14536645;'::&gt;66:150&gt;24:14536643';8;0;'chat [peut] dormir en boule'
+e;14532724;'::&gt;66:150&gt;24:14532722';8;0;'chat [peut] se battre [avec] chat'
+e;14532723;'::&gt;66:150&gt;25:91932';8;0;'chat [objet pour] se battre'
+e;14532720;'::&gt;66:14532719&gt;15:139575';8;0;'chat [peut] se battre avec [objet] chat [lieu] jardin'
+e;14532718;'::&gt;66:150&gt;24:14532716';8;0;'chat [peut] se battre avec [endroit] jardin'
+e;14532481;'::&gt;66:150&gt;26:14532477';8;0;'chat [se faire] se battre avec'
+e;14532253;'::&gt;66:150&gt;24:14532251';8;0;'chat [peut] se battre [endroit] jardin'
+e;14532247;'::&gt;66:150&gt;24:91932';8;0;'chat [peut] se battre'
+e;14531754;'::&gt;66:150&gt;24:255785';8;0;'chat [peut] faire des câlins'
+e;14531746;'::&gt;66:150&gt;24:47540';8;0;'chat [peut] miauler'
+e;12462851;'en:exotic shorthaired cat';1;0
+e;14464432;'::&gt;66:150&gt;24:14464430';8;0;'chat [peut] se lécher [objet] couilles'
+e;14386397;'::&gt;66:150&gt;24:14386395';8;0;'chat [peut] dormir [endroit] fauteuil'
+e;14350670;'::&gt;66:150&gt;24:14350668';8;0;'chat [peut] griffer [objet] fauteuil'
+e;14346984;'::&gt;66:150&gt;24:14346982';8;0;'chat [peut] griffer [avec] griffes'
+e;14334676;'::&gt;66:150&gt;24:14334674';8;0;'chat [peut] régurgiter [endroit] tapis'
+e;14334673;'::&gt;66:150&gt;24:24388';8;0;'chat [peut] régurgiter'
+e;14331362;'::&gt;66:150&gt;26:185863';8;0;'chat [se faire] courir après'
+e;14331347;'::&gt;66:14331346&gt;15:89591';8;0;'chat [peut] grignoter [objet] souris&gt;gigot [lieu] table'
+e;14331345;'::&gt;66:150&gt;24:14331343';8;0;'chat [peut] grignoter [endroit] table'
+e;14331329;'::&gt;66:14331328&gt;15:120416';8;0;'chat [peut] attraper [objet] souris grise [lieu] grenier'
+e;14331301;'::&gt;66:14331300&gt;15:139575';8;0;'chat [peut] attraper [objet] mulot [lieu] jardin'
+e;14331295;'::&gt;66:150&gt;24:14331293';8;0;'chat [peut] attraper [endroit] jardin'
+e;14331290;'::&gt;66:150&gt;24:14331288';8;0;'chat [peut] attraper [endroit] grenier'
+e;14327140;'::&gt;66:150&gt;24:14327138';8;0;'chat [peut] chier [endroit] jardin'
+e;14326965;'::&gt;66:150&gt;24:14326963';8;0;'chat [peut] boire [objet] lait'
+e;14326737;'::&gt;66:150&gt;24:14326735';8;0;'chat [peut] demander [objet] caresses'
+e;14324414;'::&gt;66:150&gt;24:21149';8;0;'chat [peut] dévorer'
+e;14303416;'chat fictif';1;0
+e;2427198;'golden shaded';1;0
+e;9699603;'chat à pieds noirs&gt;171870';1;0;'chat à pieds noirs&gt;Nom:'
+e;12077791;'chat des steppes';1;0
+e;12077789;'chat d'Arkhangelsk';1;0
+e;12077793;'chat sauvage d'Afrique';1;0
+e;12077792;'chat maigre';1;0
+e;9773307;'en:leopardus wiedii';1;0
+e;2413561;'Balinais';1;0
+e;6888909;'en:asian';1;0
+e;14871391;'::&gt;66:150&gt;24:14871389';8;0;'chat [peut] manger [objet] souris'
+e;229001;'tigre&gt;82231';1;84;'tigre&gt;félidé'
+e;14880417;'::&gt;66:150&gt;24:14880415';8;0;'chat [peut] pisser [endroit] lit'
+e;14883455;'::&gt;66:150&gt;24:14883453';8;0;'chat [peut] se déplacer de façon gracieuse'
+e;14883492;'::&gt;66:150&gt;24:9795796';8;0;'chat [peut] demander à manger'
+e;14883725;'::&gt;66:150&gt;24:113767';8;0;'chat [peut] monter'
+e;14883728;'::&gt;66:150&gt;24:14883726';8;0;'chat [peut] monter [endroit] arbre'
+e;14907640;'::&gt;66:150&gt;24:14907638';8;0;'chat [peut] déféquer [endroit] jardin'
+e;14939582;'en:Cymric';1;0
+e;14926025;'en:Mandarin';1;0
+e;14947711;'en:Manx';1;0
+e;14919406;'en:American shorthair';1;0
+e;14919407;'en:American wirehair';1;0
+e;14919409;'en:American curl';1;0
+e;14921278;'en:Asian';1;0
+e;14923565;'en:Bengal';1;0
+e;14937016;'en:European shorthair';1;0
+e;15013317;'::&gt;66:150&gt;24:15013315';8;0;'chat [peut] pousser [objet] miaulement'
+e;15013358;'::&gt;66:150&gt;24:59014';8;0;'chat [peut] se cacher'
+e;14959875;'en:birman';1;0
+e;14959876;'en:sacred cat of Burma';1;0
+e;1761533;'birmans';1;0
+e;15044064;'en:Burmese cat';1;0
+e;17505126;'::&gt;66:150&gt;24:17505124';8;0;'chat [peut] jouer [avec] bille'
+e;17507954;'::&gt;66:150&gt;24:17507952';8;0;'chat [peut] demander à entrer'
+e;17507576;'::&gt;66:150&gt;24:64513';8;0;'chat [peut] mordre'
+e;17511446;'::&gt;66:150&gt;24:239950';8;0;'chat [peut] mordre&gt;morsure'
+e;17512925;'::&gt;66:150&gt;24:327581';8;0;'chat [peut] griffer [objet] personne'
+e;17522129;'::&gt;66:150&gt;24:10936798';8;0;'chat [peut] se rouler en boule'
+e;17523829;'::&gt;66:150&gt;24:143986';8;0;'chat [peut] s'étirer'
+e;17527295;'::&gt;66:150&gt;24:17527293';8;0;'chat [peut] vomir [endroit] moquette'
+e;17536157;'::&gt;66:150&gt;24:17536155';8;0;'chat [peut] attraper [endroit] cave&gt;sous-sol'
+e;17542326;'::&gt;66:150&gt;24:15215693';8;0;'chat [peut] se promener sur'
+e;17562753;'::&gt;66:150&gt;24:17562751';8;0;'chat [peut] attendre [endroit] chaise'
+e;17562750;'::&gt;66:150&gt;24:100813';8;0;'chat [peut] attendre'
+e;17568177;'::&gt;66:150&gt;24:111716';8;0;'chat [peut] se réfugier'
+e;17568180;'::&gt;66:150&gt;24:17568178';8;0;'chat [peut] se réfugier [endroit] arbre'
+e;126068;'chat-tigre';1;100
+e;168223;'chaus';1;50
+e;153265;'Gros Minet';1;62
+e;16794493;'::&gt;66:150&gt;24:39840';8;0;'chat [peut] adorer'
+e;16794376;'::&gt;66:150&gt;24:33981';8;0;'chat [peut] raffoler'
+e;16596203;'::&gt;66:150&gt;24:41971';8;0;'chat [peut] avaler'
+e;16574743;'::&gt;66:150&gt;24:124836';8;0;'chat [peut] croquer'
+e;16596605;'::&gt;66:150&gt;24:16596603';8;0;'chat [peut] attraper [objet] mulots'
+e;16596611;'::&gt;66:150&gt;24:16596609';8;0;'chat [peut] attraper [objet] oiseau'
+e;16596582;'::&gt;66:150&gt;24:14338';8;0;'chat [peut] attaquer'
+e;16794488;'::&gt;66:150&gt;24:64325';8;0;'chat [peut] aimer'
+e;2558084;'chat de Bombay';1;0
+e;2439923;'chat sauvage de la Nouvelle-Espagne';1;0
+e;291267;'chat de maison';777;50
+e;1655524;'chat bai';1;0
+e;343176;'chat souricier';1;50
+e;343167;'chat de ruelle';1;50
+e;343177;'chat épineux';1;50
+e;2393075;'chat rochier';1;0
+e;2539424;'chat astrakan';1;0
+e;2534317;'chat forestier européen';1;0
+e;2526630;'chat du lac de Van';1;0
+e;2519537;'chat des rues';1;0
+e;2490605;'chat des bois norvégien';1;0
+e;2477223;'chat de Chine';1;0
+e;2457268;'chat chinchilla';1;0
+e;1804317;'chat de Sibérie';1;0
+e;5809706;'chat à poil court';777;0
+e;5809372;'chat à poil long';777;0
+e;5892419;'chat à tête plate';777;0
+e;291741;'chat de jungle';777;50
+e;4898722;'chat dans la gorge';1;0
+e;267388;'chat sans poils';1;50
+e;5892412;'chat de Geoffroy';777;0
+e;6445530;'chat doré d'afrique';1;0
+e;6428914;'chat domestique à poil long';1;0
+e;5711548;'chat événementiel';777;0
+e;5892416;'chat rubigineux';777;0
+e;5056303;'chat de Biet';1;0
+e;2428834;'american wirehair';1;0
+e;2480279;'asian';1;0
+e;2559819;'bobtail des Kouriles';1;0
+e;5809356;'brazilian shorthair';777;0
+e;2446890;'british longhair';1;0
+e;2399133;'chausie';1;0
+e;2424112;'exotic shorthair';1;0
+e;14048;'highlander';1;50
+e;5809344;'mau arabe';777;0
+e;5809291;'ojos azules';777;0
+e;2542036;'pixie-bob';1;0
+e;2437565;'savannah';1;0
+e;2483089;'singapura';1;0
+e;113084;'thaï';1;156
+e;14326967;'::&gt;66:150&gt;24:106132';8;0;'chat [peut] se lécher'
+e;14581594;'::&gt;66:150&gt;24:78768';8;0;'chat [peut] chasser'
+e;14655867;'::&gt;66:150&gt;24:130164';8;0;'chat [peut] manger'
+e;14631045;'::&gt;66:150&gt;24:92078';8;0;'chat [peut] quémander'
+e;14532719;'::&gt;66:150&gt;24:14532715';8;0;'chat [peut] se battre avec [objet] chat'
+e;14777444;'::&gt;66:150&gt;24:14777442';8;0;'chat [peut] chasser [objet] souris'
+e;14326962;'::&gt;66:150&gt;24:47918';8;0;'chat [peut] boire'
+e;14467282;'::&gt;66:14467281&gt;15:13744';8;0;'chat [peut] se faire [objet] griffes [lieu] tronc'
+e;14467281;'::&gt;66:150&gt;24:14467276';8;0;'chat [peut] se faire [objet] griffes'
+e;14346981;'::&gt;66:150&gt;24:87221';8;0;'chat [peut] griffer'
+e;14331346;'::&gt;66:150&gt;24:14331341';8;0;'chat [peut] grignoter [objet] souris&gt;gigot'
+e;14331328;'::&gt;66:150&gt;24:14331326';8;0;'chat [peut] attraper [objet] souris grise'
+e;14331300;'::&gt;66:150&gt;24:14331298';8;0;'chat [peut] attraper [objet] mulot'
+e;14331296;'::&gt;66:14331287&gt;15:139575';8;0;'chat [peut] attraper [objet] souris [lieu] jardin'
+e;14331291;'::&gt;66:14331287&gt;15:120416';8;0;'chat [peut] attraper [objet] souris [lieu] grenier'
+e;14326734;'::&gt;66:150&gt;24:54097';8;0;'chat [peut] demander'
+e;15013314;'::&gt;66:150&gt;24:78635';8;0;'chat [peut] pousser'
+e;16096051;'::&gt;66:150&gt;24:16096049';8;0;'chat [peut] manger [objet] croquettes'
+e;2547375;'chat du Bengale';1;0
+e;21532;'chat à neuf queues';1;66
+e;9808585;'chat d'Arnold';777;0
+e;2927233;'chat noir&gt;115926';1;20;'chat noir&gt;superstition'
+e;2434578;'chat espagnol';1;0
+e;2460357;'chat chrysanthème';1;0
+e;269863;'chat blanc';1;54
+e;308174;'chat forestier';777;50
+e;291740;'chat des marais';777;50
+e;5892512;'chat orné';777;0
+e;6426253;'chat rex de cornouailles';1;0
+e;5892381;'chat du désert';777;0
+e;305150;'chat des pampas';777;50
+e;3266418;'anatoli';777;0
+e;5809348;'australian mist';777;0
+e;2499753;'bengal';1;0
+e;2517620;'bobtail japonais';1;0
+e;2536052;'bombay';1;0
+e;2453226;'burmilla';1;0
+e;5809335;'californian rex';777;0
+e;14049979;'californian spangled';1;0
+e;155192;'ceylan';1;50
+e;5809336;'colorpoint shorthair';777;0
+e;14049980;'cornish rex';1;0
+e;2566215;'cymric';1;0
+e;5808811;'european shorthair';777;0
+e;5809298;'havana brown';777;0
+e;36679;'himalayen';1;52
+e;14049982;'khao Manee';1;0
+e;2399110;'mau égyptien';1;0
+e;2522197;'ocicat';1;0
+e;2520403;'snowshoe';1;0
+e;5809251;'toyger';777;0
+e;2483762;'chat bleu';1;0
+e;2621671;'chat d'argent';777;0
+e;2927232;'chat noir&gt;150';1;0;'chat noir&gt;chat'
+e;2927234;'chat noir&gt;37799';1;0;'chat noir&gt;anarchisme'
+e;2404475;'chat doré africain';1;0
+e;1233157;'chat viverrin';1;0
+e;2381836;'chat des forêts norvégien';1;0
+e;2418690;'chat des égouts';1;0
+e;2420191;'chat de Malte';1;0
+e;343169;'chat persan roux';1;50
+e;2397423;'Sacré de Birmanie';1;0
+e;5809364;'chat ailé';777;0
+e;191256;'chat marin';1;50
+e;5892563;'chat de Kellas';777;0
+e;6423367;'chat manx';1;0
+e;343166;'chat chasteil';1;50
+e;230123;'chat de Schrödinger';1;66
+e;1655525;'chat doré de Bornéo';1;0
+e;10906689;'chat de mer&gt;68467';1;0;'chat de mer&gt;poisson'
+e;13284633;'persan gris';1;0
+e;2433840;'american shorthair';1;0
+e;2542063;'bobtail américain';1;0
+e;2456341;'oriental shorthair';1;0
+e;2510433;'peterbald';1;0
+e;5809207;'ragamuffin';777;0
+e;2386183;'scottish fold';1;0
+e;75419;'seychellois';1;50
+e;5809332;'skookum';777;0
+e;2500;'somali';1;52
+e;2365558;'tiffany';1;0
+e;2460800;'turc de Van';1;0
+e;14532479;'::&gt;66:150&gt;24:14532477';8;0;'chat [peut] se battre avec'
+e;14467275;'::&gt;66:150&gt;24:90891';8;0;'chat [peut] se faire'
+e;14331340;'::&gt;66:150&gt;24:38723';8;0;'chat [peut] grignoter'
+e;14331287;'::&gt;66:150&gt;24:11289122';8;0;'chat [peut] attraper [objet] souris'
+e;14331285;'::&gt;66:150&gt;24:24646';8;0;'chat [peut] attraper'
+e;10001836;'chat de race';1;0
+e;2430745;'angora turc';1;0
+e;2375485;'chat des forêts norvégiennes';1;0
+e;2478484;'chat oriental';1;0
+e;1859363;'chat d'oeuvre';777;0
+e;2539545;'chat loutre';1;0
+e;343168;'chat pard';1;50
+e;343174;'chat irbis';1;50
+e;2387919;'chat des rochers';1;0
+e;2432678;'chat nageur';1;0
+e;2469322;'chat des chartreux';1;0
+e;197495;'chat en poche';1;50
+e;2536778;'chat léopard du Bengale';1;0
+e;5809489;'chat rex';777;0
+e;5809490;'chat à poil frisé';777;0
+e;308175;'chat sylvestre';777;50
+e;6424534;'chat colourpoint à poil court';1;0
+e;6450938;'chat indigène de l'est';1;0
+e;5892509;'chat ganté';777;0
+e;5892390;'chat tig';777;0
+e;5892379;'chat des sables';777;0
+e;210470;'chat échaudé craint l'eau froide';1;74
+e;9268384;'chat de laboratoire';1;0
+e;10906691;'chat de mer&gt;77762';1;0;'chat de mer&gt;phoque'
+e;10998552;'chat obèse';1;0
+e;10998503;'chat castré';1;0
+e;13655701;'con de chat';1;0
+e;2555284;'american curl';1;0
+e;2510580;'burmese';1;0
+e;56698;'chantilly';1;196
+e;2437074;'donskoy';1;0
+e;2428010;'german rex';1;0
+e;2521039;'korat';1;0
+e;2506510;'laPerm';1;0
+e;2549865;'maine coon';1;0
+e;73205;'mandarin';1;672
+e;5809472;'minskin';777;0
+e;2459199;'munchkin';1;0
+e;2505055;'nebelung';1;0
+e;14049983;'norvégien ou Skogkatt';1;0
+e;2389138;'ragdoll';1;0
+e;53957;'safari';1;116
+e;2466839;'selkirk rex';1;0
+e;2469232;'serengeti';1;0
+e;34366;'sibérien';1;58
+e;2528934;'sokoké';1;0
+e;5809473;'ural rex';777;0
+e;343178;'chat à pattes noires';1;50
+e;2508451;'sacré de Birmanie';1;0
+e;343179;'chat doré';1;50
+e;13284634;'persan blanc';1;0
+e;7355607;'en:persian cat';1;0
+e;15079661;'en:Persian cat';1;0
+e;25570;'Persique';1;50
+e;250127;'chat errant';1;50
+e;285101;'chat sauvage de la Nouvelle Espagne';777;50
+e;2323902;'chat-léopard';1;0
+e;151897;'sphynx';1;62
+e;2551953;'devon rex';1;0
+e;5809333;'chat polydactyle';777;0
+e;234910;'chat haret';1;50
+e;147474;'balinais';1;50
+e;2488909;'york chocolat';1;0
+e;29278;'tonkinois';1;50
+e;390797;'tonkinois&gt;150';1;50;'tonkinois&gt;chat'
+e;268124;'chat en rut';1;2
+e;2390814;'british shorthair';1;0
+e;2553103;'chat sauvage européen';1;0
+e;215208;'sphynx&gt;150';1;50;'sphynx&gt;chat'
+e;1860906;'::&gt;66:150&gt;17:105889';8;0;'chat [carac] hérissé'
+e;267387;'chat nu';1;50
+e;197496;'chat fourré';1;50
+e;216119;'greffier&gt;150';1;16;'greffier&gt;chat'
+e;159297;'chat botté';1;88
+e;57890;'chat marsupial';1;50
+e;175320;'chat-cervier';1;50
+e;246329;'gros chat';1;24
+e;9374;'greffier';1;138
+e;2448955;'bleu russe';1;0
+e;181473;'chat sauvage d'Europe';1;50
+e;175319;'chat tigre';1;50
+e;175318;'chat serval';1;2
+e;253867;'minette&gt;11191';1;2;'minette&gt;chatte'
+e;253302;'petit chat';1;34
+e;246749;'::&gt;66:150&gt;17:125088';8;50;'chat [carac] moche'
+e;246750;'::&gt;66:150&gt;0:246748';8;50;'chat [contexte] à l'affut'
+e;260500;'::&gt;66:150&gt;15:52255';8;50;'chat [lieu] arbre'
+e;249860;'chartreux&gt;150';1;50;'chartreux&gt;chat'
+e;217644;'chaton&gt;150';1;76;'chaton&gt;chat'
+e;248855;'chat du Cheshire';1;2
+e;219554;'persan&gt;150';1;50;'persan&gt;chat'
+e;268963;'matou&gt;150';1;22;'matou&gt;chat'
+e;2345676;'chat de fiction';1;0
+e;122815;'chat-pard';1;50
+e;81664;'manul';1;94
+e;220038;'siamois&gt;150';1;20;'siamois&gt;chat'
+e;214648;'chat de Pallas';1;50
+e;175316;'Chat sauvage';1;50
+e;321257;'::&gt;66:150&gt;15:145569';8;50;'chat [lieu] gorge'
+e;267386;'manx';1;50
+e;221711;'angora&gt;150';1;18;'angora&gt;chat'
+e;159580;'chat siamois';1;82
+e;155115;'chat persan';1;66
+e;155114;'chat noir';1;80
+e;155117;'chat angora';1;64
+e;159058;'angorra';1;50
+e;79526;'birman';1;104
+e;70465;'minet';1;120
+e;113325;'minou';1;346
+e;77890;'matou';1;162
+e;37935;'abyssin';1;56
+e;35891;'chartreux';1;58
+e;48496;'sauvage';1;2444
+e;23784;'chat sauvage';1;264
+e;130716;'persan';1;104
+e;57444;'chaton';1;732
+e;152870;'chat de gouttière';1;136
+e;15192359;'en:tabby cat';1;0
+e;175315;'Chat domestique';1;50
+e;96574;'angora';1;230
+e;9159;'siamois';1;204
+e;155116;'chat tigré';1;54
+e;267390;'chat sans queue';1;50
+e;267389;'chat anoure';1;50
+e;2400461;'chat léopard';1;0
+e;11191;'chatte';1;698
+e;213568;'chatte&gt;150';1;100;'chatte&gt;chat'
+e;152708;'chat domestique';1;154
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+
+r;120896;150;143206;8;-124
+r;118146;150;68822;8;-114
+r;127657;150;141168;8;-74
+r;133044;150;4455;8;-50
+r;213995;150;142832;8;-50
+r;229740;150;50889;8;-50
+r;231718;150;116032;8;-50
+r;9667173;150;181472;8;-31
+r;243501266;150;2360117;8;-25
+r;248140730;150;5498322;8;-25
+r;300489506;150;2425150;8;-25
+r;300489534;150;269371;8;-25
+r;333255247;150;216120;8;-25
+r;381785481;150;12090294;8;-25
+r;382274699;150;12090296;8;-25
+r;382274700;150;12109614;8;-25
+r;382274701;150;12109613;8;-25
+r;382274702;150;12109612;8;-25
+r;382274703;150;12109611;8;-25
+r;382274706;150;12109252;8;-25
+r;382274707;150;12109251;8;-25
+r;382275622;150;12092963;8;-25
+r;382275623;150;12092961;8;-25
+r;382275624;150;12092958;8;-25
+r;382275625;150;12092957;8;-25
+r;382275626;150;12092956;8;-25
+r;382275627;150;12092955;8;-25
+r;382275628;150;12092954;8;-25
+r;382275629;150;12092952;8;-25
+r;382305272;150;12202218;8;-25
+r;382305273;150;12202186;8;-25
+r;382305274;150;12202085;8;-25
+r;382305275;150;12202084;8;-25
+r;382305276;150;12202029;8;-25
+r;382305290;150;12201518;8;-25
+r;385497875;150;137333;8;-25
+r;247193550;150;168166;8;-20
+r;473589766;150;231575;8;-5
+r;313366174;150;2434197;8;1
+r;370656553;150;14386626;8;1
+r;374175721;150;14445996;8;1
+r;376116297;150;14718817;8;1
+r;376117867;150;14726240;8;1
+r;376132227;150;14386630;8;1
+r;376136164;150;14467280;8;1
+r;395538784;150;15189994;8;1
+r;403977032;150;15629133;8;1
+r;427879572;150;15662942;8;1
+r;427879574;150;15662943;8;1
+r;427911685;150;16170426;8;1
+r;427912347;150;16169090;8;1
+r;427912409;150;16169031;8;1
+r;427939609;150;16153022;8;1
+r;427939612;150;16153024;8;1
+r;430259794;150;16323835;8;1
+r;430304832;150;16321861;8;1
+r;430304878;150;16321816;8;1
+r;430304881;150;16321818;8;1
+r;430311815;150;16318571;8;1
+r;430320735;150;16318545;8;1
+r;430321303;150;16317911;8;1
+r;435515005;150;15192364;8;1
+r;435532037;150;15205227;8;1
+r;435533724;150;16324560;8;1
+r;435533986;150;16324563;8;1
+r;435534357;150;16324577;8;1
+r;435534926;150;16324574;8;1
+r;435535017;150;16324582;8;1
+r;435535402;150;16324578;8;1
+r;370097546;150;14355275;8;2
+r;370097550;150;14355278;8;2
+r;370655992;150;14386394;8;2
+r;391462404;150;14941639;8;2
+r;391466572;150;14962310;8;2
+r;395513447;150;15187936;8;2
+r;400007256;150;5809173;8;2
+r;428610911;150;16310954;8;2
+r;428610912;150;16310955;8;2
+r;428624309;150;16308244;8;2
+r;428624310;150;16308241;8;2
+r;428624588;150;16308164;8;2
+r;435493002;150;15192363;8;2
+r;374113286;150;14327137;8;3
+r;376127139;150;14759724;8;3
+r;391304583;150;14925212;8;3
+r;391463790;150;14965202;8;3
+r;427793565;150;16175244;8;3
+r;427912344;150;16169087;8;3
+r;430259797;150;16323832;8;3
+r;430321302;150;16317908;8;3
+r;435534242;150;16324566;8;3
+r;435535150;150;16324557;8;3
+r;435535357;150;16324571;8;3
+r;374175328;150;14445993;8;4
+r;391304597;150;14925213;8;4
+r;391304836;150;14925211;8;4
+r;400025401;150;15587228;8;4
+r;428624585;150;16308161;8;4
+r;391304093;150;14924095;8;5
+r;419388986;150;7355584;8;5
+r;420190176;150;16096053;8;6
+r;370082623;150;14536513;8;7
+r;403787021;150;15195026;8;7
+r;403796739;150;15367819;8;7
+r;419245927;150;15195027;8;7
+r;419883034;150;16035610;8;7
+r;419883035;150;15195024;8;7
+r;419883036;150;15567302;8;7
+r;419883037;150;15192356;8;7
+r;419883038;150;15910091;8;7
+r;419883039;150;15910092;8;7
+r;427759917;150;16264096;8;7
+r;419486216;150;16086860;8;8
+r;376123274;150;14759608;8;9
+r;376127231;150;14759544;8;9
+r;419138149;150;7355612;8;9
+r;419138255;150;15331525;8;9
+r;419158180;150;16076380;8;9
+r;419162970;150;16065933;8;9
+r;419169131;150;16065935;8;9
+r;419173131;150;15941840;8;9
+r;419183124;150;15983712;8;9
+r;419883033;150;15192362;8;9
+r;293189079;150;5892418;8;10
+r;370096117;150;14326970;8;10
+r;370655811;150;14327142;8;10
+r;370655815;150;14327145;8;10
+r;473557785;150;230205;8;10
+r;419167868;150;15941820;8;11
+r;419169127;150;16065930;8;11
+r;419169161;150;16065879;8;11
+r;403817459;150;15076353;8;12
+r;403825664;150;15407112;8;12
+r;265281076;150;3322289;8;15
+r;346478164;150;12694696;8;17
+r;300423589;150;6318764;8;18
+r;299690280;150;6303333;8;19
+r;300432634;150;6318031;8;19
+r;299690328;150;6303022;8;21
+r;300335825;150;6322297;8;21
+r;300338164;150;6321820;8;21
+r;300399175;150;6319242;8;21
+r;370655645;150;14573357;8;21
+r;370655808;150;14581597;8;21
+r;370655988;150;14581542;8;21
+r;299685314;150;6311423;8;22
+r;299716345;150;6300940;8;22
+r;346493578;150;13638029;8;22
+r;370084901;150;14539946;8;22
+r;370655990;150;14581544;8;22
+r;270482473;150;10775783;8;23
+r;298859099;150;6290417;8;23
+r;346493576;150;13638031;8;23
+r;370069161;150;14561179;8;23
+r;370069210;150;14561129;8;23
+r;370094044;150;12077790;8;23
+r;399541416;150;15044063;8;23
+r;419143804;150;15044062;8;23
+r;298954168;150;6296764;8;24
+r;298954635;150;6295381;8;24
+r;370069157;150;14561176;8;24
+r;477499292;150;16608612;8;25
+r;477459947;150;17450489;8;25
+r;477459958;150;17450488;8;25
+r;477439098;150;16324567;8;25
+r;477437258;150;16596616;8;25
+r;477437235;150;16596766;8;25
+r;477435604;150;16717054;8;25
+r;477433828;150;17398509;8;25
+r;477384710;150;15415424;8;25
+r;477463828;150;16574746;8;25
+r;477461970;150;16794491;8;25
+r;477437393;150;16596602;8;25
+r;477437439;150;16596585;8;25
+r;477437348;150;16596606;8;25
+r;477439313;150;15629130;8;25
+r;477439331;150;15625013;8;25
+r;477438187;150;16591420;8;25
+r;477437733;150;16596072;8;25
+r;477437094;150;16597682;8;25
+r;477437415;150;16596594;8;25
+r;477499098;150;16794494;8;25
+r;477433789;150;17398513;8;25
+r;477433772;150;17398515;8;25
+r;477437570;150;16596201;8;25
+r;477437500;150;16596206;8;25
+r;477459968;150;17450485;8;25
+r;477459978;150;17450481;8;25
+r;477459989;150;17450480;8;25
+r;477459998;150;17450475;8;25
+r;477437281;150;16596612;8;25
+r;477461587;150;17109790;8;25
+r;477460009;150;17450471;8;25
+r;477460019;150;17450470;8;25
+r;477459936;150;17450493;8;25
+r;477647434;150;17178257;8;25
+r;477647423;150;17178259;8;25
+r;477647419;150;17178271;8;25
+r;477647586;150;17178245;8;25
+r;477647585;150;17178247;8;25
+r;477435459;150;16794379;8;25
+r;477647483;150;17178250;8;25
+r;477459909;150;17464466;8;25
+r;477647439;150;17178253;8;25
+r;477501240;150;16341493;8;25
+r;477498512;150;17347993;8;25
+r;477498509;150;17347996;8;25
+r;477435579;150;16717055;8;25
+r;477594964;150;17492848;8;25
+r;477499320;150;16608607;8;25
+r;477437600;150;16596197;8;25
+r;477462376;150;16608608;8;25
+r;243122963;150;2510198;8;25
+r;243398860;150;181474;8;25
+r;243449217;150;98263;8;25
+r;243481578;150;120325;8;25
+r;243602452;150;2431871;8;25
+r;243618106;150;51393;8;25
+r;243630817;150;2457337;8;25
+r;243634931;150;215207;8;25
+r;243657542;150;65596;8;25
+r;243675796;150;2487798;8;25
+r;243900691;150;2424202;8;25
+r;243909174;150;13562;8;25
+r;243911996;150;212540;8;25
+r;244983670;150;2417865;8;25
+r;244997840;150;2621672;8;25
+r;245020288;150;2521085;8;25
+r;245091995;150;2840192;8;25
+r;245131285;150;2471583;8;25
+r;246271464;150;39377;8;25
+r;246297293;150;127070;8;25
+r;246421981;150;2936983;8;25
+r;246583015;150;1804368;8;25
+r;246606909;150;2419719;8;25
+r;246607257;150;2408373;8;25
+r;246634789;150;289908;8;25
+r;246710483;150;289909;8;25
+r;246950580;150;3301365;8;25
+r;247045387;150;5558161;8;25
+r;247045399;150;5809085;8;25
+r;247045457;150;5809343;8;25
+r;247045470;150;5809334;8;25
+r;247045627;150;5809144;8;25
+r;247045689;150;5809568;8;25
+r;247045764;150;5809366;8;25
+r;247045766;150;5809368;8;25
+r;247045767;150;5809369;8;25
+r;247045769;150;5809370;8;25
+r;247056275;150;5809367;8;25
+r;247117162;150;5892569;8;25
+r;247143508;150;5809567;8;25
+r;247677706;150;5892422;8;25
+r;247767429;150;5892421;8;25
+r;247853844;150;2923052;8;25
+r;247904599;150;5498321;8;25
+r;250339019;150;2955300;8;25
+r;252124628;150;5056347;8;25
+r;252395917;150;145670;8;25
+r;252396159;150;2682450;8;25
+r;255899085;150;10427054;8;25
+r;255899088;150;10427005;8;25
+r;477433810;150;17398512;8;25
+r;293088712;150;11360888;8;25
+r;300489499;150;291410;8;25
+r;300489501;150;6373131;8;25
+r;300489503;150;6388991;8;25
+r;300489505;150;6355170;8;25
+r;300489508;150;6343511;8;25
+r;300489510;150;6358420;8;25
+r;300489512;150;6408528;8;25
+r;300489515;150;6399949;8;25
+r;300489517;150;6401921;8;25
+r;300489519;150;6385404;8;25
+r;300489520;150;579328;8;25
+r;300489522;150;6359662;8;25
+r;300489524;150;6383566;8;25
+r;300489526;150;6343261;8;25
+r;300489528;150;6365090;8;25
+r;300489530;150;6334225;8;25
+r;300489532;150;6400086;8;25
+r;300489533;150;9698655;8;25
+r;300489536;150;343175;8;25
+r;300489538;150;6380143;8;25
+r;300489540;150;5808729;8;25
+r;300489542;150;6416755;8;25
+r;300489544;150;6383729;8;25
+r;300489546;150;6413592;8;25
+r;300489547;150;566560;8;25
+r;300489549;150;10822404;8;25
+r;307863634;150;11831698;8;25
+r;355027917;150;2515299;8;25
+r;355027919;150;14049919;8;25
+r;355027921;150;14049920;8;25
+r;355027923;150;14049921;8;25
+r;355027927;150;14049922;8;25
+r;355027929;150;10444401;8;25
+r;355027931;150;14049923;8;25
+r;355027935;150;5952256;8;25
+r;355027937;150;14049924;8;25
+r;355027939;150;5809497;8;25
+r;355027941;150;14049925;8;25
+r;355027943;150;14049926;8;25
+r;355027947;150;14049927;8;25
+r;355027949;150;14049928;8;25
+r;355027951;150;14049929;8;25
+r;355027953;150;14049930;8;25
+r;355027955;150;14049931;8;25
+r;355027957;150;14049932;8;25
+r;355027959;150;14049933;8;25
+r;355027963;150;404463;8;25
+r;355027967;150;14049934;8;25
+r;355027969;150;14049935;8;25
+r;355027971;150;14049936;8;25
+r;355027973;150;14049937;8;25
+r;355027975;150;14049938;8;25
+r;355027977;150;10551291;8;25
+r;355027979;150;14049939;8;25
+r;355027981;150;14049940;8;25
+r;355027983;150;14049941;8;25
+r;355027985;150;14049942;8;25
+r;355027989;150;14049943;8;25
+r;355027991;150;14049944;8;25
+r;355027993;150;5809047;8;25
+r;355027995;150;12698635;8;25
+r;355027997;150;14049945;8;25
+r;355027999;150;14049946;8;25
+r;355028001;150;5881607;8;25
+r;355028003;150;5996476;8;25
+r;355028005;150;12255552;8;25
+r;355028007;150;12255551;8;25
+r;355028009;150;14049947;8;25
+r;355028011;150;236018;8;25
+r;355028013;150;14049948;8;25
+r;355028015;150;14049949;8;25
+r;355028017;150;14049950;8;25
+r;355028019;150;14049951;8;25
+r;355028021;150;14049952;8;25
+r;355028025;150;14049953;8;25
+r;355028027;150;14049954;8;25
+r;355028029;150;14049955;8;25
+r;355028031;150;14049956;8;25
+r;355028037;150;14049957;8;25
+r;355028039;150;14049958;8;25
+r;355028041;150;92372;8;25
+r;355028049;150;11554411;8;25
+r;355028051;150;14049959;8;25
+r;355028053;150;1854647;8;25
+r;355028055;150;14049960;8;25
+r;355028057;150;2462071;8;25
+r;355028059;150;2926724;8;25
+r;355028065;150;14049961;8;25
+r;355028067;150;14049962;8;25
+r;355028069;150;14049963;8;25
+r;355028071;150;14049964;8;25
+r;355028073;150;14049965;8;25
+r;364199705;150;14304740;8;25
+r;370096112;150;14538697;8;25
+r;373343560;150;14678460;8;25
+r;373351890;150;14655870;8;25
+r;373354500;150;14638925;8;25
+r;373358638;150;14631050;8;25
+r;373358641;150;14631048;8;25
+r;373432342;150;14573558;8;25
+r;373434324;150;14573354;8;25
+r;373435560;150;14572856;8;25
+r;373435563;150;14572853;8;25
+r;373435567;150;14572850;8;25
+r;373435570;150;14572849;8;25
+r;373438388;150;7355606;8;25
+r;373443828;150;130656;8;25
+r;373449153;150;13739879;8;25
+r;373469202;150;3422247;8;25
+r;373479196;150;5809178;8;25
+r;373479299;150;5809262;8;25
+r;373482142;150;5892508;8;25
+r;373505851;150;12005357;8;25
+r;373512338;150;13780967;8;25
+r;373512507;150;13787736;8;25
+r;373516145;150;14536651;8;25
+r;373516148;150;14536648;8;25
+r;373516151;150;14536645;8;25
+r;373517831;150;14532724;8;25
+r;373517832;150;14532723;8;25
+r;373517836;150;14532720;8;25
+r;373517841;150;14532718;8;25
+r;373518007;150;14532481;8;25
+r;373518075;150;14532253;8;25
+r;373518078;150;14532247;8;25
+r;373518393;150;14531754;8;25
+r;373518396;150;14531746;8;25
+r;376246956;150;12462851;8;25
+r;376255600;150;14464432;8;25
+r;376284459;150;14386397;8;25
+r;376311132;150;14350670;8;25
+r;376311787;150;14346984;8;25
+r;376318688;150;14334676;8;25
+r;376318691;150;14334673;8;25
+r;376322959;150;14331362;8;25
+r;376322981;150;14331347;8;25
+r;376322986;150;14331345;8;25
+r;376323007;150;14331329;8;25
+r;376323022;150;14331301;8;25
+r;376323034;150;14331295;8;25
+r;376323042;150;14331290;8;25
+r;376323175;150;14327140;8;25
+r;376326656;150;14326965;8;25
+r;376326895;150;14326737;8;25
+r;376329387;150;14324414;8;25
+r;376338327;150;14303416;8;25
+r;379277595;150;2427198;8;25
+r;380685665;150;9699603;8;25
+r;382272658;150;12077791;8;25
+r;382272659;150;12077789;8;25
+r;382272662;150;12077793;8;25
+r;382272663;150;12077792;8;25
+r;382816829;150;9773307;8;25
+r;383221959;150;2413561;8;25
+r;383559313;150;6888909;8;25
+r;385202761;150;14871391;8;25
+r;385497786;150;229001;8;25
+r;386020978;150;14880417;8;25
+r;386022590;150;14883455;8;25
+r;386022593;150;14883492;8;25
+r;386064001;150;14883725;8;25
+r;386064009;150;14883728;8;25
+r;390015240;150;14907640;8;25
+r;391335695;150;14939582;8;25
+r;391337494;150;14926025;8;25
+r;391337514;150;14947711;8;25
+r;391338594;150;14919406;8;25
+r;391338607;150;14919407;8;25
+r;391338706;150;14919409;8;25
+r;391338953;150;14921278;8;25
+r;391339369;150;14923565;8;25
+r;391341515;150;14937016;8;25
+r;392272478;150;15013317;8;25
+r;392272513;150;15013358;8;25
+r;393745543;150;14959875;8;25
+r;393745599;150;14959876;8;25
+r;404170269;150;1761533;8;25
+r;404170494;150;15044064;8;25
+r;477760328;150;17505126;8;25
+r;477977688;150;17507954;8;25
+r;477991240;150;17507576;8;25
+r;477999481;150;17511446;8;25
+r;478022915;150;17512925;8;25
+r;478125590;150;17522129;8;25
+r;478135734;150;17523829;8;25
+r;478199542;150;17527295;8;25
+r;478301041;150;17536157;8;25
+r;478302788;150;17542326;8;25
+r;478659096;150;17562753;8;25
+r;478664180;150;17562750;8;25
+r;478664220;150;17568177;8;25
+r;478676867;150;17568180;8;25
+r;13578691;150;126068;8;26
+r;243614241;150;168223;8;26
+r;12477201;150;153265;8;27
+r;477435258;150;16794493;8;27
+r;477435477;150;16794376;8;27
+r;477437534;150;16596203;8;27
+r;477463850;150;16574743;8;27
+r;477437371;150;16596605;8;27
+r;477437304;150;16596611;8;27
+r;477437462;150;16596582;8;27
+r;477462008;150;16794488;8;27
+r;243055973;150;2558084;8;27
+r;243270009;150;2439923;8;27
+r;248277281;150;291267;8;27
+r;245090262;150;1655524;8;27
+r;246249539;150;343176;8;27
+r;246249613;150;343167;8;27
+r;246249838;150;343177;8;27
+r;246252230;150;2393075;8;27
+r;246252239;150;2539424;8;27
+r;246252240;150;2534317;8;27
+r;246252241;150;2526630;8;27
+r;246252242;150;2519537;8;27
+r;246252243;150;2490605;8;27
+r;246252630;150;2477223;8;27
+r;246252737;150;2457268;8;27
+r;246257530;150;1804317;8;27
+r;247045817;150;5809706;8;27
+r;247056273;150;5809372;8;27
+r;247146820;150;5892419;8;27
+r;247193741;150;291741;8;27
+r;247195028;150;4898722;8;27
+r;247726162;150;267388;8;27
+r;248140717;150;5892412;8;27
+r;248140722;150;6445530;8;27
+r;248140724;150;6428914;8;27
+r;248140732;150;5711548;8;27
+r;248140734;150;5892416;8;27
+r;250295958;150;5056303;8;27
+r;355028818;150;2428834;8;27
+r;355028822;150;2480279;8;27
+r;355028830;150;2559819;8;27
+r;355028836;150;5809356;8;27
+r;355028838;150;2446890;8;27
+r;355028852;150;2399133;8;27
+r;355028864;150;2424112;8;27
+r;355028869;150;14048;8;27
+r;355028885;150;5809344;8;27
+r;355028899;150;5809291;8;27
+r;355028905;150;2542036;8;27
+r;355028912;150;2437565;8;27
+r;355028923;150;2483089;8;27
+r;355028933;150;113084;8;27
+r;370069214;150;14326967;8;27
+r;370655805;150;14581594;8;27
+r;373351893;150;14655867;8;27
+r;373358644;150;14631045;8;27
+r;373517840;150;14532719;8;27
+r;376112290;150;14777444;8;27
+r;376134583;150;14326962;8;27
+r;376136386;150;14467282;8;27
+r;376252808;150;14467281;8;27
+r;376311790;150;14346981;8;27
+r;376322985;150;14331346;8;27
+r;376323011;150;14331328;8;27
+r;376323026;150;14331300;8;27
+r;376323031;150;14331296;8;27
+r;376323039;150;14331291;8;27
+r;376326898;150;14326734;8;27
+r;392272475;150;15013314;8;27
+r;420190179;150;16096051;8;27
+r;243270225;150;2547375;8;28
+r;243495265;150;21532;8;28
+r;243719664;150;9808585;8;28
+r;244998425;150;2927233;8;28
+r;246252486;150;2434578;8;28
+r;246252629;150;2460357;8;28
+r;247193716;150;269863;8;28
+r;247193728;150;308174;8;28
+r;247193744;150;291740;8;28
+r;248140712;150;5892512;8;28
+r;248140726;150;6426253;8;28
+r;248140736;150;5892381;8;28
+r;248335987;150;305150;8;28
+r;355028820;150;3266418;8;28
+r;355028824;150;5809348;8;28
+r;355028826;150;2499753;8;28
+r;355028832;150;2517620;8;28
+r;355028834;150;2536052;8;28
+r;355028842;150;2453226;8;28
+r;355028844;150;5809335;8;28
+r;355028846;150;14049979;8;28
+r;355028848;150;155192;8;28
+r;355028854;150;5809336;8;28
+r;355028856;150;14049980;8;28
+r;355028858;150;2566215;8;28
+r;355028862;150;5808811;8;28
+r;355028867;150;5809298;8;28
+r;355028873;150;36679;8;28
+r;355028875;150;14049982;8;28
+r;355028887;150;2399110;8;28
+r;355028897;150;2522197;8;28
+r;355028927;150;2520403;8;28
+r;355028937;150;5809251;8;28
+r;243065704;150;2483762;8;29
+r;244998288;150;2621671;8;29
+r;244998348;150;2927232;8;29
+r;244998515;150;2927234;8;29
+r;245139568;150;2404475;8;29
+r;246133232;150;1233157;8;29
+r;246251326;150;2381836;8;29
+r;246252050;150;2418690;8;29
+r;246252299;150;2420191;8;29
+r;246262208;150;343169;8;29
+r;246358250;150;2397423;8;29
+r;247045770;150;5809364;8;29
+r;247193618;150;191256;8;29
+r;248140710;150;5892563;8;29
+r;248140728;150;6423367;8;29
+r;248704315;150;343166;8;29
+r;248941089;150;230123;8;29
+r;250410187;150;1655525;8;29
+r;273862501;150;10906689;8;29
+r;337964301;150;13284633;8;29
+r;355028816;150;2433840;8;29
+r;355028828;150;2542063;8;29
+r;355028901;150;2456341;8;29
+r;355028903;150;2510433;8;29
+r;355028907;150;5809207;8;29
+r;355028914;150;2386183;8;29
+r;355028919;150;75419;8;29
+r;355028925;150;5809332;8;29
+r;355028931;150;2500;8;29
+r;355028935;150;2365558;8;29
+r;355028939;150;2460800;8;29
+r;373518008;150;14532479;8;29
+r;376252813;150;14467275;8;29
+r;376322991;150;14331340;8;29
+r;376323046;150;14331287;8;29
+r;376323048;150;14331285;8;29
+r;243332974;150;10001836;8;30
+r;243895898;150;2430745;8;30
+r;244828535;150;2375485;8;30
+r;245421924;150;2478484;8;30
+r;246133380;150;1859363;8;30
+r;246133443;150;2539545;8;30
+r;246249452;150;343168;8;30
+r;246249685;150;343174;8;30
+r;246252233;150;2387919;8;30
+r;246252479;150;2432678;8;30
+r;246252634;150;2469322;8;30
+r;246521921;150;197495;8;30
+r;246603428;150;2536778;8;30
+r;247045729;150;5809489;8;30
+r;247045731;150;5809490;8;30
+r;247193726;150;308175;8;30
+r;247726795;150;6424534;8;30
+r;248140708;150;6450938;8;30
+r;248140715;150;5892509;8;30
+r;248140719;150;5892390;8;30
+r;248140721;150;5892379;8;30
+r;248720209;150;210470;8;30
+r;248769850;150;9268384;8;30
+r;273862502;150;10906691;8;30
+r;278431739;150;10998552;8;30
+r;278431812;150;10998503;8;30
+r;346430599;150;13655701;8;30
+r;355028814;150;2555284;8;30
+r;355028840;150;2510580;8;30
+r;355028850;150;56698;8;30
+r;355028860;150;2437074;8;30
+r;355028865;150;2428010;8;30
+r;355028877;150;2521039;8;30
+r;355028879;150;2506510;8;30
+r;355028881;150;2549865;8;30
+r;355028883;150;73205;8;30
+r;355028889;150;5809472;8;30
+r;355028891;150;2459199;8;30
+r;355028893;150;2505055;8;30
+r;355028895;150;14049983;8;30
+r;355028908;150;2389138;8;30
+r;355028910;150;53957;8;30
+r;355028915;150;2466839;8;30
+r;355028917;150;2469232;8;30
+r;355028921;150;34366;8;30
+r;355028929;150;2528934;8;30
+r;355028941;150;5809473;8;30
+r;14045205;150;343178;8;31
+r;245140711;150;2508451;8;31
+r;245140931;150;343179;8;31
+r;337964303;150;13284634;8;31
+r;419141164;150;7355607;8;31
+r;419296806;150;15079661;8;31
+r;427920318;150;25570;8;31
+r;12473359;150;250127;8;32
+r;31816158;150;285101;8;32
+r;245111379;150;2323902;8;32
+r;246265836;150;151897;8;32
+r;246344194;150;2551953;8;32
+r;247045469;150;5809333;8;32
+r;14002690;150;234910;8;33
+r;245178447;150;147474;8;33
+r;246225647;150;2488909;8;33
+r;246272029;150;29278;8;33
+r;12968836;150;390797;8;34
+r;14161748;150;268124;8;34
+r;245134254;150;2390814;8;34
+r;52679353;150;2553103;8;35
+r;9664259;150;215208;8;37
+r;30199343;150;1860906;8;37
+r;31599590;150;267387;8;37
+r;9667171;150;197496;8;38
+r;9665268;150;216119;8;39
+r;9667170;150;159297;8;39
+r;9667172;150;57890;8;39
+r;30840638;150;175320;8;39
+r;23371218;150;246329;8;40
+r;9665264;150;9374;8;41
+r;337964299;150;2448955;8;42
+r;9667174;150;181473;8;45
+r;9667176;150;175319;8;45
+r;9667175;150;175318;8;46
+r;11744827;150;253867;8;47
+r;9755146;150;253302;8;53
+r;9743029;150;246749;8;54
+r;9743030;150;246750;8;54
+r;9770078;150;260500;8;54
+r;9750520;150;249860;8;55
+r;9767753;150;217644;8;55
+r;9744507;150;248855;8;56
+r;2239953;150;219554;8;58
+r;3153150;150;268963;8;58
+r;245121585;150;2345676;8;58
+r;9842363;150;122815;8;60
+r;9842364;150;81664;8;60
+r;2018955;150;220038;8;63
+r;8894680;150;214648;8;63
+r;247884300;150;175316;8;65
+r;9879427;150;321257;8;66
+r;9853708;150;267386;8;68
+r;2018956;150;221711;8;69
+r;245094;150;159580;8;85
+r;181312;150;155115;8;88
+r;181309;150;155114;8;91
+r;181318;150;155117;8;91
+r;238574;150;159058;8;101
+r;245961;150;79526;8;101
+r;418195;150;70465;8;101
+r;125728;150;113325;8;103
+r;214792;150;77890;8;123
+r;250704;150;37935;8;129
+r;241574;150;35891;8;130
+r;123741;150;48496;8;131
+r;118142;150;23784;8;143
+r;240911;150;130716;8;150
+r;120899;150;57444;8;183
+r;120893;150;152870;8;185
+r;399560035;150;15192359;8;185
+r;370100828;150;175315;8;187
+r;116219;150;96574;8;241
+r;116220;150;9159;8;311
+r;181315;150;155116;8;381
+r;14180441;150;267390;8;436
+r;247725809;150;267389;8;441
+r;246347343;150;2400461;8;1384
+r;115791;150;11191;8;2174
+r;9665968;150;213568;8;2321
+r;118144;150;152708;8;4622
+
+// END
+</code>]

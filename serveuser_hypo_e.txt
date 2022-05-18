@@ -1,0 +1,115 @@
+[<code>
+// DUMP pour le terme 'serveuse' (eid=16059)
+// NE PAS TENIR COMPTE DE L'ORDRE DES RELATIONS DANS CE DUMP
+
+<def>
+<br>
+1. Un serveur (ou une serveuse au féminin) est un employé qualifié dans les cafés, les restaurants ou tout autre établissement de restauration. Son nom indique qu'il est au service des clients ; il a en conséquence plusieurs rôles, complémentaires à ceux du maître d'hôtel.<br>
+2. (Québec) (Anglicisme) Serveuse.<br>
+3. Serveuse.
+</br></br></br></def>
+
+
+
+// les types de noeuds (Nodes Types) : nt;ntid;'ntname'
+
+nt;1;'n_term'
+nt;8;'n_chunk'
+nt;777;'n_wikipedia'
+
+// les noeuds/termes (Entries) : e;eid;'name';type;w;'formated name' 
+
+e;16059;'serveuse';1;396
+e;15049580;'en:carhop';1;0
+e;15078973;'en:counterperson';1;0
+e;8040039;'en:wine waiter';1;0
+e;14961874;'en:sommelier';1;0
+e;15078975;'en:counterwoman';1;0
+e;15093471;'en:wine steward';1;0
+e;14884158;'::&gt;66:16059&gt;26:118441';8;0;'serveuse [se faire] peloter'
+e;14884153;'::&gt;66:16059&gt;24:14884151';8;0;'serveuse [peut] servir [objet] café'
+e;14327162;'::&gt;66:16059&gt;24:7888';8;0;'serveuse [peut] servir'
+e;14327165;'::&gt;66:16059&gt;24:14327163';8;0;'serveuse [peut] servir [endroit] restaurant'
+e;14327166;'::&gt;66:16059&gt;24:14324527';8;0;'serveuse [peut] servir [objet] plats'
+e;14327167;'::&gt;66:14327166&gt;15:79954';8;0;'serveuse [peut] servir [objet] plats [lieu] restaurant'
+e;14331203;'::&gt;66:16059&gt;24:14330346';8;0;'serveuse [peut] servir [objet] plat'
+e;14331204;'::&gt;66:14331203&gt;15:79954';8;0;'serveuse [peut] servir [objet] plat [lieu] restaurant'
+e;14381181;'::&gt;66:16059&gt;24:14381179';8;0;'serveuse [peut] servir [objet] verre de vin'
+e;14381183;'::&gt;66:16059&gt;24:49739';8;0;'serveuse [peut] apporter'
+e;14381186;'::&gt;66:16059&gt;24:14381184';8;0;'serveuse [peut] apporter [objet] bière'
+e;14381189;'::&gt;66:16059&gt;24:14381187';8;0;'serveuse [peut] servir [objet] boissons'
+e;14381192;'::&gt;66:16059&gt;24:14381190';8;0;'serveuse [peut] apporter [objet] boisson'
+e;14381196;'::&gt;66:16059&gt;26:38749';8;0;'serveuse [se faire] tripoter'
+e;14381298;'::&gt;66:16059&gt;24:71325';8;0;'serveuse [peut] renverser'
+e;14381301;'::&gt;66:16059&gt;24:14381299';8;0;'serveuse [peut] renverser [objet] plateau'
+e;14510901;'::&gt;66:16059&gt;26:5692';8;0;'serveuse [se faire] baiser'
+e;295521;'Playboy Bunny';777;50
+e;231224;'bunny girl';1;2
+e;8040070;'en:barmaid';1;0
+e;133083;'barmaid';1;76
+e;4113534;'serveur Web';1;0
+e;271428;'serveur web';1;26
+e;14425037;'Real Private Server';777;0
+e;5778221;'serveur de courriel anonyme';777;0
+e;5778218;'serveur autonome';777;0
+e;5778215;'serveur autogéré';777;0
+e;5670413;'serveur dédié';1;0
+e;2531704;'seedbox';1;0
+e;16277725;'::&gt;66:16059&gt;24:8729978';8;0;'serveuse [peut] sucer son patron'
+e;16277722;'::&gt;66:16059&gt;24:85447';8;0;'serveuse [peut] sucer'
+e;16277723;'::&gt;66:16059&gt;24:14381084';8;0;'serveuse [peut] sucer [objet] patron'
+e;16319090;'::&gt;66:16059&gt;24:16319085';8;0;'serveuse [peut] apporter [objet] nourriture'
+e;16534284;'::&gt;66:16059&gt;24:16534280';8;0;'serveuse [peut] apporter [objet] plats'
+e;16319094;'::&gt;66:16059&gt;24:16319092';8;0;'serveuse [peut] apporter à boire'
+
+// les types de relations (Relation Types) : rt;rtid;'trname';'trgpname';'rthelp' 
+
+rt;8;'r_hypo';'spécifique';Il est demandé d'énumérer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'guêpe' pour 'insecte'.
+
+// les relations sortantes : r;rid;node1;node2;type;w 
+// 41 relations sortantes 
+
+r;414666743;16059;15049580;8;25
+r;414666742;16059;15078973;8;25
+r;414666741;16059;8040039;8;25
+r;414666740;16059;14961874;8;25
+r;414666739;16059;15078975;8;25
+r;414666738;16059;15093471;8;25
+r;386064286;16059;14884158;8;25
+r;386064281;16059;14884153;8;25
+r;376323163;16059;14327162;8;25
+r;376323160;16059;14327165;8;25
+r;376323159;16059;14327166;8;25
+r;376323155;16059;14327167;8;25
+r;376323129;16059;14331203;8;25
+r;376323126;16059;14331204;8;25
+r;376286585;16059;14381181;8;25
+r;376286582;16059;14381183;8;25
+r;376286579;16059;14381186;8;25
+r;376286575;16059;14381189;8;25
+r;376286571;16059;14381192;8;25
+r;376286566;16059;14381196;8;25
+r;376286453;16059;14381298;8;25
+r;376286450;16059;14381301;8;25
+r;376229866;16059;14510901;8;25
+r;247206849;16059;295521;8;25
+r;243597069;16059;231224;8;25
+r;243342481;16059;8040070;8;25
+r;243342436;16059;133083;8;25
+r;432862582;16059;4113534;8;10
+r;432862581;16059;271428;8;10
+r;432862580;16059;14425037;8;10
+r;432862579;16059;5778221;8;10
+r;432862578;16059;5778218;8;10
+r;432862577;16059;5778215;8;10
+r;432862576;16059;5670413;8;10
+r;432862575;16059;2531704;8;10
+r;427786275;16059;16277725;8;3
+r;427786274;16059;16277722;8;3
+r;427761182;16059;16277723;8;3
+r;430318558;16059;16319090;8;2
+r;435539939;16059;16534284;8;1
+r;430318647;16059;16319094;8;1
+
+// END
+</code>]

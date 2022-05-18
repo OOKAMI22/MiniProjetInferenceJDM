@@ -1,0 +1,2148 @@
+{
+    "nt": {
+        "1": {
+            "ntname": "'n_term'"
+        },
+        "8": {
+            "ntname": "'n_chunk'"
+        },
+        "777": {
+            "ntname": "'n_wikipedia'"
+        }
+    },
+    "e": {
+        "74657": {
+            "name": "'pigeon'",
+            "type": "1",
+            "w": "906"
+        },
+        "12110328": {
+            "name": "'pigeon (d\u00e9jections) ag'",
+            "type": "1",
+            "w": "0"
+        },
+        "12110329": {
+            "name": "'pigeon (plumes) ag'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103179": {
+            "name": "'pigeon anticorps panel'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103178": {
+            "name": "'pigeon (s\u00e9rum) ac igg'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103176": {
+            "name": "'pigeon (prot\u00e9ines s\u00e9riques+plumes+d\u00e9jections) ac igg'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103175": {
+            "name": "'pigeon (plumes) ac igg'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103174": {
+            "name": "'pigeon (plumes) ac ige classification rast'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103172": {
+            "name": "'pigeon (d\u00e9jections) ac igg'",
+            "type": "1",
+            "w": "0"
+        },
+        "12103171": {
+            "name": "'pigeon (d\u00e9jections) ac ige classification rast'",
+            "type": "1",
+            "w": "0"
+        },
+        "12202151": {
+            "name": "'pigeon (prot\u00e9ines s\u00e9riques+plumes+d\u00e9jections)'",
+            "type": "1",
+            "w": "0"
+        },
+        "12201533": {
+            "name": "'pigeon (d\u00e9jections)'",
+            "type": "1",
+            "w": "0"
+        },
+        "12201510": {
+            "name": "'pigeon (s\u00e9rum)'",
+            "type": "1",
+            "w": "0"
+        },
+        "12201496": {
+            "name": "'pigeon (plumes)'",
+            "type": "1",
+            "w": "0"
+        },
+        "12080640": {
+            "name": "'pigeon hollandais'",
+            "type": "1",
+            "w": "0"
+        },
+        "12080639": {
+            "name": "'pigeon d'utilit\u00e9 mulhousien'",
+            "type": "1",
+            "w": "0"
+        },
+        "12110330": {
+            "name": "'pigeon (prot\u00e9ines s\u00e9riques+plumes+d\u00e9jections) ag'",
+            "type": "1",
+            "w": "0"
+        },
+        "12110331": {
+            "name": "'pigeon (s\u00e9rum) ag'",
+            "type": "1",
+            "w": "0"
+        },
+        "75655": {
+            "name": "'terre glaise'",
+            "type": "1",
+            "w": "86"
+        },
+        "15215927": {
+            "name": "'en:capucin pigeon'",
+            "type": "1",
+            "w": "0"
+        },
+        "15215926": {
+            "name": "'en:sphere pigeon'",
+            "type": "1",
+            "w": "0"
+        },
+        "14944652": {
+            "name": "'en:Simon says'",
+            "type": "1",
+            "w": "0"
+        },
+        "16168821": {
+            "name": "'::&gt;66:74657&gt;24:73827'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] voler'"
+        },
+        "14465548": {
+            "name": "'pigeon \u00e0 la crapaudine'",
+            "type": "1",
+            "w": "0"
+        },
+        "14954780": {
+            "name": "'en:wood pigeon'",
+            "type": "1",
+            "w": "0"
+        },
+        "192611": {
+            "name": "'colombine plumif\u00e8re'",
+            "type": "1",
+            "w": "50"
+        },
+        "192610": {
+            "name": "'colombine marquet\u00e9e'",
+            "type": "1",
+            "w": "50"
+        },
+        "11804948": {
+            "name": "'Pigeon roussard'",
+            "type": "777",
+            "w": "0"
+        },
+        "6344139": {
+            "name": "'pigeon granivore'",
+            "type": "1",
+            "w": "0"
+        },
+        "6382369": {
+            "name": "'pigeon de ville'",
+            "type": "1",
+            "w": "0"
+        },
+        "6384036": {
+            "name": "'pigeon roussard'",
+            "type": "1",
+            "w": "0"
+        },
+        "14084066": {
+            "name": "'Pigeon rameron'",
+            "type": "777",
+            "w": "0"
+        },
+        "2601316": {
+            "name": "'fris\u00e9&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'fris\u00e9&gt;pigeon'"
+        },
+        "2472541": {
+            "name": "'ringslager'",
+            "type": "1",
+            "w": "0"
+        },
+        "2484131": {
+            "name": "'boulant fran\u00e7ais'",
+            "type": "1",
+            "w": "0"
+        },
+        "2497377": {
+            "name": "'hupp\u00e9 picard'",
+            "type": "1",
+            "w": "0"
+        },
+        "3182299": {
+            "name": "'texan&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'texan&gt;pigeon'"
+        },
+        "2674389": {
+            "name": "'voyageur&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'voyageur&gt;pigeon'"
+        },
+        "2440514": {
+            "name": "'pigeon g\u00e9ant fran\u00e7ais'",
+            "type": "1",
+            "w": "0"
+        },
+        "1655832": {
+            "name": "'rameron'",
+            "type": "1",
+            "w": "0"
+        },
+        "2396626": {
+            "name": "'funingue'",
+            "type": "1",
+            "w": "0"
+        },
+        "2526472": {
+            "name": "'clay'",
+            "type": "1",
+            "w": "0"
+        },
+        "81490": {
+            "name": "'carrier'",
+            "type": "1",
+            "w": "50"
+        },
+        "3180255": {
+            "name": "'Pigeon des Bonin'",
+            "type": "777",
+            "w": "0"
+        },
+        "3177031": {
+            "name": "'Pigeon de la R\u00e9union'",
+            "type": "777",
+            "w": "0"
+        },
+        "183685": {
+            "name": "'pigeon vole'",
+            "type": "1",
+            "w": "4"
+        },
+        "149053": {
+            "name": "'mansard'",
+            "type": "1",
+            "w": "50"
+        },
+        "2457946": {
+            "name": "'pigeon de beaut\u00e9 allemand'",
+            "type": "1",
+            "w": "0"
+        },
+        "114288": {
+            "name": "'palombe'",
+            "type": "1",
+            "w": "52"
+        },
+        "3180250": {
+            "name": "'Pigeon leucom\u00e8le'",
+            "type": "777",
+            "w": "0"
+        },
+        "2437186": {
+            "name": "'mansart'",
+            "type": "1",
+            "w": "0"
+        },
+        "2452825": {
+            "name": "'boulant de Norwich'",
+            "type": "1",
+            "w": "0"
+        },
+        "167971": {
+            "name": "'founingo'",
+            "type": "1",
+            "w": "50"
+        },
+        "55101": {
+            "name": "'florentin'",
+            "type": "1",
+            "w": "68"
+        },
+        "275369": {
+            "name": "'Colombine plumif\u00e8re'",
+            "type": "777",
+            "w": "50"
+        },
+        "3579718": {
+            "name": "'carneau&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'carneau&gt;pigeon'"
+        },
+        "2515790": {
+            "name": "'boulant allemand ancien'",
+            "type": "1",
+            "w": "0"
+        },
+        "20421": {
+            "name": "'boulant'",
+            "type": "1",
+            "w": "50"
+        },
+        "2488704": {
+            "name": "'ligeonpem'",
+            "type": "1",
+            "w": "0"
+        },
+        "91682": {
+            "name": "'colombin'",
+            "type": "1",
+            "w": "106"
+        },
+        "52590": {
+            "name": "'p\u00e9rist\u00e8re'",
+            "type": "1",
+            "w": "50"
+        },
+        "2560882": {
+            "name": "'coulon'",
+            "type": "1",
+            "w": "0"
+        },
+        "2840375": {
+            "name": "'roubaisien&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'roubaisien&gt;pigeon'"
+        },
+        "106869": {
+            "name": "'ramier'",
+            "type": "1",
+            "w": "84"
+        },
+        "83132": {
+            "name": "'texan'",
+            "type": "1",
+            "w": "50"
+        },
+        "18562": {
+            "name": "'biset'",
+            "type": "1",
+            "w": "52"
+        },
+        "142558": {
+            "name": "'dragon'",
+            "type": "1",
+            "w": "2177"
+        },
+        "82003": {
+            "name": "'voyageur'",
+            "type": "1",
+            "w": "1077"
+        },
+        "29420": {
+            "name": "'carneau'",
+            "type": "1",
+            "w": "50"
+        },
+        "139545": {
+            "name": "'fris\u00e9'",
+            "type": "1",
+            "w": "158"
+        },
+        "150308": {
+            "name": "'roubaisien'",
+            "type": "1",
+            "w": "50"
+        },
+        "235064": {
+            "name": "'tumbler'",
+            "type": "1",
+            "w": "2"
+        },
+        "797835": {
+            "name": "'Leucosarcia'",
+            "type": "777",
+            "w": "0"
+        },
+        "3161639": {
+            "name": "'Colombine longup'",
+            "type": "777",
+            "w": "0"
+        },
+        "3161080": {
+            "name": "'Carpophage pauline'",
+            "type": "777",
+            "w": "0"
+        },
+        "309988": {
+            "name": "'Carpophage imp\u00e9rial'",
+            "type": "777",
+            "w": "50"
+        },
+        "4901596": {
+            "name": "'pigeon \u00e0 bec rouge'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901602": {
+            "name": "'pigeon simple'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901597": {
+            "name": "'pigeon \u00e0 couronne blanche'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901595": {
+            "name": "'pigeon \u00e0 bec noir'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901599": {
+            "name": "'pigeon de la Jama\u00efque'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901598": {
+            "name": "'pigeon de Goodson'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901601": {
+            "name": "'pigeon ramiret'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901600": {
+            "name": "'pigeon plomb\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "4901603": {
+            "name": "'pigeon vineux'",
+            "type": "1",
+            "w": "0"
+        },
+        "4902009": {
+            "name": "'pigeon jounud'",
+            "type": "1",
+            "w": "0"
+        },
+        "5753086": {
+            "name": "'Pigeon \u00e0 bec noir'",
+            "type": "777",
+            "w": "0"
+        },
+        "5873440": {
+            "name": "'Pigeon d'Elphinstone'",
+            "type": "777",
+            "w": "0"
+        },
+        "5872854": {
+            "name": "'Pigeon colombin'",
+            "type": "777",
+            "w": "0"
+        },
+        "283265": {
+            "name": "'Colombine marquet\u00e9e'",
+            "type": "777",
+            "w": "50"
+        },
+        "3180251": {
+            "name": "'Pigeon \u00e0 t\u00eate blanche'",
+            "type": "777",
+            "w": "0"
+        },
+        "3180254": {
+            "name": "'Pigeon de Kittlitz'",
+            "type": "777",
+            "w": "0"
+        },
+        "3180364": {
+            "name": "'Pigeon rose'",
+            "type": "777",
+            "w": "0"
+        },
+        "3180365": {
+            "name": "'Pigeon des mares'",
+            "type": "777",
+            "w": "0"
+        },
+        "2379773": {
+            "name": "'coulin'",
+            "type": "1",
+            "w": "0"
+        },
+        "2494182": {
+            "name": "'boulant ancien allemand'",
+            "type": "1",
+            "w": "0"
+        },
+        "3249960": {
+            "name": "'Pigeon d'Eversmann'",
+            "type": "777",
+            "w": "0"
+        },
+        "3250077": {
+            "name": "'Pigeon des lauriers'",
+            "type": "777",
+            "w": "0"
+        },
+        "3249920": {
+            "name": "'Pigeon de Bolle'",
+            "type": "777",
+            "w": "0"
+        },
+        "3250242": {
+            "name": "'Pigeon rousset'",
+            "type": "777",
+            "w": "0"
+        },
+        "3250094": {
+            "name": "'Pigeon \u00e0 queue barr\u00e9e'",
+            "type": "777",
+            "w": "0"
+        },
+        "3250035": {
+            "name": "'Pigeon marron'",
+            "type": "777",
+            "w": "0"
+        },
+        "3182860": {
+            "name": "'Pigeon biset'",
+            "type": "777",
+            "w": "0"
+        },
+        "192608": {
+            "name": "'colombine longup'",
+            "type": "1",
+            "w": "50"
+        },
+        "4904133": {
+            "name": "'pigeon rameron'",
+            "type": "1",
+            "w": "0"
+        },
+        "4903304": {
+            "name": "'pigeon tigr\u00e9'",
+            "type": "1",
+            "w": "0"
+        },
+        "4903303": {
+            "name": "'pigeon picazuro'",
+            "type": "1",
+            "w": "0"
+        },
+        "4903302": {
+            "name": "'pigeon du P\u00e9rou'",
+            "type": "1",
+            "w": "0"
+        },
+        "4907577": {
+            "name": "'Pigeon ramiret'",
+            "type": "777",
+            "w": "0"
+        },
+        "4907534": {
+            "name": "'Pigeon simple'",
+            "type": "777",
+            "w": "0"
+        },
+        "4908617": {
+            "name": "'Pigeon picazuro'",
+            "type": "777",
+            "w": "0"
+        },
+        "11035076": {
+            "name": "'pigeon nonne allemande'",
+            "type": "777",
+            "w": "0"
+        },
+        "14573353": {
+            "name": "'::&gt;66:74657&gt;24:14573351'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] l\u00e2cher [objet] fiente'"
+        },
+        "14573350": {
+            "name": "'::&gt;66:74657&gt;24:53223'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] l\u00e2cher'"
+        },
+        "14465545": {
+            "name": "'::&gt;66:74657&gt;24:14465543'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] se trouver [endroit] centre-ville'"
+        },
+        "14465542": {
+            "name": "'::&gt;66:74657&gt;24:37229'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] se trouver'"
+        },
+        "14380874": {
+            "name": "'::&gt;66:74657&gt;24:14380872'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] se poser [endroit] lampadaire'"
+        },
+        "14380871": {
+            "name": "'::&gt;66:74657&gt;24:126612'",
+            "type": "8",
+            "w": "0",
+            "formated name": "'pigeon [peut] se poser'"
+        },
+        "92766": {
+            "name": "'damasc\u00e8ne'",
+            "type": "1",
+            "w": "50"
+        },
+        "14270756": {
+            "name": "'damasc\u00e8ne&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'damasc\u00e8ne&gt;pigeon'"
+        },
+        "3332432": {
+            "name": "'Pigeon du Chili'",
+            "type": "777",
+            "w": "0"
+        },
+        "192477": {
+            "name": "'carpophage pauline'",
+            "type": "1",
+            "w": "50"
+        },
+        "6905796": {
+            "name": "'en:clay'",
+            "type": "1",
+            "w": "0"
+        },
+        "13817571": {
+            "name": "'roubaisien&gt;146885'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'roubaisien&gt;Nom:Mas+SG'"
+        },
+        "14084094": {
+            "name": "'pigeon violet'",
+            "type": "777",
+            "w": "0"
+        },
+        "14947725": {
+            "name": "'en:mansard'",
+            "type": "1",
+            "w": "0"
+        },
+        "194251": {
+            "name": "'pigeon des mares'",
+            "type": "1",
+            "w": "50"
+        },
+        "1956768": {
+            "name": "'ramier&gt;74657'",
+            "type": "1",
+            "w": "4",
+            "formated name": "'ramier&gt;pigeon'"
+        },
+        "370451": {
+            "name": "'pigeon de mer'",
+            "type": "1",
+            "w": "50"
+        },
+        "370454": {
+            "name": "'pigeon de consommation'",
+            "type": "1",
+            "w": "50"
+        },
+        "370442": {
+            "name": "'pigeon de fantaisie'",
+            "type": "1",
+            "w": "50"
+        },
+        "370439": {
+            "name": "'pigeon cavalier'",
+            "type": "1",
+            "w": "50"
+        },
+        "194242": {
+            "name": "'pigeon \u00e0 queue barr\u00e9e'",
+            "type": "1",
+            "w": "50"
+        },
+        "194247": {
+            "name": "'pigeon de Bolle'",
+            "type": "1",
+            "w": "50"
+        },
+        "194256": {
+            "name": "'pigeon marron'",
+            "type": "1",
+            "w": "50"
+        },
+        "370446": {
+            "name": "'pigeon miroit\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "2410682": {
+            "name": "'pigeon bec anglais'",
+            "type": "1",
+            "w": "0"
+        },
+        "394862": {
+            "name": "'pigeon hirondelle'",
+            "type": "1",
+            "w": "50"
+        },
+        "194259": {
+            "name": "'pigeon rousset'",
+            "type": "1",
+            "w": "50"
+        },
+        "394861": {
+            "name": "'pigeon de voli\u00e8re'",
+            "type": "1",
+            "w": "50"
+        },
+        "194246": {
+            "name": "'pigeon d'Eversmann'",
+            "type": "1",
+            "w": "50"
+        },
+        "370457": {
+            "name": "'pigeon nonnain'",
+            "type": "1",
+            "w": "50"
+        },
+        "370437": {
+            "name": "'pigeon boulant'",
+            "type": "1",
+            "w": "50"
+        },
+        "370441": {
+            "name": "'pigeon d'agr\u00e9ment'",
+            "type": "1",
+            "w": "50"
+        },
+        "370448": {
+            "name": "'pigeon romain'",
+            "type": "1",
+            "w": "50"
+        },
+        "370456": {
+            "name": "'pigeon migrateur'",
+            "type": "1",
+            "w": "50"
+        },
+        "282820": {
+            "name": "'pigeon de la R\u00e9union'",
+            "type": "777",
+            "w": "50"
+        },
+        "194260": {
+            "name": "'pigeon vert'",
+            "type": "1",
+            "w": "50"
+        },
+        "370445": {
+            "name": "'pigeon imp\u00e9rial'",
+            "type": "1",
+            "w": "50"
+        },
+        "194255": {
+            "name": "'pigeon leucom\u00e8le'",
+            "type": "1",
+            "w": "50"
+        },
+        "194245": {
+            "name": "'pigeon d'Elphinstone'",
+            "type": "1",
+            "w": "50"
+        },
+        "194254": {
+            "name": "'pigeon frugivore'",
+            "type": "1",
+            "w": "50"
+        },
+        "290736": {
+            "name": "'pigeon de Nicobar'",
+            "type": "777",
+            "w": "50"
+        },
+        "370453": {
+            "name": "'pigeon culbutant'",
+            "type": "1",
+            "w": "50"
+        },
+        "245478": {
+            "name": "'biset&gt;74657'",
+            "type": "1",
+            "w": "52",
+            "formated name": "'biset&gt;pigeon'"
+        },
+        "370447": {
+            "name": "'pigeon paon'",
+            "type": "1",
+            "w": "50"
+        },
+        "394860": {
+            "name": "'pigeon de colombier'",
+            "type": "1",
+            "w": "50"
+        },
+        "307359": {
+            "name": "'pigeon des Bonin'",
+            "type": "777",
+            "w": "50"
+        },
+        "194261": {
+            "name": "'pigeon \u00e0 cou rouge'",
+            "type": "1",
+            "w": "50"
+        },
+        "194258": {
+            "name": "'pigeon rose'",
+            "type": "1",
+            "w": "50"
+        },
+        "307360": {
+            "name": "'pigeon \u00e0 t\u00eate blanche'",
+            "type": "777",
+            "w": "50"
+        },
+        "370458": {
+            "name": "'pigeon tambour'",
+            "type": "1",
+            "w": "50"
+        },
+        "370455": {
+            "name": "'pigeon haut-volant'",
+            "type": "1",
+            "w": "50"
+        },
+        "394859": {
+            "name": "'pigeon cravat\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "1745426": {
+            "name": "'dragon&gt;74657'",
+            "type": "1",
+            "w": "0",
+            "formated name": "'dragon&gt;pigeon'"
+        },
+        "1791168": {
+            "name": "'pigeon de 1914-1918'",
+            "type": "1",
+            "w": "0"
+        },
+        "194250": {
+            "name": "'pigeon des lauriers'",
+            "type": "1",
+            "w": "50"
+        },
+        "194248": {
+            "name": "'pigeon de Kittlitz'",
+            "type": "1",
+            "w": "50"
+        },
+        "370440": {
+            "name": "'pigeon couronn\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "2393387": {
+            "name": "'cravat\u00e9 fran\u00e7ais'",
+            "type": "1",
+            "w": "0"
+        },
+        "394863": {
+            "name": "'pigeon pattu'",
+            "type": "1",
+            "w": "50"
+        },
+        "394857": {
+            "name": "'pigeon bouvreuil'",
+            "type": "1",
+            "w": "50"
+        },
+        "370452": {
+            "name": "'pigeon coquill\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "370450": {
+            "name": "'pigeon \u00e0 bec dent\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "370449": {
+            "name": "'pigeon texan'",
+            "type": "1",
+            "w": "50"
+        },
+        "370444": {
+            "name": "'pigeon fris\u00e9'",
+            "type": "1",
+            "w": "50"
+        },
+        "2550071": {
+            "name": "'pigeon du Chili'",
+            "type": "1",
+            "w": "0"
+        },
+        "194252": {
+            "name": "'pigeon des villes'",
+            "type": "1",
+            "w": "50"
+        },
+        "222884": {
+            "name": "'pigeon soyeux'",
+            "type": "1",
+            "w": "50"
+        },
+        "2558804": {
+            "name": "'pigeon de J\u00e9rusalem'",
+            "type": "1",
+            "w": "0"
+        },
+        "394858": {
+            "name": "'pigeon cauchois'",
+            "type": "1",
+            "w": "50"
+        },
+        "370438": {
+            "name": "'pigeon capucin'",
+            "type": "1",
+            "w": "50"
+        },
+        "2390738": {
+            "name": "'pigeon de Boh\u00eame'",
+            "type": "1",
+            "w": "0"
+        },
+        "370443": {
+            "name": "'pigeon de roche'",
+            "type": "1",
+            "w": "50"
+        },
+        "229805": {
+            "name": "'colombe&gt;140176'",
+            "type": "1",
+            "w": "38",
+            "formated name": "'colombe&gt;oiseau'"
+        },
+        "194244": {
+            "name": "'pigeon colombin'",
+            "type": "1",
+            "w": "50"
+        },
+        "194243": {
+            "name": "'pigeon biset'",
+            "type": "1",
+            "w": "10"
+        },
+        "145790": {
+            "name": "'colombe'",
+            "type": "1",
+            "w": "292"
+        },
+        "179717": {
+            "name": "'pigeon voyageur'",
+            "type": "1",
+            "w": "20"
+        },
+        "194249": {
+            "name": "'pigeon de La R\u00e9union'",
+            "type": "1",
+            "w": "50"
+        },
+        "194253": {
+            "name": "'pigeon domestique'",
+            "type": "1",
+            "w": "4"
+        },
+        "194257": {
+            "name": "'pigeon ramier'",
+            "type": "1",
+            "w": "28"
+        }
+    },
+    "r": {
+        "346620930": {
+            "node1": "74657",
+            "node2": "12110328",
+            "type": "8",
+            "w": "1"
+        },
+        "346620931": {
+            "node1": "74657",
+            "node2": "12110329",
+            "type": "8",
+            "w": "1"
+        },
+        "346620932": {
+            "node1": "74657",
+            "node2": "12103179",
+            "type": "8",
+            "w": "1"
+        },
+        "346620933": {
+            "node1": "74657",
+            "node2": "12103178",
+            "type": "8",
+            "w": "1"
+        },
+        "346620934": {
+            "node1": "74657",
+            "node2": "12103176",
+            "type": "8",
+            "w": "1"
+        },
+        "346620935": {
+            "node1": "74657",
+            "node2": "12103175",
+            "type": "8",
+            "w": "1"
+        },
+        "346620936": {
+            "node1": "74657",
+            "node2": "12103174",
+            "type": "8",
+            "w": "1"
+        },
+        "346620937": {
+            "node1": "74657",
+            "node2": "12103172",
+            "type": "8",
+            "w": "1"
+        },
+        "346620938": {
+            "node1": "74657",
+            "node2": "12103171",
+            "type": "8",
+            "w": "1"
+        },
+        "346620939": {
+            "node1": "74657",
+            "node2": "12202151",
+            "type": "8",
+            "w": "1"
+        },
+        "346620940": {
+            "node1": "74657",
+            "node2": "12201533",
+            "type": "8",
+            "w": "1"
+        },
+        "346620941": {
+            "node1": "74657",
+            "node2": "12201510",
+            "type": "8",
+            "w": "1"
+        },
+        "346620942": {
+            "node1": "74657",
+            "node2": "12201496",
+            "type": "8",
+            "w": "1"
+        },
+        "346620943": {
+            "node1": "74657",
+            "node2": "12080640",
+            "type": "8",
+            "w": "1"
+        },
+        "346620944": {
+            "node1": "74657",
+            "node2": "12080639",
+            "type": "8",
+            "w": "1"
+        },
+        "346620947": {
+            "node1": "74657",
+            "node2": "12110330",
+            "type": "8",
+            "w": "1"
+        },
+        "346620948": {
+            "node1": "74657",
+            "node2": "12110331",
+            "type": "8",
+            "w": "1"
+        },
+        "399543040": {
+            "node1": "74657",
+            "node2": "75655",
+            "type": "8",
+            "w": "1"
+        },
+        "403847194": {
+            "node1": "74657",
+            "node2": "15215927",
+            "type": "8",
+            "w": "1"
+        },
+        "403847241": {
+            "node1": "74657",
+            "node2": "15215926",
+            "type": "8",
+            "w": "1"
+        },
+        "403847242": {
+            "node1": "74657",
+            "node2": "14944652",
+            "type": "8",
+            "w": "1"
+        },
+        "427912546": {
+            "node1": "74657",
+            "node2": "16168821",
+            "type": "8",
+            "w": "1"
+        },
+        "373551489": {
+            "node1": "74657",
+            "node2": "14465548",
+            "type": "8",
+            "w": "6"
+        },
+        "419296745": {
+            "node1": "74657",
+            "node2": "14954780",
+            "type": "8",
+            "w": "6"
+        },
+        "419149703": {
+            "node1": "74657",
+            "node2": "192611",
+            "type": "8",
+            "w": "9"
+        },
+        "419150263": {
+            "node1": "74657",
+            "node2": "192610",
+            "type": "8",
+            "w": "9"
+        },
+        "370093624": {
+            "node1": "74657",
+            "node2": "11804948",
+            "type": "8",
+            "w": "11"
+        },
+        "301578982": {
+            "node1": "74657",
+            "node2": "6344139",
+            "type": "8",
+            "w": "15"
+        },
+        "304004670": {
+            "node1": "74657",
+            "node2": "6382369",
+            "type": "8",
+            "w": "21"
+        },
+        "304003939": {
+            "node1": "74657",
+            "node2": "6384036",
+            "type": "8",
+            "w": "22"
+        },
+        "359331039": {
+            "node1": "74657",
+            "node2": "14084066",
+            "type": "8",
+            "w": "22"
+        },
+        "243052542": {
+            "node1": "74657",
+            "node2": "2601316",
+            "type": "8",
+            "w": "25"
+        },
+        "243052664": {
+            "node1": "74657",
+            "node2": "2472541",
+            "type": "8",
+            "w": "25"
+        },
+        "243067855": {
+            "node1": "74657",
+            "node2": "2484131",
+            "type": "8",
+            "w": "25"
+        },
+        "243093644": {
+            "node1": "74657",
+            "node2": "2497377",
+            "type": "8",
+            "w": "25"
+        },
+        "243254747": {
+            "node1": "74657",
+            "node2": "3182299",
+            "type": "8",
+            "w": "25"
+        },
+        "243255625": {
+            "node1": "74657",
+            "node2": "2674389",
+            "type": "8",
+            "w": "25"
+        },
+        "243390358": {
+            "node1": "74657",
+            "node2": "2440514",
+            "type": "8",
+            "w": "25"
+        },
+        "243417682": {
+            "node1": "74657",
+            "node2": "1655832",
+            "type": "8",
+            "w": "25"
+        },
+        "243417684": {
+            "node1": "74657",
+            "node2": "2396626",
+            "type": "8",
+            "w": "25"
+        },
+        "243417686": {
+            "node1": "74657",
+            "node2": "2526472",
+            "type": "8",
+            "w": "25"
+        },
+        "243428046": {
+            "node1": "74657",
+            "node2": "81490",
+            "type": "8",
+            "w": "25"
+        },
+        "243472928": {
+            "node1": "74657",
+            "node2": "3180255",
+            "type": "8",
+            "w": "25"
+        },
+        "243484639": {
+            "node1": "74657",
+            "node2": "3177031",
+            "type": "8",
+            "w": "25"
+        },
+        "243496007": {
+            "node1": "74657",
+            "node2": "183685",
+            "type": "8",
+            "w": "25"
+        },
+        "243504437": {
+            "node1": "74657",
+            "node2": "149053",
+            "type": "8",
+            "w": "25"
+        },
+        "243507597": {
+            "node1": "74657",
+            "node2": "2457946",
+            "type": "8",
+            "w": "25"
+        },
+        "243615203": {
+            "node1": "74657",
+            "node2": "114288",
+            "type": "8",
+            "w": "25"
+        },
+        "243636181": {
+            "node1": "74657",
+            "node2": "3180250",
+            "type": "8",
+            "w": "25"
+        },
+        "243710738": {
+            "node1": "74657",
+            "node2": "2437186",
+            "type": "8",
+            "w": "25"
+        },
+        "243715131": {
+            "node1": "74657",
+            "node2": "2452825",
+            "type": "8",
+            "w": "25"
+        },
+        "243757303": {
+            "node1": "74657",
+            "node2": "167971",
+            "type": "8",
+            "w": "25"
+        },
+        "243914523": {
+            "node1": "74657",
+            "node2": "55101",
+            "type": "8",
+            "w": "25"
+        },
+        "248219974": {
+            "node1": "74657",
+            "node2": "275369",
+            "type": "8",
+            "w": "25"
+        },
+        "244829297": {
+            "node1": "74657",
+            "node2": "3579718",
+            "type": "8",
+            "w": "25"
+        },
+        "245001829": {
+            "node1": "74657",
+            "node2": "2515790",
+            "type": "8",
+            "w": "25"
+        },
+        "245001832": {
+            "node1": "74657",
+            "node2": "20421",
+            "type": "8",
+            "w": "25"
+        },
+        "245170653": {
+            "node1": "74657",
+            "node2": "2488704",
+            "type": "8",
+            "w": "25"
+        },
+        "245179039": {
+            "node1": "74657",
+            "node2": "91682",
+            "type": "8",
+            "w": "25"
+        },
+        "245179041": {
+            "node1": "74657",
+            "node2": "52590",
+            "type": "8",
+            "w": "25"
+        },
+        "245407913": {
+            "node1": "74657",
+            "node2": "2560882",
+            "type": "8",
+            "w": "25"
+        },
+        "245435690": {
+            "node1": "74657",
+            "node2": "2840375",
+            "type": "8",
+            "w": "25"
+        },
+        "246257637": {
+            "node1": "74657",
+            "node2": "106869",
+            "type": "8",
+            "w": "25"
+        },
+        "246260225": {
+            "node1": "74657",
+            "node2": "83132",
+            "type": "8",
+            "w": "25"
+        },
+        "246260650": {
+            "node1": "74657",
+            "node2": "18562",
+            "type": "8",
+            "w": "25"
+        },
+        "246263587": {
+            "node1": "74657",
+            "node2": "142558",
+            "type": "8",
+            "w": "25"
+        },
+        "246289258": {
+            "node1": "74657",
+            "node2": "82003",
+            "type": "8",
+            "w": "25"
+        },
+        "246299577": {
+            "node1": "74657",
+            "node2": "29420",
+            "type": "8",
+            "w": "25"
+        },
+        "246300325": {
+            "node1": "74657",
+            "node2": "139545",
+            "type": "8",
+            "w": "25"
+        },
+        "246300561": {
+            "node1": "74657",
+            "node2": "150308",
+            "type": "8",
+            "w": "25"
+        },
+        "246451450": {
+            "node1": "74657",
+            "node2": "235064",
+            "type": "8",
+            "w": "25"
+        },
+        "246588513": {
+            "node1": "74657",
+            "node2": "797835",
+            "type": "8",
+            "w": "25"
+        },
+        "246588558": {
+            "node1": "74657",
+            "node2": "3161639",
+            "type": "8",
+            "w": "25"
+        },
+        "246588637": {
+            "node1": "74657",
+            "node2": "3161080",
+            "type": "8",
+            "w": "25"
+        },
+        "246588640": {
+            "node1": "74657",
+            "node2": "309988",
+            "type": "8",
+            "w": "25"
+        },
+        "247207481": {
+            "node1": "74657",
+            "node2": "4901596",
+            "type": "8",
+            "w": "25"
+        },
+        "247208025": {
+            "node1": "74657",
+            "node2": "4901602",
+            "type": "8",
+            "w": "25"
+        },
+        "247208068": {
+            "node1": "74657",
+            "node2": "4901597",
+            "type": "8",
+            "w": "25"
+        },
+        "247208070": {
+            "node1": "74657",
+            "node2": "4901595",
+            "type": "8",
+            "w": "25"
+        },
+        "247208257": {
+            "node1": "74657",
+            "node2": "4901599",
+            "type": "8",
+            "w": "25"
+        },
+        "247209038": {
+            "node1": "74657",
+            "node2": "4901598",
+            "type": "8",
+            "w": "25"
+        },
+        "247209165": {
+            "node1": "74657",
+            "node2": "4901601",
+            "type": "8",
+            "w": "25"
+        },
+        "247210975": {
+            "node1": "74657",
+            "node2": "4901600",
+            "type": "8",
+            "w": "25"
+        },
+        "247211105": {
+            "node1": "74657",
+            "node2": "4901603",
+            "type": "8",
+            "w": "25"
+        },
+        "247214565": {
+            "node1": "74657",
+            "node2": "4902009",
+            "type": "8",
+            "w": "25"
+        },
+        "247753983": {
+            "node1": "74657",
+            "node2": "5753086",
+            "type": "8",
+            "w": "25"
+        },
+        "247959198": {
+            "node1": "74657",
+            "node2": "5873440",
+            "type": "8",
+            "w": "25"
+        },
+        "248178008": {
+            "node1": "74657",
+            "node2": "5872854",
+            "type": "8",
+            "w": "25"
+        },
+        "248252030": {
+            "node1": "74657",
+            "node2": "283265",
+            "type": "8",
+            "w": "25"
+        },
+        "248365461": {
+            "node1": "74657",
+            "node2": "3180251",
+            "type": "8",
+            "w": "25"
+        },
+        "248366683": {
+            "node1": "74657",
+            "node2": "3180254",
+            "type": "8",
+            "w": "25"
+        },
+        "248383643": {
+            "node1": "74657",
+            "node2": "3180364",
+            "type": "8",
+            "w": "25"
+        },
+        "248385206": {
+            "node1": "74657",
+            "node2": "3180365",
+            "type": "8",
+            "w": "25"
+        },
+        "248659862": {
+            "node1": "74657",
+            "node2": "2379773",
+            "type": "8",
+            "w": "25"
+        },
+        "248663610": {
+            "node1": "74657",
+            "node2": "2494182",
+            "type": "8",
+            "w": "25"
+        },
+        "248925329": {
+            "node1": "74657",
+            "node2": "3249960",
+            "type": "8",
+            "w": "25"
+        },
+        "248925942": {
+            "node1": "74657",
+            "node2": "3250077",
+            "type": "8",
+            "w": "25"
+        },
+        "248926020": {
+            "node1": "74657",
+            "node2": "3249920",
+            "type": "8",
+            "w": "25"
+        },
+        "248926600": {
+            "node1": "74657",
+            "node2": "3250242",
+            "type": "8",
+            "w": "25"
+        },
+        "248927933": {
+            "node1": "74657",
+            "node2": "3250094",
+            "type": "8",
+            "w": "25"
+        },
+        "248932975": {
+            "node1": "74657",
+            "node2": "3250035",
+            "type": "8",
+            "w": "25"
+        },
+        "249747519": {
+            "node1": "74657",
+            "node2": "3182860",
+            "type": "8",
+            "w": "25"
+        },
+        "249749409": {
+            "node1": "74657",
+            "node2": "192608",
+            "type": "8",
+            "w": "25"
+        },
+        "250384153": {
+            "node1": "74657",
+            "node2": "4904133",
+            "type": "8",
+            "w": "25"
+        },
+        "250429406": {
+            "node1": "74657",
+            "node2": "4903304",
+            "type": "8",
+            "w": "25"
+        },
+        "250429452": {
+            "node1": "74657",
+            "node2": "4903303",
+            "type": "8",
+            "w": "25"
+        },
+        "250429724": {
+            "node1": "74657",
+            "node2": "4903302",
+            "type": "8",
+            "w": "25"
+        },
+        "251711973": {
+            "node1": "74657",
+            "node2": "4907577",
+            "type": "8",
+            "w": "25"
+        },
+        "251948811": {
+            "node1": "74657",
+            "node2": "4907534",
+            "type": "8",
+            "w": "25"
+        },
+        "252000670": {
+            "node1": "74657",
+            "node2": "4908617",
+            "type": "8",
+            "w": "25"
+        },
+        "280122565": {
+            "node1": "74657",
+            "node2": "11035076",
+            "type": "8",
+            "w": "25"
+        },
+        "373434326": {
+            "node1": "74657",
+            "node2": "14573353",
+            "type": "8",
+            "w": "25"
+        },
+        "373434329": {
+            "node1": "74657",
+            "node2": "14573350",
+            "type": "8",
+            "w": "25"
+        },
+        "376254761": {
+            "node1": "74657",
+            "node2": "14465545",
+            "type": "8",
+            "w": "25"
+        },
+        "376254764": {
+            "node1": "74657",
+            "node2": "14465542",
+            "type": "8",
+            "w": "25"
+        },
+        "376286919": {
+            "node1": "74657",
+            "node2": "14380874",
+            "type": "8",
+            "w": "25"
+        },
+        "376286922": {
+            "node1": "74657",
+            "node2": "14380871",
+            "type": "8",
+            "w": "25"
+        },
+        "376341254": {
+            "node1": "74657",
+            "node2": "92766",
+            "type": "8",
+            "w": "25"
+        },
+        "376341258": {
+            "node1": "74657",
+            "node2": "14270756",
+            "type": "8",
+            "w": "25"
+        },
+        "379696888": {
+            "node1": "74657",
+            "node2": "3332432",
+            "type": "8",
+            "w": "25"
+        },
+        "380622654": {
+            "node1": "74657",
+            "node2": "192477",
+            "type": "8",
+            "w": "25"
+        },
+        "380657590": {
+            "node1": "74657",
+            "node2": "6905796",
+            "type": "8",
+            "w": "25"
+        },
+        "383116933": {
+            "node1": "74657",
+            "node2": "13817571",
+            "type": "8",
+            "w": "25"
+        },
+        "383253818": {
+            "node1": "74657",
+            "node2": "14084094",
+            "type": "8",
+            "w": "25"
+        },
+        "391337509": {
+            "node1": "74657",
+            "node2": "14947725",
+            "type": "8",
+            "w": "25"
+        },
+        "31540157": {
+            "node1": "74657",
+            "node2": "194251",
+            "type": "8",
+            "w": "26"
+        },
+        "31552674": {
+            "node1": "74657",
+            "node2": "1956768",
+            "type": "8",
+            "w": "26"
+        },
+        "33835480": {
+            "node1": "74657",
+            "node2": "370451",
+            "type": "8",
+            "w": "26"
+        },
+        "33835571": {
+            "node1": "74657",
+            "node2": "370454",
+            "type": "8",
+            "w": "26"
+        },
+        "33835657": {
+            "node1": "74657",
+            "node2": "370442",
+            "type": "8",
+            "w": "26"
+        },
+        "33835899": {
+            "node1": "74657",
+            "node2": "370439",
+            "type": "8",
+            "w": "26"
+        },
+        "31540171": {
+            "node1": "74657",
+            "node2": "194242",
+            "type": "8",
+            "w": "27"
+        },
+        "31552671": {
+            "node1": "74657",
+            "node2": "194247",
+            "type": "8",
+            "w": "27"
+        },
+        "31552678": {
+            "node1": "74657",
+            "node2": "194256",
+            "type": "8",
+            "w": "27"
+        },
+        "33835704": {
+            "node1": "74657",
+            "node2": "370446",
+            "type": "8",
+            "w": "27"
+        },
+        "54245839": {
+            "node1": "74657",
+            "node2": "2410682",
+            "type": "8",
+            "w": "27"
+        },
+        "13775690": {
+            "node1": "74657",
+            "node2": "394862",
+            "type": "8",
+            "w": "28"
+        },
+        "31540153": {
+            "node1": "74657",
+            "node2": "194259",
+            "type": "8",
+            "w": "28"
+        },
+        "13775694": {
+            "node1": "74657",
+            "node2": "394861",
+            "type": "8",
+            "w": "29"
+        },
+        "27810691": {
+            "node1": "74657",
+            "node2": "194246",
+            "type": "8",
+            "w": "29"
+        },
+        "33835665": {
+            "node1": "74657",
+            "node2": "370457",
+            "type": "8",
+            "w": "29"
+        },
+        "33835779": {
+            "node1": "74657",
+            "node2": "370437",
+            "type": "8",
+            "w": "29"
+        },
+        "33835902": {
+            "node1": "74657",
+            "node2": "370441",
+            "type": "8",
+            "w": "29"
+        },
+        "13775684": {
+            "node1": "74657",
+            "node2": "370448",
+            "type": "8",
+            "w": "30"
+        },
+        "13775688": {
+            "node1": "74657",
+            "node2": "370456",
+            "type": "8",
+            "w": "30"
+        },
+        "13948630": {
+            "node1": "74657",
+            "node2": "282820",
+            "type": "8",
+            "w": "30"
+        },
+        "31544658": {
+            "node1": "74657",
+            "node2": "194260",
+            "type": "8",
+            "w": "30"
+        },
+        "33835712": {
+            "node1": "74657",
+            "node2": "370445",
+            "type": "8",
+            "w": "30"
+        },
+        "14169223": {
+            "node1": "74657",
+            "node2": "194255",
+            "type": "8",
+            "w": "31"
+        },
+        "31513876": {
+            "node1": "74657",
+            "node2": "194245",
+            "type": "8",
+            "w": "31"
+        },
+        "31540164": {
+            "node1": "74657",
+            "node2": "194254",
+            "type": "8",
+            "w": "31"
+        },
+        "31838808": {
+            "node1": "74657",
+            "node2": "290736",
+            "type": "8",
+            "w": "31"
+        },
+        "33835739": {
+            "node1": "74657",
+            "node2": "370453",
+            "type": "8",
+            "w": "31"
+        },
+        "96701769": {
+            "node1": "74657",
+            "node2": "245478",
+            "type": "8",
+            "w": "31"
+        },
+        "13775687": {
+            "node1": "74657",
+            "node2": "370447",
+            "type": "8",
+            "w": "32"
+        },
+        "13775697": {
+            "node1": "74657",
+            "node2": "394860",
+            "type": "8",
+            "w": "32"
+        },
+        "24334551": {
+            "node1": "74657",
+            "node2": "307359",
+            "type": "8",
+            "w": "32"
+        },
+        "31540118": {
+            "node1": "74657",
+            "node2": "194261",
+            "type": "8",
+            "w": "32"
+        },
+        "31552669": {
+            "node1": "74657",
+            "node2": "194258",
+            "type": "8",
+            "w": "32"
+        },
+        "32068030": {
+            "node1": "74657",
+            "node2": "307360",
+            "type": "8",
+            "w": "32"
+        },
+        "13775683": {
+            "node1": "74657",
+            "node2": "370458",
+            "type": "8",
+            "w": "34"
+        },
+        "13775691": {
+            "node1": "74657",
+            "node2": "370455",
+            "type": "8",
+            "w": "34"
+        },
+        "13775699": {
+            "node1": "74657",
+            "node2": "394859",
+            "type": "8",
+            "w": "34"
+        },
+        "28719241": {
+            "node1": "74657",
+            "node2": "1745426",
+            "type": "8",
+            "w": "34"
+        },
+        "30183847": {
+            "node1": "74657",
+            "node2": "1791168",
+            "type": "8",
+            "w": "34"
+        },
+        "31519034": {
+            "node1": "74657",
+            "node2": "194250",
+            "type": "8",
+            "w": "34"
+        },
+        "31552603": {
+            "node1": "74657",
+            "node2": "194248",
+            "type": "8",
+            "w": "34"
+        },
+        "33835650": {
+            "node1": "74657",
+            "node2": "370440",
+            "type": "8",
+            "w": "34"
+        },
+        "53179408": {
+            "node1": "74657",
+            "node2": "2393387",
+            "type": "8",
+            "w": "34"
+        },
+        "13775686": {
+            "node1": "74657",
+            "node2": "394863",
+            "type": "8",
+            "w": "35"
+        },
+        "13775704": {
+            "node1": "74657",
+            "node2": "394857",
+            "type": "8",
+            "w": "35"
+        },
+        "33835759": {
+            "node1": "74657",
+            "node2": "370452",
+            "type": "8",
+            "w": "35"
+        },
+        "33835785": {
+            "node1": "74657",
+            "node2": "370450",
+            "type": "8",
+            "w": "35"
+        },
+        "33835883": {
+            "node1": "74657",
+            "node2": "370449",
+            "type": "8",
+            "w": "35"
+        },
+        "13775692": {
+            "node1": "74657",
+            "node2": "370444",
+            "type": "8",
+            "w": "36"
+        },
+        "52683961": {
+            "node1": "74657",
+            "node2": "2550071",
+            "type": "8",
+            "w": "36"
+        },
+        "13034759": {
+            "node1": "74657",
+            "node2": "194252",
+            "type": "8",
+            "w": "37"
+        },
+        "31599614": {
+            "node1": "74657",
+            "node2": "222884",
+            "type": "8",
+            "w": "37"
+        },
+        "52684454": {
+            "node1": "74657",
+            "node2": "2558804",
+            "type": "8",
+            "w": "38"
+        },
+        "13775701": {
+            "node1": "74657",
+            "node2": "394858",
+            "type": "8",
+            "w": "39"
+        },
+        "13775702": {
+            "node1": "74657",
+            "node2": "370438",
+            "type": "8",
+            "w": "39"
+        },
+        "53125466": {
+            "node1": "74657",
+            "node2": "2390738",
+            "type": "8",
+            "w": "39"
+        },
+        "13775695": {
+            "node1": "74657",
+            "node2": "370443",
+            "type": "8",
+            "w": "40"
+        },
+        "96701783": {
+            "node1": "74657",
+            "node2": "229805",
+            "type": "8",
+            "w": "52"
+        },
+        "9759198": {
+            "node1": "74657",
+            "node2": "194244",
+            "type": "8",
+            "w": "53"
+        },
+        "12472824": {
+            "node1": "74657",
+            "node2": "194243",
+            "type": "8",
+            "w": "53"
+        },
+        "12472826": {
+            "node1": "74657",
+            "node2": "145790",
+            "type": "8",
+            "w": "57"
+        },
+        "12472825": {
+            "node1": "74657",
+            "node2": "179717",
+            "type": "8",
+            "w": "57"
+        },
+        "9824810": {
+            "node1": "74657",
+            "node2": "194249",
+            "type": "8",
+            "w": "58"
+        },
+        "8915373": {
+            "node1": "74657",
+            "node2": "194253",
+            "type": "8",
+            "w": "79"
+        },
+        "3171451": {
+            "node1": "74657",
+            "node2": "194257",
+            "type": "8",
+            "w": "88"
+        }
+    },
+    "rt": {
+        "8": {
+            "trname": "'r_hypo'",
+            "trgpname": "'sp\u00e9cifique'",
+            "rthelp": "Il est demand\u00e9 d'\u00e9num\u00e9rer des SPECIFIQUES/hyponymes du terme. Par exemple, 'mouche', 'abeille', 'gu\u00eape' pour 'insecte'."
+        }
+    }
+}
