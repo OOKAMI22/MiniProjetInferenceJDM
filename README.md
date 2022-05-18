@@ -7,7 +7,7 @@
 
 ***Résumé***
 
-1) git clone https://github.com/Gr3yM41t3r/langageNaturel.git
+1) git clone https://github.com/OOKAMI22/MiniProjetInferenceJDM.git
 2) dans la racine du projet : pip install -r requirements.txt
 3)  python3 main.py
 4) laissez vous guider
